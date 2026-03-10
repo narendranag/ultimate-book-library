@@ -1,0 +1,1182 @@
+[
+  {
+    "title": "Death's End",
+    "author": "Liu Cixin",
+    "year": 2010,
+    "isbn_13": "9782946281835",
+    "isbn_10": "2946281838",
+    "pages": 604,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "zh"
+  },
+  {
+    "title": "Ball Lightning",
+    "author": "Liu Cixin",
+    "year": 2004,
+    "isbn_13": "9788744293247",
+    "isbn_10": "8744293240",
+    "pages": 384,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "zh"
+  },
+  {
+    "title": "The Wandering Earth",
+    "author": "Liu Cixin",
+    "year": 2000,
+    "isbn_13": "9781635244427",
+    "isbn_10": "1635244420",
+    "pages": 400,
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "zh"
+  },
+  {
+    "title": "Station Eleven",
+    "author": "Emily St. John Mandel",
+    "year": 2014,
+    "isbn_13": "9781107800571",
+    "isbn_10": "1107800572",
+    "pages": 333,
+    "genres": [
+      "Science Fiction",
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Glass Hotel",
+    "author": "Emily St. John Mandel",
+    "year": 2020,
+    "isbn_13": "9782507111205",
+    "isbn_10": "2507111203",
+    "pages": 302,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sea of Tranquility",
+    "author": "Emily St. John Mandel",
+    "year": 2022,
+    "isbn_13": "9787269362568",
+    "isbn_10": "7269362567",
+    "pages": 255,
+    "genres": [
+      "Science Fiction",
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Last Astronaut",
+    "author": "David Wellington",
+    "year": 2019,
+    "isbn_13": "9788400811938",
+    "isbn_10": "8400811938",
+    "pages": 416,
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Recursion",
+    "author": "Blake Crouch",
+    "year": 2019,
+    "isbn_13": "9780359919154",
+    "isbn_10": "0359919157",
+    "pages": 304,
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dark Matter",
+    "author": "Blake Crouch",
+    "year": 2016,
+    "isbn_13": "9787580251534",
+    "isbn_10": "758025153X",
+    "pages": 342,
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Upgrade",
+    "author": "Blake Crouch",
+    "year": 2022,
+    "isbn_13": "9782344058138",
+    "isbn_10": "2344058138",
+    "pages": 352,
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Anomaly",
+    "author": "Herv\u00e9 Le Tellier",
+    "year": 2020,
+    "isbn_13": "9788612585542",
+    "isbn_10": "8612585545",
+    "pages": 327,
+    "genres": [
+      "Science Fiction",
+      "Literary Fiction"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Klara and the Sun",
+    "author": "Kazuo Ishiguro",
+    "year": 2021,
+    "isbn_13": "9780195255348",
+    "isbn_10": "0195255343",
+    "pages": 303,
+    "genres": [
+      "Science Fiction",
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Exhalation",
+    "author": "Ted Chiang",
+    "year": 2019,
+    "isbn_13": "9783375314965",
+    "isbn_10": "3375314966",
+    "pages": 341,
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Stories of Your Life and Others",
+    "author": "Ted Chiang",
+    "year": 2002,
+    "isbn_13": "9782228610018",
+    "isbn_10": "222861001X",
+    "pages": 281,
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Annihilation",
+    "author": "Jeff VanderMeer",
+    "year": 2014,
+    "isbn_13": "9786173831115",
+    "isbn_10": "6173831119",
+    "pages": 195,
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Authority",
+    "author": "Jeff VanderMeer",
+    "year": 2014,
+    "isbn_13": "9782830139587",
+    "isbn_10": "2830139586",
+    "pages": 341,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Acceptance",
+    "author": "Jeff VanderMeer",
+    "year": 2014,
+    "isbn_13": "9785754422179",
+    "isbn_10": "5754422179",
+    "pages": 341,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Borne",
+    "author": "Jeff VanderMeer",
+    "year": 2017,
+    "isbn_13": "9789322249113",
+    "isbn_10": "9322249110",
+    "pages": 323,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dead Astronauts",
+    "author": "Jeff VanderMeer",
+    "year": 2019,
+    "isbn_13": "9780241444078",
+    "isbn_10": "024144407X",
+    "pages": 208,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Hummingbird Salamander",
+    "author": "Jeff VanderMeer",
+    "year": 2021,
+    "isbn_13": "9782141132550",
+    "isbn_10": "2141132551",
+    "pages": 320,
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Absolution",
+    "author": "Jeff VanderMeer",
+    "year": 2024,
+    "isbn_13": "9784536321259",
+    "isbn_10": "4536321251",
+    "pages": 672,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Calculating Stars",
+    "author": "Mary Robinette Kowal",
+    "year": 2018,
+    "isbn_13": "9786912712934",
+    "isbn_10": "6912712939",
+    "pages": 431,
+    "genres": [
+      "Science Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Fated Sky",
+    "author": "Mary Robinette Kowal",
+    "year": 2018,
+    "isbn_13": "9783927424548",
+    "isbn_10": "3927424547",
+    "pages": 384,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Relentless Moon",
+    "author": "Mary Robinette Kowal",
+    "year": 2020,
+    "isbn_13": "9780233059945",
+    "isbn_10": "0233059945",
+    "pages": 544,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Spare Man",
+    "author": "Mary Robinette Kowal",
+    "year": 2022,
+    "isbn_13": "9781100128078",
+    "isbn_10": "1100128074",
+    "pages": 368,
+    "genres": [
+      "Science Fiction",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "All Systems Red",
+    "author": "Martha Wells",
+    "year": 2017,
+    "isbn_13": "9783844051803",
+    "isbn_10": "3844051806",
+    "pages": 144,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Artificial Condition",
+    "author": "Martha Wells",
+    "year": 2018,
+    "isbn_13": "9782317905803",
+    "isbn_10": "2317905804",
+    "pages": 158,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Rogue Protocol",
+    "author": "Martha Wells",
+    "year": 2018,
+    "isbn_13": "9784309348735",
+    "isbn_10": "4309348737",
+    "pages": 160,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Exit Strategy",
+    "author": "Martha Wells",
+    "year": 2018,
+    "isbn_13": "9787275334009",
+    "isbn_10": "7275334008",
+    "pages": 176,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Network Effect",
+    "author": "Martha Wells",
+    "year": 2020,
+    "isbn_13": "9782380414301",
+    "isbn_10": "2380414300",
+    "pages": 352,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Fugitive Telemetry",
+    "author": "Martha Wells",
+    "year": 2021,
+    "isbn_13": "9785963651339",
+    "isbn_10": "5963651335",
+    "pages": 168,
+    "genres": [
+      "Science Fiction",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "System Collapse",
+    "author": "Martha Wells",
+    "year": 2023,
+    "isbn_13": "9784345002400",
+    "isbn_10": "4345002400",
+    "pages": 245,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Haunting of Hill House",
+    "author": "Shirley Jackson",
+    "year": 1959,
+    "isbn_13": "9783411003013",
+    "isbn_10": "3411003017",
+    "pages": 246,
+    "genres": [
+      "Horror",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Mexican Gothic",
+    "author": "Silvia Moreno-Garcia",
+    "year": 2020,
+    "isbn_13": "9782950038210",
+    "isbn_10": "2950038219",
+    "pages": 301,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "My Heart Is a Chainsaw",
+    "author": "Stephen Graham Jones",
+    "year": 2021,
+    "isbn_13": "9785925272510",
+    "isbn_10": "5925272511",
+    "pages": 404,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Don't Fear the Reaper",
+    "author": "Stephen Graham Jones",
+    "year": 2023,
+    "isbn_13": "9788132041436",
+    "isbn_10": "8132041434",
+    "pages": 432,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Angel of Indian Lake",
+    "author": "Stephen Graham Jones",
+    "year": 2024,
+    "isbn_13": "9781100998589",
+    "isbn_10": "1100998585",
+    "pages": 400,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Only Good Indians",
+    "author": "Stephen Graham Jones",
+    "year": 2020,
+    "isbn_13": "9781385885901",
+    "isbn_10": "1385885907",
+    "pages": 320,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Mongrels",
+    "author": "Stephen Graham Jones",
+    "year": 2016,
+    "isbn_13": "9780145065003",
+    "isbn_10": "0145065005",
+    "pages": 300,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Troop",
+    "author": "Nick Cutter",
+    "year": 2014,
+    "isbn_13": "9785735614906",
+    "isbn_10": "5735614903",
+    "pages": 358,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Deep",
+    "author": "Nick Cutter",
+    "year": 2015,
+    "isbn_13": "9788079227436",
+    "isbn_10": "8079227433",
+    "pages": 394,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Little Heaven",
+    "author": "Nick Cutter",
+    "year": 2017,
+    "isbn_13": "9785534532982",
+    "isbn_10": "5534532981",
+    "pages": 480,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Cabin at the End of the World",
+    "author": "Paul Tremblay",
+    "year": 2018,
+    "isbn_13": "9788733308396",
+    "isbn_10": "8733308391",
+    "pages": 272,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Head Full of Ghosts",
+    "author": "Paul Tremblay",
+    "year": 2015,
+    "isbn_13": "9788310995797",
+    "isbn_10": "8310995799",
+    "pages": 286,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Disappearance at Devil's Rock",
+    "author": "Paul Tremblay",
+    "year": 2016,
+    "isbn_13": "9782042621320",
+    "isbn_10": "2042621328",
+    "pages": 336,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Survivor Song",
+    "author": "Paul Tremblay",
+    "year": 2020,
+    "isbn_13": "9782132151638",
+    "isbn_10": "2132151635",
+    "pages": 288,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Pallbearers Club",
+    "author": "Paul Tremblay",
+    "year": 2022,
+    "isbn_13": "9780624053095",
+    "isbn_10": "062405309X",
+    "pages": 288,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Horror Movie",
+    "author": "Paul Tremblay",
+    "year": 2024,
+    "isbn_13": "9782132130077",
+    "isbn_10": "2132130073",
+    "pages": 277,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Fisherman",
+    "author": "John Langan",
+    "year": 2016,
+    "isbn_13": "9784057943800",
+    "isbn_10": "4057943808",
+    "pages": 266,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Children of the Corn",
+    "author": "Stephen Graham Jones",
+    "year": 2023,
+    "isbn_13": "9780314652775",
+    "isbn_10": "0314652772",
+    "pages": 304,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "year": 2017,
+    "isbn_13": "9789624751581",
+    "isbn_10": "9624751584",
+    "pages": 389,
+    "genres": [
+      "Literary Fiction",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Daisy Jones & The Six",
+    "author": "Taylor Jenkins Reid",
+    "year": 2019,
+    "isbn_13": "9787508515335",
+    "isbn_10": "750851533X",
+    "pages": 355,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Malibu Rising",
+    "author": "Taylor Jenkins Reid",
+    "year": 2021,
+    "isbn_13": "9782425653108",
+    "isbn_10": "2425653107",
+    "pages": 369,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Beach Read",
+    "author": "Emily Henry",
+    "year": 2020,
+    "isbn_13": "9786720492684",
+    "isbn_10": "6720492688",
+    "pages": 361,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "People We Meet on Vacation",
+    "author": "Emily Henry",
+    "year": 2021,
+    "isbn_13": "9789844483637",
+    "isbn_10": "9844483633",
+    "pages": 364,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Book Lovers",
+    "author": "Emily Henry",
+    "year": 2022,
+    "isbn_13": "9780035534268",
+    "isbn_10": "0035534266",
+    "pages": 373,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Love Hypothesis",
+    "author": "Ali Hazelwood",
+    "year": 2021,
+    "isbn_13": "9786459986249",
+    "isbn_10": "6459986241",
+    "pages": 384,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "It Ends with Us",
+    "author": "Colleen Hoover",
+    "year": 2016,
+    "isbn_13": "9785115567051",
+    "isbn_10": "5115567052",
+    "pages": 376,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The White Tiger",
+    "author": "Aravind Adiga",
+    "year": 2008,
+    "isbn_13": "9784515804575",
+    "isbn_10": "4515804571",
+    "pages": 321,
+    "genres": [
+      "Literary Fiction",
+      "Indian Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Shantaram",
+    "author": "Gregory David Roberts",
+    "year": 2003,
+    "isbn_13": "9785202666841",
+    "isbn_10": "5202666846",
+    "pages": 936,
+    "genres": [
+      "Literary Fiction",
+      "Adventure",
+      "Indian Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Shadow of the Wind",
+    "author": "Carlos Ruiz Zaf\u00f3n",
+    "year": 2001,
+    "isbn_13": "9782027546495",
+    "isbn_10": "2027546492",
+    "pages": 487,
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "es"
+  },
+  {
+    "title": "The Angel's Game",
+    "author": "Carlos Ruiz Zaf\u00f3n",
+    "year": 2008,
+    "isbn_13": "9780343208646",
+    "isbn_10": "0343208647",
+    "pages": 531,
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "es"
+  },
+  {
+    "title": "The Prisoner of Heaven",
+    "author": "Carlos Ruiz Zaf\u00f3n",
+    "year": 2011,
+    "isbn_13": "9782450456538",
+    "isbn_10": "2450456533",
+    "pages": 279,
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "es"
+  },
+  {
+    "title": "The Labyrinth of the Spirits",
+    "author": "Carlos Ruiz Zaf\u00f3n",
+    "year": 2016,
+    "isbn_13": "9783345182730",
+    "isbn_10": "3345182737",
+    "pages": 821,
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "es"
+  },
+  {
+    "title": "Marina",
+    "author": "Carlos Ruiz Zaf\u00f3n",
+    "year": 1999,
+    "isbn_13": "9785479380280",
+    "isbn_10": "547938028X",
+    "pages": 323,
+    "genres": [
+      "Young Adult",
+      "Mystery"
+    ],
+    "language": "es"
+  },
+  {
+    "title": "The Prince of Mist",
+    "author": "Carlos Ruiz Zaf\u00f3n",
+    "year": 1993,
+    "isbn_13": "9781310020599",
+    "isbn_10": "1310020590",
+    "pages": 199,
+    "genres": [
+      "Young Adult",
+      "Mystery"
+    ],
+    "language": "es"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "year": 2011,
+    "isbn_13": "9785530221538",
+    "isbn_10": "5530221531",
+    "pages": 499,
+    "genres": [
+      "Psychology",
+      "Science"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Body Keeps the Score",
+    "author": "Bessel van der Kolk",
+    "year": 2014,
+    "isbn_13": "9785428017953",
+    "isbn_10": "5428017958",
+    "pages": 464,
+    "genres": [
+      "Psychology",
+      "Science"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Maybe You Should Talk to Someone",
+    "author": "Lori Gottlieb",
+    "year": 2019,
+    "isbn_13": "9787830715465",
+    "isbn_10": "7830715464",
+    "pages": 415,
+    "genres": [
+      "Psychology",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Warmth of Other Suns",
+    "author": "Isabel Wilkerson",
+    "year": 2010,
+    "isbn_13": "9784205107566",
+    "isbn_10": "4205107560",
+    "pages": 622,
+    "genres": [
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Caste",
+    "author": "Isabel Wilkerson",
+    "year": 2020,
+    "isbn_13": "9785320442068",
+    "isbn_10": "5320442063",
+    "pages": 476,
+    "genres": [
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Between the World and Me",
+    "author": "Ta-Nehisi Coates",
+    "year": 2015,
+    "isbn_13": "9782244924205",
+    "isbn_10": "2244924208",
+    "pages": 152,
+    "genres": [
+      "Memoir",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Water Dancer",
+    "author": "Ta-Nehisi Coates",
+    "year": 2019,
+    "isbn_13": "9781271464029",
+    "isbn_10": "1271464020",
+    "pages": 403,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "We Were Eight Years in Power",
+    "author": "Ta-Nehisi Coates",
+    "year": 2017,
+    "isbn_13": "9783201405430",
+    "isbn_10": "3201405437",
+    "pages": 367,
+    "genres": [
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Message",
+    "author": "Ta-Nehisi Coates",
+    "year": 2024,
+    "isbn_13": "9781081949952",
+    "isbn_10": "1081949958",
+    "pages": 240,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Crying in H Mart",
+    "author": "Michelle Zauner",
+    "year": 2021,
+    "isbn_13": "9784947774750",
+    "isbn_10": "4947774757",
+    "pages": 239,
+    "genres": [
+      "Memoir",
+      "Food"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Know My Name",
+    "author": "Chanel Miller",
+    "year": 2019,
+    "isbn_13": "9780003212402",
+    "isbn_10": "0003212403",
+    "pages": 368,
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Glass Castle",
+    "author": "Jeannette Walls",
+    "year": 2005,
+    "isbn_13": "9786602331032",
+    "isbn_10": "6602331036",
+    "pages": 288,
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Half Broke Horses",
+    "author": "Jeannette Walls",
+    "year": 2009,
+    "isbn_13": "9781148770437",
+    "isbn_10": "1148770434",
+    "pages": 261,
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Heavy",
+    "author": "Kiese Laymon",
+    "year": 2018,
+    "isbn_13": "9784566198418",
+    "isbn_10": "4566198418",
+    "pages": 241,
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Long Division",
+    "author": "Kiese Laymon",
+    "year": 2013,
+    "isbn_13": "9782870293850",
+    "isbn_10": "2870293859",
+    "pages": 249,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "All About Love",
+    "author": "bell hooks",
+    "year": 2000,
+    "isbn_13": "9780635114839",
+    "isbn_10": "0635114835",
+    "pages": 240,
+    "genres": [
+      "Non-Fiction",
+      "Philosophy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ain't I a Woman",
+    "author": "bell hooks",
+    "year": 1981,
+    "isbn_13": "9784446035345",
+    "isbn_10": "4446035344",
+    "pages": 205,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Teaching to Transgress",
+    "author": "bell hooks",
+    "year": 1994,
+    "isbn_13": "9784592122104",
+    "isbn_10": "4592122100",
+    "pages": 216,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Feminist Theory",
+    "author": "bell hooks",
+    "year": 1984,
+    "isbn_13": "9782153132081",
+    "isbn_10": "2153132083",
+    "pages": 174,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "When Things Fall Apart",
+    "author": "Pema Ch\u00f6dr\u00f6n",
+    "year": 1997,
+    "isbn_13": "9786224575876",
+    "isbn_10": "6224575873",
+    "pages": 160,
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Places That Scare You",
+    "author": "Pema Ch\u00f6dr\u00f6n",
+    "year": 2001,
+    "isbn_13": "9782472636536",
+    "isbn_10": "2472636532",
+    "pages": 145,
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Start Where You Are",
+    "author": "Pema Ch\u00f6dr\u00f6n",
+    "year": 1994,
+    "isbn_13": "9780830450015",
+    "isbn_10": "0830450014",
+    "pages": 166,
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "No Mud, No Lotus",
+    "author": "Thich Nhat Hanh",
+    "year": 2014,
+    "isbn_13": "9783595172451",
+    "isbn_10": "3595172450",
+    "pages": 116,
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Heart of the Buddha's Teaching",
+    "author": "Thich Nhat Hanh",
+    "year": 1998,
+    "isbn_13": "9781515147107",
+    "isbn_10": "1515147101",
+    "pages": 288,
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Peace Is Every Step",
+    "author": "Thich Nhat Hanh",
+    "year": 1991,
+    "isbn_13": "9786098124590",
+    "isbn_10": "6098124590",
+    "pages": 134,
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Miracle of Mindfulness",
+    "author": "Thich Nhat Hanh",
+    "year": 1975,
+    "isbn_13": "9781534251793",
+    "isbn_10": "1534251790",
+    "pages": 140,
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Siddhartha",
+    "author": "Hermann Hesse",
+    "year": 1922,
+    "isbn_13": "9782110014115",
+    "isbn_10": "2110014118",
+    "pages": 152,
+    "genres": [
+      "Literary Fiction",
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "de"
+  },
+  {
+    "title": "Zen and the Art of Motorcycle Maintenance",
+    "author": "Robert M. Pirsig",
+    "year": 1974,
+    "isbn_13": "9785575911326",
+    "isbn_10": "5575911329",
+    "pages": 418,
+    "genres": [
+      "Philosophy",
+      "Memoir",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Lila",
+    "author": "Robert M. Pirsig",
+    "year": 1991,
+    "isbn_13": "9785230523338",
+    "isbn_10": "5230523335",
+    "pages": 409,
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en"
+  }
+]

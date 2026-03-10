@@ -1,0 +1,1250 @@
+[
+  {
+    "title": "The Corrections",
+    "author": "Jonathan Franzen",
+    "year": 2001,
+    "isbn_13": "9780761351344",
+    "isbn_10": "0761351346",
+    "pages": 568,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Amazing Adventures of Kavalier & Clay",
+    "author": "Michael Chabon",
+    "year": 2000,
+    "isbn_13": "9786345297008",
+    "isbn_10": "6345297008",
+    "pages": 639,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Known World",
+    "author": "Edward P. Jones",
+    "year": 2003,
+    "isbn_13": "9782945343510",
+    "isbn_10": "2945343514",
+    "pages": 388,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Lost in the City",
+    "author": "Edward P. Jones",
+    "year": 1992,
+    "isbn_13": "9785455330353",
+    "isbn_10": "5455330354",
+    "pages": 249,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Gilead",
+    "author": "Marilynne Robinson",
+    "year": 2004,
+    "isbn_13": "9784590227252",
+    "isbn_10": "4590227253",
+    "pages": 247,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Brief Wondrous Life of Oscar Wao",
+    "author": "Junot D\u00edaz",
+    "year": 2007,
+    "isbn_13": "9780345073143",
+    "isbn_10": "0345073149",
+    "pages": 340,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Drown",
+    "author": "Junot D\u00edaz",
+    "year": 1996,
+    "isbn_13": "9785770633924",
+    "isbn_10": "577063392X",
+    "pages": 208,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "This Is How You Lose Her",
+    "author": "Junot D\u00edaz",
+    "year": 2012,
+    "isbn_13": "9789311203201",
+    "isbn_10": "9311203208",
+    "pages": 213,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Sympathizer",
+    "author": "Viet Thanh Nguyen",
+    "year": 2015,
+    "isbn_13": "9780127650135",
+    "isbn_10": "0127650131",
+    "pages": 371,
+    "genres": [
+      "Literary Fiction",
+      "War"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Committed",
+    "author": "Viet Thanh Nguyen",
+    "year": 2021,
+    "isbn_13": "9783595000105",
+    "isbn_10": "3595000109",
+    "pages": 400,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Refugees",
+    "author": "Viet Thanh Nguyen",
+    "year": 2017,
+    "isbn_13": "9780541148515",
+    "isbn_10": "0541148515",
+    "pages": 209,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Less",
+    "author": "Andrew Sean Greer",
+    "year": 2017,
+    "isbn_13": "9789633944899",
+    "isbn_10": "9633944892",
+    "pages": 261,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Less Is Lost",
+    "author": "Andrew Sean Greer",
+    "year": 2022,
+    "isbn_13": "9788686981912",
+    "isbn_10": "8686981914",
+    "pages": 257,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Overstory",
+    "author": "Richard Powers",
+    "year": 2018,
+    "isbn_13": "9785905183157",
+    "isbn_10": "5905183156",
+    "pages": 502,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Visit from the Goon Squad",
+    "author": "Jennifer Egan",
+    "year": 2010,
+    "isbn_13": "9780214466007",
+    "isbn_10": "0214466000",
+    "pages": 273,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Manhattan Beach",
+    "author": "Jennifer Egan",
+    "year": 2017,
+    "isbn_13": "9782804250928",
+    "isbn_10": "2804250921",
+    "pages": 438,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Candy House",
+    "author": "Jennifer Egan",
+    "year": 2022,
+    "isbn_13": "9783492700481",
+    "isbn_10": "3492700482",
+    "pages": 336,
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Orphan Master's Son",
+    "author": "Adam Johnson",
+    "year": 2012,
+    "isbn_13": "9788141600112",
+    "isbn_10": "8141600114",
+    "pages": 443,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Fortune Smiles",
+    "author": "Adam Johnson",
+    "year": 2015,
+    "isbn_13": "9786441338056",
+    "isbn_10": "6441338051",
+    "pages": 230,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Sellout",
+    "author": "Paul Beatty",
+    "year": 2015,
+    "isbn_13": "9781316241363",
+    "isbn_10": "1316241361",
+    "pages": 289,
+    "genres": [
+      "Literary Fiction",
+      "Satire"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The White Boy Shuffle",
+    "author": "Paul Beatty",
+    "year": 1996,
+    "isbn_13": "9781592283996",
+    "isbn_10": "1592283998",
+    "pages": 226,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Pachinko",
+    "author": "Min Jin Lee",
+    "year": 2017,
+    "isbn_13": "9787570342167",
+    "isbn_10": "7570342161",
+    "pages": 490,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Free Food for Millionaires",
+    "author": "Min Jin Lee",
+    "year": 2007,
+    "isbn_13": "9781389221064",
+    "isbn_10": "1389221064",
+    "pages": 566,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "There There",
+    "author": "Tommy Orange",
+    "year": 2018,
+    "isbn_13": "9789017591138",
+    "isbn_10": "9017591134",
+    "pages": 290,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Wandering Stars",
+    "author": "Tommy Orange",
+    "year": 2024,
+    "isbn_13": "9786567506346",
+    "isbn_10": "6567506349",
+    "pages": 315,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Interior Chinatown",
+    "author": "Charles Yu",
+    "year": 2020,
+    "isbn_13": "9783435003112",
+    "isbn_10": "343500311X",
+    "pages": 273,
+    "genres": [
+      "Literary Fiction",
+      "Satire"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "How to Live Safely in a Science Fictional Universe",
+    "author": "Charles Yu",
+    "year": 2010,
+    "isbn_13": "9780444082688",
+    "isbn_10": "0444082682",
+    "pages": 233,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Shuggie Bain",
+    "author": "Douglas Stuart",
+    "year": 2020,
+    "isbn_13": "9785540307406",
+    "isbn_10": "5540307409",
+    "pages": 430,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Young Mungo",
+    "author": "Douglas Stuart",
+    "year": 2022,
+    "isbn_13": "9783616750958",
+    "isbn_10": "3616750957",
+    "pages": 395,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Trees",
+    "author": "Percival Everett",
+    "year": 2021,
+    "isbn_13": "9780350124618",
+    "isbn_10": "0350124619",
+    "pages": 308,
+    "genres": [
+      "Literary Fiction",
+      "Satire"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "James",
+    "author": "Percival Everett",
+    "year": 2024,
+    "isbn_13": "9783061613044",
+    "isbn_10": "3061613043",
+    "pages": 303,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Erasure",
+    "author": "Percival Everett",
+    "year": 2001,
+    "isbn_13": "9784037801670",
+    "isbn_10": "403780167X",
+    "pages": 294,
+    "genres": [
+      "Literary Fiction",
+      "Satire"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "year": 2022,
+    "isbn_13": "9784101242903",
+    "isbn_10": "4101242902",
+    "pages": 548,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Trust",
+    "author": "Hernan Diaz",
+    "year": 2022,
+    "isbn_13": "9782322940783",
+    "isbn_10": "2322940781",
+    "pages": 416,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "In the Distance",
+    "author": "Hernan Diaz",
+    "year": 2017,
+    "isbn_13": "9789131246587",
+    "isbn_10": "9131246588",
+    "pages": 246,
+    "genres": [
+      "Literary Fiction",
+      "Western"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Netanyahus",
+    "author": "Joshua Cohen",
+    "year": 2021,
+    "isbn_13": "9782416065347",
+    "isbn_10": "2416065348",
+    "pages": 237,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Book of Numbers",
+    "author": "Joshua Cohen",
+    "year": 2015,
+    "isbn_13": "9784211128425",
+    "isbn_10": "4211128425",
+    "pages": 580,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Witz",
+    "author": "Joshua Cohen",
+    "year": 2010,
+    "isbn_13": "9782835434328",
+    "isbn_10": "283543432X",
+    "pages": 817,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "year": 2005,
+    "isbn_13": "9789880700934",
+    "isbn_10": "9880700934",
+    "pages": 465,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "sv"
+  },
+  {
+    "title": "The Girl Who Played with Fire",
+    "author": "Stieg Larsson",
+    "year": 2006,
+    "isbn_13": "9787884249497",
+    "isbn_10": "7884249492",
+    "pages": 503,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "sv"
+  },
+  {
+    "title": "The Girl Who Kicked the Hornets' Nest",
+    "author": "Stieg Larsson",
+    "year": 2007,
+    "isbn_13": "9784112236434",
+    "isbn_10": "4112236438",
+    "pages": 563,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "sv"
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "year": 2012,
+    "isbn_13": "9789001838683",
+    "isbn_10": "9001838686",
+    "pages": 419,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sharp Objects",
+    "author": "Gillian Flynn",
+    "year": 2006,
+    "isbn_13": "9788824172721",
+    "isbn_10": "8824172726",
+    "pages": 254,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dark Places",
+    "author": "Gillian Flynn",
+    "year": 2009,
+    "isbn_13": "9782734575405",
+    "isbn_10": "2734575401",
+    "pages": 349,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "year": 2015,
+    "isbn_13": "9784257432562",
+    "isbn_10": "4257432561",
+    "pages": 323,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Into the Water",
+    "author": "Paula Hawkins",
+    "year": 2017,
+    "isbn_13": "9788524271403",
+    "isbn_10": "8524271401",
+    "pages": 386,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Slow Fire Burning",
+    "author": "Paula Hawkins",
+    "year": 2021,
+    "isbn_13": "9788725216388",
+    "isbn_10": "8725216387",
+    "pages": 295,
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "year": 2019,
+    "isbn_13": "9780830123117",
+    "isbn_10": "0830123118",
+    "pages": 325,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Maidens",
+    "author": "Alex Michaelides",
+    "year": 2021,
+    "isbn_13": "9784109095419",
+    "isbn_10": "4109095414",
+    "pages": 337,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Fury",
+    "author": "Alex Michaelides",
+    "year": 2024,
+    "isbn_13": "9780003714166",
+    "isbn_10": "0003714160",
+    "pages": 336,
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Woman in the Window",
+    "author": "A.J. Finn",
+    "year": 2018,
+    "isbn_13": "9781233712908",
+    "isbn_10": "1233712901",
+    "pages": 427,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Maid",
+    "author": "Nita Prose",
+    "year": 2022,
+    "isbn_13": "9787134759233",
+    "isbn_10": "7134759234",
+    "pages": 305,
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Mystery Guest",
+    "author": "Nita Prose",
+    "year": 2023,
+    "isbn_13": "9781626522213",
+    "isbn_10": "1626522212",
+    "pages": 318,
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Mexican Gothic",
+    "author": "Silvia Moreno-Garcia",
+    "year": 2020,
+    "isbn_13": "9782950038210",
+    "isbn_10": "2950038219",
+    "pages": 301,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Daughter of Doctor Moreau",
+    "author": "Silvia Moreno-Garcia",
+    "year": 2022,
+    "isbn_13": "9781859231111",
+    "isbn_10": "1859231111",
+    "pages": 309,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Velvet Was the Night",
+    "author": "Silvia Moreno-Garcia",
+    "year": 2021,
+    "isbn_13": "9781730107788",
+    "isbn_10": "1730107783",
+    "pages": 277,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "In the Woods",
+    "author": "Tana French",
+    "year": 2007,
+    "isbn_13": "9789038380155",
+    "isbn_10": "903838015X",
+    "pages": 429,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Likeness",
+    "author": "Tana French",
+    "year": 2008,
+    "isbn_13": "9781483553139",
+    "isbn_10": "1483553139",
+    "pages": 466,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Faithful Place",
+    "author": "Tana French",
+    "year": 2010,
+    "isbn_13": "9786245150533",
+    "isbn_10": "624515053X",
+    "pages": 400,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Broken Harbor",
+    "author": "Tana French",
+    "year": 2012,
+    "isbn_13": "9780954447489",
+    "isbn_10": "0954447487",
+    "pages": 449,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Secret Place",
+    "author": "Tana French",
+    "year": 2014,
+    "isbn_13": "9782351431108",
+    "isbn_10": "2351431108",
+    "pages": 457,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Trespasser",
+    "author": "Tana French",
+    "year": 2016,
+    "isbn_13": "9783581953125",
+    "isbn_10": "3581953122",
+    "pages": 450,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Witch Elm",
+    "author": "Tana French",
+    "year": 2018,
+    "isbn_13": "9782121512006",
+    "isbn_10": "2121512007",
+    "pages": 509,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Searcher",
+    "author": "Tana French",
+    "year": 2020,
+    "isbn_13": "9784325109631",
+    "isbn_10": "4325109638",
+    "pages": 449,
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Hunter",
+    "author": "Tana French",
+    "year": 2024,
+    "isbn_13": "9782437388401",
+    "isbn_10": "2437388400",
+    "pages": 371,
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "year": 2007,
+    "isbn_13": "9784214237209",
+    "isbn_10": "4214237201",
+    "pages": 662,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Wise Man's Fear",
+    "author": "Patrick Rothfuss",
+    "year": 2011,
+    "isbn_13": "9786420302023",
+    "isbn_10": "642030202X",
+    "pages": 994,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Slow Regard of Silent Things",
+    "author": "Patrick Rothfuss",
+    "year": 2014,
+    "isbn_13": "9782550522102",
+    "isbn_10": "2550522102",
+    "pages": 159,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Lies of Locke Lamora",
+    "author": "Scott Lynch",
+    "year": 2006,
+    "isbn_13": "9783757440855",
+    "isbn_10": "3757440857",
+    "pages": 499,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Red Seas Under Red Skies",
+    "author": "Scott Lynch",
+    "year": 2007,
+    "isbn_13": "9780033224093",
+    "isbn_10": "0033224092",
+    "pages": 558,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Republic of Thieves",
+    "author": "Scott Lynch",
+    "year": 2013,
+    "isbn_13": "9786468532901",
+    "isbn_10": "6468532905",
+    "pages": 512,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Goblin Emperor",
+    "author": "Katherine Addison",
+    "year": 2014,
+    "isbn_13": "9781443860437",
+    "isbn_10": "1443860438",
+    "pages": 448,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Witness for the Dead",
+    "author": "Katherine Addison",
+    "year": 2021,
+    "isbn_13": "9780301050324",
+    "isbn_10": "0301050326",
+    "pages": 240,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Grief of Stones",
+    "author": "Katherine Addison",
+    "year": 2022,
+    "isbn_13": "9787013093014",
+    "isbn_10": "7013093014",
+    "pages": 288,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Piranesi",
+    "author": "Susanna Clarke",
+    "year": 2020,
+    "isbn_13": "9788049921302",
+    "isbn_10": "804992130X",
+    "pages": 245,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Jonathan Strange & Mr Norrell",
+    "author": "Susanna Clarke",
+    "year": 2004,
+    "isbn_13": "9780107200336",
+    "isbn_10": "0107200338",
+    "pages": 782,
+    "genres": [
+      "Fantasy",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Priory of the Orange Tree",
+    "author": "Samantha Shannon",
+    "year": 2019,
+    "isbn_13": "9780485412710",
+    "isbn_10": "0485412718",
+    "pages": 848,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Day of Fallen Night",
+    "author": "Samantha Shannon",
+    "year": 2023,
+    "isbn_13": "9785465073219",
+    "isbn_10": "5465073214",
+    "pages": 864,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Bone Season",
+    "author": "Samantha Shannon",
+    "year": 2013,
+    "isbn_13": "9783082246047",
+    "isbn_10": "3082246047",
+    "pages": 466,
+    "genres": [
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Mime Order",
+    "author": "Samantha Shannon",
+    "year": 2015,
+    "isbn_13": "9789617118056",
+    "isbn_10": "9617118051",
+    "pages": 528,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "year": 2011,
+    "isbn_13": "9788912432126",
+    "isbn_10": "8912432126",
+    "pages": 352,
+    "genres": [
+      "Fantasy",
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "year": 2018,
+    "isbn_13": "9781341705021",
+    "isbn_10": "134170502X",
+    "pages": 393,
+    "genres": [
+      "Fantasy",
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Rage of Dragons",
+    "author": "Evan Winter",
+    "year": 2017,
+    "isbn_13": "9783211807606",
+    "isbn_10": "3211807603",
+    "pages": 544,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Fires of Vengeance",
+    "author": "Evan Winter",
+    "year": 2020,
+    "isbn_13": "9784769201533",
+    "isbn_10": "4769201539",
+    "pages": 560,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Black Sun",
+    "author": "Rebecca Roanhorse",
+    "year": 2020,
+    "isbn_13": "9780432070000",
+    "isbn_10": "043207000X",
+    "pages": 454,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Fevered Star",
+    "author": "Rebecca Roanhorse",
+    "year": 2022,
+    "isbn_13": "9785213822564",
+    "isbn_10": "5213822563",
+    "pages": 410,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Mirage of the Lost",
+    "author": "Rebecca Roanhorse",
+    "year": 2023,
+    "isbn_13": "9789083977379",
+    "isbn_10": "9083977377",
+    "pages": 420,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Trail of Lightning",
+    "author": "Rebecca Roanhorse",
+    "year": 2018,
+    "isbn_13": "9783095710542",
+    "isbn_10": "3095710549",
+    "pages": 287,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Storm of Locusts",
+    "author": "Rebecca Roanhorse",
+    "year": 2019,
+    "isbn_13": "9784986153844",
+    "isbn_10": "4986153845",
+    "pages": 317,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Jasmine Throne",
+    "author": "Tasha Suri",
+    "year": 2021,
+    "isbn_13": "9780516395739",
+    "isbn_10": "0516395737",
+    "pages": 533,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Oleander Sword",
+    "author": "Tasha Suri",
+    "year": 2022,
+    "isbn_13": "9786221033324",
+    "isbn_10": "6221033329",
+    "pages": 496,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Burning Kingdoms",
+    "author": "Tasha Suri",
+    "year": 2023,
+    "isbn_13": "9785015007305",
+    "isbn_10": "5015007309",
+    "pages": 512,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Jade City",
+    "author": "Fonda Lee",
+    "year": 2017,
+    "isbn_13": "9783849835118",
+    "isbn_10": "384983511X",
+    "pages": 560,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Jade War",
+    "author": "Fonda Lee",
+    "year": 2019,
+    "isbn_13": "9783555736389",
+    "isbn_10": "3555736383",
+    "pages": 590,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Jade Legacy",
+    "author": "Fonda Lee",
+    "year": 2021,
+    "isbn_13": "9785174350359",
+    "isbn_10": "5174350357",
+    "pages": 725,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "year": 2021,
+    "isbn_13": "9785229467506",
+    "isbn_10": "5229467502",
+    "pages": 476,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "year": 2011,
+    "isbn_13": "9784561523321",
+    "isbn_10": "4561523327",
+    "pages": 369,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Artemis",
+    "author": "Andy Weir",
+    "year": 2017,
+    "isbn_13": "9789432808491",
+    "isbn_10": "943280849X",
+    "pages": 305,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Three-Body Problem",
+    "author": "Liu Cixin",
+    "year": 2008,
+    "isbn_13": "9781494948450",
+    "isbn_10": "149494845X",
+    "pages": 302,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "zh"
+  },
+  {
+    "title": "The Dark Forest",
+    "author": "Liu Cixin",
+    "year": 2008,
+    "isbn_13": "9785349303982",
+    "isbn_10": "5349303983",
+    "pages": 400,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "zh"
+  }
+]

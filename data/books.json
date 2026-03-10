@@ -1503,18 +1503,18 @@
     },
     {
       "title": "A Day of Fallen Night",
-      "authors": [
-        "Samantha Shannon"
-      ],
+      "year": 2023,
       "isbn_13": "9785465073219",
-      "isbn_10": "5465073217",
+      "isbn_10": "5465073214",
+      "pages": 864,
       "genres": [
         "Fantasy"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2023,
-      "page_count": 864
+      "authors": [
+        "Samantha Shannon"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Deadly Education",
@@ -3530,6 +3530,21 @@
       "source": "seed"
     },
     {
+      "title": "A Slow Fire Burning",
+      "year": 2021,
+      "isbn_13": "9788725216388",
+      "isbn_10": "8725216387",
+      "pages": 295,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Paula Hawkins"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Small Town in Germany",
       "year": 1968,
       "isbn_13": "9780373013043",
@@ -4058,18 +4073,18 @@
     },
     {
       "title": "A Visit from the Goon Squad",
-      "authors": [
-        "Jennifer Egan"
-      ],
+      "year": 2010,
       "isbn_13": "9780214466007",
       "isbn_10": "0214466000",
+      "pages": 273,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2010,
-      "page_count": 340
+      "authors": [
+        "Jennifer Egan"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Voice in the Night",
@@ -4535,18 +4550,18 @@
     },
     {
       "title": "Absolution",
-      "authors": [
-        "Jeff VanderMeer"
-      ],
+      "year": 2024,
       "isbn_13": "9784536321259",
-      "isbn_10": "453632125X",
+      "isbn_10": "4536321251",
+      "pages": 672,
       "genres": [
         "Science Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2024,
-      "page_count": 416
+      "authors": [
+        "Jeff VanderMeer"
+      ],
+      "source": "seed"
     },
     {
       "title": "Absolution Gap",
@@ -5490,6 +5505,21 @@
       "page_count": 266
     },
     {
+      "title": "Ain't I a Woman",
+      "year": 1981,
+      "isbn_13": "9784446035345",
+      "isbn_10": "4446035344",
+      "pages": 205,
+      "genres": [
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "bell hooks"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Airframe",
       "authors": [
         "Michael Crichton"
@@ -5683,6 +5713,22 @@
       "source": "seed",
       "year_published": 1974,
       "page_count": 398
+    },
+    {
+      "title": "All About Love",
+      "year": 2000,
+      "isbn_13": "9780635114839",
+      "isbn_10": "0635114835",
+      "pages": 240,
+      "genres": [
+        "Non-Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "bell hooks"
+      ],
+      "source": "seed"
     },
     {
       "title": "All Around the Town",
@@ -7950,18 +7996,18 @@
     },
     {
       "title": "Artificial Condition",
-      "authors": [
-        "Martha Wells"
-      ],
+      "year": 2018,
       "isbn_13": "9782317905803",
-      "isbn_10": "2317905807",
+      "isbn_10": "2317905804",
+      "pages": 158,
       "genres": [
         "Science Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2018,
-      "page_count": 158
+      "authors": [
+        "Martha Wells"
+      ],
+      "source": "seed"
     },
     {
       "title": "Artificial Intelligence: A Modern Approach",
@@ -8869,18 +8915,18 @@
     },
     {
       "title": "Ball Lightning",
-      "authors": [
-        "Liu Cixin"
-      ],
+      "year": 2004,
       "isbn_13": "9788744293247",
       "isbn_10": "8744293240",
+      "pages": 384,
       "genres": [
         "Science Fiction"
       ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2004,
-      "page_count": 384
+      "language": "zh",
+      "authors": [
+        "Liu Cixin"
+      ],
+      "source": "seed"
     },
     {
       "title": "Baltasar and Blimunda",
@@ -10766,18 +10812,18 @@
     },
     {
       "title": "Black Sun",
-      "authors": [
-        "Rebecca Roanhorse"
-      ],
+      "year": 2020,
       "isbn_13": "9780432070000",
-      "isbn_10": "0432070001",
+      "isbn_10": "043207000X",
+      "pages": 454,
       "genres": [
         "Fantasy"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2020,
-      "page_count": 454
+      "authors": [
+        "Rebecca Roanhorse"
+      ],
+      "source": "seed"
     },
     {
       "title": "Black Swan Green",
@@ -11906,6 +11952,21 @@
       "source": "seed"
     },
     {
+      "title": "Book of Numbers",
+      "year": 2015,
+      "isbn_13": "9784211128425",
+      "isbn_10": "4211128425",
+      "pages": 580,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Joshua Cohen"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Book of the Dead",
       "authors": [
         "Patricia Cornwell"
@@ -12144,18 +12205,18 @@
     },
     {
       "title": "Borne",
-      "authors": [
-        "Jeff VanderMeer"
-      ],
+      "year": 2017,
       "isbn_13": "9789322249113",
       "isbn_10": "9322249110",
+      "pages": 323,
       "genres": [
         "Science Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2017,
-      "page_count": 323
+      "authors": [
+        "Jeff VanderMeer"
+      ],
+      "source": "seed"
     },
     {
       "title": "Bossypants",
@@ -12781,19 +12842,19 @@
     },
     {
       "title": "Broken Harbor",
-      "authors": [
-        "Tana French"
-      ],
+      "year": 2012,
       "isbn_13": "9780954447489",
-      "isbn_10": "0954447484",
+      "isbn_10": "0954447487",
+      "pages": 449,
       "genres": [
         "Mystery",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2012,
-      "page_count": 450
+      "authors": [
+        "Tana French"
+      ],
+      "source": "seed"
     },
     {
       "title": "Broken Promise",
@@ -14816,6 +14877,21 @@
       "description": "",
       "authors": [
         "Naguib Mahfouz"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Children of the Corn",
+      "year": 2023,
+      "isbn_13": "9780314652775",
+      "isbn_10": "0314652772",
+      "pages": 304,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Stephen Graham Jones"
       ],
       "source": "seed"
     },
@@ -17539,19 +17615,19 @@
     },
     {
       "title": "Crying in H Mart",
-      "authors": [
-        "Michelle Zauner"
-      ],
+      "year": 2021,
       "isbn_13": "9784947774750",
-      "isbn_10": "4947774754",
+      "isbn_10": "4947774757",
+      "pages": 239,
       "genres": [
         "Memoir",
         "Food"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2021,
-      "page_count": 239
+      "authors": [
+        "Michelle Zauner"
+      ],
+      "source": "seed"
     },
     {
       "title": "Cryoburn",
@@ -18404,18 +18480,18 @@
     },
     {
       "title": "Dead Astronauts",
-      "authors": [
-        "Jeff VanderMeer"
-      ],
+      "year": 2019,
       "isbn_13": "9780241444078",
-      "isbn_10": "0241444071",
+      "isbn_10": "024144407X",
+      "pages": 208,
       "genres": [
         "Science Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2019,
-      "page_count": 256
+      "authors": [
+        "Jeff VanderMeer"
+      ],
+      "source": "seed"
     },
     {
       "title": "Dead Beat",
@@ -20385,6 +20461,22 @@
       "source": "seed"
     },
     {
+      "title": "Disappearance at Devil's Rock",
+      "year": 2016,
+      "isbn_13": "9782042621320",
+      "isbn_10": "2042621328",
+      "pages": 336,
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "language": "en",
+      "authors": [
+        "Paul Tremblay"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Discipline and Punish",
       "authors": [
         "Michel Foucault"
@@ -20879,18 +20971,18 @@
     },
     {
       "title": "Don't Fear the Reaper",
-      "authors": [
-        "Stephen Graham Jones"
-      ],
+      "year": 2023,
       "isbn_13": "9788132041436",
-      "isbn_10": "8132041437",
+      "isbn_10": "8132041434",
+      "pages": 432,
       "genres": [
         "Horror"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2023,
-      "page_count": 528
+      "authors": [
+        "Stephen Graham Jones"
+      ],
+      "source": "seed"
     },
     {
       "title": "Don't Go",
@@ -21491,19 +21583,19 @@
     },
     {
       "title": "Drown",
-      "authors": [
-        "Junot Díaz"
-      ],
+      "year": 1996,
       "isbn_13": "9785770633924",
-      "isbn_10": "5770633921",
+      "isbn_10": "577063392X",
+      "pages": 208,
       "genres": [
         "Literary Fiction",
         "Short Stories"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1996,
-      "page_count": 208
+      "authors": [
+        "Junot Díaz"
+      ],
+      "source": "seed"
     },
     {
       "title": "Drums of Autumn",
@@ -22974,6 +23066,22 @@
       "source": "seed"
     },
     {
+      "title": "Erasure",
+      "year": 2001,
+      "isbn_13": "9784037801670",
+      "isbn_10": "403780167X",
+      "pages": 294,
+      "genres": [
+        "Literary Fiction",
+        "Satire"
+      ],
+      "language": "en",
+      "authors": [
+        "Percival Everett"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Eric",
       "authors": [
         "Terry Pratchett"
@@ -23628,18 +23736,18 @@
     },
     {
       "title": "Exit Strategy",
-      "authors": [
-        "Martha Wells"
-      ],
+      "year": 2018,
       "isbn_13": "9787275334009",
-      "isbn_10": "7275334003",
+      "isbn_10": "7275334008",
+      "pages": 176,
       "genres": [
         "Science Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2018,
-      "page_count": 176
+      "authors": [
+        "Martha Wells"
+      ],
+      "source": "seed"
     },
     {
       "title": "Exit West",
@@ -23901,18 +24009,19 @@
     },
     {
       "title": "Faithful Place",
+      "year": 2010,
+      "isbn_13": "9786245150533",
+      "isbn_10": "624515053X",
+      "pages": 400,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
       "authors": [
         "Tana French"
       ],
-      "isbn_13": "9786245150533",
-      "isbn_10": "6245150531",
-      "genres": [
-        "Mystery"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2010,
-      "page_count": 400
+      "source": "seed"
     },
     {
       "title": "Faithless",
@@ -24529,6 +24638,21 @@
       "page_count": 357
     },
     {
+      "title": "Feminist Theory",
+      "year": 1984,
+      "isbn_13": "9782153132081",
+      "isbn_10": "2153132083",
+      "pages": 174,
+      "genres": [
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "bell hooks"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Fences",
       "authors": [
         "August Wilson"
@@ -24627,18 +24751,18 @@
     },
     {
       "title": "Fevered Star",
-      "authors": [
-        "Rebecca Roanhorse"
-      ],
+      "year": 2022,
       "isbn_13": "9785213822564",
-      "isbn_10": "5213822568",
+      "isbn_10": "5213822563",
+      "pages": 410,
       "genres": [
         "Fantasy"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2022,
-      "page_count": 400
+      "authors": [
+        "Rebecca Roanhorse"
+      ],
+      "source": "seed"
     },
     {
       "title": "Fevre Dream",
@@ -25829,6 +25953,22 @@
       "source": "seed"
     },
     {
+      "title": "Fortune Smiles",
+      "year": 2015,
+      "isbn_13": "9786441338056",
+      "isbn_10": "6441338051",
+      "pages": 230,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Adam Johnson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Forty Lashes Less One",
       "year": 1972,
       "isbn_13": "9785210383631",
@@ -26180,18 +26320,18 @@
     },
     {
       "title": "Free Food for Millionaires",
-      "authors": [
-        "Min Jin Lee"
-      ],
+      "year": 2007,
       "isbn_13": "9781389221064",
-      "isbn_10": "1389221067",
+      "isbn_10": "1389221064",
+      "pages": 566,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2007,
-      "page_count": 561
+      "authors": [
+        "Min Jin Lee"
+      ],
+      "source": "seed"
     },
     {
       "title": "Free to Choose",
@@ -26644,18 +26784,19 @@
     },
     {
       "title": "Fugitive Telemetry",
+      "year": 2021,
+      "isbn_13": "9785963651339",
+      "isbn_10": "5963651335",
+      "pages": 168,
+      "genres": [
+        "Science Fiction",
+        "Mystery"
+      ],
+      "language": "en",
       "authors": [
         "Martha Wells"
       ],
-      "isbn_13": "9785963651339",
-      "isbn_10": "5963651336",
-      "genres": [
-        "Science Fiction"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2021,
-      "page_count": 168
+      "source": "seed"
     },
     {
       "title": "Full Black",
@@ -29107,6 +29248,21 @@
       "source": "seed"
     },
     {
+      "title": "Half Broke Horses",
+      "year": 2009,
+      "isbn_13": "9781148770437",
+      "isbn_10": "1148770434",
+      "pages": 261,
+      "genres": [
+        "Memoir"
+      ],
+      "language": "en",
+      "authors": [
+        "Jeannette Walls"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Half Girlfriend",
       "authors": [
         "Chetan Bhagat"
@@ -30045,18 +30201,18 @@
     },
     {
       "title": "Heavy",
-      "authors": [
-        "Kiese Laymon"
-      ],
+      "year": 2018,
       "isbn_13": "9784566198418",
-      "isbn_10": "4566198413",
+      "isbn_10": "4566198418",
+      "pages": 241,
       "genres": [
         "Memoir"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2018,
-      "page_count": 241
+      "authors": [
+        "Kiese Laymon"
+      ],
+      "source": "seed"
     },
     {
       "title": "Heavy Time",
@@ -31239,18 +31395,18 @@
     },
     {
       "title": "Horror Movie",
-      "authors": [
-        "Paul Tremblay"
-      ],
+      "year": 2024,
       "isbn_13": "9782132130077",
-      "isbn_10": "2132130078",
+      "isbn_10": "2132130073",
+      "pages": 277,
       "genres": [
         "Horror"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2024,
-      "page_count": 288
+      "authors": [
+        "Paul Tremblay"
+      ],
+      "source": "seed"
     },
     {
       "title": "Horseman, Pass By",
@@ -31672,19 +31828,18 @@
     },
     {
       "title": "How to Live Safely in a Science Fictional Universe",
-      "authors": [
-        "Charles Yu"
-      ],
+      "year": 2010,
       "isbn_13": "9780444082688",
-      "isbn_10": "0444082689",
+      "isbn_10": "0444082682",
+      "pages": 233,
       "genres": [
-        "Literary Fiction",
         "Science Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2010,
-      "page_count": 239
+      "authors": [
+        "Charles Yu"
+      ],
+      "source": "seed"
     },
     {
       "title": "How to Raise an Elephant",
@@ -31880,19 +32035,19 @@
     },
     {
       "title": "Hummingbird Salamander",
-      "authors": [
-        "Jeff VanderMeer"
-      ],
+      "year": 2021,
       "isbn_13": "9782141132550",
-      "isbn_10": "214113255X",
+      "isbn_10": "2141132551",
+      "pages": 320,
       "genres": [
         "Science Fiction",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2021,
-      "page_count": 348
+      "authors": [
+        "Jeff VanderMeer"
+      ],
+      "source": "seed"
     },
     {
       "title": "Hunger Makes Me a Modern Girl",
@@ -33307,19 +33462,19 @@
     },
     {
       "title": "In the Distance",
-      "authors": [
-        "Hernan Diaz"
-      ],
+      "year": 2017,
       "isbn_13": "9789131246587",
-      "isbn_10": "9131246583",
+      "isbn_10": "9131246588",
+      "pages": 246,
       "genres": [
         "Literary Fiction",
         "Western"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2017,
-      "page_count": 256
+      "authors": [
+        "Hernan Diaz"
+      ],
+      "source": "seed"
     },
     {
       "title": "In the Dream House",
@@ -34133,19 +34288,19 @@
     },
     {
       "title": "Interior Chinatown",
-      "authors": [
-        "Charles Yu"
-      ],
+      "year": 2020,
       "isbn_13": "9783435003112",
-      "isbn_10": "3435003111",
+      "isbn_10": "343500311X",
+      "pages": 273,
       "genres": [
         "Literary Fiction",
         "Satire"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2020,
-      "page_count": 273
+      "authors": [
+        "Charles Yu"
+      ],
+      "source": "seed"
     },
     {
       "title": "Intermezzo",
@@ -34272,6 +34427,22 @@
       "language": "en",
       "authors": [
         "Tad Williams"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Into the Water",
+      "year": 2017,
+      "isbn_13": "9788524271403",
+      "isbn_10": "8524271401",
+      "pages": 386,
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "authors": [
+        "Paula Hawkins"
       ],
       "source": "seed"
     },
@@ -34922,48 +35093,48 @@
     },
     {
       "title": "Jade City",
-      "authors": [
-        "Fonda Lee"
-      ],
+      "year": 2017,
       "isbn_13": "9783849835118",
-      "isbn_10": "3849835111",
+      "isbn_10": "384983511X",
+      "pages": 560,
       "genres": [
         "Fantasy"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2017,
-      "page_count": 498
+      "authors": [
+        "Fonda Lee"
+      ],
+      "source": "seed"
     },
     {
       "title": "Jade Legacy",
-      "authors": [
-        "Fonda Lee"
-      ],
+      "year": 2021,
       "isbn_13": "9785174350359",
-      "isbn_10": "5174350354",
+      "isbn_10": "5174350357",
+      "pages": 725,
       "genres": [
         "Fantasy"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2021,
-      "page_count": 752
+      "authors": [
+        "Fonda Lee"
+      ],
+      "source": "seed"
     },
     {
       "title": "Jade War",
-      "authors": [
-        "Fonda Lee"
-      ],
+      "year": 2019,
       "isbn_13": "9783555736389",
-      "isbn_10": "3555736388",
+      "isbn_10": "3555736383",
+      "pages": 590,
       "genres": [
         "Fantasy"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2019,
-      "page_count": 592
+      "authors": [
+        "Fonda Lee"
+      ],
+      "source": "seed"
     },
     {
       "title": "Jailbird",
@@ -34980,6 +35151,22 @@
       "description": "",
       "authors": [
         "Kurt Vonnegut"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "James",
+      "year": 2024,
+      "isbn_13": "9783061613044",
+      "isbn_10": "3061613043",
+      "pages": 303,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Percival Everett"
       ],
       "source": "seed"
     },
@@ -36546,18 +36733,18 @@
     },
     {
       "title": "Know My Name",
-      "authors": [
-        "Chanel Miller"
-      ],
+      "year": 2019,
       "isbn_13": "9780003212402",
-      "isbn_10": "0003212408",
+      "isbn_10": "0003212403",
+      "pages": 368,
       "genres": [
         "Memoir"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2019,
-      "page_count": 368
+      "authors": [
+        "Chanel Miller"
+      ],
+      "source": "seed"
     },
     {
       "title": "Koko",
@@ -37496,6 +37683,38 @@
       "page_count": 1463
     },
     {
+      "title": "Less",
+      "year": 2017,
+      "isbn_13": "9789633944899",
+      "isbn_10": "9633944892",
+      "pages": 261,
+      "genres": [
+        "Literary Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Andrew Sean Greer"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Less Is Lost",
+      "year": 2022,
+      "isbn_13": "9788686981912",
+      "isbn_10": "8686981914",
+      "pages": 257,
+      "genres": [
+        "Literary Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Andrew Sean Greer"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Lessons",
       "authors": [
         "Ian McEwan"
@@ -38175,6 +38394,21 @@
     },
     {
       "title": "Lila",
+      "year": 1991,
+      "isbn_13": "9785230523338",
+      "isbn_10": "5230523335",
+      "pages": 409,
+      "genres": [
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Robert M. Pirsig"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Lila",
       "authors": [
         "Marilynne Robinson"
       ],
@@ -38187,22 +38421,6 @@
       "source": "seed",
       "year_published": 2014,
       "page_count": 261
-    },
-    {
-      "title": "Lila",
-      "authors": [
-        "Robert M. Pirsig"
-      ],
-      "isbn_13": "9785230523338",
-      "isbn_10": "5230523336",
-      "genres": [
-        "Philosophy",
-        "Literary Fiction"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 1991,
-      "page_count": 409
     },
     {
       "title": "Lincoln in the Bardo",
@@ -38344,6 +38562,21 @@
       "language": "en",
       "authors": [
         "Walter Mosley"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Little Heaven",
+      "year": 2017,
+      "isbn_13": "9785534532982",
+      "isbn_10": "5534532981",
+      "pages": 480,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Nick Cutter"
       ],
       "source": "seed"
     },
@@ -38766,6 +38999,21 @@
       "page_count": 176
     },
     {
+      "title": "Long Division",
+      "year": 2013,
+      "isbn_13": "9782870293850",
+      "isbn_10": "2870293859",
+      "pages": 249,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kiese Laymon"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Long Lost",
       "year": 2009,
       "isbn_13": "9783233300390",
@@ -39067,6 +39315,22 @@
       "description": "",
       "authors": [
         "Peter Straub"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Lost in the City",
+      "year": 1992,
+      "isbn_13": "9785455330353",
+      "isbn_10": "5455330354",
+      "pages": 249,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Edward P. Jones"
       ],
       "source": "seed"
     },
@@ -39884,19 +40148,19 @@
     },
     {
       "title": "Manhattan Beach",
-      "authors": [
-        "Jennifer Egan"
-      ],
+      "year": 2017,
       "isbn_13": "9782804250928",
-      "isbn_10": "280425092X",
+      "isbn_10": "2804250921",
+      "pages": 438,
       "genres": [
         "Literary Fiction",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2017,
-      "page_count": 438
+      "authors": [
+        "Jennifer Egan"
+      ],
+      "source": "seed"
     },
     {
       "title": "Manhattan Is My Beat",
@@ -40092,6 +40356,22 @@
       "source": "seed",
       "year_published": 1963,
       "page_count": 121
+    },
+    {
+      "title": "Marina",
+      "year": 1999,
+      "isbn_13": "9785479380280",
+      "isbn_10": "547938028X",
+      "pages": 323,
+      "genres": [
+        "Young Adult",
+        "Mystery"
+      ],
+      "language": "es",
+      "authors": [
+        "Carlos Ruiz Zafón"
+      ],
+      "source": "seed"
     },
     {
       "title": "Marker",
@@ -40494,6 +40774,22 @@
       "language": "en",
       "authors": [
         "Colleen Hoover"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Maybe You Should Talk to Someone",
+      "year": 2019,
+      "isbn_13": "9787830715465",
+      "isbn_10": "7830715464",
+      "pages": 415,
+      "genres": [
+        "Psychology",
+        "Memoir"
+      ],
+      "language": "en",
+      "authors": [
+        "Lori Gottlieb"
       ],
       "source": "seed"
     },
@@ -41457,6 +41753,21 @@
       "source": "seed"
     },
     {
+      "title": "Mirage of the Lost",
+      "year": 2023,
+      "isbn_13": "9789083977379",
+      "isbn_10": "9083977377",
+      "pages": 420,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Rebecca Roanhorse"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Miramar",
       "authors": [
         "Naguib Mahfouz"
@@ -41871,6 +42182,21 @@
       "language": "en",
       "authors": [
         "Michael Lewis"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Mongrels",
+      "year": 2016,
+      "isbn_13": "9780145065003",
+      "isbn_10": "0145065005",
+      "pages": 300,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Stephen Graham Jones"
       ],
       "source": "seed"
     },
@@ -43652,18 +43978,18 @@
     },
     {
       "title": "Network Effect",
-      "authors": [
-        "Martha Wells"
-      ],
+      "year": 2020,
       "isbn_13": "9782380414301",
       "isbn_10": "2380414300",
+      "pages": 352,
       "genres": [
         "Science Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2020,
-      "page_count": 350
+      "authors": [
+        "Martha Wells"
+      ],
+      "source": "seed"
     },
     {
       "title": "Neuromancer",
@@ -44559,6 +44885,21 @@
       "language": "en",
       "authors": [
         "Ruth Rendell"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "No Mud, No Lotus",
+      "year": 2014,
+      "isbn_13": "9783595172451",
+      "isbn_10": "3595172450",
+      "pages": 116,
+      "genres": [
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Thich Nhat Hanh"
       ],
       "source": "seed"
     },
@@ -48062,6 +48403,21 @@
       "page_count": 279
     },
     {
+      "title": "Peace Is Every Step",
+      "year": 1991,
+      "isbn_13": "9786098124590",
+      "isbn_10": "6098124590",
+      "pages": 134,
+      "genres": [
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Thich Nhat Hanh"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Pebble in the Sky",
       "authors": [
         "Isaac Asimov"
@@ -51497,18 +51853,19 @@
     },
     {
       "title": "Red Seas Under Red Skies",
+      "year": 2007,
+      "isbn_13": "9780033224093",
+      "isbn_10": "0033224092",
+      "pages": 558,
+      "genres": [
+        "Fantasy",
+        "Adventure"
+      ],
+      "language": "en",
       "authors": [
         "Scott Lynch"
       ],
-      "isbn_13": "9780033224093",
-      "isbn_10": "0033224099",
-      "genres": [
-        "Fantasy"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2007,
-      "page_count": 558
+      "source": "seed"
     },
     {
       "title": "Red Sorghum",
@@ -52629,18 +52986,18 @@
     },
     {
       "title": "Rogue Protocol",
-      "authors": [
-        "Martha Wells"
-      ],
+      "year": 2018,
       "isbn_13": "9784309348735",
-      "isbn_10": "4309348734",
+      "isbn_10": "4309348737",
+      "pages": 160,
       "genres": [
         "Science Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2018,
-      "page_count": 160
+      "authors": [
+        "Martha Wells"
+      ],
+      "source": "seed"
     },
     {
       "title": "Rogues",
@@ -54325,18 +54682,19 @@
     },
     {
       "title": "Sea of Tranquility",
+      "year": 2022,
+      "isbn_13": "9787269362568",
+      "isbn_10": "7269362567",
+      "pages": 255,
+      "genres": [
+        "Science Fiction",
+        "Literary Fiction"
+      ],
+      "language": "en",
       "authors": [
         "Emily St. John Mandel"
       ],
-      "isbn_13": "9787269362568",
-      "isbn_10": "7269362564",
-      "genres": [
-        "Science Fiction"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2022,
-      "page_count": 255
+      "source": "seed"
     },
     {
       "title": "Sea Prayer",
@@ -58585,6 +58943,21 @@
       "source": "seed"
     },
     {
+      "title": "Start Where You Are",
+      "year": 1994,
+      "isbn_13": "9780830450015",
+      "isbn_10": "0830450014",
+      "pages": 166,
+      "genres": [
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Pema Chödrön"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Starter Villain",
       "authors": [
         "John Scalzi"
@@ -59047,18 +59420,18 @@
     },
     {
       "title": "Storm of Locusts",
-      "authors": [
-        "Rebecca Roanhorse"
-      ],
+      "year": 2019,
       "isbn_13": "9784986153844",
-      "isbn_10": "4986153846",
+      "isbn_10": "4986153845",
+      "pages": 317,
       "genres": [
         "Fantasy"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2019,
-      "page_count": 320
+      "authors": [
+        "Rebecca Roanhorse"
+      ],
+      "source": "seed"
     },
     {
       "title": "Stormy Weather",
@@ -59790,18 +60163,18 @@
     },
     {
       "title": "Survivor Song",
-      "authors": [
-        "Paul Tremblay"
-      ],
+      "year": 2020,
       "isbn_13": "9782132151638",
-      "isbn_10": "2132151636",
+      "isbn_10": "2132151635",
+      "pages": 288,
       "genres": [
         "Horror"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2020,
-      "page_count": 310
+      "authors": [
+        "Paul Tremblay"
+      ],
+      "source": "seed"
     },
     {
       "title": "Suttree",
@@ -60015,18 +60388,18 @@
     },
     {
       "title": "System Collapse",
-      "authors": [
-        "Martha Wells"
-      ],
+      "year": 2023,
       "isbn_13": "9784345002400",
       "isbn_10": "4345002400",
+      "pages": 245,
       "genres": [
         "Science Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2023,
-      "page_count": 245
+      "authors": [
+        "Martha Wells"
+      ],
+      "source": "seed"
     },
     {
       "title": "T Is for Trespass",
@@ -60568,6 +60941,21 @@
       "source": "seed",
       "year_published": 2011,
       "page_count": 38
+    },
+    {
+      "title": "Teaching to Transgress",
+      "year": 1994,
+      "isbn_13": "9784592122104",
+      "isbn_10": "4592122100",
+      "pages": 216,
+      "genres": [
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "bell hooks"
+      ],
+      "source": "seed"
     },
     {
       "title": "Team of Rivals",
@@ -61844,34 +62232,34 @@
     },
     {
       "title": "The Angel of Indian Lake",
-      "authors": [
-        "Stephen Graham Jones"
-      ],
+      "year": 2024,
       "isbn_13": "9781100998589",
-      "isbn_10": "1100998586",
+      "isbn_10": "1100998585",
+      "pages": 400,
       "genres": [
         "Horror"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2024,
-      "page_count": 352
+      "authors": [
+        "Stephen Graham Jones"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Angel's Game",
-      "authors": [
-        "Carlos Ruiz Zafón"
-      ],
+      "year": 2008,
       "isbn_13": "9780343208646",
-      "isbn_10": "0343208644",
+      "isbn_10": "0343208647",
+      "pages": 531,
       "genres": [
-        "Historical Fiction",
+        "Literary Fiction",
         "Mystery"
       ],
       "language": "es",
-      "source": "seed",
-      "year_published": 2008,
-      "page_count": 531
+      "authors": [
+        "Carlos Ruiz Zafón"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Angels Weep",
@@ -61886,6 +62274,22 @@
       "language": "en",
       "authors": [
         "Wilbur Smith"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Anomaly",
+      "year": 2020,
+      "isbn_13": "9788612585542",
+      "isbn_10": "8612585545",
+      "pages": 327,
+      "genres": [
+        "Science Fiction",
+        "Literary Fiction"
+      ],
+      "language": "fr",
+      "authors": [
+        "Hervé Le Tellier"
       ],
       "source": "seed"
     },
@@ -63691,19 +64095,19 @@
     },
     {
       "title": "The Body Keeps the Score",
-      "authors": [
-        "Bessel van der Kolk"
-      ],
+      "year": 2014,
       "isbn_13": "9785428017953",
-      "isbn_10": "5428017953",
+      "isbn_10": "5428017958",
+      "pages": 464,
       "genres": [
         "Psychology",
         "Science"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2014,
-      "page_count": 464
+      "authors": [
+        "Bessel van der Kolk"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Body: A Guide for Occupants",
@@ -63821,18 +64225,19 @@
     },
     {
       "title": "The Bone Season",
+      "year": 2013,
+      "isbn_13": "9783082246047",
+      "isbn_10": "3082246047",
+      "pages": 466,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
       "authors": [
         "Samantha Shannon"
       ],
-      "isbn_13": "9783082246047",
-      "isbn_10": "3082246044",
-      "genres": [
-        "Fantasy"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2013,
-      "page_count": 466
+      "source": "seed"
     },
     {
       "title": "The Bonehunters",
@@ -64394,18 +64799,18 @@
     },
     {
       "title": "The Brief Wondrous Life of Oscar Wao",
-      "authors": [
-        "Junot Díaz"
-      ],
+      "year": 2007,
       "isbn_13": "9780345073143",
-      "isbn_10": "0345073142",
+      "isbn_10": "0345073149",
+      "pages": 340,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2007,
-      "page_count": 340
+      "authors": [
+        "Junot Díaz"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Broken Kingdoms",
@@ -64633,6 +65038,21 @@
       "source": "seed"
     },
     {
+      "title": "The Burning Kingdoms",
+      "year": 2023,
+      "isbn_13": "9785015007305",
+      "isbn_10": "5015007309",
+      "pages": 512,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Tasha Suri"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Burning Land",
       "year": 2009,
       "isbn_13": "9780141714448",
@@ -64748,19 +65168,19 @@
     },
     {
       "title": "The Calculating Stars",
-      "authors": [
-        "Mary Robinette Kowal"
-      ],
+      "year": 2018,
       "isbn_13": "9786912712934",
-      "isbn_10": "6912712932",
+      "isbn_10": "6912712939",
+      "pages": 431,
       "genres": [
         "Science Fiction",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2018,
-      "page_count": 432
+      "authors": [
+        "Mary Robinette Kowal"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Calcutta Chromosome",
@@ -64861,19 +65281,19 @@
     },
     {
       "title": "The Candy House",
-      "authors": [
-        "Jennifer Egan"
-      ],
+      "year": 2022,
       "isbn_13": "9783492700481",
-      "isbn_10": "3492700489",
+      "isbn_10": "3492700482",
+      "pages": 336,
       "genres": [
         "Literary Fiction",
         "Science Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2022,
-      "page_count": 352
+      "authors": [
+        "Jennifer Egan"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Cantos",
@@ -66351,18 +66771,18 @@
     },
     {
       "title": "The Committed",
-      "authors": [
-        "Viet Thanh Nguyen"
-      ],
+      "year": 2021,
       "isbn_13": "9783595000105",
-      "isbn_10": "3595000102",
+      "isbn_10": "3595000109",
+      "pages": 400,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2021,
-      "page_count": 396
+      "authors": [
+        "Viet Thanh Nguyen"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Commodore",
@@ -67335,19 +67755,18 @@
     },
     {
       "title": "The Daughter of Doctor Moreau",
-      "authors": [
-        "Silvia Moreno-Garcia"
-      ],
+      "year": 2022,
       "isbn_13": "9781859231111",
-      "isbn_10": "185923111X",
+      "isbn_10": "1859231111",
+      "pages": 309,
       "genres": [
-        "Thriller",
         "Science Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2022,
-      "page_count": 320
+      "authors": [
+        "Silvia Moreno-Garcia"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Day of the Jackal",
@@ -67608,18 +68027,18 @@
     },
     {
       "title": "The Deep",
-      "authors": [
-        "Nick Cutter"
-      ],
+      "year": 2015,
       "isbn_13": "9788079227436",
-      "isbn_10": "8079227438",
+      "isbn_10": "8079227433",
+      "pages": 394,
       "genres": [
         "Horror"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2015,
-      "page_count": 394
+      "authors": [
+        "Nick Cutter"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Deep Range",
@@ -69731,18 +70150,18 @@
     },
     {
       "title": "The Fated Sky",
-      "authors": [
-        "Mary Robinette Kowal"
-      ],
+      "year": 2018,
       "isbn_13": "9783927424548",
-      "isbn_10": "3927424544",
+      "isbn_10": "3927424547",
+      "pages": 384,
       "genres": [
         "Science Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2018,
-      "page_count": 384
+      "authors": [
+        "Mary Robinette Kowal"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Fault in Our Stars",
@@ -70132,6 +70551,21 @@
       "source": "seed",
       "year_published": 1993,
       "page_count": 963
+    },
+    {
+      "title": "The Fires of Vengeance",
+      "year": 2020,
+      "isbn_13": "9784769201533",
+      "isbn_10": "4769201539",
+      "pages": 560,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Evan Winter"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Firm",
@@ -70770,6 +71204,21 @@
       "language": "en",
       "authors": [
         "Alexander McCall Smith"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Fury",
+      "year": 2024,
+      "isbn_13": "9780003714166",
+      "isbn_10": "0003714160",
+      "pages": 336,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Alex Michaelides"
       ],
       "source": "seed"
     },
@@ -71621,18 +72070,18 @@
     },
     {
       "title": "The Glass Hotel",
-      "authors": [
-        "Emily St. John Mandel"
-      ],
+      "year": 2020,
       "isbn_13": "9782507111205",
-      "isbn_10": "2507111208",
+      "isbn_10": "2507111203",
+      "pages": 302,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2020,
-      "page_count": 302
+      "authors": [
+        "Emily St. John Mandel"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Glass Key",
@@ -71700,18 +72149,18 @@
     },
     {
       "title": "The Goblin Emperor",
-      "authors": [
-        "Katherine Addison"
-      ],
+      "year": 2014,
       "isbn_13": "9781443860437",
-      "isbn_10": "1443860433",
+      "isbn_10": "1443860438",
+      "pages": 448,
       "genres": [
         "Fantasy"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2014,
-      "page_count": 448
+      "authors": [
+        "Katherine Addison"
+      ],
+      "source": "seed"
     },
     {
       "title": "The God Delusion",
@@ -72417,19 +72866,18 @@
     },
     {
       "title": "The Grief of Stones",
+      "year": 2022,
+      "isbn_13": "9787013093014",
+      "isbn_10": "7013093014",
+      "pages": 288,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
       "authors": [
         "Katherine Addison"
       ],
-      "isbn_13": "9787013093014",
-      "isbn_10": "7013093017",
-      "genres": [
-        "Fantasy",
-        "Mystery"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2022,
-      "page_count": 272
+      "source": "seed"
     },
     {
       "title": "The Ground Beneath Her Feet",
@@ -72947,6 +73395,21 @@
       "description": "",
       "authors": [
         "Maya Angelou"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Heart of the Buddha's Teaching",
+      "year": 1998,
+      "isbn_13": "9781515147107",
+      "isbn_10": "1515147101",
+      "pages": 288,
+      "genres": [
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Thich Nhat Hanh"
       ],
       "source": "seed"
     },
@@ -74024,18 +74487,18 @@
     },
     {
       "title": "The Hunter",
-      "authors": [
-        "Tana French"
-      ],
+      "year": 2024,
       "isbn_13": "9782437388401",
       "isbn_10": "2437388400",
+      "pages": 371,
       "genres": [
         "Mystery"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2024,
-      "page_count": 368
+      "authors": [
+        "Tana French"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Hunting Party",
@@ -74882,6 +75345,21 @@
       "source": "seed"
     },
     {
+      "title": "The Jasmine Throne",
+      "year": 2021,
+      "isbn_13": "9780516395739",
+      "isbn_10": "0516395737",
+      "pages": 533,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Tasha Suri"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Jealousy Man",
       "year": 2021,
       "isbn_13": "9789272040204",
@@ -75409,6 +75887,22 @@
       "source": "seed"
     },
     {
+      "title": "The Known World",
+      "year": 2003,
+      "isbn_13": "9782945343510",
+      "isbn_10": "2945343514",
+      "pages": 388,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Edward P. Jones"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Kreutzer Sonata",
       "year": 1889,
       "isbn_13": "9781211494147",
@@ -75443,19 +75937,19 @@
     },
     {
       "title": "The Labyrinth of the Spirits",
-      "authors": [
-        "Carlos Ruiz Zafón"
-      ],
+      "year": 2016,
       "isbn_13": "9783345182730",
-      "isbn_10": "3345182734",
+      "isbn_10": "3345182737",
+      "pages": 821,
       "genres": [
-        "Historical Fiction",
+        "Literary Fiction",
         "Mystery"
       ],
       "language": "es",
-      "source": "seed",
-      "year_published": 2016,
-      "page_count": 821
+      "authors": [
+        "Carlos Ruiz Zafón"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Lacuna",
@@ -75617,6 +76111,22 @@
       "language": "en",
       "authors": [
         "Liane Moriarty"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Last Astronaut",
+      "year": 2019,
+      "isbn_13": "9788400811938",
+      "isbn_10": "8400811938",
+      "pages": 416,
+      "genres": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "David Wellington"
       ],
       "source": "seed"
     },
@@ -77627,18 +78137,34 @@
     },
     {
       "title": "The Maid",
-      "authors": [
-        "Nita Prose"
-      ],
+      "year": 2022,
       "isbn_13": "9787134759233",
-      "isbn_10": "7134759237",
+      "isbn_10": "7134759234",
+      "pages": 305,
       "genres": [
         "Mystery"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2022,
-      "page_count": 304
+      "authors": [
+        "Nita Prose"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Maidens",
+      "year": 2021,
+      "isbn_13": "9784109095419",
+      "isbn_10": "4109095414",
+      "pages": 337,
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "authors": [
+        "Alex Michaelides"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Maids",
@@ -78530,6 +79056,21 @@
       "source": "seed"
     },
     {
+      "title": "The Message",
+      "year": 2024,
+      "isbn_13": "9781081949952",
+      "isbn_10": "1081949958",
+      "pages": 240,
+      "genres": [
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Ta-Nehisi Coates"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Message to the Planet",
       "year": 1989,
       "isbn_13": "9782335374438",
@@ -78627,18 +79168,18 @@
     },
     {
       "title": "The Mime Order",
-      "authors": [
-        "Samantha Shannon"
-      ],
+      "year": 2015,
       "isbn_13": "9789617118056",
-      "isbn_10": "961711805X",
+      "isbn_10": "9617118051",
+      "pages": 528,
       "genres": [
         "Fantasy"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2015,
-      "page_count": 528
+      "authors": [
+        "Samantha Shannon"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Mimic Men",
@@ -78766,6 +79307,21 @@
       "language": "en",
       "authors": [
         "Alexander McCall Smith"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Miracle of Mindfulness",
+      "year": 1975,
+      "isbn_13": "9781534251793",
+      "isbn_10": "1534251790",
+      "pages": 140,
+      "genres": [
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Thich Nhat Hanh"
       ],
       "source": "seed"
     },
@@ -79249,18 +79805,18 @@
     },
     {
       "title": "The Mystery Guest",
-      "authors": [
-        "Nita Prose"
-      ],
+      "year": 2023,
       "isbn_13": "9781626522213",
-      "isbn_10": "1626522219",
+      "isbn_10": "1626522212",
+      "pages": 318,
       "genres": [
         "Mystery"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2023,
-      "page_count": 336
+      "authors": [
+        "Nita Prose"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Mystic Masseur",
@@ -79611,6 +80167,22 @@
       "language": "en",
       "authors": [
         "John Kennedy Toole"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Netanyahus",
+      "year": 2021,
+      "isbn_13": "9782416065347",
+      "isbn_10": "2416065348",
+      "pages": 237,
+      "genres": [
+        "Literary Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Joshua Cohen"
       ],
       "source": "seed"
     },
@@ -80217,6 +80789,21 @@
       "page_count": 432
     },
     {
+      "title": "The Oleander Sword",
+      "year": 2022,
+      "isbn_13": "9786221033324",
+      "isbn_10": "6221033329",
+      "pages": 496,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Tasha Suri"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Omnivore's Dilemma",
       "authors": [
         "Michael Pollan"
@@ -80431,6 +81018,21 @@
       "source": "seed",
       "year_published": 1996,
       "page_count": 295
+    },
+    {
+      "title": "The Orphan Master's Son",
+      "year": 2012,
+      "isbn_13": "9788141600112",
+      "isbn_10": "8141600114",
+      "pages": 443,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Adam Johnson"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Osterman Weekend",
@@ -80755,18 +81357,18 @@
     },
     {
       "title": "The Pallbearers Club",
-      "authors": [
-        "Paul Tremblay"
-      ],
+      "year": 2022,
       "isbn_13": "9780624053095",
-      "isbn_10": "0624053091",
+      "isbn_10": "062405309X",
+      "pages": 288,
       "genres": [
         "Horror"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2022,
-      "page_count": 256
+      "authors": [
+        "Paul Tremblay"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Panda's Thumb",
@@ -81436,6 +82038,21 @@
       "source": "seed"
     },
     {
+      "title": "The Places That Scare You",
+      "year": 2001,
+      "isbn_13": "9782472636536",
+      "isbn_10": "2472636532",
+      "pages": 145,
+      "genres": [
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Pema Chödrön"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Plague",
       "authors": [
         "Albert Camus"
@@ -81963,6 +82580,22 @@
       "source": "seed"
     },
     {
+      "title": "The Prince of Mist",
+      "year": 1993,
+      "isbn_13": "9781310020599",
+      "isbn_10": "1310020590",
+      "pages": 199,
+      "genres": [
+        "Young Adult",
+        "Mystery"
+      ],
+      "language": "es",
+      "authors": [
+        "Carlos Ruiz Zafón"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Princess Bride",
       "authors": [
         "William Goldman"
@@ -82016,19 +82649,19 @@
     },
     {
       "title": "The Prisoner of Heaven",
-      "authors": [
-        "Carlos Ruiz Zafón"
-      ],
+      "year": 2011,
       "isbn_13": "9782450456538",
-      "isbn_10": "2450456538",
+      "isbn_10": "2450456533",
+      "pages": 279,
       "genres": [
-        "Historical Fiction",
+        "Literary Fiction",
         "Mystery"
       ],
       "language": "es",
-      "source": "seed",
-      "year_published": 2011,
-      "page_count": 303
+      "authors": [
+        "Carlos Ruiz Zafón"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Private Life of an Indian Prince",
@@ -82430,6 +83063,21 @@
       "source": "seed"
     },
     {
+      "title": "The Rage of Dragons",
+      "year": 2017,
+      "isbn_13": "9783211807606",
+      "isbn_10": "3211807603",
+      "pages": 544,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Evan Winter"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Rainmaker",
       "authors": [
         "John Grisham"
@@ -82816,6 +83464,22 @@
       "source": "seed"
     },
     {
+      "title": "The Refugees",
+      "year": 2017,
+      "isbn_13": "9780541148515",
+      "isbn_10": "0541148515",
+      "pages": 209,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Viet Thanh Nguyen"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Regulators",
       "authors": [
         "Stephen King"
@@ -82849,18 +83513,18 @@
     },
     {
       "title": "The Relentless Moon",
-      "authors": [
-        "Mary Robinette Kowal"
-      ],
+      "year": 2020,
       "isbn_13": "9780233059945",
-      "isbn_10": "0233059946",
+      "isbn_10": "0233059945",
+      "pages": 544,
       "genres": [
         "Science Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2020,
-      "page_count": 544
+      "authors": [
+        "Mary Robinette Kowal"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Reluctant Fundamentalist",
@@ -82932,18 +83596,18 @@
     },
     {
       "title": "The Republic of Thieves",
-      "authors": [
-        "Scott Lynch"
-      ],
+      "year": 2013,
       "isbn_13": "9786468532901",
-      "isbn_10": "6468532906",
+      "isbn_10": "6468532905",
+      "pages": 512,
       "genres": [
         "Fantasy"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2013,
-      "page_count": 517
+      "authors": [
+        "Scott Lynch"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Republic of Wine",
@@ -84273,18 +84937,18 @@
     },
     {
       "title": "The Searcher",
-      "authors": [
-        "Tana French"
-      ],
+      "year": 2020,
       "isbn_13": "9784325109631",
-      "isbn_10": "4325109633",
+      "isbn_10": "4325109638",
+      "pages": 449,
       "genres": [
         "Mystery"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2020,
-      "page_count": 464
+      "authors": [
+        "Tana French"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Second Sex",
@@ -84479,18 +85143,19 @@
     },
     {
       "title": "The Secret Place",
+      "year": 2014,
+      "isbn_13": "9782351431108",
+      "isbn_10": "2351431108",
+      "pages": 457,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
       "authors": [
         "Tana French"
       ],
-      "isbn_13": "9782351431108",
-      "isbn_10": "2351431103",
-      "genres": [
-        "Mystery"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2014,
-      "page_count": 465
+      "source": "seed"
     },
     {
       "title": "The Seeress of Kell",
@@ -84526,19 +85191,19 @@
     },
     {
       "title": "The Sellout",
-      "authors": [
-        "Paul Beatty"
-      ],
+      "year": 2015,
       "isbn_13": "9781316241363",
-      "isbn_10": "131624136X",
+      "isbn_10": "1316241361",
+      "pages": 289,
       "genres": [
         "Literary Fiction",
         "Satire"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2015,
-      "page_count": 289
+      "authors": [
+        "Paul Beatty"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Sense of Wonder",
@@ -84750,19 +85415,19 @@
     },
     {
       "title": "The Shadow of the Wind",
-      "authors": [
-        "Carlos Ruiz Zafón"
-      ],
+      "year": 2001,
       "isbn_13": "9782027546495",
-      "isbn_10": "2027546499",
+      "isbn_10": "2027546492",
+      "pages": 487,
       "genres": [
-        "Historical Fiction",
+        "Literary Fiction",
         "Mystery"
       ],
       "language": "es",
-      "source": "seed",
-      "year_published": 2001,
-      "page_count": 487
+      "authors": [
+        "Carlos Ruiz Zafón"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Shadow of Your Smile",
@@ -85570,6 +86235,21 @@
       "source": "seed"
     },
     {
+      "title": "The Slow Regard of Silent Things",
+      "year": 2014,
+      "isbn_13": "9782550522102",
+      "isbn_10": "2550522102",
+      "pages": 159,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patrick Rothfuss"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Smell of the Night",
       "year": 2001,
       "isbn_13": "9784720307250",
@@ -85985,6 +86665,22 @@
       "source": "seed",
       "year_published": 2021,
       "page_count": 448
+    },
+    {
+      "title": "The Spare Man",
+      "year": 2022,
+      "isbn_13": "9781100128078",
+      "isbn_10": "1100128074",
+      "pages": 368,
+      "genres": [
+        "Science Fiction",
+        "Mystery"
+      ],
+      "language": "en",
+      "authors": [
+        "Mary Robinette Kowal"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Speaker of Mandarin",
@@ -87116,19 +87812,19 @@
     },
     {
       "title": "The Sympathizer",
+      "year": 2015,
+      "isbn_13": "9780127650135",
+      "isbn_10": "0127650131",
+      "pages": 371,
+      "genres": [
+        "Literary Fiction",
+        "War"
+      ],
+      "language": "en",
       "authors": [
         "Viet Thanh Nguyen"
       ],
-      "isbn_13": "9780127650135",
-      "isbn_10": "012765013X",
-      "genres": [
-        "Literary Fiction",
-        "War Fiction"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2015,
-      "page_count": 371
+      "source": "seed"
     },
     {
       "title": "The Tailor of Panama",
@@ -88368,19 +89064,36 @@
       "page_count": 278
     },
     {
+      "title": "The Trees",
+      "year": 2021,
+      "isbn_13": "9780350124618",
+      "isbn_10": "0350124619",
+      "pages": 308,
+      "genres": [
+        "Literary Fiction",
+        "Satire"
+      ],
+      "language": "en",
+      "authors": [
+        "Percival Everett"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Trespasser",
+      "year": 2016,
+      "isbn_13": "9783581953125",
+      "isbn_10": "3581953122",
+      "pages": 450,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
       "authors": [
         "Tana French"
       ],
-      "isbn_13": "9783581953125",
-      "isbn_10": "3581953129",
-      "genres": [
-        "Mystery"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2016,
-      "page_count": 449
+      "source": "seed"
     },
     {
       "title": "The Trial",
@@ -89644,19 +90357,19 @@
     },
     {
       "title": "The Water Dancer",
-      "authors": [
-        "Ta-Nehisi Coates"
-      ],
+      "year": 2019,
       "isbn_13": "9781271464029",
       "isbn_10": "1271464020",
+      "pages": 403,
       "genres": [
         "Literary Fiction",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2019,
-      "page_count": 403
+      "authors": [
+        "Ta-Nehisi Coates"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Water Knife",
@@ -89956,6 +90669,22 @@
       "source": "seed",
       "year_published": 2016,
       "page_count": 160
+    },
+    {
+      "title": "The White Boy Shuffle",
+      "year": 1996,
+      "isbn_13": "9781592283996",
+      "isbn_10": "1592283998",
+      "pages": 226,
+      "genres": [
+        "Literary Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Paul Beatty"
+      ],
+      "source": "seed"
     },
     {
       "title": "The White Castle",
@@ -90505,19 +91234,19 @@
     },
     {
       "title": "The Witch Elm",
-      "authors": [
-        "Tana French"
-      ],
+      "year": 2018,
       "isbn_13": "9782121512006",
-      "isbn_10": "2121512004",
+      "isbn_10": "2121512007",
+      "pages": 509,
       "genres": [
         "Mystery",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2018,
-      "page_count": 448
+      "authors": [
+        "Tana French"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Witch of Portobello",
@@ -90649,19 +91378,18 @@
     },
     {
       "title": "The Witness for the Dead",
+      "year": 2021,
+      "isbn_13": "9780301050324",
+      "isbn_10": "0301050326",
+      "pages": 240,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
       "authors": [
         "Katherine Addison"
       ],
-      "isbn_13": "9780301050324",
-      "isbn_10": "0301050325",
-      "genres": [
-        "Fantasy",
-        "Mystery"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2021,
-      "page_count": 240
+      "source": "seed"
     },
     {
       "title": "The Wolf Gift",
@@ -90762,18 +91490,19 @@
     },
     {
       "title": "The Woman in the Window",
+      "year": 2018,
+      "isbn_13": "9781233712908",
+      "isbn_10": "1233712901",
+      "pages": 427,
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
       "authors": [
         "A.J. Finn"
       ],
-      "isbn_13": "9781233712908",
-      "isbn_10": "123371290X",
-      "genres": [
-        "Thriller"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2018,
-      "page_count": 449
+      "source": "seed"
     },
     {
       "title": "The Woman in White",
@@ -91423,6 +92152,21 @@
       "source": "seed"
     },
     {
+      "title": "There There",
+      "year": 2018,
+      "isbn_13": "9789017591138",
+      "isbn_10": "9017591134",
+      "pages": 290,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Tommy Orange"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "They Came to Baghdad",
       "authors": [
         "Agatha Christie"
@@ -91632,19 +92376,19 @@
     },
     {
       "title": "This Is How You Lose Her",
-      "authors": [
-        "Junot Díaz"
-      ],
+      "year": 2012,
       "isbn_13": "9789311203201",
-      "isbn_10": "9311203203",
+      "isbn_10": "9311203208",
+      "pages": 213,
       "genres": [
         "Literary Fiction",
         "Short Stories"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2012,
-      "page_count": 213
+      "authors": [
+        "Junot Díaz"
+      ],
+      "source": "seed"
     },
     {
       "title": "This Is the Story of a Happy Marriage",
@@ -93155,18 +93899,18 @@
     },
     {
       "title": "Trail of Lightning",
-      "authors": [
-        "Rebecca Roanhorse"
-      ],
+      "year": 2018,
       "isbn_13": "9783095710542",
-      "isbn_10": "3095710542",
+      "isbn_10": "3095710549",
+      "pages": 287,
       "genres": [
         "Fantasy"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2018,
-      "page_count": 304
+      "authors": [
+        "Rebecca Roanhorse"
+      ],
+      "source": "seed"
     },
     {
       "title": "Train to Pakistan",
@@ -93794,19 +94538,19 @@
     },
     {
       "title": "Trust",
-      "authors": [
-        "Hernan Diaz"
-      ],
+      "year": 2022,
       "isbn_13": "9782322940783",
-      "isbn_10": "232294078X",
+      "isbn_10": "2322940781",
+      "pages": 416,
       "genres": [
         "Literary Fiction",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2022,
-      "page_count": 416
+      "authors": [
+        "Hernan Diaz"
+      ],
+      "source": "seed"
     },
     {
       "title": "Trust Me",
@@ -95116,6 +95860,22 @@
       "source": "seed"
     },
     {
+      "title": "Upgrade",
+      "year": 2022,
+      "isbn_13": "9782344058138",
+      "isbn_10": "2344058138",
+      "pages": 352,
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Blake Crouch"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Upheaval",
       "year": 2019,
       "isbn_13": "9780404044053",
@@ -95457,19 +96217,19 @@
     },
     {
       "title": "Velvet Was the Night",
+      "year": 2021,
+      "isbn_13": "9781730107788",
+      "isbn_10": "1730107783",
+      "pages": 277,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
       "authors": [
         "Silvia Moreno-Garcia"
       ],
-      "isbn_13": "9781730107788",
-      "isbn_10": "1730107788",
-      "genres": [
-        "Thriller",
-        "Noir"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2021,
-      "page_count": 277
+      "source": "seed"
     },
     {
       "title": "Vengeful",
@@ -96168,6 +96928,21 @@
       "source": "seed"
     },
     {
+      "title": "Wandering Stars",
+      "year": 2024,
+      "isbn_13": "9786567506346",
+      "isbn_10": "6567506349",
+      "pages": 315,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Tommy Orange"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Wanderlust",
       "authors": [
         "Danielle Steel"
@@ -96683,6 +97458,21 @@
       "source": "seed"
     },
     {
+      "title": "We Were Eight Years in Power",
+      "year": 2017,
+      "isbn_13": "9783201405430",
+      "isbn_10": "3201405437",
+      "pages": 367,
+      "genres": [
+        "History"
+      ],
+      "language": "en",
+      "authors": [
+        "Ta-Nehisi Coates"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "We Were the Mulvaneys",
       "year": 1996,
       "isbn_13": "9783370350593",
@@ -97147,6 +97937,21 @@
       "source": "seed",
       "year_published": 1979,
       "page_count": 308
+    },
+    {
+      "title": "When Things Fall Apart",
+      "year": 1997,
+      "isbn_13": "9786224575876",
+      "isbn_10": "6224575873",
+      "pages": 160,
+      "genres": [
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Pema Chödrön"
+      ],
+      "source": "seed"
     },
     {
       "title": "When We Were Orphans",
@@ -98359,6 +99164,21 @@
       "page_count": 639
     },
     {
+      "title": "Witz",
+      "year": 2010,
+      "isbn_13": "9782835434328",
+      "isbn_10": "283543432X",
+      "pages": 817,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Joshua Cohen"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Wizard and Glass",
       "authors": [
         "Stephen King"
@@ -99048,18 +99868,18 @@
     },
     {
       "title": "Young Mungo",
-      "authors": [
-        "Douglas Stuart"
-      ],
+      "year": 2022,
       "isbn_13": "9783616750958",
-      "isbn_10": "3616750954",
+      "isbn_10": "3616750957",
+      "pages": 395,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2022,
-      "page_count": 432
+      "authors": [
+        "Douglas Stuart"
+      ],
+      "source": "seed"
     },
     {
       "title": "Your Inner Fish",
@@ -99129,19 +99949,20 @@
     },
     {
       "title": "Zen and the Art of Motorcycle Maintenance",
+      "year": 1974,
+      "isbn_13": "9785575911326",
+      "isbn_10": "5575911329",
+      "pages": 418,
+      "genres": [
+        "Philosophy",
+        "Memoir",
+        "Classic"
+      ],
+      "language": "en",
       "authors": [
         "Robert M. Pirsig"
       ],
-      "isbn_13": "9785575911326",
-      "isbn_10": "5575911322",
-      "genres": [
-        "Philosophy",
-        "Memoir"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 1974,
-      "page_count": 540
+      "source": "seed"
     },
     {
       "title": "Zero Day",
