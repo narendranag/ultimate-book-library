@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Are You My Mother?",
+    "author": "Alison Bechdel",
+    "year": 2012,
+    "isbn_13": "9780567272133",
+    "isbn_10": "0567272138",
+    "pages": 286,
+    "genres": [
+      "Memoir",
+      "Graphic Novel"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Maus I: A Survivor's Tale",
+    "author": "Art Spiegelman",
+    "year": 1986,
+    "isbn_13": "9784593442126",
+    "isbn_10": "4593442126",
+    "pages": 159,
+    "genres": [
+      "Memoir",
+      "Graphic Novel",
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Maus II: And Here My Troubles Began",
+    "author": "Art Spiegelman",
+    "year": 1991,
+    "isbn_13": "9784261334807",
+    "isbn_10": "426133480X",
+    "pages": 136,
+    "genres": [
+      "Memoir",
+      "Graphic Novel",
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Shackleton's Boat Journey",
+    "author": "Frank Worsley",
+    "year": 1933,
+    "isbn_13": "9785214026138",
+    "isbn_10": "5214026134",
+    "pages": 220,
+    "genres": [
+      "Memoir",
+      "Adventure"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Endurance",
+    "author": "Alfred Lansing",
+    "year": 1959,
+    "isbn_13": "9788369122335",
+    "isbn_10": "8369122334",
+    "pages": 357,
+    "genres": [
+      "History",
+      "Adventure"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Into Thin Air",
+    "author": "Jon Krakauer",
+    "year": 1997,
+    "isbn_13": "9782924533727",
+    "isbn_10": "2924533727",
+    "pages": 332,
+    "genres": [
+      "Memoir",
+      "Adventure"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Into the Wild",
+    "author": "Jon Krakauer",
+    "year": 1996,
+    "isbn_13": "9784478615089",
+    "isbn_10": "4478615081",
+    "pages": 207,
+    "genres": [
+      "Non-Fiction",
+      "Adventure"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Under the Banner of Heaven",
+    "author": "Jon Krakauer",
+    "year": 2003,
+    "isbn_13": "9783045825180",
+    "isbn_10": "3045825187",
+    "pages": 372,
+    "genres": [
+      "Non-Fiction",
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Where Men Win Glory",
+    "author": "Jon Krakauer",
+    "year": 2009,
+    "isbn_13": "9783250446620",
+    "isbn_10": "3250446622",
+    "pages": 380,
+    "genres": [
+      "Non-Fiction",
+      "Biography"
+    ],
+    "language": "en",
+    "description": ""
+  }
+]

@@ -1,0 +1,1368 @@
+[
+  {
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "year": 1976,
+    "isbn_13": "9784452500943",
+    "isbn_10": "4452500948",
+    "pages": 360,
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Extended Phenotype",
+    "author": "Richard Dawkins",
+    "year": 1982,
+    "isbn_13": "9786542250417",
+    "isbn_10": "6542250414",
+    "pages": 307,
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Blind Watchmaker",
+    "author": "Richard Dawkins",
+    "year": 1986,
+    "isbn_13": "9786311336274",
+    "isbn_10": "6311336273",
+    "pages": 332,
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Climbing Mount Improbable",
+    "author": "Richard Dawkins",
+    "year": 1996,
+    "isbn_13": "9781380890245",
+    "isbn_10": "138089024X",
+    "pages": 340,
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Unweaving the Rainbow",
+    "author": "Richard Dawkins",
+    "year": 1998,
+    "isbn_13": "9781727831559",
+    "isbn_10": "172783155X",
+    "pages": 336,
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Ancestor's Tale",
+    "author": "Richard Dawkins",
+    "year": 2004,
+    "isbn_13": "9784412509108",
+    "isbn_10": "4412509102",
+    "pages": 614,
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The God Delusion",
+    "author": "Richard Dawkins",
+    "year": 2006,
+    "isbn_13": "9788333173684",
+    "isbn_10": "8333173688",
+    "pages": 374,
+    "genres": [
+      "Science",
+      "Philosophy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Greatest Show on Earth",
+    "author": "Richard Dawkins",
+    "year": 2009,
+    "isbn_13": "9784346302677",
+    "isbn_10": "4346302671",
+    "pages": 470,
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "year": 1988,
+    "isbn_13": "9786343705505",
+    "isbn_10": "6343705508",
+    "pages": 256,
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Universe in a Nutshell",
+    "author": "Stephen Hawking",
+    "year": 2001,
+    "isbn_13": "9781743130834",
+    "isbn_10": "1743130831",
+    "pages": 216,
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Grand Design",
+    "author": "Stephen Hawking",
+    "year": 2010,
+    "isbn_13": "9785830413244",
+    "isbn_10": "5830413243",
+    "pages": 199,
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Brief Answers to the Big Questions",
+    "author": "Stephen Hawking",
+    "year": 2018,
+    "isbn_13": "9784153019539",
+    "isbn_10": "4153019537",
+    "pages": 256,
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "year": 1980,
+    "isbn_13": "9784332562221",
+    "isbn_10": "4332562227",
+    "pages": 365,
+    "genres": [
+      "Science",
+      "Astronomy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Dragons of Eden",
+    "author": "Carl Sagan",
+    "year": 1977,
+    "isbn_13": "9780351233616",
+    "isbn_10": "0351233611",
+    "pages": 263,
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Broca's Brain",
+    "author": "Carl Sagan",
+    "year": 1979,
+    "isbn_13": "9780304374120",
+    "isbn_10": "030437412X",
+    "pages": 347,
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Contact",
+    "author": "Carl Sagan",
+    "year": 1985,
+    "isbn_13": "9786259912400",
+    "isbn_10": "6259912407",
+    "pages": 432,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Pale Blue Dot",
+    "author": "Carl Sagan",
+    "year": 1994,
+    "isbn_13": "9787597857286",
+    "isbn_10": "7597857287",
+    "pages": 429,
+    "genres": [
+      "Science",
+      "Astronomy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Demon-Haunted World",
+    "author": "Carl Sagan",
+    "year": 1995,
+    "isbn_13": "9781053325081",
+    "isbn_10": "1053325083",
+    "pages": 457,
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Billions & Billions",
+    "author": "Carl Sagan",
+    "year": 1997,
+    "isbn_13": "9786878331606",
+    "isbn_10": "6878331602",
+    "pages": 296,
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Elegant Universe",
+    "author": "Brian Greene",
+    "year": 1999,
+    "isbn_13": "9782660427939",
+    "isbn_10": "2660427938",
+    "pages": 448,
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Fabric of the Cosmos",
+    "author": "Brian Greene",
+    "year": 2004,
+    "isbn_13": "9783093342325",
+    "isbn_10": "3093342326",
+    "pages": 569,
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Hidden Reality",
+    "author": "Brian Greene",
+    "year": 2011,
+    "isbn_13": "9781952333248",
+    "isbn_10": "1952333246",
+    "pages": 370,
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Until the End of Time",
+    "author": "Brian Greene",
+    "year": 2020,
+    "isbn_13": "9783381302048",
+    "isbn_10": "3381302048",
+    "pages": 428,
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Surely You're Joking, Mr. Feynman!",
+    "author": "Richard Feynman",
+    "year": 1985,
+    "isbn_13": "9789943075313",
+    "isbn_10": "9943075314",
+    "pages": 350,
+    "genres": [
+      "Science",
+      "Memoir"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "What Do You Care What Other People Think?",
+    "author": "Richard Feynman",
+    "year": 1988,
+    "isbn_13": "9783644473843",
+    "isbn_10": "3644473845",
+    "pages": 255,
+    "genres": [
+      "Science",
+      "Memoir"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Pleasure of Finding Things Out",
+    "author": "Richard Feynman",
+    "year": 1999,
+    "isbn_13": "9782892613568",
+    "isbn_10": "2892613565",
+    "pages": 270,
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "QED: The Strange Theory of Light and Matter",
+    "author": "Richard Feynman",
+    "year": 1985,
+    "isbn_13": "9784633753700",
+    "isbn_10": "4633753708",
+    "pages": 158,
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Six Easy Pieces",
+    "author": "Richard Feynman",
+    "year": 1994,
+    "isbn_13": "9786100390227",
+    "isbn_10": "610039022X",
+    "pages": 168,
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Structure of Scientific Revolutions",
+    "author": "Thomas S. Kuhn",
+    "year": 1962,
+    "isbn_13": "9782185231240",
+    "isbn_10": "2185231248",
+    "pages": 210,
+    "genres": [
+      "Science",
+      "Philosophy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "G\u00f6del, Escher, Bach",
+    "author": "Douglas Hofstadter",
+    "year": 1979,
+    "isbn_13": "9784924279025",
+    "isbn_10": "492427902X",
+    "pages": 777,
+    "genres": [
+      "Science",
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "I Am a Strange Loop",
+    "author": "Douglas Hofstadter",
+    "year": 2007,
+    "isbn_13": "9781681438528",
+    "isbn_10": "1681438525",
+    "pages": 412,
+    "genres": [
+      "Science",
+      "Philosophy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Emperor's New Mind",
+    "author": "Roger Penrose",
+    "year": 1989,
+    "isbn_13": "9782887474341",
+    "isbn_10": "2887474340",
+    "pages": 602,
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Road to Reality",
+    "author": "Roger Penrose",
+    "year": 2004,
+    "isbn_13": "9780977445950",
+    "isbn_10": "0977445951",
+    "pages": 1099,
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Chaos",
+    "author": "James Gleick",
+    "year": 1987,
+    "isbn_13": "9781408125151",
+    "isbn_10": "1408125158",
+    "pages": 352,
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Information",
+    "author": "James Gleick",
+    "year": 2011,
+    "isbn_13": "9781333230319",
+    "isbn_10": "133323031X",
+    "pages": 526,
+    "genres": [
+      "Science",
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Genius: The Life and Science of Richard Feynman",
+    "author": "James Gleick",
+    "year": 1992,
+    "isbn_13": "9787113025328",
+    "isbn_10": "7113025328",
+    "pages": 532,
+    "genres": [
+      "Science",
+      "Biography"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Isaac Newton",
+    "author": "James Gleick",
+    "year": 2003,
+    "isbn_13": "9784928614891",
+    "isbn_10": "4928614896",
+    "pages": 191,
+    "genres": [
+      "Science",
+      "Biography"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Gene: An Intimate History",
+    "author": "Siddhartha Mukherjee",
+    "year": 2016,
+    "isbn_13": "9789355390158",
+    "isbn_10": "9355390154",
+    "pages": 592,
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Emperor of All Maladies",
+    "author": "Siddhartha Mukherjee",
+    "year": 2010,
+    "isbn_13": "9781535245487",
+    "isbn_10": "1535245487",
+    "pages": 571,
+    "genres": [
+      "Science",
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Song of the Cell",
+    "author": "Siddhartha Mukherjee",
+    "year": 2022,
+    "isbn_13": "9788511892475",
+    "isbn_10": "8511892473",
+    "pages": 496,
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "year": 2011,
+    "isbn_13": "9780711390065",
+    "isbn_10": "071139006X",
+    "pages": 443,
+    "genres": [
+      "Science",
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Homo Deus",
+    "author": "Yuval Noah Harari",
+    "year": 2015,
+    "isbn_13": "9785244385731",
+    "isbn_10": "5244385732",
+    "pages": 449,
+    "genres": [
+      "Science",
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "21 Lessons for the 21st Century",
+    "author": "Yuval Noah Harari",
+    "year": 2018,
+    "isbn_13": "9780274503445",
+    "isbn_10": "027450344X",
+    "pages": 372,
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Origin of Species",
+    "author": "Charles Darwin",
+    "year": 1859,
+    "isbn_13": "9782530527516",
+    "isbn_10": "2530527519",
+    "pages": 502,
+    "genres": [
+      "Science",
+      "Biology",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Descent of Man",
+    "author": "Charles Darwin",
+    "year": 1871,
+    "isbn_13": "9781214922807",
+    "isbn_10": "1214922806",
+    "pages": 425,
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "On the Origin of Species by Means of Natural Selection",
+    "author": "Charles Darwin",
+    "year": 1859,
+    "isbn_13": "9782828872359",
+    "isbn_10": "282887235X",
+    "pages": 502,
+    "genres": [
+      "Science",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Silent Spring",
+    "author": "Rachel Carson",
+    "year": 1962,
+    "isbn_13": "9780922440078",
+    "isbn_10": "0922440074",
+    "pages": 378,
+    "genres": [
+      "Science",
+      "Environment"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Sea Around Us",
+    "author": "Rachel Carson",
+    "year": 1951,
+    "isbn_13": "9787402489220",
+    "isbn_10": "740248922X",
+    "pages": 250,
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Under the Sea Wind",
+    "author": "Rachel Carson",
+    "year": 1941,
+    "isbn_13": "9786597431526",
+    "isbn_10": "6597431522",
+    "pages": 314,
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Edge of the Sea",
+    "author": "Rachel Carson",
+    "year": 1955,
+    "isbn_13": "9781923610477",
+    "isbn_10": "1923610478",
+    "pages": 276,
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "year": 2011,
+    "isbn_13": "9785530221538",
+    "isbn_10": "5530221531",
+    "pages": 499,
+    "genres": [
+      "Science",
+      "Psychology"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Noise: A Flaw in Human Judgment",
+    "author": "Daniel Kahneman",
+    "year": 2021,
+    "isbn_13": "9787140440354",
+    "isbn_10": "7140440359",
+    "pages": 454,
+    "genres": [
+      "Science",
+      "Psychology"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Black Swan",
+    "author": "Nassim Nicholas Taleb",
+    "year": 2007,
+    "isbn_13": "9783500413174",
+    "isbn_10": "3500413171",
+    "pages": 366,
+    "genres": [
+      "Science",
+      "Philosophy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Antifragile",
+    "author": "Nassim Nicholas Taleb",
+    "year": 2012,
+    "isbn_13": "9786103303309",
+    "isbn_10": "6103303308",
+    "pages": 544,
+    "genres": [
+      "Science",
+      "Philosophy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Fooled by Randomness",
+    "author": "Nassim Nicholas Taleb",
+    "year": 2001,
+    "isbn_13": "9782342215564",
+    "isbn_10": "2342215563",
+    "pages": 316,
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Skin in the Game",
+    "author": "Nassim Nicholas Taleb",
+    "year": 2018,
+    "isbn_13": "9788150159717",
+    "isbn_10": "815015971X",
+    "pages": 304,
+    "genres": [
+      "Science",
+      "Philosophy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Man Who Mistook His Wife for a Hat",
+    "author": "Oliver Sacks",
+    "year": 1985,
+    "isbn_13": "9782310784795",
+    "isbn_10": "2310784795",
+    "pages": 233,
+    "genres": [
+      "Science",
+      "Psychology"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Awakenings",
+    "author": "Oliver Sacks",
+    "year": 1973,
+    "isbn_13": "9786301743235",
+    "isbn_10": "6301743234",
+    "pages": 408,
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "An Anthropologist on Mars",
+    "author": "Oliver Sacks",
+    "year": 1995,
+    "isbn_13": "9785312844573",
+    "isbn_10": "5312844573",
+    "pages": 327,
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Musicophilia",
+    "author": "Oliver Sacks",
+    "year": 2007,
+    "isbn_13": "9784554024507",
+    "isbn_10": "4554024507",
+    "pages": 381,
+    "genres": [
+      "Science",
+      "Music"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Hallucinations",
+    "author": "Oliver Sacks",
+    "year": 2012,
+    "isbn_13": "9783531614342",
+    "isbn_10": "3531614344",
+    "pages": 326,
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "On the Move",
+    "author": "Oliver Sacks",
+    "year": 2015,
+    "isbn_13": "9786523524063",
+    "isbn_10": "6523524061",
+    "pages": 397,
+    "genres": [
+      "Science",
+      "Memoir"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Double Helix",
+    "author": "James Watson",
+    "year": 1968,
+    "isbn_13": "9783422000230",
+    "isbn_10": "3422000239",
+    "pages": 226,
+    "genres": [
+      "Science",
+      "Memoir"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "A Short History of Nearly Everything",
+    "author": "Bill Bryson",
+    "year": 2003,
+    "isbn_13": "9786443092079",
+    "isbn_10": "6443092077",
+    "pages": 544,
+    "genres": [
+      "Science",
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Body: A Guide for Occupants",
+    "author": "Bill Bryson",
+    "year": 2019,
+    "isbn_13": "9787386796321",
+    "isbn_10": "7386796328",
+    "pages": 464,
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Guns, Germs, and Steel",
+    "author": "Jared Diamond",
+    "year": 1997,
+    "isbn_13": "9788904735143",
+    "isbn_10": "8904735142",
+    "pages": 480,
+    "genres": [
+      "Science",
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Collapse",
+    "author": "Jared Diamond",
+    "year": 2005,
+    "isbn_13": "9785315086352",
+    "isbn_10": "5315086355",
+    "pages": 575,
+    "genres": [
+      "Science",
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Third Chimpanzee",
+    "author": "Jared Diamond",
+    "year": 1991,
+    "isbn_13": "9784072272459",
+    "isbn_10": "4072272450",
+    "pages": 407,
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Upheaval",
+    "author": "Jared Diamond",
+    "year": 2019,
+    "isbn_13": "9780404044053",
+    "isbn_10": "0404044050",
+    "pages": 502,
+    "genres": [
+      "Science",
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Sixth Extinction",
+    "author": "Elizabeth Kolbert",
+    "year": 2014,
+    "isbn_13": "9783544001917",
+    "isbn_10": "3544001913",
+    "pages": 319,
+    "genres": [
+      "Science",
+      "Environment"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Under a White Sky",
+    "author": "Elizabeth Kolbert",
+    "year": 2021,
+    "isbn_13": "9782565343273",
+    "isbn_10": "2565343279",
+    "pages": 234,
+    "genres": [
+      "Science",
+      "Environment"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Field Notes from a Catastrophe",
+    "author": "Elizabeth Kolbert",
+    "year": 2006,
+    "isbn_13": "9782002501495",
+    "isbn_10": "200250149X",
+    "pages": 210,
+    "genres": [
+      "Science",
+      "Environment"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "A People's History of the United States",
+    "author": "Howard Zinn",
+    "year": 1980,
+    "isbn_13": "9786107832249",
+    "isbn_10": "6107832245",
+    "pages": 729,
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Rise and Fall of the Third Reich",
+    "author": "William L. Shirer",
+    "year": 1960,
+    "isbn_13": "9781014128331",
+    "isbn_10": "101412833X",
+    "pages": 1143,
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Guns of August",
+    "author": "Barbara W. Tuchman",
+    "year": 1962,
+    "isbn_13": "9784409003336",
+    "isbn_10": "4409003331",
+    "pages": 511,
+    "genres": [
+      "History",
+      "War"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "A Distant Mirror",
+    "author": "Barbara W. Tuchman",
+    "year": 1978,
+    "isbn_13": "9784262694153",
+    "isbn_10": "426269415X",
+    "pages": 677,
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Proud Tower",
+    "author": "Barbara W. Tuchman",
+    "year": 1966,
+    "isbn_13": "9788578205447",
+    "isbn_10": "8578205443",
+    "pages": 528,
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The March of Folly",
+    "author": "Barbara W. Tuchman",
+    "year": 1984,
+    "isbn_13": "9785220410495",
+    "isbn_10": "5220410490",
+    "pages": 447,
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Gulag Archipelago",
+    "author": "Aleksandr Solzhenitsyn",
+    "year": 1973,
+    "isbn_13": "9786747725239",
+    "isbn_10": "6747725232",
+    "pages": 472,
+    "genres": [
+      "History",
+      "Memoir"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "SPQR: A History of Ancient Rome",
+    "author": "Mary Beard",
+    "year": 2015,
+    "isbn_13": "9782246364030",
+    "isbn_10": "2246364036",
+    "pages": 606,
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Civilization of the Renaissance in Italy",
+    "author": "Jacob Burckhardt",
+    "year": 1860,
+    "isbn_13": "9783128529257",
+    "isbn_10": "3128529255",
+    "pages": 432,
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Age of Revolution",
+    "author": "Eric Hobsbawm",
+    "year": 1962,
+    "isbn_13": "9783344538217",
+    "isbn_10": "3344538214",
+    "pages": 366,
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Age of Capital",
+    "author": "Eric Hobsbawm",
+    "year": 1975,
+    "isbn_13": "9781530171255",
+    "isbn_10": "1530171258",
+    "pages": 354,
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Age of Empire",
+    "author": "Eric Hobsbawm",
+    "year": 1987,
+    "isbn_13": "9781749015159",
+    "isbn_10": "1749015158",
+    "pages": 404,
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Age of Extremes",
+    "author": "Eric Hobsbawm",
+    "year": 1994,
+    "isbn_13": "9784512130356",
+    "isbn_10": "4512130354",
+    "pages": 627,
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Histories",
+    "author": "Herodotus",
+    "year": -440,
+    "isbn_13": "9780131416918",
+    "isbn_10": "0131416911",
+    "pages": 716,
+    "genres": [
+      "History",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Peloponnesian War",
+    "author": "Thucydides",
+    "year": -411,
+    "isbn_13": "9782943696885",
+    "isbn_10": "2943696882",
+    "pages": 648,
+    "genres": [
+      "History",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Decline and Fall of the Roman Empire",
+    "author": "Edward Gibbon",
+    "year": 1776,
+    "isbn_13": "9783452083104",
+    "isbn_10": "345208310X",
+    "pages": 3886,
+    "genres": [
+      "History",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Postwar: A History of Europe Since 1945",
+    "author": "Tony Judt",
+    "year": 2005,
+    "isbn_13": "9789211566314",
+    "isbn_10": "9211566319",
+    "pages": 878,
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Ill Fares the Land",
+    "author": "Tony Judt",
+    "year": 2010,
+    "isbn_13": "9784076398131",
+    "isbn_10": "4076398130",
+    "pages": 237,
+    "genres": [
+      "History",
+      "Politics"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Thinking the Twentieth Century",
+    "author": "Tony Judt",
+    "year": 2012,
+    "isbn_13": "9784103234500",
+    "isbn_10": "4103234507",
+    "pages": 414,
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Origins of Totalitarianism",
+    "author": "Hannah Arendt",
+    "year": 1951,
+    "isbn_13": "9784592100089",
+    "isbn_10": "4592100086",
+    "pages": 704,
+    "genres": [
+      "History",
+      "Philosophy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Eichmann in Jerusalem",
+    "author": "Hannah Arendt",
+    "year": 1963,
+    "isbn_13": "9785744687144",
+    "isbn_10": "5744687142",
+    "pages": 312,
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Human Condition",
+    "author": "Hannah Arendt",
+    "year": 1958,
+    "isbn_13": "9783591440226",
+    "isbn_10": "359144022X",
+    "pages": 332,
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "On Revolution",
+    "author": "Hannah Arendt",
+    "year": 1963,
+    "isbn_13": "9783436135713",
+    "isbn_10": "3436135719",
+    "pages": 344,
+    "genres": [
+      "History",
+      "Philosophy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Between Past and Future",
+    "author": "Hannah Arendt",
+    "year": 1961,
+    "isbn_13": "9781442860865",
+    "isbn_10": "1442860868",
+    "pages": 246,
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Orientalism",
+    "author": "Edward Said",
+    "year": 1978,
+    "isbn_13": "9789524011396",
+    "isbn_10": "9524011396",
+    "pages": 368,
+    "genres": [
+      "History",
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Culture and Imperialism",
+    "author": "Edward Said",
+    "year": 1993,
+    "isbn_13": "9788281551046",
+    "isbn_10": "8281551045",
+    "pages": 380,
+    "genres": [
+      "History",
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Silk Roads",
+    "author": "Peter Frankopan",
+    "year": 2015,
+    "isbn_13": "9783605005946",
+    "isbn_10": "3605005949",
+    "pages": 636,
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The New Silk Roads",
+    "author": "Peter Frankopan",
+    "year": 2018,
+    "isbn_13": "9784270437322",
+    "isbn_10": "4270437327",
+    "pages": 304,
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "description": ""
+  }
+]

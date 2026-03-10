@@ -1,0 +1,800 @@
+[
+  {
+    "title": "A Manual for Manuel",
+    "author": "Julio Cort\u00e1zar",
+    "year": 1973,
+    "isbn_13": "9787009108265",
+    "isbn_10": "7009108262",
+    "pages": 394,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Blow-Up and Other Stories",
+    "author": "Julio Cort\u00e1zar",
+    "year": 1967,
+    "isbn_13": "9780325105109",
+    "isbn_10": "0325105108",
+    "pages": 277,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "All Fires the Fire",
+    "author": "Julio Cort\u00e1zar",
+    "year": 1966,
+    "isbn_13": "9780001053342",
+    "isbn_10": "0001053346",
+    "pages": 171,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Cronopios and Famas",
+    "author": "Julio Cort\u00e1zar",
+    "year": 1962,
+    "isbn_13": "9780508315462",
+    "isbn_10": "0508315463",
+    "pages": 161,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories",
+      "Humor"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "We Love Glenda So Much",
+    "author": "Julio Cort\u00e1zar",
+    "year": 1980,
+    "isbn_13": "9783338113512",
+    "isbn_10": "3338113511",
+    "pages": 165,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Time of the Hero",
+    "author": "Mario Vargas Llosa",
+    "year": 1963,
+    "isbn_13": "9787835514759",
+    "isbn_10": "7835514758",
+    "pages": 409,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Green House",
+    "author": "Mario Vargas Llosa",
+    "year": 1966,
+    "isbn_13": "9788009164350",
+    "isbn_10": "8009164355",
+    "pages": 405,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Conversation in the Cathedral",
+    "author": "Mario Vargas Llosa",
+    "year": 1969,
+    "isbn_13": "9782728540327",
+    "isbn_10": "2728540329",
+    "pages": 601,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Captain Pantoja and the Special Service",
+    "author": "Mario Vargas Llosa",
+    "year": 1973,
+    "isbn_13": "9786358116327",
+    "isbn_10": "6358116320",
+    "pages": 303,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Aunt Julia and the Scriptwriter",
+    "author": "Mario Vargas Llosa",
+    "year": 1977,
+    "isbn_13": "9781530661121",
+    "isbn_10": "1530661122",
+    "pages": 374,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The War of the End of the World",
+    "author": "Mario Vargas Llosa",
+    "year": 1981,
+    "isbn_13": "9786556401423",
+    "isbn_10": "6556401420",
+    "pages": 568,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Real Life of Alejandro Mayta",
+    "author": "Mario Vargas Llosa",
+    "year": 1984,
+    "isbn_13": "9786012513417",
+    "isbn_10": "6012513410",
+    "pages": 310,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Storyteller",
+    "author": "Mario Vargas Llosa",
+    "year": 1987,
+    "isbn_13": "9785464320208",
+    "isbn_10": "5464320209",
+    "pages": 246,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Feast of the Goat",
+    "author": "Mario Vargas Llosa",
+    "year": 2000,
+    "isbn_13": "9781503914056",
+    "isbn_10": "1503914057",
+    "pages": 404,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Bad Girl",
+    "author": "Mario Vargas Llosa",
+    "year": 2006,
+    "isbn_13": "9781049690490",
+    "isbn_10": "1049690497",
+    "pages": 376,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Dream of the Celt",
+    "author": "Mario Vargas Llosa",
+    "year": 2010,
+    "isbn_13": "9783772353123",
+    "isbn_10": "3772353125",
+    "pages": 358,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Discreet Hero",
+    "author": "Mario Vargas Llosa",
+    "year": 2013,
+    "isbn_13": "9781813460724",
+    "isbn_10": "1813460723",
+    "pages": 336,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Neighborhood",
+    "author": "Mario Vargas Llosa",
+    "year": 2018,
+    "isbn_13": "9780036087336",
+    "isbn_10": "0036087336",
+    "pages": 304,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Harsh Times",
+    "author": "Mario Vargas Llosa",
+    "year": 2019,
+    "isbn_13": "9787207252517",
+    "isbn_10": "7207252511",
+    "pages": 354,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Where the Air Is Clear",
+    "author": "Carlos Fuentes",
+    "year": 1958,
+    "isbn_13": "9784040139166",
+    "isbn_10": "4040139161",
+    "pages": 369,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Death of Artemio Cruz",
+    "author": "Carlos Fuentes",
+    "year": 1962,
+    "isbn_13": "9785040193158",
+    "isbn_10": "5040193154",
+    "pages": 307,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Aura",
+    "author": "Carlos Fuentes",
+    "year": 1962,
+    "isbn_13": "9781522481201",
+    "isbn_10": "1522481205",
+    "pages": 62,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "A Change of Skin",
+    "author": "Carlos Fuentes",
+    "year": 1967,
+    "isbn_13": "9782031096191",
+    "isbn_10": "2031096199",
+    "pages": 462,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Terra Nostra",
+    "author": "Carlos Fuentes",
+    "year": 1975,
+    "isbn_13": "9783085811808",
+    "isbn_10": "3085811801",
+    "pages": 778,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Distant Relations",
+    "author": "Carlos Fuentes",
+    "year": 1980,
+    "isbn_13": "9780582423169",
+    "isbn_10": "0582423168",
+    "pages": 216,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Old Gringo",
+    "author": "Carlos Fuentes",
+    "year": 1985,
+    "isbn_13": "9785105270046",
+    "isbn_10": "5105270046",
+    "pages": 199,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Christopher Unborn",
+    "author": "Carlos Fuentes",
+    "year": 1987,
+    "isbn_13": "9783410156284",
+    "isbn_10": "3410156288",
+    "pages": 531,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Campaign",
+    "author": "Carlos Fuentes",
+    "year": 1990,
+    "isbn_13": "9781411441002",
+    "isbn_10": "141144100X",
+    "pages": 246,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Years with Laura D\u00edaz",
+    "author": "Carlos Fuentes",
+    "year": 1999,
+    "isbn_13": "9783557956310",
+    "isbn_10": "3557956313",
+    "pages": 518,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Eagle's Throne",
+    "author": "Carlos Fuentes",
+    "year": 2002,
+    "isbn_13": "9780534075385",
+    "isbn_10": "0534075381",
+    "pages": 341,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Destiny and Desire",
+    "author": "Carlos Fuentes",
+    "year": 2008,
+    "isbn_13": "9782016802502",
+    "isbn_10": "2016802509",
+    "pages": 436,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The House of the Spirits",
+    "author": "Isabel Allende",
+    "year": 1982,
+    "isbn_13": "9788654855078",
+    "isbn_10": "8654855071",
+    "pages": 433,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism",
+      "Classic"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Of Love and Shadows",
+    "author": "Isabel Allende",
+    "year": 1984,
+    "isbn_13": "9788982303111",
+    "isbn_10": "898230311X",
+    "pages": 274,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Eva Luna",
+    "author": "Isabel Allende",
+    "year": 1987,
+    "isbn_13": "9781151355157",
+    "isbn_10": "115135515X",
+    "pages": 271,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Stories of Eva Luna",
+    "author": "Isabel Allende",
+    "year": 1989,
+    "isbn_13": "9784548779802",
+    "isbn_10": "4548779802",
+    "pages": 330,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism",
+      "Short Stories"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Infinite Plan",
+    "author": "Isabel Allende",
+    "year": 1991,
+    "isbn_13": "9788444030043",
+    "isbn_10": "8444030041",
+    "pages": 382,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Daughter of Fortune",
+    "author": "Isabel Allende",
+    "year": 1999,
+    "isbn_13": "9782791563346",
+    "isbn_10": "2791563349",
+    "pages": 399,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism",
+      "Historical Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Portrait in Sepia",
+    "author": "Isabel Allende",
+    "year": 2000,
+    "isbn_13": "9780943335353",
+    "isbn_10": "0943335358",
+    "pages": 304,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Zorro",
+    "author": "Isabel Allende",
+    "year": 2005,
+    "isbn_13": "9781441484802",
+    "isbn_10": "1441484802",
+    "pages": 390,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism",
+      "Adventure",
+      "Historical Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "In\u00e9s of My Soul",
+    "author": "Isabel Allende",
+    "year": 2006,
+    "isbn_13": "9781114951716",
+    "isbn_10": "1114951717",
+    "pages": 321,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism",
+      "Historical Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Island Beneath the Sea",
+    "author": "Isabel Allende",
+    "year": 2009,
+    "isbn_13": "9780064558310",
+    "isbn_10": "0064558319",
+    "pages": 457,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism",
+      "Historical Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Maya's Notebook",
+    "author": "Isabel Allende",
+    "year": 2011,
+    "isbn_13": "9789505242344",
+    "isbn_10": "9505242347",
+    "pages": 383,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Japanese Lover",
+    "author": "Isabel Allende",
+    "year": 2015,
+    "isbn_13": "9780391535145",
+    "isbn_10": "0391535146",
+    "pages": 322,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "A Long Petal of the Sea",
+    "author": "Isabel Allende",
+    "year": 2019,
+    "isbn_13": "9785474093093",
+    "isbn_10": "5474093093",
+    "pages": 338,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism",
+      "Historical Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Violeta",
+    "author": "Isabel Allende",
+    "year": 2022,
+    "isbn_13": "9782066245311",
+    "isbn_10": "2066245318",
+    "pages": 301,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Paula",
+    "author": "Isabel Allende",
+    "year": 1994,
+    "isbn_13": "9785036779144",
+    "isbn_10": "5036779149",
+    "pages": 330,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism",
+      "Memoir"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "My Invented Country",
+    "author": "Isabel Allende",
+    "year": 2003,
+    "isbn_13": "9781334028434",
+    "isbn_10": "1334028436",
+    "pages": 199,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism",
+      "Memoir"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Skating Rink",
+    "author": "Roberto Bola\u00f1o",
+    "year": 1993,
+    "isbn_13": "9784502482441",
+    "isbn_10": "4502482444",
+    "pages": 181,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Nazi Literature in the Americas",
+    "author": "Roberto Bola\u00f1o",
+    "year": 1996,
+    "isbn_13": "9780520170117",
+    "isbn_10": "0520170118",
+    "pages": 259,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Distant Star",
+    "author": "Roberto Bola\u00f1o",
+    "year": 1996,
+    "isbn_13": "9784209500417",
+    "isbn_10": "4209500410",
+    "pages": 164,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Savage Detectives",
+    "author": "Roberto Bola\u00f1o",
+    "year": 1998,
+    "isbn_13": "9781977503169",
+    "isbn_10": "1977503160",
+    "pages": 577,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Amulet",
+    "author": "Roberto Bola\u00f1o",
+    "year": 1999,
+    "isbn_13": "9782172736574",
+    "isbn_10": "2172736570",
+    "pages": 184,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "By Night in Chile",
+    "author": "Roberto Bola\u00f1o",
+    "year": 2000,
+    "isbn_13": "9784144452246",
+    "isbn_10": "4144452244",
+    "pages": 130,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "2666",
+    "author": "Roberto Bola\u00f1o",
+    "year": 2004,
+    "isbn_13": "9781218747994",
+    "isbn_10": "1218747997",
+    "pages": 898,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Third Reich",
+    "author": "Roberto Bola\u00f1o",
+    "year": 2010,
+    "isbn_13": "9787553059112",
+    "isbn_10": "7553059110",
+    "pages": 277,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Woes of the True Policeman",
+    "author": "Roberto Bola\u00f1o",
+    "year": 2011,
+    "isbn_13": "9783264547405",
+    "isbn_10": "3264547405",
+    "pages": 186,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Spirit of Science Fiction",
+    "author": "Roberto Bola\u00f1o",
+    "year": 2016,
+    "isbn_13": "9781407454924",
+    "isbn_10": "1407454924",
+    "pages": 194,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Last Evenings on Earth",
+    "author": "Roberto Bola\u00f1o",
+    "year": 2001,
+    "isbn_13": "9781198631405",
+    "isbn_10": "1198631405",
+    "pages": 204,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "description": ""
+  }
+]

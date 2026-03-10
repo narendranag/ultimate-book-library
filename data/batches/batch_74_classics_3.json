@@ -1,0 +1,1434 @@
+[
+  {
+    "title": "The Reprieve",
+    "author": "Jean-Paul Sartre",
+    "year": 1945,
+    "isbn_13": "9780289412725",
+    "isbn_10": "0289412729",
+    "pages": 324,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Philosophy"
+    ],
+    "language": "fr",
+    "description": ""
+  },
+  {
+    "title": "Troubled Sleep",
+    "author": "Jean-Paul Sartre",
+    "year": 1949,
+    "isbn_13": "9783035352283",
+    "isbn_10": "3035352288",
+    "pages": 421,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Philosophy"
+    ],
+    "language": "fr",
+    "description": ""
+  },
+  {
+    "title": "The Wall",
+    "author": "Jean-Paul Sartre",
+    "year": 1939,
+    "isbn_13": "9789470183093",
+    "isbn_10": "9470183095",
+    "pages": 226,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Philosophy",
+      "Short Stories"
+    ],
+    "language": "fr",
+    "description": ""
+  },
+  {
+    "title": "Being and Nothingness",
+    "author": "Jean-Paul Sartre",
+    "year": 1943,
+    "isbn_13": "9788317809394",
+    "isbn_10": "8317809390",
+    "pages": 638,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Philosophy",
+      "Non-Fiction",
+      "Philosophy"
+    ],
+    "language": "fr",
+    "description": ""
+  },
+  {
+    "title": "No Exit",
+    "author": "Jean-Paul Sartre",
+    "year": 1944,
+    "isbn_13": "9782230369348",
+    "isbn_10": "2230369349",
+    "pages": 46,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Philosophy",
+      "Drama"
+    ],
+    "language": "fr",
+    "description": ""
+  },
+  {
+    "title": "The Words",
+    "author": "Jean-Paul Sartre",
+    "year": 1964,
+    "isbn_13": "9785099856509",
+    "isbn_10": "5099856500",
+    "pages": 255,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Philosophy",
+      "Memoir"
+    ],
+    "language": "fr",
+    "description": ""
+  },
+  {
+    "title": "The Tin Drum",
+    "author": "G\u00fcnter Grass",
+    "year": 1959,
+    "isbn_13": "9785538413362",
+    "isbn_10": "5538413366",
+    "pages": 592,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "Cat and Mouse",
+    "author": "G\u00fcnter Grass",
+    "year": 1961,
+    "isbn_13": "9789344504207",
+    "isbn_10": "9344504209",
+    "pages": 189,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "Dog Years",
+    "author": "G\u00fcnter Grass",
+    "year": 1963,
+    "isbn_13": "9782181291545",
+    "isbn_10": "2181291548",
+    "pages": 570,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "Local Anaesthetic",
+    "author": "G\u00fcnter Grass",
+    "year": 1969,
+    "isbn_13": "9786431079105",
+    "isbn_10": "6431079103",
+    "pages": 284,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "From the Diary of a Snail",
+    "author": "G\u00fcnter Grass",
+    "year": 1972,
+    "isbn_13": "9789001595241",
+    "isbn_10": "9001595248",
+    "pages": 310,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "The Flounder",
+    "author": "G\u00fcnter Grass",
+    "year": 1977,
+    "isbn_13": "9785282042122",
+    "isbn_10": "5282042125",
+    "pages": 547,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "The Meeting at Telgte",
+    "author": "G\u00fcnter Grass",
+    "year": 1979,
+    "isbn_13": "9781493720262",
+    "isbn_10": "1493720260",
+    "pages": 147,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "Headbirths",
+    "author": "G\u00fcnter Grass",
+    "year": 1980,
+    "isbn_13": "9782229535914",
+    "isbn_10": "2229535912",
+    "pages": 134,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "The Rat",
+    "author": "G\u00fcnter Grass",
+    "year": 1986,
+    "isbn_13": "9781237689091",
+    "isbn_10": "1237689090",
+    "pages": 371,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "The Call of the Toad",
+    "author": "G\u00fcnter Grass",
+    "year": 1992,
+    "isbn_13": "9787348194905",
+    "isbn_10": "7348194904",
+    "pages": 248,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "Too Far Afield",
+    "author": "G\u00fcnter Grass",
+    "year": 1995,
+    "isbn_13": "9785911107383",
+    "isbn_10": "5911107387",
+    "pages": 658,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "Crabwalk",
+    "author": "G\u00fcnter Grass",
+    "year": 2002,
+    "isbn_13": "9784084429049",
+    "isbn_10": "4084429041",
+    "pages": 234,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Historical Fiction"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "Peeling the Onion",
+    "author": "G\u00fcnter Grass",
+    "year": 2006,
+    "isbn_13": "9789891220193",
+    "isbn_10": "9891220199",
+    "pages": 425,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Memoir"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "The Path to the Nest of Spiders",
+    "author": "Italo Calvino",
+    "year": 1947,
+    "isbn_13": "9783042581164",
+    "isbn_10": "3042581160",
+    "pages": 146,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "The Baron in the Trees",
+    "author": "Italo Calvino",
+    "year": 1957,
+    "isbn_13": "9787332211205",
+    "isbn_10": "7332211208",
+    "pages": 217,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern",
+      "Fantasy"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "The Cloven Viscount",
+    "author": "Italo Calvino",
+    "year": 1952,
+    "isbn_13": "9782486450517",
+    "isbn_10": "2486450518",
+    "pages": 118,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern",
+      "Fantasy"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "The Nonexistent Knight",
+    "author": "Italo Calvino",
+    "year": 1959,
+    "isbn_13": "9781711234793",
+    "isbn_10": "1711234795",
+    "pages": 119,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern",
+      "Fantasy"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "Cosmicomics",
+    "author": "Italo Calvino",
+    "year": 1965,
+    "isbn_13": "9789057154560",
+    "isbn_10": "9057154560",
+    "pages": 153,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern",
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "t zero",
+    "author": "Italo Calvino",
+    "year": 1967,
+    "isbn_13": "9785427945400",
+    "isbn_10": "5427945404",
+    "pages": 152,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern",
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "Invisible Cities",
+    "author": "Italo Calvino",
+    "year": 1972,
+    "isbn_13": "9785416527341",
+    "isbn_10": "5416527341",
+    "pages": 165,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "The Castle of Crossed Destinies",
+    "author": "Italo Calvino",
+    "year": 1973,
+    "isbn_13": "9787053131110",
+    "isbn_10": "7053131117",
+    "pages": 129,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "If on a winter's night a traveler",
+    "author": "Italo Calvino",
+    "year": 1979,
+    "isbn_13": "9786948192731",
+    "isbn_10": "6948192737",
+    "pages": 260,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "Mr. Palomar",
+    "author": "Italo Calvino",
+    "year": 1983,
+    "isbn_13": "9780031489531",
+    "isbn_10": "0031489539",
+    "pages": 126,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "Under the Jaguar Sun",
+    "author": "Italo Calvino",
+    "year": 1986,
+    "isbn_13": "9782314393443",
+    "isbn_10": "2314393442",
+    "pages": 86,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern",
+      "Short Stories"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "Six Memos for the Next Millennium",
+    "author": "Italo Calvino",
+    "year": 1988,
+    "isbn_13": "9784681103434",
+    "isbn_10": "4681103433",
+    "pages": 124,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern",
+      "Non-Fiction"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "The Name of the Rose",
+    "author": "Umberto Eco",
+    "year": 1980,
+    "isbn_13": "9784245697058",
+    "isbn_10": "4245697052",
+    "pages": 502,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Mystery",
+      "Classic"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "Foucault's Pendulum",
+    "author": "Umberto Eco",
+    "year": 1988,
+    "isbn_13": "9789314516902",
+    "isbn_10": "9314516908",
+    "pages": 641,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Thriller"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "The Island of the Day Before",
+    "author": "Umberto Eco",
+    "year": 1994,
+    "isbn_13": "9780836112030",
+    "isbn_10": "0836112039",
+    "pages": 515,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "Baudolino",
+    "author": "Umberto Eco",
+    "year": 2000,
+    "isbn_13": "9781159025830",
+    "isbn_10": "1159025836",
+    "pages": 528,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "The Mysterious Flame of Queen Loana",
+    "author": "Umberto Eco",
+    "year": 2004,
+    "isbn_13": "9782247414055",
+    "isbn_10": "2247414059",
+    "pages": 469,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "The Prague Cemetery",
+    "author": "Umberto Eco",
+    "year": 2010,
+    "isbn_13": "9789194723926",
+    "isbn_10": "9194723928",
+    "pages": 444,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Thriller"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "Numero Zero",
+    "author": "Umberto Eco",
+    "year": 2015,
+    "isbn_13": "9782344991640",
+    "isbn_10": "2344991645",
+    "pages": 191,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Thriller"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "The Joke",
+    "author": "Milan Kundera",
+    "year": 1967,
+    "isbn_13": "9782405058046",
+    "isbn_10": "2405058042",
+    "pages": 323,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "cs",
+    "description": ""
+  },
+  {
+    "title": "Life Is Elsewhere",
+    "author": "Milan Kundera",
+    "year": 1973,
+    "isbn_13": "9782070530151",
+    "isbn_10": "2070530152",
+    "pages": 303,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "cs",
+    "description": ""
+  },
+  {
+    "title": "The Farewell Waltz",
+    "author": "Milan Kundera",
+    "year": 1976,
+    "isbn_13": "9783548180540",
+    "isbn_10": "3548180541",
+    "pages": 237,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "cs",
+    "description": ""
+  },
+  {
+    "title": "The Book of Laughter and Forgetting",
+    "author": "Milan Kundera",
+    "year": 1979,
+    "isbn_13": "9780140339017",
+    "isbn_10": "0140339012",
+    "pages": 228,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "cs",
+    "description": ""
+  },
+  {
+    "title": "The Unbearable Lightness of Being",
+    "author": "Milan Kundera",
+    "year": 1984,
+    "isbn_13": "9781952519277",
+    "isbn_10": "1952519275",
+    "pages": 314,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern",
+      "Classic"
+    ],
+    "language": "cs",
+    "description": ""
+  },
+  {
+    "title": "Immortality",
+    "author": "Milan Kundera",
+    "year": 1990,
+    "isbn_13": "9781402037603",
+    "isbn_10": "1402037600",
+    "pages": 345,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "cs",
+    "description": ""
+  },
+  {
+    "title": "Slowness",
+    "author": "Milan Kundera",
+    "year": 1995,
+    "isbn_13": "9783723541753",
+    "isbn_10": "3723541756",
+    "pages": 132,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "cs",
+    "description": ""
+  },
+  {
+    "title": "Identity",
+    "author": "Milan Kundera",
+    "year": 1998,
+    "isbn_13": "9780411142230",
+    "isbn_10": "0411142239",
+    "pages": 153,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "cs",
+    "description": ""
+  },
+  {
+    "title": "Ignorance",
+    "author": "Milan Kundera",
+    "year": 2000,
+    "isbn_13": "9784422226026",
+    "isbn_10": "4422226022",
+    "pages": 195,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "cs",
+    "description": ""
+  },
+  {
+    "title": "The Festival of Insignificance",
+    "author": "Milan Kundera",
+    "year": 2013,
+    "isbn_13": "9782444095538",
+    "isbn_10": "2444095534",
+    "pages": 115,
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "cs",
+    "description": ""
+  },
+  {
+    "title": "Peter Camenzind",
+    "author": "Hermann Hesse",
+    "year": 1904,
+    "isbn_13": "9789552319051",
+    "isbn_10": "9552319055",
+    "pages": 172,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "Beneath the Wheel",
+    "author": "Hermann Hesse",
+    "year": 1906,
+    "isbn_13": "9785359495103",
+    "isbn_10": "5359495108",
+    "pages": 178,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "Gertrude",
+    "author": "Hermann Hesse",
+    "year": 1910,
+    "isbn_13": "9788028827434",
+    "isbn_10": "8028827433",
+    "pages": 160,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "Rosshalde",
+    "author": "Hermann Hesse",
+    "year": 1914,
+    "isbn_13": "9782232035432",
+    "isbn_10": "2232035438",
+    "pages": 201,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "Demian",
+    "author": "Hermann Hesse",
+    "year": 1919,
+    "isbn_13": "9785512405314",
+    "isbn_10": "5512405317",
+    "pages": 171,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "Siddhartha",
+    "author": "Hermann Hesse",
+    "year": 1922,
+    "isbn_13": "9782110014115",
+    "isbn_10": "2110014118",
+    "pages": 152,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Philosophy"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "Steppenwolf",
+    "author": "Hermann Hesse",
+    "year": 1927,
+    "isbn_13": "9781845053307",
+    "isbn_10": "1845053308",
+    "pages": 237,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "Narcissus and Goldmund",
+    "author": "Hermann Hesse",
+    "year": 1930,
+    "isbn_13": "9785416511357",
+    "isbn_10": "5416511357",
+    "pages": 312,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "The Journey to the East",
+    "author": "Hermann Hesse",
+    "year": 1932,
+    "isbn_13": "9781213999954",
+    "isbn_10": "1213999959",
+    "pages": 118,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "The Glass Bead Game",
+    "author": "Hermann Hesse",
+    "year": 1943,
+    "isbn_13": "9784248829517",
+    "isbn_10": "4248829514",
+    "pages": 558,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de",
+    "description": ""
+  },
+  {
+    "title": "The White Guard",
+    "author": "Mikhail Bulgakov",
+    "year": 1925,
+    "isbn_13": "9785908435192",
+    "isbn_10": "5908435193",
+    "pages": 307,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Magical Realism",
+      "Historical Fiction"
+    ],
+    "language": "ru",
+    "description": ""
+  },
+  {
+    "title": "The Heart of a Dog",
+    "author": "Mikhail Bulgakov",
+    "year": 1925,
+    "isbn_13": "9782902807741",
+    "isbn_10": "2902807740",
+    "pages": 128,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Magical Realism",
+      "Satire"
+    ],
+    "language": "ru",
+    "description": ""
+  },
+  {
+    "title": "The Master and Margarita",
+    "author": "Mikhail Bulgakov",
+    "year": 1967,
+    "isbn_13": "9786361163196",
+    "isbn_10": "6361163192",
+    "pages": 372,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Magical Realism"
+    ],
+    "language": "ru",
+    "description": ""
+  },
+  {
+    "title": "A Country Doctor's Notebook",
+    "author": "Mikhail Bulgakov",
+    "year": 1926,
+    "isbn_13": "9786313553334",
+    "isbn_10": "6313553330",
+    "pages": 128,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Magical Realism",
+      "Short Stories"
+    ],
+    "language": "ru",
+    "description": ""
+  },
+  {
+    "title": "Black Snow",
+    "author": "Mikhail Bulgakov",
+    "year": 1965,
+    "isbn_13": "9784225132456",
+    "isbn_10": "4225132456",
+    "pages": 221,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Magical Realism"
+    ],
+    "language": "ru",
+    "description": ""
+  },
+  {
+    "title": "The Fatal Eggs",
+    "author": "Mikhail Bulgakov",
+    "year": 1925,
+    "isbn_13": "9785429325446",
+    "isbn_10": "5429325442",
+    "pages": 120,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Magical Realism",
+      "Science Fiction"
+    ],
+    "language": "ru",
+    "description": ""
+  },
+  {
+    "title": "Snow Country",
+    "author": "Yasunari Kawabata",
+    "year": 1948,
+    "isbn_13": "9780797338739",
+    "isbn_10": "0797338731",
+    "pages": 175,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "Thousand Cranes",
+    "author": "Yasunari Kawabata",
+    "year": 1952,
+    "isbn_13": "9780157400700",
+    "isbn_10": "0157400700",
+    "pages": 147,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "The Sound of the Mountain",
+    "author": "Yasunari Kawabata",
+    "year": 1954,
+    "isbn_13": "9786953716403",
+    "isbn_10": "695371640X",
+    "pages": 276,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "The House of the Sleeping Beauties",
+    "author": "Yasunari Kawabata",
+    "year": 1961,
+    "isbn_13": "9789584652546",
+    "isbn_10": "9584652540",
+    "pages": 99,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "The Old Capital",
+    "author": "Yasunari Kawabata",
+    "year": 1962,
+    "isbn_13": "9782024820949",
+    "isbn_10": "2024820943",
+    "pages": 182,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "Beauty and Sadness",
+    "author": "Yasunari Kawabata",
+    "year": 1965,
+    "isbn_13": "9784174160975",
+    "isbn_10": "4174160971",
+    "pages": 206,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "The Master of Go",
+    "author": "Yasunari Kawabata",
+    "year": 1972,
+    "isbn_13": "9785274200172",
+    "isbn_10": "5274200175",
+    "pages": 189,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "Palm-of-the-Hand Stories",
+    "author": "Yasunari Kawabata",
+    "year": 1988,
+    "isbn_13": "9781350301467",
+    "isbn_10": "1350301462",
+    "pages": 238,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Short Stories"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "1Q84",
+    "author": "Haruki Murakami",
+    "year": 2009,
+    "isbn_13": "9782504333716",
+    "isbn_10": "2504333717",
+    "pages": 925,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "Kafka on the Shore",
+    "author": "Haruki Murakami",
+    "year": 2002,
+    "isbn_13": "9781325428595",
+    "isbn_10": "1325428590",
+    "pages": 467,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "The Elephant Vanishes",
+    "author": "Haruki Murakami",
+    "year": 1993,
+    "isbn_13": "9785073487361",
+    "isbn_10": "5073487369",
+    "pages": 327,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism",
+      "Short Stories"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "Kitchen",
+    "author": "Banana Yoshimoto",
+    "year": 1988,
+    "isbn_13": "9783590031579",
+    "isbn_10": "3590031578",
+    "pages": 152,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "N.P.",
+    "author": "Banana Yoshimoto",
+    "year": 1990,
+    "isbn_13": "9781126301684",
+    "isbn_10": "1126301681",
+    "pages": 179,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "Lizard",
+    "author": "Banana Yoshimoto",
+    "year": 1993,
+    "isbn_13": "9781510414013",
+    "isbn_10": "1510414010",
+    "pages": 160,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "Amrita",
+    "author": "Banana Yoshimoto",
+    "year": 1994,
+    "isbn_13": "9781400312061",
+    "isbn_10": "1400312061",
+    "pages": 366,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "Goodbye Tsugumi",
+    "author": "Banana Yoshimoto",
+    "year": 1989,
+    "isbn_13": "9783885438137",
+    "isbn_10": "3885438136",
+    "pages": 188,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "Asleep",
+    "author": "Banana Yoshimoto",
+    "year": 2000,
+    "isbn_13": "9787921338726",
+    "isbn_10": "7921338720",
+    "pages": 177,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "Hardboiled & Hard Luck",
+    "author": "Banana Yoshimoto",
+    "year": 1999,
+    "isbn_13": "9782422344412",
+    "isbn_10": "2422344410",
+    "pages": 186,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "The Lake",
+    "author": "Banana Yoshimoto",
+    "year": 2005,
+    "isbn_13": "9784236689338",
+    "isbn_10": "4236689339",
+    "pages": 188,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "Moshi Moshi",
+    "author": "Banana Yoshimoto",
+    "year": 2010,
+    "isbn_13": "9782052014532",
+    "isbn_10": "2052014536",
+    "pages": 208,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "The Memory Police",
+    "author": "Y\u014dko Ogawa",
+    "year": 1994,
+    "isbn_13": "9781004356171",
+    "isbn_10": "1004356171",
+    "pages": 274,
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "The Housekeeper and the Professor",
+    "author": "Y\u014dko Ogawa",
+    "year": 2003,
+    "isbn_13": "9782714492685",
+    "isbn_10": "271449268X",
+    "pages": 180,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "The Diving Pool",
+    "author": "Y\u014dko Ogawa",
+    "year": 1990,
+    "isbn_13": "9787554970607",
+    "isbn_10": "7554970604",
+    "pages": 180,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "Hotel Iris",
+    "author": "Y\u014dko Ogawa",
+    "year": 1996,
+    "isbn_13": "9783647350448",
+    "isbn_10": "3647350448",
+    "pages": 179,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "Revenge",
+    "author": "Y\u014dko Ogawa",
+    "year": 2009,
+    "isbn_13": "9785933004189",
+    "isbn_10": "5933004182",
+    "pages": 166,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "Ficciones",
+    "author": "Jorge Luis Borges",
+    "year": 1944,
+    "isbn_13": "9782424430434",
+    "isbn_10": "2424430433",
+    "pages": 174,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories",
+      "Classic"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Aleph",
+    "author": "Jorge Luis Borges",
+    "year": 1949,
+    "isbn_13": "9786804582966",
+    "isbn_10": "6804582962",
+    "pages": 190,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "A Universal History of Iniquity",
+    "author": "Jorge Luis Borges",
+    "year": 1935,
+    "isbn_13": "9781120741028",
+    "isbn_10": "1120741026",
+    "pages": 146,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Book of Sand",
+    "author": "Jorge Luis Borges",
+    "year": 1975,
+    "isbn_13": "9781945510519",
+    "isbn_10": "1945510511",
+    "pages": 155,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Labyrinths",
+    "author": "Jorge Luis Borges",
+    "year": 1962,
+    "isbn_13": "9780213711016",
+    "isbn_10": "0213711011",
+    "pages": 240,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories",
+      "Classic"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Dreamtigers",
+    "author": "Jorge Luis Borges",
+    "year": 1960,
+    "isbn_13": "9787240349625",
+    "isbn_10": "7240349627",
+    "pages": 95,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Book of Imaginary Beings",
+    "author": "Jorge Luis Borges",
+    "year": 1957,
+    "isbn_13": "9784452692297",
+    "isbn_10": "4452692291",
+    "pages": 235,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories",
+      "Non-Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Doctor Brodie's Report",
+    "author": "Jorge Luis Borges",
+    "year": 1970,
+    "isbn_13": "9780146851926",
+    "isbn_10": "0146851924",
+    "pages": 145,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Winners",
+    "author": "Julio Cort\u00e1zar",
+    "year": 1960,
+    "isbn_13": "9785967921278",
+    "isbn_10": "5967921278",
+    "pages": 371,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Hopscotch",
+    "author": "Julio Cort\u00e1zar",
+    "year": 1963,
+    "isbn_13": "9789542304241",
+    "isbn_10": "9542304249",
+    "pages": 564,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "62: A Model Kit",
+    "author": "Julio Cort\u00e1zar",
+    "year": 1968,
+    "isbn_13": "9780243355617",
+    "isbn_10": "0243355610",
+    "pages": 280,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  }
+]

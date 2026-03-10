@@ -130,6 +130,23 @@
       "page_count": 541
     },
     {
+      "title": "1491: New Revelations of the Americas Before Columbus",
+      "year": 2005,
+      "isbn_13": "9784222224130",
+      "isbn_10": "4222224133",
+      "pages": 541,
+      "genres": [
+        "History",
+        "Science"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Charles C. Mann"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "1493",
       "authors": [
         "Charles C. Mann"
@@ -145,6 +162,22 @@
       "source": "seed",
       "year_published": 2011,
       "page_count": 560
+    },
+    {
+      "title": "1493: Uncovering the New World Columbus Created",
+      "year": 2011,
+      "isbn_13": "9784758303378",
+      "isbn_10": "475830337X",
+      "pages": 535,
+      "genres": [
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Charles C. Mann"
+      ],
+      "source": "seed"
     },
     {
       "title": "1776",
@@ -528,6 +561,22 @@
       "page_count": 383
     },
     {
+      "title": "62: A Model Kit",
+      "year": 1968,
+      "isbn_13": "9780243355617",
+      "isbn_10": "0243355610",
+      "pages": 280,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Julio Cortázar"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "77 Shadow Street",
       "authors": [
         "Dean Koontz"
@@ -558,6 +607,22 @@
       "source": "seed",
       "year_published": 2008,
       "page_count": 368
+    },
+    {
+      "title": "A Bend in the River",
+      "year": 1979,
+      "isbn_13": "9785332359248",
+      "isbn_10": "533235924X",
+      "pages": 278,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "V.S. Naipaul"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Bend in the Road",
@@ -638,6 +703,22 @@
       "source": "seed",
       "year_published": 2005,
       "page_count": 980
+    },
+    {
+      "title": "A Brief History of Equality",
+      "year": 2021,
+      "isbn_13": "9787034351445",
+      "isbn_10": "7034351442",
+      "pages": 274,
+      "genres": [
+        "Economics"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Thomas Piketty"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Brief History of Time",
@@ -734,6 +815,22 @@
       "description": "",
       "authors": [
         "Hilary Mantel"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "A Change of Skin",
+      "year": 1967,
+      "isbn_13": "9782031096191",
+      "isbn_10": "2031096199",
+      "pages": 462,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Carlos Fuentes"
       ],
       "source": "seed"
     },
@@ -848,6 +945,25 @@
       "source": "seed",
       "year_published": 1889,
       "page_count": 404
+    },
+    {
+      "title": "A Country Doctor's Notebook",
+      "year": 1926,
+      "isbn_13": "9786313553334",
+      "isbn_10": "6313553330",
+      "pages": 128,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Magical Realism",
+        "Short Stories"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Mikhail Bulgakov"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Crown of Swords",
@@ -1087,6 +1203,22 @@
       "page_count": 677
     },
     {
+      "title": "A Distant Mirror",
+      "year": 1978,
+      "isbn_13": "9784262694153",
+      "isbn_10": "426269415X",
+      "pages": 677,
+      "genres": [
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Barbara W. Tuchman"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Doll's House",
       "authors": [
         "Henrik Ibsen"
@@ -1117,6 +1249,23 @@
       "description": "",
       "authors": [
         "Dennis Lehane"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "A Fable",
+      "year": 1954,
+      "isbn_13": "9782530060136",
+      "isbn_10": "2530060137",
+      "pages": 437,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "William Faulkner"
       ],
       "source": "seed"
     },
@@ -1330,6 +1479,24 @@
       "page_count": 285
     },
     {
+      "title": "A Happy Death",
+      "year": 1971,
+      "isbn_13": "9783570811870",
+      "isbn_10": "3570811876",
+      "pages": 151,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Philosophy"
+      ],
+      "language": "fr",
+      "description": "",
+      "authors": [
+        "Albert Camus"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Hat Full of Sky",
       "authors": [
         "Terry Pratchett"
@@ -1408,6 +1575,41 @@
       "source": "seed",
       "year_published": 1945,
       "page_count": 895
+    },
+    {
+      "title": "A House for Mr Biswas",
+      "year": 1961,
+      "isbn_13": "9785241682024",
+      "isbn_10": "5241682028",
+      "pages": 564,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "V.S. Naipaul"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "A Hunger Artist",
+      "year": 1922,
+      "isbn_13": "9782309442194",
+      "isbn_10": "2309442197",
+      "pages": 52,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Short Stories"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Franz Kafka"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Knight of the Seven Kingdoms",
@@ -1608,6 +1810,22 @@
       "source": "seed",
       "year_published": 1966,
       "page_count": 166
+    },
+    {
+      "title": "A Manual for Manuel",
+      "year": 1973,
+      "isbn_13": "9787009108265",
+      "isbn_10": "7009108262",
+      "pages": 394,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Julio Cortázar"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Married Woman",
@@ -1941,6 +2159,22 @@
       "page_count": 172
     },
     {
+      "title": "A Personal Matter",
+      "year": 1964,
+      "isbn_13": "9785977427753",
+      "isbn_10": "597742775X",
+      "pages": 165,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Kenzaburō Ōe"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Place of Greater Safety",
       "authors": [
         "Hilary Mantel"
@@ -2082,6 +2316,22 @@
       "page_count": 160
     },
     {
+      "title": "A Quiet Life",
+      "year": 1990,
+      "isbn_13": "9781342764188",
+      "isbn_10": "1342764183",
+      "pages": 240,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Kenzaburō Ōe"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Raisin in the Sun",
       "authors": [
         "Lorraine Hansberry"
@@ -2095,6 +2345,24 @@
       "source": "seed",
       "year_published": 1959,
       "page_count": 151
+    },
+    {
+      "title": "A Room of One's Own",
+      "year": 1929,
+      "isbn_13": "9780832193293",
+      "isbn_10": "083219329X",
+      "pages": 112,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Virginia Woolf"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Rule Against Murder",
@@ -2372,6 +2640,23 @@
       "source": "seed"
     },
     {
+      "title": "A Theft",
+      "year": 1989,
+      "isbn_13": "9780633120559",
+      "isbn_10": "0633120558",
+      "pages": 109,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Saul Bellow"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Theory of Justice",
       "authors": [
         "John Rawls"
@@ -2513,6 +2798,23 @@
       "page_count": 158
     },
     {
+      "title": "A Universal History of Iniquity",
+      "year": 1935,
+      "isbn_13": "9781120741028",
+      "isbn_10": "1120741026",
+      "pages": 146,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Jorge Luis Borges"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A View from the Bridge",
       "authors": [
         "Arthur Miller"
@@ -2589,6 +2891,22 @@
       "source": "seed",
       "year_published": 2012,
       "page_count": 388
+    },
+    {
+      "title": "A Way in the World",
+      "year": 1994,
+      "isbn_13": "9786275462620",
+      "isbn_10": "6275462620",
+      "pages": 380,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "V.S. Naipaul"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Way of Being Free",
@@ -2895,6 +3213,23 @@
       "page_count": 320
     },
     {
+      "title": "Across the River and into the Trees",
+      "year": 1950,
+      "isbn_13": "9781670134035",
+      "isbn_10": "1670134039",
+      "pages": 272,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Ernest Hemingway"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Act Your Age, Eve Brown",
       "authors": [
         "Talia Hibbert"
@@ -2955,6 +3290,22 @@
       "source": "seed",
       "year_published": 2017,
       "page_count": 240
+    },
+    {
+      "title": "Adrift on the Nile",
+      "year": 1966,
+      "isbn_13": "9782852014152",
+      "isbn_10": "2852014154",
+      "pages": 167,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ar",
+      "description": "",
+      "authors": [
+        "Naguib Mahfouz"
+      ],
+      "source": "seed"
     },
     {
       "title": "Adultery",
@@ -3320,6 +3671,23 @@
       "source": "seed"
     },
     {
+      "title": "Alexander Hamilton",
+      "year": 2004,
+      "isbn_13": "9789855641842",
+      "isbn_10": "985564184X",
+      "pages": 818,
+      "genres": [
+        "Biography",
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Ron Chernow"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Algorithms of Oppression",
       "authors": [
         "Safiya Umoja Noble"
@@ -3415,6 +3783,39 @@
       "source": "seed",
       "year_published": 2017,
       "page_count": 305
+    },
+    {
+      "title": "All Fires the Fire",
+      "year": 1966,
+      "isbn_13": "9780001053342",
+      "isbn_10": "0001053346",
+      "pages": 171,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Julio Cortázar"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "All God's Children Need Traveling Shoes",
+      "year": 1986,
+      "isbn_13": "9783185928833",
+      "isbn_10": "3185928830",
+      "pages": 209,
+      "genres": [
+        "Memoir"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Maya Angelou"
+      ],
+      "source": "seed"
     },
     {
       "title": "All My Sons",
@@ -3527,6 +3928,23 @@
       "source": "seed",
       "year_published": 2011,
       "page_count": 224
+    },
+    {
+      "title": "All the Names",
+      "year": 1997,
+      "isbn_13": "9780327133001",
+      "isbn_10": "0327133004",
+      "pages": 238,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism"
+      ],
+      "language": "pt",
+      "description": "",
+      "authors": [
+        "José Saramago"
+      ],
+      "source": "seed"
     },
     {
       "title": "All the President's Men",
@@ -3735,6 +4153,23 @@
       "source": "seed"
     },
     {
+      "title": "Amerika",
+      "year": 1927,
+      "isbn_13": "9782253252948",
+      "isbn_10": "2253252943",
+      "pages": 299,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Franz Kafka"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Amnesty",
       "authors": [
         "Aravind Adiga"
@@ -3750,6 +4185,40 @@
       "source": "seed",
       "year_published": 2020,
       "page_count": 256
+    },
+    {
+      "title": "Among the Believers",
+      "year": 1981,
+      "isbn_13": "9786021461037",
+      "isbn_10": "6021461034",
+      "pages": 430,
+      "genres": [
+        "Literary Fiction",
+        "Travel",
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "V.S. Naipaul"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Amrita",
+      "year": 1994,
+      "isbn_13": "9781400312061",
+      "isbn_10": "1400312061",
+      "pages": 366,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Banana Yoshimoto"
+      ],
+      "source": "seed"
     },
     {
       "title": "Amsterdam",
@@ -3826,6 +4295,24 @@
       "source": "seed",
       "year_published": 1995,
       "page_count": 327
+    },
+    {
+      "title": "An Area of Darkness",
+      "year": 1964,
+      "isbn_13": "9787149724806",
+      "isbn_10": "7149724802",
+      "pages": 281,
+      "genres": [
+        "Literary Fiction",
+        "Travel",
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "V.S. Naipaul"
+      ],
+      "source": "seed"
     },
     {
       "title": "An Artist of the Floating World",
@@ -5037,6 +5524,22 @@
       "page_count": 528
     },
     {
+      "title": "Asleep",
+      "year": 2000,
+      "isbn_13": "9787921338726",
+      "isbn_10": "7921338720",
+      "pages": 177,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Banana Yoshimoto"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Assassin's Apprentice",
       "authors": [
         "Robin Hobb"
@@ -5327,6 +5830,22 @@
       "page_count": 192
     },
     {
+      "title": "Aura",
+      "year": 1962,
+      "isbn_13": "9781522481201",
+      "isbn_10": "1522481205",
+      "pages": 62,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Carlos Fuentes"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Austerlitz",
       "authors": [
         "W.G. Sebald"
@@ -5377,6 +5896,24 @@
       "source": "seed",
       "year_published": 1946,
       "page_count": 498
+    },
+    {
+      "title": "Autobiography of Malcolm X",
+      "year": 1965,
+      "isbn_13": "9783462294569",
+      "isbn_10": "3462294568",
+      "pages": 500,
+      "genres": [
+        "Memoir",
+        "History",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Malcolm X"
+      ],
+      "source": "seed"
     },
     {
       "title": "Autopsy",
@@ -5584,6 +6121,24 @@
       "source": "seed",
       "year_published": 2004,
       "page_count": 384
+    },
+    {
+      "title": "Baltasar and Blimunda",
+      "year": 1982,
+      "isbn_13": "9783559828387",
+      "isbn_10": "3559828387",
+      "pages": 348,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism",
+        "Historical Fiction"
+      ],
+      "language": "pt",
+      "description": "",
+      "authors": [
+        "José Saramago"
+      ],
+      "source": "seed"
     },
     {
       "title": "Bambi vs. Godzilla",
@@ -5858,6 +6413,23 @@
       "source": "seed"
     },
     {
+      "title": "Beauty and Sadness",
+      "year": 1965,
+      "isbn_13": "9784174160975",
+      "isbn_10": "4174160971",
+      "pages": 206,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Yasunari Kawabata"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Because It Is Bitter, and Because It Is My Heart",
       "authors": [
         "Joyce Carol Oates"
@@ -6120,6 +6692,23 @@
       "source": "seed"
     },
     {
+      "title": "Beneath the Wheel",
+      "year": 1906,
+      "isbn_13": "9785359495103",
+      "isbn_10": "5359495108",
+      "pages": 178,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Hermann Hesse"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Benjamin Franklin",
       "authors": [
         "Walter Isaacson"
@@ -6293,6 +6882,22 @@
       "page_count": 354
     },
     {
+      "title": "Between Past and Future",
+      "year": 1961,
+      "isbn_13": "9781442860865",
+      "isbn_10": "1442860868",
+      "pages": 246,
+      "genres": [
+        "Philosophy"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Hannah Arendt"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Between Planets",
       "authors": [
         "Robert A. Heinlein"
@@ -6321,6 +6926,23 @@
       "source": "seed",
       "year_published": 2023,
       "page_count": 304
+    },
+    {
+      "title": "Between the Acts",
+      "year": 1941,
+      "isbn_13": "9784050781478",
+      "isbn_10": "4050781475",
+      "pages": 256,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Virginia Woolf"
+      ],
+      "source": "seed"
     },
     {
       "title": "Between the Assassinations",
@@ -6838,6 +7460,24 @@
       "page_count": 232
     },
     {
+      "title": "Black Snow",
+      "year": 1965,
+      "isbn_13": "9784225132456",
+      "isbn_10": "4225132456",
+      "pages": 221,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Magical Realism"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Mikhail Bulgakov"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Black Sun",
       "authors": [
         "Rebecca Roanhorse"
@@ -7058,6 +7698,24 @@
       ],
       "language": "pt",
       "page_count": 349,
+      "source": "seed"
+    },
+    {
+      "title": "Blindness",
+      "year": 1995,
+      "isbn_13": "9781345240115",
+      "isbn_10": "1345240119",
+      "pages": 326,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism",
+        "Classic"
+      ],
+      "language": "pt",
+      "description": "",
+      "authors": [
+        "José Saramago"
+      ],
       "source": "seed"
     },
     {
@@ -7894,6 +8552,23 @@
       "page_count": 176
     },
     {
+      "title": "Boyhood",
+      "year": 1854,
+      "isbn_13": "9785299415414",
+      "isbn_10": "5299415412",
+      "pages": 106,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Leo Tolstoy"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Braiding Sweetgrass",
       "authors": [
         "Robin Wall Kimmerer"
@@ -8212,6 +8887,22 @@
       "page_count": 324
     },
     {
+      "title": "Broca's Brain",
+      "year": 1979,
+      "isbn_13": "9780304374120",
+      "isbn_10": "030437412X",
+      "pages": 347,
+      "genres": [
+        "Science"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Carl Sagan"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Broken",
       "authors": [
         "Karin Slaughter"
@@ -8378,6 +9069,22 @@
       "page_count": 366
     },
     {
+      "title": "Bury My Heart at Wounded Knee",
+      "year": 1970,
+      "isbn_13": "9789556924251",
+      "isbn_10": "9556924255",
+      "pages": 487,
+      "genres": [
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Dee Brown"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "By Night in Chile",
       "authors": [
         "Roberto Bolaño"
@@ -8469,6 +9176,23 @@
       "source": "seed",
       "year_published": 2019,
       "page_count": 567
+    },
+    {
+      "title": "Cain",
+      "year": 2009,
+      "isbn_13": "9785183560053",
+      "isbn_10": "5183560055",
+      "pages": 160,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism"
+      ],
+      "language": "pt",
+      "description": "",
+      "authors": [
+        "José Saramago"
+      ],
+      "source": "seed"
     },
     {
       "title": "Caliban's War",
@@ -8636,6 +9360,23 @@
       "page_count": 1152
     },
     {
+      "title": "Capital and Ideology",
+      "year": 2019,
+      "isbn_13": "9782832307397",
+      "isbn_10": "2832307395",
+      "pages": 1104,
+      "genres": [
+        "Economics",
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Thomas Piketty"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Capital in the Twenty-First Century",
       "authors": [
         "Thomas Piketty"
@@ -8667,6 +9408,23 @@
       "source": "seed",
       "year_published": 1962,
       "page_count": 208
+    },
+    {
+      "title": "Captain Pantoja and the Special Service",
+      "year": 1973,
+      "isbn_13": "9786358116327",
+      "isbn_10": "6358116320",
+      "pages": 303,
+      "genres": [
+        "Literary Fiction",
+        "Humor"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Mario Vargas Llosa"
+      ],
+      "source": "seed"
     },
     {
       "title": "Cards on the Table",
@@ -8857,6 +9615,23 @@
       "source": "seed",
       "year_published": 1959,
       "page_count": 224
+    },
+    {
+      "title": "Cat and Mouse",
+      "year": 1961,
+      "isbn_13": "9789344504207",
+      "isbn_10": "9344504209",
+      "pages": 189,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Günter Grass"
+      ],
+      "source": "seed"
     },
     {
       "title": "Cat on a Hot Tin Roof",
@@ -9344,6 +10119,23 @@
       "page_count": 197
     },
     {
+      "title": "Childhood",
+      "year": 1852,
+      "isbn_13": "9786791670714",
+      "isbn_10": "679167071X",
+      "pages": 161,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Leo Tolstoy"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Childhood's End",
       "authors": [
         "Arthur C. Clarke"
@@ -9434,6 +10226,22 @@
       "source": "seed",
       "year_published": 2019,
       "page_count": 566
+    },
+    {
+      "title": "Children of the Alley",
+      "year": 1959,
+      "isbn_13": "9780840851062",
+      "isbn_10": "0840851066",
+      "pages": 448,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ar",
+      "description": "",
+      "authors": [
+        "Naguib Mahfouz"
+      ],
+      "source": "seed"
     },
     {
       "title": "Children of Time",
@@ -9561,6 +10369,22 @@
       "source": "seed",
       "year_published": 1983,
       "page_count": 526
+    },
+    {
+      "title": "Christopher Unborn",
+      "year": 1987,
+      "isbn_13": "9783410156284",
+      "isbn_10": "3410156288",
+      "pages": 531,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Carlos Fuentes"
+      ],
+      "source": "seed"
     },
     {
       "title": "Chromosome 6",
@@ -10436,6 +11260,24 @@
       "page_count": 255
     },
     {
+      "title": "Confessions of Felix Krull",
+      "year": 1954,
+      "isbn_13": "9781602806221",
+      "isbn_10": "1602806226",
+      "pages": 384,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Humor"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Thomas Mann"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Congo",
       "authors": [
         "Michael Crichton"
@@ -10755,6 +11597,24 @@
       "page_count": 432
     },
     {
+      "title": "Crabwalk",
+      "year": 2002,
+      "isbn_13": "9784084429049",
+      "isbn_10": "4084429041",
+      "pages": 234,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Historical Fiction"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Günter Grass"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Cracking India",
       "authors": [
         "Bapsi Sidhwa"
@@ -10964,6 +11824,24 @@
       "source": "seed",
       "year_published": 1781,
       "page_count": 856
+    },
+    {
+      "title": "Cronopios and Famas",
+      "year": 1962,
+      "isbn_13": "9780508315462",
+      "isbn_10": "0508315463",
+      "pages": 161,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories",
+        "Humor"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Julio Cortázar"
+      ],
+      "source": "seed"
     },
     {
       "title": "Crook Manifesto",
@@ -11269,6 +12147,40 @@
       "page_count": 319
     },
     {
+      "title": "Culture and Imperialism",
+      "year": 1993,
+      "isbn_13": "9788281551046",
+      "isbn_10": "8281551045",
+      "pages": 380,
+      "genres": [
+        "History",
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Edward Said"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Cup of Gold",
+      "year": 1929,
+      "isbn_13": "9789228503265",
+      "isbn_10": "9228503269",
+      "pages": 266,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "John Steinbeck"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Cure",
       "authors": [
         "Robin Cook"
@@ -11508,6 +12420,23 @@
       "page_count": 239
     },
     {
+      "title": "Dangling Man",
+      "year": 1944,
+      "isbn_13": "9785335127301",
+      "isbn_10": "5335127302",
+      "pages": 191,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Saul Bellow"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Daniel",
       "authors": [
         "Henning Mankell"
@@ -11718,6 +12647,24 @@
       "source": "seed",
       "year_published": 2003,
       "page_count": 288
+    },
+    {
+      "title": "Daughter of Fortune",
+      "year": 1999,
+      "isbn_13": "9782791563346",
+      "isbn_10": "2791563349",
+      "pages": 399,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism",
+        "Historical Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Isabel Allende"
+      ],
+      "source": "seed"
     },
     {
       "title": "David and Goliath",
@@ -12039,6 +12986,22 @@
       "page_count": 384
     },
     {
+      "title": "Death by Water",
+      "year": 2009,
+      "isbn_13": "9787041306612",
+      "isbn_10": "7041306616",
+      "pages": 421,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Kenzaburō Ōe"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Death Comes as the End",
       "authors": [
         "Agatha Christie"
@@ -12179,6 +13142,23 @@
       ],
       "language": "en",
       "page_count": 352,
+      "source": "seed"
+    },
+    {
+      "title": "Death with Interruptions",
+      "year": 2005,
+      "isbn_13": "9781720209263",
+      "isbn_10": "1720209261",
+      "pages": 238,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism"
+      ],
+      "language": "pt",
+      "description": "",
+      "authors": [
+        "José Saramago"
+      ],
       "source": "seed"
     },
     {
@@ -12611,6 +13591,22 @@
       "page_count": 192
     },
     {
+      "title": "Destiny and Desire",
+      "year": 2008,
+      "isbn_13": "9782016802502",
+      "isbn_10": "2016802509",
+      "pages": 436,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Carlos Fuentes"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Destiny Disrupted",
       "authors": [
         "Tamim Ansary"
@@ -12972,6 +13968,22 @@
       "page_count": 260
     },
     {
+      "title": "Distant Relations",
+      "year": 1980,
+      "isbn_13": "9780582423169",
+      "isbn_10": "0582423168",
+      "pages": 216,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Carlos Fuentes"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Distant Star",
       "authors": [
         "Roberto Bolaño"
@@ -13190,6 +14202,23 @@
       ],
       "language": "ru",
       "page_count": 592,
+      "source": "seed"
+    },
+    {
+      "title": "Dog Years",
+      "year": 1963,
+      "isbn_13": "9782181291545",
+      "isbn_10": "2181291548",
+      "pages": 570,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Günter Grass"
+      ],
       "source": "seed"
     },
     {
@@ -13640,6 +14669,23 @@
       "page_count": 640
     },
     {
+      "title": "Dreamtigers",
+      "year": 1960,
+      "isbn_13": "9787240349625",
+      "isbn_10": "7240349627",
+      "pages": 95,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Jorge Luis Borges"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Drive",
       "authors": [
         "Daniel H. Pink"
@@ -13704,6 +14750,22 @@
       "source": "seed",
       "year_published": 1996,
       "page_count": 880
+    },
+    {
+      "title": "Dry",
+      "year": 2003,
+      "isbn_13": "9782004015327",
+      "isbn_10": "2004015329",
+      "pages": 293,
+      "genres": [
+        "Memoir"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Augusten Burroughs"
+      ],
+      "source": "seed"
     },
     {
       "title": "Dubliners",
@@ -14408,6 +15470,22 @@
       "page_count": 535
     },
     {
+      "title": "Empire of the Summer Moon",
+      "year": 2010,
+      "isbn_13": "9785612056539",
+      "isbn_10": "5612056539",
+      "pages": 371,
+      "genres": [
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "S.C. Gwynne"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Empire of the Sun",
       "authors": [
         "J.G. Ballard"
@@ -14949,6 +16027,25 @@
       ],
       "language": "en",
       "page_count": 352,
+      "source": "seed"
+    },
+    {
+      "title": "Exile and the Kingdom",
+      "year": 1957,
+      "isbn_13": "9783411740826",
+      "isbn_10": "3411740826",
+      "pages": 159,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Philosophy",
+        "Short Stories"
+      ],
+      "language": "fr",
+      "description": "",
+      "authors": [
+        "Albert Camus"
+      ],
       "source": "seed"
     },
     {
@@ -15883,6 +16980,23 @@
       "source": "seed",
       "year_published": 2009,
       "page_count": 312
+    },
+    {
+      "title": "Finnegans Wake",
+      "year": 1939,
+      "isbn_13": "9781704469317",
+      "isbn_10": "1704469314",
+      "pages": 628,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "James Joyce"
+      ],
+      "source": "seed"
     },
     {
       "title": "Fire & Blood",
@@ -17097,6 +18211,23 @@
       "page_count": 738
     },
     {
+      "title": "From the Diary of a Snail",
+      "year": 1972,
+      "isbn_13": "9789001595241",
+      "isbn_10": "9001595248",
+      "pages": 310,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Günter Grass"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "From the Dust Returned",
       "authors": [
         "Ray Bradbury"
@@ -17732,6 +18863,23 @@
       "page_count": 591
     },
     {
+      "title": "Gertrude",
+      "year": 1910,
+      "isbn_13": "9788028827434",
+      "isbn_10": "8028827433",
+      "pages": 160,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Hermann Hesse"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Gertrude and Claudius",
       "authors": [
         "John Updike"
@@ -18019,6 +19167,24 @@
       "source": "seed",
       "year_published": 1963,
       "page_count": 288
+    },
+    {
+      "title": "Go Down, Moses",
+      "year": 1942,
+      "isbn_13": "9780610562051",
+      "isbn_10": "0610562058",
+      "pages": 383,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Short Stories"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "William Faulkner"
+      ],
+      "source": "seed"
     },
     {
       "title": "Go Set a Watchman",
@@ -18538,6 +19704,23 @@
       "page_count": 224
     },
     {
+      "title": "Grant",
+      "year": 2017,
+      "isbn_13": "9784659042659",
+      "isbn_10": "4659042650",
+      "pages": 1074,
+      "genres": [
+        "Biography",
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Ron Chernow"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Gratitude",
       "authors": [
         "Oliver Sacks"
@@ -18813,6 +19996,22 @@
       "source": "seed"
     },
     {
+      "title": "Guerrillas",
+      "year": 1975,
+      "isbn_13": "9785224373154",
+      "isbn_10": "5224373153",
+      "pages": 309,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "V.S. Naipaul"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Gulp",
       "authors": [
         "Mary Roach"
@@ -18844,6 +20043,23 @@
       "source": "seed",
       "year_published": 2019,
       "page_count": 291
+    },
+    {
+      "title": "Guns of August",
+      "year": 1962,
+      "isbn_13": "9784409003336",
+      "isbn_10": "4409003331",
+      "pages": 511,
+      "genres": [
+        "History",
+        "War"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Barbara W. Tuchman"
+      ],
+      "source": "seed"
     },
     {
       "title": "Guns, Germs, and Steel",
@@ -18991,6 +20207,22 @@
       "source": "seed",
       "year_published": 2016,
       "page_count": 295
+    },
+    {
+      "title": "Half a Life",
+      "year": 2001,
+      "isbn_13": "9788325271268",
+      "isbn_10": "8325271267",
+      "pages": 211,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "V.S. Naipaul"
+      ],
+      "source": "seed"
     },
     {
       "title": "Half Girlfriend",
@@ -19262,6 +20494,22 @@
       "page_count": 400
     },
     {
+      "title": "Hardboiled & Hard Luck",
+      "year": 1999,
+      "isbn_13": "9782422344412",
+      "isbn_10": "2422344410",
+      "pages": 186,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Banana Yoshimoto"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Harlem Shuffle",
       "authors": [
         "Colson Whitehead"
@@ -19423,6 +20671,23 @@
       "source": "seed"
     },
     {
+      "title": "Harsh Times",
+      "year": 2019,
+      "isbn_13": "9787207252517",
+      "isbn_10": "7207252511",
+      "pages": 354,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Mario Vargas Llosa"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Harvest",
       "authors": [
         "Tess Gerritsen"
@@ -19470,6 +20735,23 @@
       "source": "seed",
       "year_published": 1958,
       "page_count": 276
+    },
+    {
+      "title": "Headbirths",
+      "year": 1980,
+      "isbn_13": "9782229535914",
+      "isbn_10": "2229535912",
+      "pages": 134,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Günter Grass"
+      ],
+      "source": "seed"
     },
     {
       "title": "Headhunters",
@@ -19769,6 +21051,23 @@
       "page_count": 689
     },
     {
+      "title": "Henderson the Rain King",
+      "year": 1959,
+      "isbn_13": "9782014108033",
+      "isbn_10": "2014108031",
+      "pages": 341,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Saul Bellow"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Hercule Poirot's Christmas",
       "authors": [
         "Agatha Christie"
@@ -19799,6 +21098,23 @@
       "source": "seed",
       "year_published": 2016,
       "page_count": 381
+    },
+    {
+      "title": "Herzog",
+      "year": 1964,
+      "isbn_13": "9784429084629",
+      "isbn_10": "4429084622",
+      "pages": 341,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Saul Bellow"
+      ],
+      "source": "seed"
     },
     {
       "title": "Hex",
@@ -20476,6 +21792,22 @@
       "page_count": 292
     },
     {
+      "title": "Hotel Iris",
+      "year": 1996,
+      "isbn_13": "9783647350448",
+      "isbn_10": "3647350448",
+      "pages": 179,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Yōko Ogawa"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Hour Game",
       "authors": [
         "David Baldacci"
@@ -20812,6 +22144,23 @@
       "source": "seed",
       "year_published": 2019,
       "page_count": 336
+    },
+    {
+      "title": "Humboldt's Gift",
+      "year": 1975,
+      "isbn_13": "9785858620150",
+      "isbn_10": "5858620152",
+      "pages": 487,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Saul Bellow"
+      ],
+      "source": "seed"
     },
     {
       "title": "Hummingbird Salamander",
@@ -21310,6 +22659,23 @@
       "page_count": 480
     },
     {
+      "title": "Identity",
+      "year": 1998,
+      "isbn_13": "9780411142230",
+      "isbn_10": "0411142239",
+      "pages": 153,
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "cs",
+      "description": "",
+      "authors": [
+        "Milan Kundera"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Identity Unknown",
       "authors": [
         "Patricia Cornwell"
@@ -21423,6 +22789,23 @@
       "page_count": 384
     },
     {
+      "title": "Ignorance",
+      "year": 2000,
+      "isbn_13": "9784422226026",
+      "isbn_10": "4422226022",
+      "pages": 195,
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "cs",
+      "description": "",
+      "authors": [
+        "Milan Kundera"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Ilium",
       "authors": [
         "Dan Simmons"
@@ -21436,6 +22819,23 @@
       ],
       "language": "en",
       "page_count": 576,
+      "source": "seed"
+    },
+    {
+      "title": "Ill Fares the Land",
+      "year": 2010,
+      "isbn_13": "9784076398131",
+      "isbn_10": "4076398130",
+      "pages": 237,
+      "genres": [
+        "History",
+        "Politics"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Tony Judt"
+      ],
       "source": "seed"
     },
     {
@@ -21564,6 +22964,22 @@
       "page_count": 352
     },
     {
+      "title": "In a Free State",
+      "year": 1971,
+      "isbn_13": "9789537201319",
+      "isbn_10": "9537201314",
+      "pages": 246,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "V.S. Naipaul"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "In a Holidaze",
       "authors": [
         "Christina Lauren"
@@ -21677,6 +23093,23 @@
       "page_count": 256
     },
     {
+      "title": "In Dubious Battle",
+      "year": 1936,
+      "isbn_13": "9788845033070",
+      "isbn_10": "8845033077",
+      "pages": 349,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "John Steinbeck"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "In Evil Hour",
       "authors": [
         "Gabriel García Márquez"
@@ -21708,6 +23141,24 @@
       "source": "seed",
       "year_published": 2009,
       "page_count": 247
+    },
+    {
+      "title": "In Our Time",
+      "year": 1925,
+      "isbn_13": "9786271409445",
+      "isbn_10": "6271409441",
+      "pages": 156,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Short Stories"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Ernest Hemingway"
+      ],
+      "source": "seed"
     },
     {
       "title": "In Patagonia",
@@ -21952,6 +23403,41 @@
       "source": "seed"
     },
     {
+      "title": "In the Penal Colony",
+      "year": 1919,
+      "isbn_13": "9787439208108",
+      "isbn_10": "7439208109",
+      "pages": 50,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Short Stories"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Franz Kafka"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "In the Shadow of Young Girls in Flower",
+      "year": 1919,
+      "isbn_13": "9782510238197",
+      "isbn_10": "251023819X",
+      "pages": 629,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "fr",
+      "description": "",
+      "authors": [
+        "Marcel Proust"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "In the Woods",
       "authors": [
         "Tana French"
@@ -22096,6 +23582,23 @@
       "source": "seed",
       "year_published": 2000,
       "page_count": 576
+    },
+    {
+      "title": "India: A Wounded Civilization",
+      "year": 1977,
+      "isbn_13": "9781421513478",
+      "isbn_10": "142151347X",
+      "pages": 175,
+      "genres": [
+        "Literary Fiction",
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "V.S. Naipaul"
+      ],
+      "source": "seed"
     },
     {
       "title": "Indignation",
@@ -22519,6 +24022,23 @@
       "page_count": 1292
     },
     {
+      "title": "Intruder in the Dust",
+      "year": 1948,
+      "isbn_13": "9783302659282",
+      "isbn_10": "3302659283",
+      "pages": 247,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "William Faulkner"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Inversions",
       "year": 1998,
       "isbn_13": "9780652251739",
@@ -22617,6 +24137,24 @@
       "page_count": 223
     },
     {
+      "title": "Inés of My Soul",
+      "year": 2006,
+      "isbn_13": "9781114951716",
+      "isbn_10": "1114951717",
+      "pages": 321,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism",
+        "Historical Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Isabel Allende"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Irish Thoroughbred",
       "authors": [
         "Nora Roberts"
@@ -22661,6 +24199,23 @@
       "source": "seed",
       "year_published": 2011,
       "page_count": 222
+    },
+    {
+      "title": "Isaac Newton",
+      "year": 2003,
+      "isbn_13": "9784928614891",
+      "isbn_10": "4928614896",
+      "pages": 191,
+      "genres": [
+        "Science",
+        "Biography"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "James Gleick"
+      ],
+      "source": "seed"
     },
     {
       "title": "Isaac's Storm",
@@ -22723,6 +24278,23 @@
       "source": "seed",
       "year_published": 1952,
       "page_count": 198
+    },
+    {
+      "title": "Islands in the Stream",
+      "year": 1970,
+      "isbn_13": "9784062240536",
+      "isbn_10": "4062240531",
+      "pages": 466,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Ernest Hemingway"
+      ],
+      "source": "seed"
     },
     {
       "title": "Istanbul: Memories and the City",
@@ -22878,6 +24450,23 @@
       "source": "seed",
       "year_published": 1996,
       "page_count": 432
+    },
+    {
+      "title": "Jacob's Room",
+      "year": 1922,
+      "isbn_13": "9786523455312",
+      "isbn_10": "6523455312",
+      "pages": 281,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Virginia Woolf"
+      ],
+      "source": "seed"
     },
     {
       "title": "Jade City",
@@ -23038,6 +24627,23 @@
       "source": "seed",
       "year_published": 1992,
       "page_count": 229
+    },
+    {
+      "title": "Jean Santeuil",
+      "year": 1952,
+      "isbn_13": "9781462225996",
+      "isbn_10": "1462225998",
+      "pages": 740,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "fr",
+      "description": "",
+      "authors": [
+        "Marcel Proust"
+      ],
+      "source": "seed"
     },
     {
       "title": "Jeeves and the Feudal Spirit",
@@ -23214,6 +24820,23 @@
       "source": "seed"
     },
     {
+      "title": "Joseph and His Brothers",
+      "year": 1943,
+      "isbn_13": "9784103973676",
+      "isbn_10": "4103973675",
+      "pages": 1492,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Thomas Mann"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Journey Under the Midnight Sun",
       "authors": [
         "Keigo Higashino"
@@ -23357,6 +24980,22 @@
       "source": "seed",
       "year_published": 2021,
       "page_count": 160
+    },
+    {
+      "title": "Junky",
+      "year": 1953,
+      "isbn_13": "9782474611005",
+      "isbn_10": "2474611009",
+      "pages": 166,
+      "genres": [
+        "Memoir"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "William S. Burroughs"
+      ],
+      "source": "seed"
     },
     {
       "title": "Jurassic Park",
@@ -24296,6 +25935,23 @@
       "source": "seed"
     },
     {
+      "title": "Last Evenings on Earth",
+      "year": 2001,
+      "isbn_13": "9781198631405",
+      "isbn_10": "1198631405",
+      "pages": 204,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Roberto Bolaño"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Last Man in Tower",
       "authors": [
         "Aravind Adiga"
@@ -24343,6 +25999,25 @@
       "source": "seed",
       "year_published": 2012,
       "page_count": 340
+    },
+    {
+      "title": "Last Witnesses",
+      "year": 1985,
+      "isbn_13": "9782341803342",
+      "isbn_10": "2341803349",
+      "pages": 252,
+      "genres": [
+        "Literary Fiction",
+        "Non-Fiction",
+        "War",
+        "History"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Svetlana Alexievich"
+      ],
+      "source": "seed"
     },
     {
       "title": "Later",
@@ -24971,6 +26646,23 @@
       "page_count": 317
     },
     {
+      "title": "Life Is Elsewhere",
+      "year": 1973,
+      "isbn_13": "9782070530151",
+      "isbn_10": "2070530152",
+      "pages": 303,
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "cs",
+      "description": "",
+      "authors": [
+        "Milan Kundera"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Life of Galileo",
       "authors": [
         "Bertolt Brecht"
@@ -25340,6 +27032,40 @@
       "source": "seed",
       "year_published": 2002,
       "page_count": 483
+    },
+    {
+      "title": "Lizard",
+      "year": 1993,
+      "isbn_13": "9781510414013",
+      "isbn_10": "1510414010",
+      "pages": 160,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Banana Yoshimoto"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Local Anaesthetic",
+      "year": 1969,
+      "isbn_13": "9786431079105",
+      "isbn_10": "6431079103",
+      "pages": 284,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Günter Grass"
+      ],
+      "source": "seed"
     },
     {
       "title": "Lock In",
@@ -26108,6 +27834,22 @@
       "page_count": 324
     },
     {
+      "title": "Magic Seeds",
+      "year": 2004,
+      "isbn_13": "9785614232870",
+      "isbn_10": "5614232874",
+      "pages": 280,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "V.S. Naipaul"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Make Me",
       "authors": [
         "Lee Child"
@@ -26717,6 +28459,42 @@
       "page_count": 296
     },
     {
+      "title": "Maus I: A Survivor's Tale",
+      "year": 1986,
+      "isbn_13": "9784593442126",
+      "isbn_10": "4593442126",
+      "pages": 159,
+      "genres": [
+        "Memoir",
+        "Graphic Novel",
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Art Spiegelman"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Maus II: And Here My Troubles Began",
+      "year": 1991,
+      "isbn_13": "9784261334807",
+      "isbn_10": "426133480X",
+      "pages": 136,
+      "genres": [
+        "Memoir",
+        "Graphic Novel",
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Art Spiegelman"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Maximum City",
       "authors": [
         "Suketu Mehta"
@@ -26748,6 +28526,23 @@
       "source": "seed",
       "year_published": 2005,
       "page_count": 422
+    },
+    {
+      "title": "Maya's Notebook",
+      "year": 2011,
+      "isbn_13": "9789505242344",
+      "isbn_10": "9505242347",
+      "pages": 383,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Isabel Allende"
+      ],
+      "source": "seed"
     },
     {
       "title": "Me Before You",
@@ -26956,6 +28751,24 @@
       "source": "seed",
       "year_published": 2014,
       "page_count": 228
+    },
+    {
+      "title": "Men Without Women",
+      "year": 1927,
+      "isbn_13": "9783360019899",
+      "isbn_10": "3360019891",
+      "pages": 232,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Short Stories"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Ernest Hemingway"
+      ],
+      "source": "seed"
     },
     {
       "title": "Mercy",
@@ -27292,6 +29105,23 @@
       "page_count": 400
     },
     {
+      "title": "Miguel Street",
+      "year": 1959,
+      "isbn_13": "9784582837544",
+      "isbn_10": "4582837542",
+      "pages": 222,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "V.S. Naipaul"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Mike Nichols: A Life",
       "authors": [
         "Mark Harris"
@@ -27462,6 +29292,22 @@
       "source": "seed",
       "year_published": 1998,
       "page_count": 316
+    },
+    {
+      "title": "Mirrors",
+      "year": 1972,
+      "isbn_13": "9781404498020",
+      "isbn_10": "1404498023",
+      "pages": 227,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ar",
+      "description": "",
+      "authors": [
+        "Naguib Mahfouz"
+      ],
+      "source": "seed"
     },
     {
       "title": "Misbehaving",
@@ -27917,6 +29763,23 @@
       "page_count": 227
     },
     {
+      "title": "More Die of Heartbreak",
+      "year": 1987,
+      "isbn_13": "9781934803820",
+      "isbn_10": "1934803820",
+      "pages": 335,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Saul Bellow"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Morgawr",
       "authors": [
         "Terry Brooks"
@@ -27963,6 +29826,22 @@
       "source": "seed",
       "year_published": 1988,
       "page_count": 364
+    },
+    {
+      "title": "Moshi Moshi",
+      "year": 2010,
+      "isbn_13": "9782052014532",
+      "isbn_10": "2052014536",
+      "pages": 208,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Banana Yoshimoto"
+      ],
+      "source": "seed"
     },
     {
       "title": "Moth Smoke",
@@ -28109,6 +29988,22 @@
       "page_count": 288
     },
     {
+      "title": "Mr Stone and the Knights Companion",
+      "year": 1963,
+      "isbn_13": "9780147811073",
+      "isbn_10": "0147811077",
+      "pages": 160,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "V.S. Naipaul"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Mr. Mercedes",
       "authors": [
         "Stephen King"
@@ -28138,6 +30033,40 @@
       "source": "seed",
       "year_published": 1993,
       "page_count": 431
+    },
+    {
+      "title": "Mr. Palomar",
+      "year": 1983,
+      "isbn_13": "9780031489531",
+      "isbn_10": "0031489539",
+      "pages": 126,
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "it",
+      "description": "",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Mr. Sammler's Planet",
+      "year": 1970,
+      "isbn_13": "9780432693285",
+      "isbn_10": "0432693282",
+      "pages": 313,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Saul Bellow"
+      ],
+      "source": "seed"
     },
     {
       "title": "Mr. Sampath",
@@ -28369,6 +30298,23 @@
       "page_count": 323
     },
     {
+      "title": "My Bondage and My Freedom",
+      "year": 1855,
+      "isbn_13": "9780244202538",
+      "isbn_10": "0244202539",
+      "pages": 464,
+      "genres": [
+        "Memoir",
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Frederick Douglass"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "My Brilliant Friend",
       "authors": [
         "Elena Ferrante"
@@ -28513,6 +30459,24 @@
       "source": "seed",
       "year_published": 2021,
       "page_count": 416
+    },
+    {
+      "title": "My Invented Country",
+      "year": 2003,
+      "isbn_13": "9781334028434",
+      "isbn_10": "1334028436",
+      "pages": 199,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism",
+        "Memoir"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Isabel Allende"
+      ],
+      "source": "seed"
     },
     {
       "title": "My Last Sigh",
@@ -28725,6 +30689,38 @@
       "page_count": 224
     },
     {
+      "title": "N.P.",
+      "year": 1990,
+      "isbn_13": "9781126301684",
+      "isbn_10": "1126301681",
+      "pages": 179,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Banana Yoshimoto"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Naked Lunch",
+      "year": 1959,
+      "isbn_13": "9787318345405",
+      "isbn_10": "7318345400",
+      "pages": 289,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "William S. Burroughs"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Nano",
       "authors": [
         "Robin Cook"
@@ -28754,6 +30750,24 @@
       "source": "seed",
       "year_published": 1930,
       "page_count": 312
+    },
+    {
+      "title": "Narrative of the Life of Frederick Douglass",
+      "year": 1845,
+      "isbn_13": "9789015242421",
+      "isbn_10": "9015242422",
+      "pages": 125,
+      "genres": [
+        "Memoir",
+        "Classic",
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Frederick Douglass"
+      ],
+      "source": "seed"
     },
     {
       "title": "Native Son",
@@ -28928,6 +30942,24 @@
       "source": "seed",
       "year_published": 1988,
       "page_count": 204
+    },
+    {
+      "title": "Netochka Nezvanova",
+      "year": 1849,
+      "isbn_13": "9788349315702",
+      "isbn_10": "8349315702",
+      "pages": 186,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Philosophy"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Fyodor Dostoevsky"
+      ],
+      "source": "seed"
     },
     {
       "title": "Network Effect",
@@ -29151,6 +31183,23 @@
       "source": "seed",
       "year_published": 1956,
       "page_count": 120
+    },
+    {
+      "title": "Night and Day",
+      "year": 1919,
+      "isbn_13": "9781815202148",
+      "isbn_10": "1815202142",
+      "pages": 538,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Virginia Woolf"
+      ],
+      "source": "seed"
     },
     {
       "title": "Night Probe!",
@@ -30382,6 +32431,23 @@
       "page_count": 396
     },
     {
+      "title": "Of Love and Other Demons",
+      "year": 1994,
+      "isbn_13": "9785502570411",
+      "isbn_10": "5502570411",
+      "pages": 147,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Gabriel García Márquez"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Of Love and Shadows",
       "authors": [
         "Isabel Allende"
@@ -30712,6 +32778,23 @@
       "page_count": 207
     },
     {
+      "title": "On Revolution",
+      "year": 1963,
+      "isbn_13": "9783436135713",
+      "isbn_10": "3436135719",
+      "pages": 344,
+      "genres": [
+        "History",
+        "Philosophy"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Hannah Arendt"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "On the Come Up",
       "authors": [
         "Angie Thomas"
@@ -30774,6 +32857,23 @@
       "source": "seed",
       "year_published": 1859,
       "page_count": 502
+    },
+    {
+      "title": "On the Origin of Species by Means of Natural Selection",
+      "year": 1859,
+      "isbn_13": "9782828872359",
+      "isbn_10": "282887235X",
+      "pages": 502,
+      "genres": [
+        "Science",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Charles Darwin"
+      ],
+      "source": "seed"
     },
     {
       "title": "On the Road",
@@ -31397,6 +33497,23 @@
       "page_count": 461
     },
     {
+      "title": "Orlando",
+      "year": 1928,
+      "isbn_13": "9787932824201",
+      "isbn_10": "7932824205",
+      "pages": 336,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Virginia Woolf"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Orsinian Tales",
       "authors": [
         "Ursula K. Le Guin"
@@ -31879,6 +33996,24 @@
       "page_count": 285
     },
     {
+      "title": "Palm-of-the-Hand Stories",
+      "year": 1988,
+      "isbn_13": "9781350301467",
+      "isbn_10": "1350301462",
+      "pages": 238,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Short Stories"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Yasunari Kawabata"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Palomino",
       "authors": [
         "Danielle Steel"
@@ -32275,6 +34410,24 @@
       "page_count": 124
     },
     {
+      "title": "Peeling the Onion",
+      "year": 2006,
+      "isbn_13": "9789891220193",
+      "isbn_10": "9891220199",
+      "pages": 425,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Memoir"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Günter Grass"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Peer Gynt",
       "authors": [
         "Henrik Ibsen"
@@ -32404,6 +34557,23 @@
       "page_count": 153
     },
     {
+      "title": "Persepolis 2",
+      "year": 2004,
+      "isbn_13": "9786309282453",
+      "isbn_10": "6309282451",
+      "pages": 187,
+      "genres": [
+        "Memoir",
+        "Graphic Novel"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Marjane Satrapi"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Personae",
       "authors": [
         "Ezra Pound"
@@ -32493,6 +34663,23 @@
       "source": "seed",
       "year_published": 1977,
       "page_count": 345
+    },
+    {
+      "title": "Peter Camenzind",
+      "year": 1904,
+      "isbn_13": "9789552319051",
+      "isbn_10": "9552319055",
+      "pages": 172,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Hermann Hesse"
+      ],
+      "source": "seed"
     },
     {
       "title": "Peter Pan",
@@ -33174,6 +35361,24 @@
       "page_count": 303
     },
     {
+      "title": "Poor Folk",
+      "year": 1846,
+      "isbn_13": "9781531945732",
+      "isbn_10": "1531945739",
+      "pages": 150,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Philosophy"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Fyodor Dostoevsky"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Pop Goes the Weasel",
       "authors": [
         "James Patterson"
@@ -33220,6 +35425,23 @@
       ],
       "language": "en",
       "page_count": 274,
+      "source": "seed"
+    },
+    {
+      "title": "Portrait in Sepia",
+      "year": 2000,
+      "isbn_13": "9780943335353",
+      "isbn_10": "0943335358",
+      "pages": 304,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Isabel Allende"
+      ],
       "source": "seed"
     },
     {
@@ -33318,6 +35540,22 @@
       "source": "seed",
       "year_published": 2005,
       "page_count": 933
+    },
+    {
+      "title": "Postwar: A History of Europe Since 1945",
+      "year": 2005,
+      "isbn_13": "9789211566314",
+      "isbn_10": "9211566319",
+      "pages": 878,
+      "genres": [
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Tony Judt"
+      ],
+      "source": "seed"
     },
     {
       "title": "Poverty, by America",
@@ -34252,6 +36490,23 @@
       "page_count": 438
     },
     {
+      "title": "Ravelstein",
+      "year": 2000,
+      "isbn_13": "9784411512161",
+      "isbn_10": "4411512166",
+      "pages": 233,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Saul Bellow"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Reading Lolita in Tehran",
       "authors": [
         "Azar Nafisi"
@@ -34396,6 +36651,23 @@
       "source": "seed",
       "year_published": 1995,
       "page_count": 285
+    },
+    {
+      "title": "Rebel Yell",
+      "year": 2014,
+      "isbn_13": "9788534844888",
+      "isbn_10": "8534844884",
+      "pages": 540,
+      "genres": [
+        "History",
+        "Biography"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "S.C. Gwynne"
+      ],
+      "source": "seed"
     },
     {
       "title": "Record of a Spaceborn Few",
@@ -34782,6 +37054,23 @@
       "source": "seed"
     },
     {
+      "title": "Requiem for a Nun",
+      "year": 1951,
+      "isbn_13": "9784377483543",
+      "isbn_10": "4377483547",
+      "pages": 286,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "William Faulkner"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Resurrection",
       "authors": [
         "Leo Tolstoy"
@@ -34874,6 +37163,23 @@
       ],
       "language": "en",
       "page_count": 585,
+      "source": "seed"
+    },
+    {
+      "title": "Revenge",
+      "year": 2009,
+      "isbn_13": "9785933004189",
+      "isbn_10": "5933004182",
+      "pages": 166,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Yōko Ogawa"
+      ],
       "source": "seed"
     },
     {
@@ -35462,6 +37768,39 @@
       "page_count": 400
     },
     {
+      "title": "Rosshalde",
+      "year": 1914,
+      "isbn_13": "9782232035432",
+      "isbn_10": "2232035438",
+      "pages": 201,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Hermann Hesse"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Rouse Up O Young Men of the New Age!",
+      "year": 1983,
+      "isbn_13": "9784065053607",
+      "isbn_10": "4065053602",
+      "pages": 261,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Kenzaburō Ōe"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Roverandom",
       "authors": [
         "J.R.R. Tolkien"
@@ -35491,6 +37830,23 @@
       ],
       "language": "en",
       "page_count": 564,
+      "source": "seed"
+    },
+    {
+      "title": "Royal Highness",
+      "year": 1909,
+      "isbn_13": "9785021201544",
+      "isbn_10": "5021201542",
+      "pages": 367,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Thomas Mann"
+      ],
       "source": "seed"
     },
     {
@@ -36626,6 +38982,41 @@
       "page_count": 224
     },
     {
+      "title": "Second Treatise of Government",
+      "year": 1689,
+      "isbn_13": "9784511602960",
+      "isbn_10": "4511602967",
+      "pages": 124,
+      "genres": [
+        "Philosophy",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "John Locke"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Secondhand Time",
+      "year": 2013,
+      "isbn_13": "9783324030311",
+      "isbn_10": "3324030316",
+      "pages": 496,
+      "genres": [
+        "Literary Fiction",
+        "Non-Fiction",
+        "History"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Svetlana Alexievich"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Seconds",
       "authors": [
         "Bryan Lee O'Malley"
@@ -36672,6 +39063,23 @@
       "page_count": 483
     },
     {
+      "title": "Seeing",
+      "year": 2004,
+      "isbn_13": "9782367332642",
+      "isbn_10": "2367332642",
+      "pages": 307,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism"
+      ],
+      "language": "pt",
+      "description": "",
+      "authors": [
+        "José Saramago"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Seeing Things",
       "authors": [
         "Seamus Heaney"
@@ -36700,6 +39108,23 @@
       "source": "seed",
       "year_published": 2002,
       "page_count": 276
+    },
+    {
+      "title": "Seize the Day",
+      "year": 1956,
+      "isbn_13": "9781322339924",
+      "isbn_10": "1322339922",
+      "pages": 118,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Saul Bellow"
+      ],
+      "source": "seed"
     },
     {
       "title": "Seize the Night",
@@ -36959,6 +39384,23 @@
       "source": "seed",
       "year_published": 2018,
       "page_count": 291
+    },
+    {
+      "title": "Shackleton's Boat Journey",
+      "year": 1933,
+      "isbn_13": "9785214026138",
+      "isbn_10": "5214026134",
+      "pages": 220,
+      "genres": [
+        "Memoir",
+        "Adventure"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Frank Worsley"
+      ],
+      "source": "seed"
     },
     {
       "title": "Shadow and Bone",
@@ -38289,6 +40731,23 @@
       "page_count": 256
     },
     {
+      "title": "Slowness",
+      "year": 1995,
+      "isbn_13": "9783723541753",
+      "isbn_10": "3723541756",
+      "pages": 132,
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "cs",
+      "description": "",
+      "authors": [
+        "Milan Kundera"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Small Gods",
       "authors": [
         "Terry Pratchett"
@@ -38548,6 +41007,23 @@
       "page_count": 90
     },
     {
+      "title": "Sodom and Gomorrah",
+      "year": 1921,
+      "isbn_13": "9782131491506",
+      "isbn_10": "2131491505",
+      "pages": 502,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "fr",
+      "description": "",
+      "authors": [
+        "Marcel Proust"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Solar",
       "authors": [
         "Ian McEwan"
@@ -38655,6 +41131,22 @@
       "source": "seed",
       "year_published": 2023,
       "page_count": 400
+    },
+    {
+      "title": "Somersault",
+      "year": 1999,
+      "isbn_13": "9789950263819",
+      "isbn_10": "9950263815",
+      "pages": 570,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Kenzaburō Ōe"
+      ],
+      "source": "seed"
     },
     {
       "title": "Something Deeply Hidden",
@@ -39100,6 +41592,22 @@
       "page_count": 606
     },
     {
+      "title": "SPQR: A History of Ancient Rome",
+      "year": 2015,
+      "isbn_13": "9782246364030",
+      "isbn_10": "2246364036",
+      "pages": 606,
+      "genres": [
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Mary Beard"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Spring Snow",
       "authors": [
         "Yukio Mishima"
@@ -39399,6 +41907,23 @@
       "source": "seed",
       "year_published": 2022,
       "page_count": 190
+    },
+    {
+      "title": "Stephen Hero",
+      "year": 1944,
+      "isbn_13": "9785119914127",
+      "isbn_10": "5119914123",
+      "pages": 234,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "James Joyce"
+      ],
+      "source": "seed"
     },
     {
       "title": "Steppenwolf",
@@ -40192,6 +42717,40 @@
       "page_count": 956
     },
     {
+      "title": "Swann's Way",
+      "year": 1913,
+      "isbn_13": "9780324093551",
+      "isbn_10": "032409355X",
+      "pages": 468,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "fr",
+      "description": "",
+      "authors": [
+        "Marcel Proust"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Sweet Thursday",
+      "year": 1954,
+      "isbn_13": "9782163320188",
+      "isbn_10": "2163320182",
+      "pages": 273,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "John Steinbeck"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Sweet Tooth",
       "year": 2012,
       "isbn_13": "9782825930526",
@@ -40619,6 +43178,39 @@
       "page_count": 327
     },
     {
+      "title": "Teach Us to Outgrow Our Madness",
+      "year": 1969,
+      "isbn_13": "9783009813130",
+      "isbn_10": "3009813132",
+      "pages": 261,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Kenzaburō Ōe"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Teacher Man",
+      "year": 2005,
+      "isbn_13": "9785216494645",
+      "isbn_10": "5216494649",
+      "pages": 258,
+      "genres": [
+        "Memoir"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Frank McCourt"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Teaching a Stone to Talk",
       "authors": [
         "Annie Dillard"
@@ -40841,6 +43433,23 @@
       "source": "seed",
       "year_published": 2021,
       "page_count": 720
+    },
+    {
+      "title": "Terra Nostra",
+      "year": 1975,
+      "isbn_13": "9783085811808",
+      "isbn_10": "3085811801",
+      "pages": 778,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Carlos Fuentes"
+      ],
+      "source": "seed"
     },
     {
       "title": "Terrorist",
@@ -41130,6 +43739,58 @@
       "page_count": 688
     },
     {
+      "title": "The Actual",
+      "year": 1997,
+      "isbn_13": "9781369413335",
+      "isbn_10": "1369413336",
+      "pages": 104,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Saul Bellow"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Adolescent",
+      "year": 1875,
+      "isbn_13": "9782555561236",
+      "isbn_10": "2555561237",
+      "pages": 542,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Philosophy"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Fyodor Dostoevsky"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Adventures of Augie March",
+      "year": 1953,
+      "isbn_13": "9780711020757",
+      "isbn_10": "0711020759",
+      "pages": 586,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Saul Bellow"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Adventures of Sherlock Holmes",
       "authors": [
         "Arthur Conan Doyle"
@@ -41275,6 +43936,24 @@
       "source": "seed",
       "year_published": 1994,
       "page_count": 627
+    },
+    {
+      "title": "The Age of Reason",
+      "year": 1945,
+      "isbn_13": "9788822756527",
+      "isbn_10": "8822756526",
+      "pages": 397,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Philosophy"
+      ],
+      "language": "fr",
+      "description": "",
+      "authors": [
+        "Jean-Paul Sartre"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Age of Revolution",
@@ -42168,6 +44847,22 @@
       "page_count": 256
     },
     {
+      "title": "The Bad Girl",
+      "year": 2006,
+      "isbn_13": "9781049690490",
+      "isbn_10": "1049690497",
+      "pages": 376,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Mario Vargas Llosa"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Bad Place",
       "authors": [
         "Dean Koontz"
@@ -42467,6 +45162,23 @@
       ],
       "language": "en",
       "page_count": 288,
+      "source": "seed"
+    },
+    {
+      "title": "The Bellarosa Connection",
+      "year": 1989,
+      "isbn_13": "9783481350253",
+      "isbn_10": "3481350259",
+      "pages": 102,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Saul Bellow"
+      ],
       "source": "seed"
     },
     {
@@ -44019,6 +46731,23 @@
       "page_count": 43
     },
     {
+      "title": "The Call of the Toad",
+      "year": 1992,
+      "isbn_13": "9787348194905",
+      "isbn_10": "7348194904",
+      "pages": 248,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Günter Grass"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Camel Club",
       "authors": [
         "David Baldacci"
@@ -44032,6 +46761,23 @@
       "source": "seed",
       "year_published": 2005,
       "page_count": 448
+    },
+    {
+      "title": "The Campaign",
+      "year": 1990,
+      "isbn_13": "9781411441002",
+      "isbn_10": "141144100X",
+      "pages": 246,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Carlos Fuentes"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Candy House",
@@ -44128,6 +46874,23 @@
       "page_count": 352
     },
     {
+      "title": "The Castle of Crossed Destinies",
+      "year": 1973,
+      "isbn_13": "9787053131110",
+      "isbn_10": "7053131117",
+      "pages": 129,
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "it",
+      "description": "",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Cat and Shakespeare",
       "authors": [
         "Raja Rao"
@@ -44188,6 +46951,23 @@
       "source": "seed",
       "year_published": 1944,
       "page_count": 112
+    },
+    {
+      "title": "The Cave",
+      "year": 2000,
+      "isbn_13": "9784289224326",
+      "isbn_10": "4289224325",
+      "pages": 307,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism"
+      ],
+      "language": "pt",
+      "description": "",
+      "authors": [
+        "José Saramago"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Caves of Steel",
@@ -44314,6 +47094,22 @@
       "source": "seed",
       "year_published": 2017,
       "page_count": 431
+    },
+    {
+      "title": "The Changeling",
+      "year": 2000,
+      "isbn_13": "9786873010513",
+      "isbn_10": "6873010510",
+      "pages": 468,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Kenzaburō Ōe"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Character of Physical Law",
@@ -44644,6 +47440,22 @@
       "source": "seed",
       "year_published": 2020,
       "page_count": 437
+    },
+    {
+      "title": "The Civilization of the Renaissance in Italy",
+      "year": 1860,
+      "isbn_13": "9783128529257",
+      "isbn_10": "3128529255",
+      "pages": 432,
+      "genres": [
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Jacob Burckhardt"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Clash of Civilizations",
@@ -45236,6 +48048,24 @@
       "page_count": 400
     },
     {
+      "title": "The Complete Stories",
+      "year": 1971,
+      "isbn_13": "9789379421036",
+      "isbn_10": "9379421035",
+      "pages": 486,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Short Stories"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Franz Kafka"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Concrete Blonde",
       "authors": [
         "Michael Connelly"
@@ -45378,6 +48208,23 @@
       "source": "seed",
       "year_published": 1957,
       "page_count": 128
+    },
+    {
+      "title": "The Cossacks",
+      "year": 1863,
+      "isbn_13": "9780202965017",
+      "isbn_10": "0202965016",
+      "pages": 194,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Leo Tolstoy"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Cottage",
@@ -45892,6 +48739,22 @@
       "source": "seed"
     },
     {
+      "title": "The Day the Leader Was Killed",
+      "year": 1985,
+      "isbn_13": "9783441429432",
+      "isbn_10": "3441429436",
+      "pages": 118,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ar",
+      "description": "",
+      "authors": [
+        "Naguib Mahfouz"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Days of Abandonment",
       "year": 2002,
       "isbn_13": "9784078278936",
@@ -45924,6 +48787,23 @@
       "page_count": 428
     },
     {
+      "title": "The Dean's December",
+      "year": 1982,
+      "isbn_13": "9782208274940",
+      "isbn_10": "2208274945",
+      "pages": 312,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Saul Bellow"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Death Cure",
       "authors": [
         "James Dashner"
@@ -45938,6 +48818,23 @@
       "source": "seed",
       "year_published": 2011,
       "page_count": 325
+    },
+    {
+      "title": "The Death of Artemio Cruz",
+      "year": 1962,
+      "isbn_13": "9785040193158",
+      "isbn_10": "5040193154",
+      "pages": 307,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Carlos Fuentes"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Death of Ivan Ilyich",
@@ -46079,6 +48976,23 @@
       "source": "seed",
       "year_published": 1995,
       "page_count": 457
+    },
+    {
+      "title": "The Descent of Man",
+      "year": 1871,
+      "isbn_13": "9781214922807",
+      "isbn_10": "1214922806",
+      "pages": 425,
+      "genres": [
+        "Science",
+        "Biology"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Charles Darwin"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Design of Everyday Things",
@@ -46327,6 +49241,22 @@
       "page_count": 582
     },
     {
+      "title": "The Discreet Hero",
+      "year": 2013,
+      "isbn_13": "9781813460724",
+      "isbn_10": "1813460723",
+      "pages": 336,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Mario Vargas Llosa"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Dispossessed",
       "authors": [
         "Ursula K. Le Guin"
@@ -46390,6 +49320,23 @@
       "source": "seed",
       "year_published": 1981,
       "page_count": 239
+    },
+    {
+      "title": "The Diving Pool",
+      "year": 1990,
+      "isbn_13": "9787554970607",
+      "isbn_10": "7554970604",
+      "pages": 180,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Yōko Ogawa"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Dogs of Riga",
@@ -46468,6 +49415,41 @@
       "source": "seed",
       "year_published": 1957,
       "page_count": 188
+    },
+    {
+      "title": "The Double",
+      "year": 2002,
+      "isbn_13": "9782843426131",
+      "isbn_10": "2843426133",
+      "pages": 324,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism"
+      ],
+      "language": "pt",
+      "description": "",
+      "authors": [
+        "José Saramago"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Double",
+      "year": 1846,
+      "isbn_13": "9783021547969",
+      "isbn_10": "3021547965",
+      "pages": 138,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Philosophy"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Fyodor Dostoevsky"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Double Comfort Safari Club",
@@ -46568,6 +49550,22 @@
       "source": "seed"
     },
     {
+      "title": "The Dragons of Eden",
+      "year": 1977,
+      "isbn_13": "9780351233616",
+      "isbn_10": "0351233611",
+      "pages": 263,
+      "genres": [
+        "Science"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Carl Sagan"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Drama of the Gifted Child",
       "authors": [
         "Alice Miller"
@@ -46597,6 +49595,23 @@
       "source": "seed",
       "year_published": 1987,
       "page_count": 400
+    },
+    {
+      "title": "The Dream of the Celt",
+      "year": 2010,
+      "isbn_13": "9783772353123",
+      "isbn_10": "3772353125",
+      "pages": 358,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Mario Vargas Llosa"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Dreaming Void",
@@ -46665,6 +49680,23 @@
       "page_count": 423
     },
     {
+      "title": "The Duel",
+      "year": 1891,
+      "isbn_13": "9782525522397",
+      "isbn_10": "2525522394",
+      "pages": 96,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Anton Chekhov"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Duke and I",
       "authors": [
         "Julia Quinn"
@@ -46709,6 +49741,22 @@
       "source": "seed",
       "year_published": 2001,
       "page_count": 156
+    },
+    {
+      "title": "The Eagle's Throne",
+      "year": 2002,
+      "isbn_13": "9780534075385",
+      "isbn_10": "0534075381",
+      "pages": 341,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Carlos Fuentes"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Earth Transformed",
@@ -46787,6 +49835,22 @@
       "source": "seed",
       "year_published": 2023,
       "page_count": 416
+    },
+    {
+      "title": "The Edge of the Sea",
+      "year": 1955,
+      "isbn_13": "9781923610477",
+      "isbn_10": "1923610478",
+      "pages": 276,
+      "genres": [
+        "Science"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Rachel Carson"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Edible Woman",
@@ -46897,6 +49961,23 @@
       "source": "seed",
       "year_published": 1993,
       "page_count": 327
+    },
+    {
+      "title": "The Elephant's Journey",
+      "year": 2008,
+      "isbn_13": "9781393679813",
+      "isbn_10": "139367981X",
+      "pages": 205,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism"
+      ],
+      "language": "pt",
+      "description": "",
+      "authors": [
+        "José Saramago"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Eleventh Commandment",
@@ -47136,6 +50217,22 @@
       "source": "seed",
       "year_published": 1945,
       "page_count": 196
+    },
+    {
+      "title": "The Enigma of Arrival",
+      "year": 1987,
+      "isbn_13": "9786477010964",
+      "isbn_10": "6477010963",
+      "pages": 354,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "V.S. Naipaul"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Escape",
@@ -47471,6 +50568,25 @@
       "source": "seed"
     },
     {
+      "title": "The Fatal Eggs",
+      "year": 1925,
+      "isbn_13": "9785429325446",
+      "isbn_10": "5429325442",
+      "pages": 120,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Magical Realism",
+        "Science Fiction"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Mikhail Bulgakov"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Fated Sky",
       "authors": [
         "Mary Robinette Kowal"
@@ -47550,6 +50666,23 @@
       ],
       "language": "en",
       "page_count": 423,
+      "source": "seed"
+    },
+    {
+      "title": "The Festival of Insignificance",
+      "year": 2013,
+      "isbn_13": "9782444095538",
+      "isbn_10": "2444095534",
+      "pages": 115,
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "cs",
+      "description": "",
+      "authors": [
+        "Milan Kundera"
+      ],
       "source": "seed"
     },
     {
@@ -47842,6 +50975,24 @@
       "page_count": 580
     },
     {
+      "title": "The First Man",
+      "year": 1994,
+      "isbn_13": "9785113755030",
+      "isbn_10": "5113755035",
+      "pages": 325,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Philosophy"
+      ],
+      "language": "fr",
+      "description": "",
+      "authors": [
+        "Albert Camus"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The First Three Minutes",
       "authors": [
         "Steven Weinberg"
@@ -47966,6 +51117,23 @@
       "source": "seed",
       "year_published": 1943,
       "page_count": 127
+    },
+    {
+      "title": "The Flounder",
+      "year": 1977,
+      "isbn_13": "9785282042122",
+      "isbn_10": "5282042125",
+      "pages": 547,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Günter Grass"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Folded Earth",
@@ -48210,6 +51378,23 @@
       "source": "seed"
     },
     {
+      "title": "The Fugitive",
+      "year": 1925,
+      "isbn_13": "9789684140189",
+      "isbn_10": "9684140186",
+      "pages": 390,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "fr",
+      "description": "",
+      "authors": [
+        "Marcel Proust"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Full Cupboard of Life",
       "authors": [
         "Alexander McCall Smith"
@@ -48288,6 +51473,23 @@
       "page_count": 180
     },
     {
+      "title": "The Garden of Eden",
+      "year": 1986,
+      "isbn_13": "9784401570737",
+      "isbn_10": "440157073X",
+      "pages": 247,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Ernest Hemingway"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Garden of Rama",
       "authors": [
         "Arthur C. Clarke"
@@ -48349,6 +51551,23 @@
       "source": "seed",
       "year_published": 2016,
       "page_count": 608
+    },
+    {
+      "title": "The Gene: An Intimate History",
+      "year": 2016,
+      "isbn_13": "9789355390158",
+      "isbn_10": "9355390154",
+      "pages": 592,
+      "genres": [
+        "Science",
+        "Biology"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Siddhartha Mukherjee"
+      ],
+      "source": "seed"
     },
     {
       "title": "The General in His Labyrinth",
@@ -49127,6 +52346,23 @@
       "page_count": 112
     },
     {
+      "title": "The Gospel According to Jesus Christ",
+      "year": 1991,
+      "isbn_13": "9783298000204",
+      "isbn_10": "3298000206",
+      "pages": 392,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism"
+      ],
+      "language": "pt",
+      "description": "",
+      "authors": [
+        "José Saramago"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Gospel According to Judas",
       "authors": [
         "Jeffrey Archer"
@@ -49401,6 +52637,22 @@
       "page_count": 470
     },
     {
+      "title": "The Green House",
+      "year": 1966,
+      "isbn_13": "9788009164350",
+      "isbn_10": "8009164355",
+      "pages": 405,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Mario Vargas Llosa"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Grief of Stones",
       "authors": [
         "Katherine Addison"
@@ -49464,6 +52716,23 @@
       "description": "",
       "authors": [
         "John Grisham"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Guermantes Way",
+      "year": 1920,
+      "isbn_13": "9789093343423",
+      "isbn_10": "9093343427",
+      "pages": 610,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "fr",
+      "description": "",
+      "authors": [
+        "Marcel Proust"
       ],
       "source": "seed"
     },
@@ -49579,6 +52848,23 @@
       "page_count": 145
     },
     {
+      "title": "The Hamlet",
+      "year": 1940,
+      "isbn_13": "9785308243410",
+      "isbn_10": "5308243414",
+      "pages": 366,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "William Faulkner"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Hammer of God",
       "authors": [
         "Arthur C. Clarke"
@@ -49641,6 +52927,22 @@
       "source": "seed",
       "year_published": 2006,
       "page_count": 297
+    },
+    {
+      "title": "The Harafish",
+      "year": 1977,
+      "isbn_13": "9788157325757",
+      "isbn_10": "8157325754",
+      "pages": 438,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ar",
+      "description": "",
+      "authors": [
+        "Naguib Mahfouz"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Hard Thing About Hard Things",
@@ -49736,6 +53038,41 @@
       "source": "seed",
       "year_published": 2015,
       "page_count": 316
+    },
+    {
+      "title": "The Heart of a Dog",
+      "year": 1925,
+      "isbn_13": "9782902807741",
+      "isbn_10": "2902807740",
+      "pages": 128,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Magical Realism",
+        "Satire"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Mikhail Bulgakov"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Heart of a Woman",
+      "year": 1981,
+      "isbn_13": "9786460325358",
+      "isbn_10": "6460325352",
+      "pages": 272,
+      "genres": [
+        "Memoir"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Maya Angelou"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Heart of the Matter",
@@ -50008,6 +53345,23 @@
       "page_count": 648
     },
     {
+      "title": "The History of the Siege of Lisbon",
+      "year": 1989,
+      "isbn_13": "9784810319750",
+      "isbn_10": "4810319751",
+      "pages": 314,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism"
+      ],
+      "language": "pt",
+      "description": "",
+      "authors": [
+        "José Saramago"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Hit",
       "authors": [
         "David Baldacci"
@@ -50069,6 +53423,23 @@
       "source": "seed",
       "year_published": 1946,
       "page_count": 290
+    },
+    {
+      "title": "The Holy Sinner",
+      "year": 1951,
+      "isbn_13": "9785455414480",
+      "isbn_10": "5455414483",
+      "pages": 337,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Thomas Mann"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Home and the World",
@@ -50215,6 +53586,40 @@
       "source": "seed"
     },
     {
+      "title": "The House of Morgan",
+      "year": 1990,
+      "isbn_13": "9780381305079",
+      "isbn_10": "0381305077",
+      "pages": 812,
+      "genres": [
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Ron Chernow"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The House of the Dead",
+      "year": 1862,
+      "isbn_13": "9784634979505",
+      "isbn_10": "4634979500",
+      "pages": 338,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Philosophy"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Fyodor Dostoevsky"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The House of the Seven Gables",
       "authors": [
         "Nathaniel Hawthorne"
@@ -50230,6 +53635,23 @@
       "source": "seed",
       "year_published": 1851,
       "page_count": 344
+    },
+    {
+      "title": "The House of the Sleeping Beauties",
+      "year": 1961,
+      "isbn_13": "9789584652546",
+      "isbn_10": "9584652540",
+      "pages": 99,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Yasunari Kawabata"
+      ],
+      "source": "seed"
     },
     {
       "title": "The House of the Spirits",
@@ -50293,6 +53715,22 @@
       "source": "seed",
       "year_published": 2003,
       "page_count": 180
+    },
+    {
+      "title": "The Housekeeper and the Professor",
+      "year": 2003,
+      "isbn_13": "9782714492685",
+      "isbn_10": "271449268X",
+      "pages": 180,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Yōko Ogawa"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Human Condition",
@@ -50742,6 +54180,23 @@
       "page_count": 80
     },
     {
+      "title": "The Infinite Plan",
+      "year": 1991,
+      "isbn_13": "9788444030043",
+      "isbn_10": "8444030041",
+      "pages": 382,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Isabel Allende"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Information",
       "authors": [
         "James Gleick"
@@ -51078,6 +54533,24 @@
       "page_count": 354
     },
     {
+      "title": "The Island Beneath the Sea",
+      "year": 2009,
+      "isbn_13": "9780064558310",
+      "isbn_10": "0064558319",
+      "pages": 457,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism",
+        "Historical Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Isabel Allende"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Island of Doctor Moreau",
       "authors": [
         "H.G. Wells"
@@ -51143,6 +54616,23 @@
       "page_count": 380
     },
     {
+      "title": "The Japanese Lover",
+      "year": 2015,
+      "isbn_13": "9780391535145",
+      "isbn_10": "0391535146",
+      "pages": 322,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Isabel Allende"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Jealousy Man",
       "year": 2021,
       "isbn_13": "9789272040204",
@@ -51175,6 +54665,23 @@
       "source": "seed",
       "year_published": 1967,
       "page_count": 317
+    },
+    {
+      "title": "The Journey to the East",
+      "year": 1932,
+      "isbn_13": "9781213999954",
+      "isbn_10": "1213999959",
+      "pages": 118,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Hermann Hesse"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Joy and Light Bus Company",
@@ -51525,6 +55032,23 @@
       "source": "seed"
     },
     {
+      "title": "The Kreutzer Sonata",
+      "year": 1889,
+      "isbn_13": "9781211494147",
+      "isbn_10": "1211494147",
+      "pages": 122,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Leo Tolstoy"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Krishna Key",
       "authors": [
         "Ashwin Sanghi"
@@ -51603,6 +55127,22 @@
       "source": "seed",
       "year_published": 1899,
       "page_count": 32
+    },
+    {
+      "title": "The Lake",
+      "year": 2005,
+      "isbn_13": "9784236689338",
+      "isbn_10": "4236689339",
+      "pages": 188,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Banana Yoshimoto"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Language Instinct",
@@ -52579,6 +56119,42 @@
       "source": "seed"
     },
     {
+      "title": "The Log from the Sea of Cortez",
+      "year": 1951,
+      "isbn_13": "9782286516710",
+      "isbn_10": "2286516716",
+      "pages": 288,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Science",
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "John Steinbeck"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Logic of Scientific Discovery",
+      "year": 1959,
+      "isbn_13": "9789420543403",
+      "isbn_10": "9420543407",
+      "pages": 513,
+      "genres": [
+        "Philosophy",
+        "Science"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Karl Popper"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Loneliness of the Long-Distance Cartoonist",
       "authors": [
         "Adrian Tomine"
@@ -53269,6 +56845,23 @@
       "page_count": 184
     },
     {
+      "title": "The Mansion",
+      "year": 1959,
+      "isbn_13": "9783489301059",
+      "isbn_10": "3489301055",
+      "pages": 436,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "William Faulkner"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Map of Knowledge",
       "authors": [
         "Violet Moller"
@@ -53316,6 +56909,22 @@
       "source": "seed",
       "year_published": 1984,
       "page_count": 447
+    },
+    {
+      "title": "The March of Folly",
+      "year": 1984,
+      "isbn_13": "9785220410495",
+      "isbn_10": "5220410490",
+      "pages": 447,
+      "genres": [
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Barbara W. Tuchman"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Marriage Plot",
@@ -53610,6 +57219,23 @@
       "page_count": 287
     },
     {
+      "title": "The Meeting at Telgte",
+      "year": 1979,
+      "isbn_13": "9781493720262",
+      "isbn_10": "1493720260",
+      "pages": 147,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Günter Grass"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Melody Lingers On",
       "authors": [
         "Mary Higgins Clark"
@@ -53655,6 +57281,23 @@
       "source": "seed",
       "year_published": 1994,
       "page_count": 274
+    },
+    {
+      "title": "The Memory Police",
+      "year": 1994,
+      "isbn_13": "9781004356171",
+      "isbn_10": "1004356171",
+      "pages": 274,
+      "genres": [
+        "Literary Fiction",
+        "Science Fiction"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Yōko Ogawa"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Mephisto Club",
@@ -53768,6 +57411,22 @@
       "source": "seed",
       "year_published": 2015,
       "page_count": 528
+    },
+    {
+      "title": "The Mimic Men",
+      "year": 1967,
+      "isbn_13": "9787219186145",
+      "isbn_10": "7219186149",
+      "pages": 301,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "V.S. Naipaul"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Mind's Eye",
@@ -54250,6 +57909,22 @@
       "page_count": 336
     },
     {
+      "title": "The Mystic Masseur",
+      "year": 1957,
+      "isbn_13": "9783627304423",
+      "isbn_10": "3627304421",
+      "pages": 215,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "V.S. Naipaul"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Myth of Sisyphus",
       "authors": [
         "Albert Camus"
@@ -54379,6 +58054,23 @@
       "page_count": 291
     },
     {
+      "title": "The Narrow Corridor",
+      "year": 2019,
+      "isbn_13": "9788043264139",
+      "isbn_10": "8043264132",
+      "pages": 560,
+      "genres": [
+        "Economics",
+        "Politics"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Daron Acemoglu"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Narrows",
       "authors": [
         "Michael Connelly"
@@ -54425,6 +58117,22 @@
       "source": "seed",
       "year_published": 2009,
       "page_count": 384
+    },
+    {
+      "title": "The Neighborhood",
+      "year": 2018,
+      "isbn_13": "9780036087336",
+      "isbn_10": "0036087336",
+      "pages": 304,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Mario Vargas Llosa"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Neutronium Alchemist",
@@ -54507,6 +58215,24 @@
       "source": "seed",
       "year_published": 2001,
       "page_count": 400
+    },
+    {
+      "title": "The Nick Adams Stories",
+      "year": 1972,
+      "isbn_13": "9781291215014",
+      "isbn_10": "1291215013",
+      "pages": 268,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Short Stories"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Ernest Hemingway"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Nickel Boys",
@@ -54862,6 +58588,23 @@
       "source": "seed"
     },
     {
+      "title": "The Old Capital",
+      "year": 1962,
+      "isbn_13": "9782024820949",
+      "isbn_10": "2024820943",
+      "pages": 182,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Yasunari Kawabata"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Old Curiosity Shop",
       "authors": [
         "Charles Dickens"
@@ -54892,6 +58635,23 @@
       "source": "seed",
       "year_published": 2019,
       "page_count": 563
+    },
+    {
+      "title": "The Old Gringo",
+      "year": 1985,
+      "isbn_13": "9785105270046",
+      "isbn_10": "5105270046",
+      "pages": 199,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Carlos Fuentes"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Old Man and the Sea",
@@ -55463,6 +59223,23 @@
       "page_count": 383
     },
     {
+      "title": "The Pastures of Heaven",
+      "year": 1932,
+      "isbn_13": "9783471013533",
+      "isbn_10": "3471013532",
+      "pages": 302,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "John Steinbeck"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Path Between the Seas",
       "authors": [
         "David McCullough"
@@ -55537,6 +59314,23 @@
       ],
       "language": "en",
       "page_count": 389,
+      "source": "seed"
+    },
+    {
+      "title": "The Peloponnesian War",
+      "year": -411,
+      "isbn_13": "9782943696885",
+      "isbn_10": "2943696882",
+      "pages": 648,
+      "genres": [
+        "History",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Thucydides"
+      ],
       "source": "seed"
     },
     {
@@ -55796,6 +59590,22 @@
       "source": "seed"
     },
     {
+      "title": "The Pinch Runner Memorandum",
+      "year": 1976,
+      "isbn_13": "9783100117380",
+      "isbn_10": "3100117384",
+      "pages": 380,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Kenzaburō Ōe"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Plague",
       "authors": [
         "Albert Camus"
@@ -55987,6 +59797,22 @@
       ],
       "language": "en",
       "page_count": 527,
+      "source": "seed"
+    },
+    {
+      "title": "The Poverty of Historicism",
+      "year": 1957,
+      "isbn_13": "9785745045653",
+      "isbn_10": "5745045656",
+      "pages": 166,
+      "genres": [
+        "Philosophy"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Karl Popper"
+      ],
       "source": "seed"
     },
     {
@@ -56200,6 +60026,23 @@
       "source": "seed"
     },
     {
+      "title": "The Prisoner",
+      "year": 1923,
+      "isbn_13": "9782521417437",
+      "isbn_10": "2521417439",
+      "pages": 446,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "fr",
+      "description": "",
+      "authors": [
+        "Marcel Proust"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Prisoner of Heaven",
       "authors": [
         "Carlos Ruiz Zafón"
@@ -56341,6 +60184,22 @@
       "page_count": 528
     },
     {
+      "title": "The Proud Tower",
+      "year": 1966,
+      "isbn_13": "9788578205447",
+      "isbn_10": "8578205443",
+      "pages": 528,
+      "genres": [
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Barbara W. Tuchman"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Psychopathology of Everyday Life",
       "authors": [
         "Sigmund Freud"
@@ -56467,6 +60326,23 @@
       "page_count": 320
     },
     {
+      "title": "The Rat",
+      "year": 1986,
+      "isbn_13": "9781237689091",
+      "isbn_10": "1237689090",
+      "pages": 371,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Günter Grass"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Rational Optimist",
       "authors": [
         "Matt Ridley"
@@ -56514,6 +60390,22 @@
       "source": "seed",
       "year_published": 2007,
       "page_count": 428
+    },
+    {
+      "title": "The Real Life of Alejandro Mayta",
+      "year": 1984,
+      "isbn_13": "9786012513417",
+      "isbn_10": "6012513410",
+      "pages": 310,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Mario Vargas Llosa"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Real Life of Sebastian Knight",
@@ -56726,6 +60618,23 @@
       "page_count": 475
     },
     {
+      "title": "The Reivers",
+      "year": 1962,
+      "isbn_13": "9781560421238",
+      "isbn_10": "156042123X",
+      "pages": 305,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "William Faulkner"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Relentless Moon",
       "authors": [
         "Mary Robinette Kowal"
@@ -56771,6 +60680,24 @@
       ],
       "language": "en",
       "page_count": 245,
+      "source": "seed"
+    },
+    {
+      "title": "The Reprieve",
+      "year": 1945,
+      "isbn_13": "9780289412725",
+      "isbn_10": "0289412729",
+      "pages": 324,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Philosophy"
+      ],
+      "language": "fr",
+      "description": "",
+      "authors": [
+        "Jean-Paul Sartre"
+      ],
       "source": "seed"
     },
     {
@@ -57717,6 +61644,24 @@
       "page_count": 279
     },
     {
+      "title": "The Seagull",
+      "year": 1896,
+      "isbn_13": "9780184090158",
+      "isbn_10": "0184090155",
+      "pages": 96,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Drama"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Anton Chekhov"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Search",
       "authors": [
         "Nora Roberts"
@@ -57731,6 +61676,22 @@
       "source": "seed",
       "year_published": 2010,
       "page_count": 496
+    },
+    {
+      "title": "The Search",
+      "year": 1964,
+      "isbn_13": "9783450827632",
+      "isbn_10": "3450827637",
+      "pages": 186,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ar",
+      "description": "",
+      "authors": [
+        "Naguib Mahfouz"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Searcher",
@@ -58357,6 +62318,22 @@
       "page_count": 464
     },
     {
+      "title": "The Silent Cry",
+      "year": 1967,
+      "isbn_13": "9789002060359",
+      "isbn_10": "900206035X",
+      "pages": 274,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "ja",
+      "description": "",
+      "authors": [
+        "Kenzaburō Ōe"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Silent Girl",
       "authors": [
         "Tess Gerritsen"
@@ -58596,6 +62573,22 @@
       "source": "seed",
       "year_published": 2018,
       "page_count": 352
+    },
+    {
+      "title": "The Skating Rink",
+      "year": 1993,
+      "isbn_13": "9784502482441",
+      "isbn_10": "4502482444",
+      "pages": 181,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Roberto Bolaño"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Skin Collector",
@@ -59018,6 +63011,22 @@
       "page_count": 341
     },
     {
+      "title": "The Spirit of Science Fiction",
+      "year": 2016,
+      "isbn_13": "9781407454924",
+      "isbn_10": "1407454924",
+      "pages": 194,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Roberto Bolaño"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Splendid and the Vile",
       "authors": [
         "Erik Larson"
@@ -59242,6 +63251,24 @@
       "page_count": 145
     },
     {
+      "title": "The Steppe",
+      "year": 1888,
+      "isbn_13": "9789522287427",
+      "isbn_10": "9522287428",
+      "pages": 80,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Short Stories"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Anton Chekhov"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Stiehl Assassin",
       "authors": [
         "Terry Brooks"
@@ -59270,6 +63297,23 @@
       "description": "",
       "authors": [
         "Jeffery Deaver"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Stone Raft",
+      "year": 1986,
+      "isbn_13": "9783829157438",
+      "isbn_10": "3829157435",
+      "pages": 263,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism"
+      ],
+      "language": "pt",
+      "description": "",
+      "authors": [
+        "José Saramago"
       ],
       "source": "seed"
     },
@@ -59303,6 +63347,24 @@
       "source": "seed",
       "year_published": 2014,
       "page_count": 260
+    },
+    {
+      "title": "The Stories of Eva Luna",
+      "year": 1989,
+      "isbn_13": "9784548779802",
+      "isbn_10": "4548779802",
+      "pages": 330,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism",
+        "Short Stories"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Isabel Allende"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Storm",
@@ -59413,6 +63475,22 @@
       ],
       "language": "it",
       "page_count": 473,
+      "source": "seed"
+    },
+    {
+      "title": "The Storyteller",
+      "year": 1987,
+      "isbn_13": "9785464320208",
+      "isbn_10": "5464320209",
+      "pages": 246,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Mario Vargas Llosa"
+      ],
       "source": "seed"
     },
     {
@@ -59528,6 +63606,22 @@
       "source": "seed",
       "year_published": 1997,
       "page_count": 341
+    },
+    {
+      "title": "The Suffrage of Elvira",
+      "year": 1958,
+      "isbn_13": "9785925354742",
+      "isbn_10": "5925354746",
+      "pages": 240,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "V.S. Naipaul"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Sum of All Fears",
@@ -60237,6 +64331,22 @@
       "page_count": 496
     },
     {
+      "title": "The Third Reich",
+      "year": 2010,
+      "isbn_13": "9787553059112",
+      "isbn_10": "7553059110",
+      "pages": 277,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Roberto Bolaño"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Third Victim",
       "authors": [
         "Lisa Gardner"
@@ -60496,6 +64606,22 @@
       "page_count": 631
     },
     {
+      "title": "The Time of the Hero",
+      "year": 1963,
+      "isbn_13": "9787835514759",
+      "isbn_10": "7835514758",
+      "pages": 409,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Mario Vargas Llosa"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Tin Drum",
       "authors": [
         "Gunter Grass"
@@ -60620,6 +64746,23 @@
       "source": "seed",
       "year_published": 1928,
       "page_count": 104
+    },
+    {
+      "title": "The Town",
+      "year": 1957,
+      "isbn_13": "9782635358145",
+      "isbn_10": "263535814X",
+      "pages": 371,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "William Faulkner"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Toynbee Convector",
@@ -61307,6 +65450,23 @@
       "page_count": 22
     },
     {
+      "title": "The Victim",
+      "year": 1947,
+      "isbn_13": "9784851456476",
+      "isbn_10": "4851456475",
+      "pages": 294,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Saul Bellow"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The View from the Cheap Seats",
       "authors": [
         "Neil Gaiman"
@@ -61453,6 +65613,23 @@
       "source": "seed"
     },
     {
+      "title": "The Voyage Out",
+      "year": 1915,
+      "isbn_13": "9785218030179",
+      "isbn_10": "521803017X",
+      "pages": 398,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Virginia Woolf"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Wager",
       "authors": [
         "David Grann"
@@ -61484,6 +65661,25 @@
       "source": "seed",
       "year_published": 2004,
       "page_count": 144
+    },
+    {
+      "title": "The Wall",
+      "year": 1939,
+      "isbn_13": "9789470183093",
+      "isbn_10": "9470183095",
+      "pages": 226,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Philosophy",
+        "Short Stories"
+      ],
+      "language": "fr",
+      "description": "",
+      "authors": [
+        "Jean-Paul Sartre"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Wandering Earth",
@@ -61630,6 +65826,23 @@
       "source": "seed",
       "year_published": 2015,
       "page_count": 371
+    },
+    {
+      "title": "The Waves",
+      "year": 1931,
+      "isbn_13": "9783535521202",
+      "isbn_10": "3535521208",
+      "pages": 297,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Virginia Woolf"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Way of Kings",
@@ -61868,6 +66081,25 @@
       "source": "seed"
     },
     {
+      "title": "The White Guard",
+      "year": 1925,
+      "isbn_13": "9785908435192",
+      "isbn_10": "5908435193",
+      "pages": 307,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Magical Realism",
+        "Historical Fiction"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Mikhail Bulgakov"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The White Lioness",
       "authors": [
         "Henning Mankell"
@@ -61960,6 +66192,23 @@
       "source": "seed",
       "year_published": 1884,
       "page_count": 84
+    },
+    {
+      "title": "The Wild Palms",
+      "year": 1939,
+      "isbn_13": "9781609115500",
+      "isbn_10": "1609115508",
+      "pages": 339,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "William Faulkner"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Wild Places",
@@ -62103,6 +66352,22 @@
       "source": "seed",
       "year_published": 2022,
       "page_count": 720
+    },
+    {
+      "title": "The Winners",
+      "year": 1960,
+      "isbn_13": "9785967921278",
+      "isbn_10": "5967921278",
+      "pages": 371,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Julio Cortázar"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Winter King",
@@ -62569,6 +66834,25 @@
       "page_count": 189
     },
     {
+      "title": "The Words",
+      "year": 1964,
+      "isbn_13": "9785099856509",
+      "isbn_10": "5099856500",
+      "pages": 255,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Philosophy",
+        "Memoir"
+      ],
+      "language": "fr",
+      "description": "",
+      "authors": [
+        "Jean-Paul Sartre"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The World According to Bertie",
       "authors": [
         "Alexander McCall Smith"
@@ -62795,6 +67079,23 @@
       "source": "seed"
     },
     {
+      "title": "The Year of the Death of Ricardo Reis",
+      "year": 1984,
+      "isbn_13": "9781724358394",
+      "isbn_10": "172435839X",
+      "pages": 341,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism"
+      ],
+      "language": "pt",
+      "description": "",
+      "authors": [
+        "José Saramago"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Year of the Flood",
       "authors": [
         "Margaret Atwood"
@@ -62809,6 +67110,39 @@
       "source": "seed",
       "year_published": 2009,
       "page_count": 431
+    },
+    {
+      "title": "The Years",
+      "year": 1937,
+      "isbn_13": "9784524153411",
+      "isbn_10": "452415341X",
+      "pages": 435,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Virginia Woolf"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Years with Laura Díaz",
+      "year": 1999,
+      "isbn_13": "9783557956310",
+      "isbn_10": "3557956313",
+      "pages": 518,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Carlos Fuentes"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Yellow Admiral",
@@ -62983,6 +67317,38 @@
       ],
       "language": "en",
       "page_count": 209,
+      "source": "seed"
+    },
+    {
+      "title": "Think Like a Freak",
+      "year": 2014,
+      "isbn_13": "9785715561534",
+      "isbn_10": "571556153X",
+      "pages": 286,
+      "genres": [
+        "Economics"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Steven D. Levitt"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Thinking the Twentieth Century",
+      "year": 2012,
+      "isbn_13": "9784103234500",
+      "isbn_10": "4103234507",
+      "pages": 414,
+      "genres": [
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Tony Judt"
+      ],
       "source": "seed"
     },
     {
@@ -63476,6 +67842,23 @@
       "page_count": 224
     },
     {
+      "title": "Time Regained",
+      "year": 1927,
+      "isbn_13": "9780626155124",
+      "isbn_10": "0626155125",
+      "pages": 448,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "fr",
+      "description": "",
+      "authors": [
+        "Marcel Proust"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Timeline",
       "authors": [
         "Michael Crichton"
@@ -63556,6 +67939,57 @@
       "source": "seed",
       "year_published": 2012,
       "page_count": 353
+    },
+    {
+      "title": "Titan: The Life of John D. Rockefeller",
+      "year": 1998,
+      "isbn_13": "9783797197337",
+      "isbn_10": "3797197330",
+      "pages": 774,
+      "genres": [
+        "Biography",
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Ron Chernow"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "To a God Unknown",
+      "year": 1933,
+      "isbn_13": "9784336984630",
+      "isbn_10": "4336984633",
+      "pages": 261,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "John Steinbeck"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "To Have and Have Not",
+      "year": 1937,
+      "isbn_13": "9783002243323",
+      "isbn_10": "3002243322",
+      "pages": 262,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Ernest Hemingway"
+      ],
+      "source": "seed"
     },
     {
       "title": "To Kill a Mockingbird",
@@ -63731,6 +68165,40 @@
       "source": "seed",
       "year_published": 2022,
       "page_count": 401
+    },
+    {
+      "title": "Tonio Kröger",
+      "year": 1903,
+      "isbn_13": "9787501823079",
+      "isbn_10": "7501823078",
+      "pages": 96,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Thomas Mann"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Too Far Afield",
+      "year": 1995,
+      "isbn_13": "9785911107383",
+      "isbn_10": "5911107387",
+      "pages": 658,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "de",
+      "description": "",
+      "authors": [
+        "Günter Grass"
+      ],
+      "source": "seed"
     },
     {
       "title": "Too Far to Go",
@@ -64288,6 +68756,24 @@
       "page_count": 484
     },
     {
+      "title": "Troubled Sleep",
+      "year": 1949,
+      "isbn_13": "9783035352283",
+      "isbn_10": "3035352288",
+      "pages": 421,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Philosophy"
+      ],
+      "language": "fr",
+      "description": "",
+      "authors": [
+        "Jean-Paul Sartre"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Troubling Love",
       "year": 1992,
       "isbn_13": "9781994246704",
@@ -64300,6 +68786,23 @@
       "description": "",
       "authors": [
         "Elena Ferrante"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "True at First Light",
+      "year": 1999,
+      "isbn_13": "9780231443425",
+      "isbn_10": "0231443420",
+      "pages": 322,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Ernest Hemingway"
       ],
       "source": "seed"
     },
@@ -65023,6 +69526,22 @@
       "page_count": 86
     },
     {
+      "title": "Under the Sea Wind",
+      "year": 1941,
+      "isbn_13": "9786597431526",
+      "isbn_10": "6597431522",
+      "pages": 314,
+      "genres": [
+        "Science"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Rachel Carson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Under the Sea-Wind",
       "authors": [
         "Rachel Carson"
@@ -65361,6 +69880,23 @@
       "source": "seed",
       "year_published": 1998,
       "page_count": 336
+    },
+    {
+      "title": "Upheaval",
+      "year": 2019,
+      "isbn_13": "9780404044053",
+      "isbn_10": "0404044050",
+      "pages": 502,
+      "genres": [
+        "Science",
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Jared Diamond"
+      ],
+      "source": "seed"
     },
     {
       "title": "Uprooted",
@@ -65795,6 +70331,23 @@
       "page_count": 385
     },
     {
+      "title": "Violeta",
+      "year": 2022,
+      "isbn_13": "9782066245311",
+      "isbn_10": "2066245318",
+      "pages": 301,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Isabel Allende"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Violets Are Blue",
       "authors": [
         "James Patterson"
@@ -65891,6 +70444,24 @@
       "source": "seed",
       "year_published": 1978,
       "page_count": 344
+    },
+    {
+      "title": "Voices from Chernobyl",
+      "year": 1997,
+      "isbn_13": "9782228551632",
+      "isbn_10": "2228551636",
+      "pages": 236,
+      "genres": [
+        "Literary Fiction",
+        "Non-Fiction",
+        "History"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Svetlana Alexievich"
+      ],
+      "source": "seed"
     },
     {
       "title": "Void Moon",
@@ -66202,6 +70773,25 @@
       "page_count": 336
     },
     {
+      "title": "War's Unwomanly Face",
+      "year": 1985,
+      "isbn_13": "9782900765944",
+      "isbn_10": "2900765948",
+      "pages": 331,
+      "genres": [
+        "Literary Fiction",
+        "Non-Fiction",
+        "War",
+        "History"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Svetlana Alexievich"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Warbreaker",
       "authors": [
         "Brandon Sanderson"
@@ -66214,6 +70804,24 @@
       ],
       "language": "en",
       "page_count": 592,
+      "source": "seed"
+    },
+    {
+      "title": "Ward No. 6",
+      "year": 1892,
+      "isbn_13": "9784902100273",
+      "isbn_10": "4902100277",
+      "pages": 64,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Short Stories"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Anton Chekhov"
+      ],
       "source": "seed"
     },
     {
@@ -66262,6 +70870,23 @@
       "source": "seed",
       "year_published": 2015,
       "page_count": 304
+    },
+    {
+      "title": "Washington: A Life",
+      "year": 2010,
+      "isbn_13": "9785463311276",
+      "isbn_10": "5463311274",
+      "pages": 904,
+      "genres": [
+        "Biography",
+        "History"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Ron Chernow"
+      ],
+      "source": "seed"
     },
     {
       "title": "Watchers",
@@ -66375,6 +71000,23 @@
       "source": "seed",
       "year_published": 1962,
       "page_count": 214
+    },
+    {
+      "title": "We Love Glenda So Much",
+      "year": 1980,
+      "isbn_13": "9783338113512",
+      "isbn_10": "3338113511",
+      "pages": 165,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Julio Cortázar"
+      ],
+      "source": "seed"
     },
     {
       "title": "We Need New Names",
@@ -66599,6 +71241,23 @@
       "source": "seed",
       "year_published": 1988,
       "page_count": 256
+    },
+    {
+      "title": "What Do You Care What Other People Think?",
+      "year": 1988,
+      "isbn_13": "9783644473843",
+      "isbn_10": "3644473845",
+      "pages": 255,
+      "genres": [
+        "Science",
+        "Memoir"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Richard Feynman"
+      ],
+      "source": "seed"
     },
     {
       "title": "What I Lived For",
@@ -66873,6 +71532,39 @@
       "page_count": 302
     },
     {
+      "title": "Where Men Win Glory",
+      "year": 2009,
+      "isbn_13": "9783250446620",
+      "isbn_10": "3250446622",
+      "pages": 380,
+      "genres": [
+        "Non-Fiction",
+        "Biography"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Jon Krakauer"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Where the Air Is Clear",
+      "year": 1958,
+      "isbn_13": "9784040139166",
+      "isbn_10": "4040139161",
+      "pages": 369,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Carlos Fuentes"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Where the Crawdads Sing",
       "authors": [
         "Delia Owens"
@@ -67094,6 +71786,22 @@
       "source": "seed",
       "year_published": 2010,
       "page_count": 386
+    },
+    {
+      "title": "Who Rules the World?",
+      "year": 2016,
+      "isbn_13": "9782142035430",
+      "isbn_10": "2142035437",
+      "pages": 307,
+      "genres": [
+        "Politics"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Noam Chomsky"
+      ],
+      "source": "seed"
     },
     {
       "title": "Who's Afraid of Virginia Woolf?",
@@ -67370,6 +72078,24 @@
       "page_count": 180
     },
     {
+      "title": "Winner Take Nothing",
+      "year": 1933,
+      "isbn_13": "9785511701509",
+      "isbn_10": "5511701506",
+      "pages": 244,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Short Stories"
+      ],
+      "language": "en",
+      "description": "",
+      "authors": [
+        "Ernest Hemingway"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Winter of the World",
       "authors": [
         "Ken Follett"
@@ -67568,6 +72294,22 @@
       ],
       "language": "en",
       "page_count": 836,
+      "source": "seed"
+    },
+    {
+      "title": "Woes of the True Policeman",
+      "year": 2011,
+      "isbn_13": "9783264547405",
+      "isbn_10": "3264547405",
+      "pages": 186,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Roberto Bolaño"
+      ],
       "source": "seed"
     },
     {
@@ -68052,6 +72794,23 @@
       "page_count": 229
     },
     {
+      "title": "Youth",
+      "year": 1857,
+      "isbn_13": "9784333786015",
+      "isbn_10": "4333786010",
+      "pages": 180,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Leo Tolstoy"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Yumi and the Nightmare Painter",
       "authors": [
         "Brandon Sanderson"
@@ -68196,6 +72955,24 @@
       "page_count": 248
     },
     {
+      "title": "Zinky Boys",
+      "year": 1990,
+      "isbn_13": "9783131074034",
+      "isbn_10": "3131074036",
+      "pages": 199,
+      "genres": [
+        "Literary Fiction",
+        "Non-Fiction",
+        "War"
+      ],
+      "language": "ru",
+      "description": "",
+      "authors": [
+        "Svetlana Alexievich"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Zone One",
       "authors": [
         "Colson Whitehead"
@@ -68210,6 +72987,25 @@
       "source": "seed",
       "year_published": 2011,
       "page_count": 259
+    },
+    {
+      "title": "Zorro",
+      "year": 2005,
+      "isbn_13": "9781441484802",
+      "isbn_10": "1441484802",
+      "pages": 390,
+      "genres": [
+        "Literary Fiction",
+        "Magical Realism",
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "es",
+      "description": "",
+      "authors": [
+        "Isabel Allende"
+      ],
+      "source": "seed"
     },
     {
       "title": "Zoya",

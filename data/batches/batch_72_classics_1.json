@@ -1,0 +1,1397 @@
+[
+  {
+    "title": "The Sound and the Fury",
+    "author": "William Faulkner",
+    "year": 1929,
+    "isbn_13": "9785251343854",
+    "isbn_10": "5251343851",
+    "pages": 326,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "As I Lay Dying",
+    "author": "William Faulkner",
+    "year": 1930,
+    "isbn_13": "9782309730659",
+    "isbn_10": "2309730658",
+    "pages": 267,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Sanctuary",
+    "author": "William Faulkner",
+    "year": 1931,
+    "isbn_13": "9784905010548",
+    "isbn_10": "4905010548",
+    "pages": 309,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Light in August",
+    "author": "William Faulkner",
+    "year": 1932,
+    "isbn_13": "9783029624259",
+    "isbn_10": "3029624250",
+    "pages": 507,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Absalom, Absalom!",
+    "author": "William Faulkner",
+    "year": 1936,
+    "isbn_13": "9780901255938",
+    "isbn_10": "0901255932",
+    "pages": 378,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Wild Palms",
+    "author": "William Faulkner",
+    "year": 1939,
+    "isbn_13": "9781609115500",
+    "isbn_10": "1609115508",
+    "pages": 339,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Hamlet",
+    "author": "William Faulkner",
+    "year": 1940,
+    "isbn_13": "9785308243410",
+    "isbn_10": "5308243414",
+    "pages": 366,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Go Down, Moses",
+    "author": "William Faulkner",
+    "year": 1942,
+    "isbn_13": "9780610562051",
+    "isbn_10": "0610562058",
+    "pages": 383,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Short Stories"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Intruder in the Dust",
+    "author": "William Faulkner",
+    "year": 1948,
+    "isbn_13": "9783302659282",
+    "isbn_10": "3302659283",
+    "pages": 247,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Requiem for a Nun",
+    "author": "William Faulkner",
+    "year": 1951,
+    "isbn_13": "9784377483543",
+    "isbn_10": "4377483547",
+    "pages": 286,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "A Fable",
+    "author": "William Faulkner",
+    "year": 1954,
+    "isbn_13": "9782530060136",
+    "isbn_10": "2530060137",
+    "pages": 437,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Town",
+    "author": "William Faulkner",
+    "year": 1957,
+    "isbn_13": "9782635358145",
+    "isbn_10": "263535814X",
+    "pages": 371,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Mansion",
+    "author": "William Faulkner",
+    "year": 1959,
+    "isbn_13": "9783489301059",
+    "isbn_10": "3489301055",
+    "pages": 436,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Reivers",
+    "author": "William Faulkner",
+    "year": 1962,
+    "isbn_13": "9781560421238",
+    "isbn_10": "156042123X",
+    "pages": 305,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "year": 1926,
+    "isbn_13": "9783052013198",
+    "isbn_10": "3052013191",
+    "pages": 251,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "A Farewell to Arms",
+    "author": "Ernest Hemingway",
+    "year": 1929,
+    "isbn_13": "9783523355673",
+    "isbn_10": "3523355679",
+    "pages": 332,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "War"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "To Have and Have Not",
+    "author": "Ernest Hemingway",
+    "year": 1937,
+    "isbn_13": "9783002243323",
+    "isbn_10": "3002243322",
+    "pages": 262,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "For Whom the Bell Tolls",
+    "author": "Ernest Hemingway",
+    "year": 1940,
+    "isbn_13": "9785413537596",
+    "isbn_10": "5413537591",
+    "pages": 471,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "War"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Across the River and into the Trees",
+    "author": "Ernest Hemingway",
+    "year": 1950,
+    "isbn_13": "9781670134035",
+    "isbn_10": "1670134039",
+    "pages": 272,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "year": 1952,
+    "isbn_13": "9784740612402",
+    "isbn_10": "4740612409",
+    "pages": 127,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Islands in the Stream",
+    "author": "Ernest Hemingway",
+    "year": 1970,
+    "isbn_13": "9784062240536",
+    "isbn_10": "4062240531",
+    "pages": 466,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Garden of Eden",
+    "author": "Ernest Hemingway",
+    "year": 1986,
+    "isbn_13": "9784401570737",
+    "isbn_10": "440157073X",
+    "pages": 247,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "True at First Light",
+    "author": "Ernest Hemingway",
+    "year": 1999,
+    "isbn_13": "9780231443425",
+    "isbn_10": "0231443420",
+    "pages": 322,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "A Moveable Feast",
+    "author": "Ernest Hemingway",
+    "year": 1964,
+    "isbn_13": "9787520273602",
+    "isbn_10": "752027360X",
+    "pages": 241,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Memoir"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "In Our Time",
+    "author": "Ernest Hemingway",
+    "year": 1925,
+    "isbn_13": "9786271409445",
+    "isbn_10": "6271409441",
+    "pages": 156,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Short Stories"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Men Without Women",
+    "author": "Ernest Hemingway",
+    "year": 1927,
+    "isbn_13": "9783360019899",
+    "isbn_10": "3360019891",
+    "pages": 232,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Short Stories"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Winner Take Nothing",
+    "author": "Ernest Hemingway",
+    "year": 1933,
+    "isbn_13": "9785511701509",
+    "isbn_10": "5511701506",
+    "pages": 244,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Short Stories"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Nick Adams Stories",
+    "author": "Ernest Hemingway",
+    "year": 1972,
+    "isbn_13": "9781291215014",
+    "isbn_10": "1291215013",
+    "pages": 268,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Short Stories"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Cup of Gold",
+    "author": "John Steinbeck",
+    "year": 1929,
+    "isbn_13": "9789228503265",
+    "isbn_10": "9228503269",
+    "pages": 266,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Pastures of Heaven",
+    "author": "John Steinbeck",
+    "year": 1932,
+    "isbn_13": "9783471013533",
+    "isbn_10": "3471013532",
+    "pages": 302,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "To a God Unknown",
+    "author": "John Steinbeck",
+    "year": 1933,
+    "isbn_13": "9784336984630",
+    "isbn_10": "4336984633",
+    "pages": 261,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Tortilla Flat",
+    "author": "John Steinbeck",
+    "year": 1935,
+    "isbn_13": "9781110014217",
+    "isbn_10": "1110014211",
+    "pages": 207,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Humor"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "In Dubious Battle",
+    "author": "John Steinbeck",
+    "year": 1936,
+    "isbn_13": "9788845033070",
+    "isbn_10": "8845033077",
+    "pages": 349,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "year": 1937,
+    "isbn_13": "9784334504526",
+    "isbn_10": "4334504528",
+    "pages": 107,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "year": 1939,
+    "isbn_13": "9781338354409",
+    "isbn_10": "1338354401",
+    "pages": 464,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Cannery Row",
+    "author": "John Steinbeck",
+    "year": 1945,
+    "isbn_13": "9787705223699",
+    "isbn_10": "7705223697",
+    "pages": 196,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Pearl",
+    "author": "John Steinbeck",
+    "year": 1947,
+    "isbn_13": "9780125144575",
+    "isbn_10": "012514457X",
+    "pages": 96,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "East of Eden",
+    "author": "John Steinbeck",
+    "year": 1952,
+    "isbn_13": "9784221128972",
+    "isbn_10": "4221128975",
+    "pages": 601,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Sweet Thursday",
+    "author": "John Steinbeck",
+    "year": 1954,
+    "isbn_13": "9782163320188",
+    "isbn_10": "2163320182",
+    "pages": 273,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Winter of Our Discontent",
+    "author": "John Steinbeck",
+    "year": 1961,
+    "isbn_13": "9782542402122",
+    "isbn_10": "2542402127",
+    "pages": 311,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Travels with Charley",
+    "author": "John Steinbeck",
+    "year": 1962,
+    "isbn_13": "9787027417233",
+    "isbn_10": "7027417236",
+    "pages": 277,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Travel",
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Log from the Sea of Cortez",
+    "author": "John Steinbeck",
+    "year": 1951,
+    "isbn_13": "9782286516710",
+    "isbn_10": "2286516716",
+    "pages": 288,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Science",
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Leaf Storm",
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "year": 1955,
+    "isbn_13": "9787953976637",
+    "isbn_10": "7953976638",
+    "pages": 114,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "No One Writes to the Colonel",
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "year": 1961,
+    "isbn_13": "9780332048963",
+    "isbn_10": "0332048962",
+    "pages": 115,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "In Evil Hour",
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "year": 1962,
+    "isbn_13": "9781085678018",
+    "isbn_10": "1085678015",
+    "pages": 183,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "year": 1967,
+    "isbn_13": "9785484135141",
+    "isbn_10": "548413514X",
+    "pages": 417,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism",
+      "Classic"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The Autumn of the Patriarch",
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "year": 1975,
+    "isbn_13": "9786453532534",
+    "isbn_10": "6453532530",
+    "pages": 269,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Chronicle of a Death Foretold",
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "year": 1981,
+    "isbn_13": "9780344459726",
+    "isbn_10": "034445972X",
+    "pages": 120,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Love in the Time of Cholera",
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "year": 1985,
+    "isbn_13": "9784002311036",
+    "isbn_10": "400231103X",
+    "pages": 348,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism",
+      "Romance"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "The General in His Labyrinth",
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "year": 1989,
+    "isbn_13": "9785723164901",
+    "isbn_10": "5723164909",
+    "pages": 285,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism",
+      "Historical Fiction"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Of Love and Other Demons",
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "year": 1994,
+    "isbn_13": "9785502570411",
+    "isbn_10": "5502570411",
+    "pages": 147,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Memories of My Melancholy Whores",
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "year": 2004,
+    "isbn_13": "9783377197405",
+    "isbn_10": "3377197400",
+    "pages": 115,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Strange Pilgrims",
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "year": 1992,
+    "isbn_13": "9788441243828",
+    "isbn_10": "8441243827",
+    "pages": 188,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism",
+      "Short Stories"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Living to Tell the Tale",
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "year": 2002,
+    "isbn_13": "9786503557944",
+    "isbn_10": "6503557942",
+    "pages": 483,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism",
+      "Memoir"
+    ],
+    "language": "es",
+    "description": ""
+  },
+  {
+    "title": "Dangling Man",
+    "author": "Saul Bellow",
+    "year": 1944,
+    "isbn_13": "9785335127301",
+    "isbn_10": "5335127302",
+    "pages": 191,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Victim",
+    "author": "Saul Bellow",
+    "year": 1947,
+    "isbn_13": "9784851456476",
+    "isbn_10": "4851456475",
+    "pages": 294,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Adventures of Augie March",
+    "author": "Saul Bellow",
+    "year": 1953,
+    "isbn_13": "9780711020757",
+    "isbn_10": "0711020759",
+    "pages": 586,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Seize the Day",
+    "author": "Saul Bellow",
+    "year": 1956,
+    "isbn_13": "9781322339924",
+    "isbn_10": "1322339922",
+    "pages": 118,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Henderson the Rain King",
+    "author": "Saul Bellow",
+    "year": 1959,
+    "isbn_13": "9782014108033",
+    "isbn_10": "2014108031",
+    "pages": 341,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Herzog",
+    "author": "Saul Bellow",
+    "year": 1964,
+    "isbn_13": "9784429084629",
+    "isbn_10": "4429084622",
+    "pages": 341,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Mr. Sammler's Planet",
+    "author": "Saul Bellow",
+    "year": 1970,
+    "isbn_13": "9780432693285",
+    "isbn_10": "0432693282",
+    "pages": 313,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Humboldt's Gift",
+    "author": "Saul Bellow",
+    "year": 1975,
+    "isbn_13": "9785858620150",
+    "isbn_10": "5858620152",
+    "pages": 487,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Dean's December",
+    "author": "Saul Bellow",
+    "year": 1982,
+    "isbn_13": "9782208274940",
+    "isbn_10": "2208274945",
+    "pages": 312,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "More Die of Heartbreak",
+    "author": "Saul Bellow",
+    "year": 1987,
+    "isbn_13": "9781934803820",
+    "isbn_10": "1934803820",
+    "pages": 335,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "A Theft",
+    "author": "Saul Bellow",
+    "year": 1989,
+    "isbn_13": "9780633120559",
+    "isbn_10": "0633120558",
+    "pages": 109,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Bellarosa Connection",
+    "author": "Saul Bellow",
+    "year": 1989,
+    "isbn_13": "9783481350253",
+    "isbn_10": "3481350259",
+    "pages": 102,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Actual",
+    "author": "Saul Bellow",
+    "year": 1997,
+    "isbn_13": "9781369413335",
+    "isbn_10": "1369413336",
+    "pages": 104,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Ravelstein",
+    "author": "Saul Bellow",
+    "year": 2000,
+    "isbn_13": "9784411512161",
+    "isbn_10": "4411512166",
+    "pages": 233,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Mystic Masseur",
+    "author": "V.S. Naipaul",
+    "year": 1957,
+    "isbn_13": "9783627304423",
+    "isbn_10": "3627304421",
+    "pages": 215,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Suffrage of Elvira",
+    "author": "V.S. Naipaul",
+    "year": 1958,
+    "isbn_13": "9785925354742",
+    "isbn_10": "5925354746",
+    "pages": 240,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Miguel Street",
+    "author": "V.S. Naipaul",
+    "year": 1959,
+    "isbn_13": "9784582837544",
+    "isbn_10": "4582837542",
+    "pages": 222,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "A House for Mr Biswas",
+    "author": "V.S. Naipaul",
+    "year": 1961,
+    "isbn_13": "9785241682024",
+    "isbn_10": "5241682028",
+    "pages": 564,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Mr Stone and the Knights Companion",
+    "author": "V.S. Naipaul",
+    "year": 1963,
+    "isbn_13": "9780147811073",
+    "isbn_10": "0147811077",
+    "pages": 160,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Mimic Men",
+    "author": "V.S. Naipaul",
+    "year": 1967,
+    "isbn_13": "9787219186145",
+    "isbn_10": "7219186149",
+    "pages": 301,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "In a Free State",
+    "author": "V.S. Naipaul",
+    "year": 1971,
+    "isbn_13": "9789537201319",
+    "isbn_10": "9537201314",
+    "pages": 246,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Guerrillas",
+    "author": "V.S. Naipaul",
+    "year": 1975,
+    "isbn_13": "9785224373154",
+    "isbn_10": "5224373153",
+    "pages": 309,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "A Bend in the River",
+    "author": "V.S. Naipaul",
+    "year": 1979,
+    "isbn_13": "9785332359248",
+    "isbn_10": "533235924X",
+    "pages": 278,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Enigma of Arrival",
+    "author": "V.S. Naipaul",
+    "year": 1987,
+    "isbn_13": "9786477010964",
+    "isbn_10": "6477010963",
+    "pages": 354,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "A Way in the World",
+    "author": "V.S. Naipaul",
+    "year": 1994,
+    "isbn_13": "9786275462620",
+    "isbn_10": "6275462620",
+    "pages": 380,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Half a Life",
+    "author": "V.S. Naipaul",
+    "year": 2001,
+    "isbn_13": "9788325271268",
+    "isbn_10": "8325271267",
+    "pages": 211,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Magic Seeds",
+    "author": "V.S. Naipaul",
+    "year": 2004,
+    "isbn_13": "9785614232870",
+    "isbn_10": "5614232874",
+    "pages": 280,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "An Area of Darkness",
+    "author": "V.S. Naipaul",
+    "year": 1964,
+    "isbn_13": "9787149724806",
+    "isbn_10": "7149724802",
+    "pages": 281,
+    "genres": [
+      "Literary Fiction",
+      "Travel",
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "India: A Wounded Civilization",
+    "author": "V.S. Naipaul",
+    "year": 1977,
+    "isbn_13": "9781421513478",
+    "isbn_10": "142151347X",
+    "pages": 175,
+    "genres": [
+      "Literary Fiction",
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Among the Believers",
+    "author": "V.S. Naipaul",
+    "year": 1981,
+    "isbn_13": "9786021461037",
+    "isbn_10": "6021461034",
+    "pages": 430,
+    "genres": [
+      "Literary Fiction",
+      "Travel",
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Palace Walk",
+    "author": "Naguib Mahfouz",
+    "year": 1956,
+    "isbn_13": "9782412405017",
+    "isbn_10": "2412405013",
+    "pages": 498,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "ar",
+    "description": ""
+  },
+  {
+    "title": "Palace of Desire",
+    "author": "Naguib Mahfouz",
+    "year": 1957,
+    "isbn_13": "9785340054944",
+    "isbn_10": "5340054949",
+    "pages": 422,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar",
+    "description": ""
+  },
+  {
+    "title": "Sugar Street",
+    "author": "Naguib Mahfouz",
+    "year": 1957,
+    "isbn_13": "9785511830537",
+    "isbn_10": "5511830537",
+    "pages": 308,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar",
+    "description": ""
+  },
+  {
+    "title": "Children of the Alley",
+    "author": "Naguib Mahfouz",
+    "year": 1959,
+    "isbn_13": "9780840851062",
+    "isbn_10": "0840851066",
+    "pages": 448,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar",
+    "description": ""
+  },
+  {
+    "title": "The Thief and the Dogs",
+    "author": "Naguib Mahfouz",
+    "year": 1961,
+    "isbn_13": "9788308818497",
+    "isbn_10": "8308818493",
+    "pages": 158,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar",
+    "description": ""
+  },
+  {
+    "title": "The Search",
+    "author": "Naguib Mahfouz",
+    "year": 1964,
+    "isbn_13": "9783450827632",
+    "isbn_10": "3450827637",
+    "pages": 186,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar",
+    "description": ""
+  },
+  {
+    "title": "Adrift on the Nile",
+    "author": "Naguib Mahfouz",
+    "year": 1966,
+    "isbn_13": "9782852014152",
+    "isbn_10": "2852014154",
+    "pages": 167,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar",
+    "description": ""
+  },
+  {
+    "title": "Miramar",
+    "author": "Naguib Mahfouz",
+    "year": 1967,
+    "isbn_13": "9782402401500",
+    "isbn_10": "2402401503",
+    "pages": 208,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar",
+    "description": ""
+  },
+  {
+    "title": "Mirrors",
+    "author": "Naguib Mahfouz",
+    "year": 1972,
+    "isbn_13": "9781404498020",
+    "isbn_10": "1404498023",
+    "pages": 227,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar",
+    "description": ""
+  },
+  {
+    "title": "The Harafish",
+    "author": "Naguib Mahfouz",
+    "year": 1977,
+    "isbn_13": "9788157325757",
+    "isbn_10": "8157325754",
+    "pages": 438,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar",
+    "description": ""
+  },
+  {
+    "title": "The Day the Leader Was Killed",
+    "author": "Naguib Mahfouz",
+    "year": 1985,
+    "isbn_13": "9783441429432",
+    "isbn_10": "3441429436",
+    "pages": 118,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar",
+    "description": ""
+  },
+  {
+    "title": "A Personal Matter",
+    "author": "Kenzabur\u014d \u014ce",
+    "year": 1964,
+    "isbn_13": "9785977427753",
+    "isbn_10": "597742775X",
+    "pages": 165,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "The Silent Cry",
+    "author": "Kenzabur\u014d \u014ce",
+    "year": 1967,
+    "isbn_13": "9789002060359",
+    "isbn_10": "900206035X",
+    "pages": 274,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "Teach Us to Outgrow Our Madness",
+    "author": "Kenzabur\u014d \u014ce",
+    "year": 1969,
+    "isbn_13": "9783009813130",
+    "isbn_10": "3009813132",
+    "pages": 261,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "The Pinch Runner Memorandum",
+    "author": "Kenzabur\u014d \u014ce",
+    "year": 1976,
+    "isbn_13": "9783100117380",
+    "isbn_10": "3100117384",
+    "pages": 380,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "description": ""
+  },
+  {
+    "title": "A Quiet Life",
+    "author": "Kenzabur\u014d \u014ce",
+    "year": 1990,
+    "isbn_13": "9781342764188",
+    "isbn_10": "1342764183",
+    "pages": 240,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "description": ""
+  }
+]
