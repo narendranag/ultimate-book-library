@@ -742,34 +742,33 @@
     },
     {
       "title": "A Bloodsmoor Romance",
-      "authors": [
-        "Joyce Carol Oates"
-      ],
+      "year": 1982,
       "isbn_13": "9787238335579",
-      "isbn_10": "7238335573",
-      "genres": [
-        "Literary Fiction",
-        "Gothic"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 1982,
-      "page_count": 615
-    },
-    {
-      "title": "A Book of American Martyrs",
-      "authors": [
-        "Joyce Carol Oates"
-      ],
-      "isbn_13": "9785948182032",
-      "isbn_10": "5948182037",
+      "isbn_10": "7238335578",
+      "pages": 615,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2017,
-      "page_count": 736
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "A Book of American Martyrs",
+      "year": 2017,
+      "isbn_13": "9785948182032",
+      "isbn_10": "5948182034",
+      "pages": 737,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Boy's Life",
@@ -886,6 +885,22 @@
       "source": "seed",
       "year_published": 2020,
       "page_count": 256
+    },
+    {
+      "title": "A Burnt-Out Case",
+      "year": 1960,
+      "isbn_13": "9785806565007",
+      "isbn_10": "5806565002",
+      "pages": 198,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Graham Greene"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Canticle for Leibowitz",
@@ -1566,19 +1581,19 @@
     },
     {
       "title": "A Delicate Truth",
-      "authors": [
-        "John le Carré"
-      ],
+      "year": 2013,
       "isbn_13": "9782232332388",
-      "isbn_10": "2232332381",
+      "isbn_10": "223233238X",
+      "pages": 310,
       "genres": [
-        "Espionage",
+        "Spy Fiction",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2013,
-      "page_count": 310
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Desolation Called Peace",
@@ -1713,34 +1728,50 @@
     },
     {
       "title": "A Fair Maiden",
-      "authors": [
-        "Joyce Carol Oates"
-      ],
+      "year": 2010,
       "isbn_13": "9786172567169",
       "isbn_10": "6172567160",
+      "pages": 166,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2009,
-      "page_count": 165
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "A Fairly Honourable Defeat",
+      "year": 1970,
+      "isbn_13": "9787482570702",
+      "isbn_10": "7482570706",
+      "pages": 408,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Falcon Flies",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1980,
       "isbn_13": "9782157537233",
-      "isbn_10": "2157537236",
+      "isbn_10": "2157537235",
+      "pages": 498,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1980,
-      "page_count": 533
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Fall of Moondust",
@@ -1890,6 +1921,21 @@
       "source": "seed"
     },
     {
+      "title": "A Garden of Earthly Delights",
+      "year": 1967,
+      "isbn_13": "9788945334909",
+      "isbn_10": "8945334907",
+      "pages": 440,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Gathering of Shadows",
       "year": 2016,
       "isbn_13": "9784232754092",
@@ -1997,6 +2043,40 @@
       "language": "en",
       "authors": [
         "Ruth Rendell"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "A Gun for Sale",
+      "year": 1936,
+      "isbn_13": "9781020091834",
+      "isbn_10": "1020091836",
+      "pages": 188,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Graham Greene"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "A Handful of Dust",
+      "year": 1934,
+      "isbn_13": "9785840480359",
+      "isbn_10": "5840480356",
+      "pages": 308,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Evelyn Waugh"
       ],
       "source": "seed"
     },
@@ -2228,6 +2308,22 @@
       "page_count": 397
     },
     {
+      "title": "A Legacy of Spies",
+      "year": 2017,
+      "isbn_13": "9780804464444",
+      "isbn_10": "0804464443",
+      "pages": 304,
+      "genres": [
+        "Spy Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Life in Movies",
       "authors": [
         "Michael Powell"
@@ -2320,6 +2416,22 @@
       "source": "seed",
       "year_published": 1905,
       "page_count": 250
+    },
+    {
+      "title": "A Little Yellow Dog",
+      "year": 1996,
+      "isbn_13": "9789293931093",
+      "isbn_10": "9293931096",
+      "pages": 300,
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Long Petal of the Sea",
@@ -2669,19 +2781,19 @@
     },
     {
       "title": "A Most Wanted Man",
-      "authors": [
-        "John le Carré"
-      ],
+      "year": 2008,
       "isbn_13": "9786922558751",
-      "isbn_10": "6922558758",
+      "isbn_10": "6922558753",
+      "pages": 323,
       "genres": [
-        "Espionage",
+        "Spy Fiction",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2008,
-      "page_count": 323
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Moveable Feast",
@@ -2712,6 +2824,22 @@
       "source": "seed",
       "year_published": 1950,
       "page_count": 256
+    },
+    {
+      "title": "A Murder of Quality",
+      "year": 1962,
+      "isbn_13": "9784380617522",
+      "isbn_10": "438061752X",
+      "pages": 158,
+      "genres": [
+        "Spy Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Necessary End",
@@ -2840,6 +2968,23 @@
       "source": "seed"
     },
     {
+      "title": "A Passage to India",
+      "year": 1924,
+      "isbn_13": "9783214400989",
+      "isbn_10": "3214400988",
+      "pages": 362,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "E.M. Forster"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Pelican at Blandings",
       "authors": [
         "P.G. Wodehouse"
@@ -2889,19 +3034,19 @@
     },
     {
       "title": "A Perfect Spy",
-      "authors": [
-        "John le Carré"
-      ],
+      "year": 1986,
       "isbn_13": "9787640905421",
-      "isbn_10": "7640905427",
+      "isbn_10": "7640905424",
+      "pages": 475,
       "genres": [
-        "Espionage",
+        "Spy Fiction",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1986,
-      "page_count": 475
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Personal Journey Through American Movies",
@@ -3016,6 +3161,22 @@
       ],
       "language": "en",
       "page_count": 288,
+      "source": "seed"
+    },
+    {
+      "title": "A Prayer for Owen Meany",
+      "year": 1989,
+      "isbn_13": "9782032435319",
+      "isbn_10": "2032435317",
+      "pages": 543,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "John Irving"
+      ],
       "source": "seed"
     },
     {
@@ -3176,6 +3337,22 @@
       "page_count": 151
     },
     {
+      "title": "A Red Death",
+      "year": 1991,
+      "isbn_13": "9781001645902",
+      "isbn_10": "100164590X",
+      "pages": 284,
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Room of One's Own",
       "year": 1929,
       "isbn_13": "9780832193293",
@@ -3205,6 +3382,22 @@
       "language": "ja",
       "authors": [
         "Hideo Levy"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "A Room with a View",
+      "year": 1908,
+      "isbn_13": "9782077541990",
+      "isbn_10": "2077541994",
+      "pages": 224,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "E.M. Forster"
       ],
       "source": "seed"
     },
@@ -3273,6 +3466,22 @@
       "source": "seed"
     },
     {
+      "title": "A Severed Head",
+      "year": 1961,
+      "isbn_13": "9782124316618",
+      "isbn_10": "2124316618",
+      "pages": 256,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Short History of Nearly Everything",
       "authors": [
         "Bill Bryson"
@@ -3317,6 +3526,37 @@
       "language": "en",
       "authors": [
         "Ruth Rendell"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "A Small Town in Germany",
+      "year": 1968,
+      "isbn_13": "9780373013043",
+      "isbn_10": "0373013048",
+      "pages": 303,
+      "genres": [
+        "Spy Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "A Son of the Circus",
+      "year": 1994,
+      "isbn_13": "9781515374138",
+      "isbn_10": "1515374130",
+      "pages": 633,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "John Irving"
       ],
       "source": "seed"
     },
@@ -3369,19 +3609,19 @@
     },
     {
       "title": "A Sparrow Falls",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1977,
       "isbn_13": "9787833654334",
-      "isbn_10": "7833654337",
+      "isbn_10": "7833654334",
+      "pages": 572,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1977,
-      "page_count": 608
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Sportsman's Sketches",
@@ -3707,19 +3947,19 @@
     },
     {
       "title": "A Time to Die",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1989,
       "isbn_13": "9780419107927",
-      "isbn_10": "0419107924",
+      "isbn_10": "0419107927",
+      "pages": 472,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1989,
-      "page_count": 596
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Time to Kill",
@@ -3958,6 +4198,21 @@
       "source": "seed"
     },
     {
+      "title": "A Widow for One Year",
+      "year": 1998,
+      "isbn_13": "9786262318145",
+      "isbn_10": "6262318148",
+      "pages": 537,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "John Irving"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Wild Sheep Chase",
       "authors": [
         "Haruki Murakami"
@@ -4006,6 +4261,22 @@
       "source": "seed"
     },
     {
+      "title": "A Word Child",
+      "year": 1975,
+      "isbn_13": "9783451590115",
+      "isbn_10": "3451590116",
+      "pages": 392,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A World of Curiosities",
       "year": 2022,
       "isbn_13": "9781832010719",
@@ -4051,6 +4322,23 @@
       "source": "seed",
       "year_published": 1962,
       "page_count": 211
+    },
+    {
+      "title": "A Writer's Notebook",
+      "year": 1949,
+      "isbn_13": "9788613925248",
+      "isbn_10": "8613925248",
+      "pages": 349,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Memoir"
+      ],
+      "language": "en",
+      "authors": [
+        "W. Somerset Maugham"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Year in Provence",
@@ -4117,6 +4405,21 @@
       "source": "seed",
       "year_published": 2000,
       "page_count": 340
+    },
+    {
+      "title": "Abide with Me",
+      "year": 2006,
+      "isbn_13": "9785024700211",
+      "isbn_10": "5024700211",
+      "pages": 290,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Elizabeth Strout"
+      ],
+      "source": "seed"
     },
     {
       "title": "About a Boy",
@@ -4201,19 +4504,19 @@
     },
     {
       "title": "Absolute Friends",
-      "authors": [
-        "John le Carré"
-      ],
+      "year": 2003,
       "isbn_13": "9780811584524",
-      "isbn_10": "0811584526",
+      "isbn_10": "0811584525",
+      "pages": 382,
       "genres": [
-        "Espionage",
+        "Spy Fiction",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2003,
-      "page_count": 394
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
     },
     {
       "title": "Absolute Power",
@@ -5156,19 +5459,19 @@
     },
     {
       "title": "Agent Running in the Field",
-      "authors": [
-        "John le Carré"
-      ],
+      "year": 2019,
       "isbn_13": "9785491685547",
-      "isbn_10": "5491685542",
+      "isbn_10": "5491685549",
+      "pages": 282,
       "genres": [
-        "Espionage",
+        "Spy Fiction",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2019,
-      "page_count": 282
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
     },
     {
       "title": "Agnes Grey",
@@ -5783,6 +6086,23 @@
       "page_count": 525
     },
     {
+      "title": "Always Outnumbered, Always Outgunned",
+      "year": 1997,
+      "isbn_13": "9784503030320",
+      "isbn_10": "4503030322",
+      "pages": 208,
+      "genres": [
+        "Mystery",
+        "Crime Fiction",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "American Assassin",
       "year": 2010,
       "isbn_13": "9782799918223",
@@ -5860,6 +6180,23 @@
       "source": "seed",
       "year_published": 2019,
       "page_count": 292
+    },
+    {
+      "title": "American Tabloid",
+      "year": 1995,
+      "isbn_13": "9783060267736",
+      "isbn_10": "306026773X",
+      "pages": 576,
+      "genres": [
+        "Crime Fiction",
+        "Thriller",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "James Ellroy"
+      ],
+      "source": "seed"
     },
     {
       "title": "Americana",
@@ -6023,6 +6360,21 @@
       "page_count": 184
     },
     {
+      "title": "Amy and Isabelle",
+      "year": 1998,
+      "isbn_13": "9782472404951",
+      "isbn_10": "2472404955",
+      "pages": 303,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Elizabeth Strout"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "An Abundance of Katherines",
       "authors": [
         "John Green"
@@ -6036,6 +6388,22 @@
       "source": "seed",
       "year_published": 2006,
       "page_count": 227
+    },
+    {
+      "title": "An Accidental Man",
+      "year": 1971,
+      "isbn_13": "9788175446588",
+      "isbn_10": "8175446584",
+      "pages": 442,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
+      ],
+      "source": "seed"
     },
     {
       "title": "An American Childhood",
@@ -6506,6 +6874,22 @@
       "language": "en",
       "authors": [
         "Ruth Rendell"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "An Unofficial Rose",
+      "year": 1962,
+      "isbn_13": "9787257230121",
+      "isbn_10": "7257230122",
+      "pages": 340,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
       ],
       "source": "seed"
     },
@@ -7077,6 +7461,22 @@
       "source": "seed"
     },
     {
+      "title": "Another World",
+      "year": 1998,
+      "isbn_13": "9782391330959",
+      "isbn_10": "2391330959",
+      "pages": 277,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Pat Barker"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Answered Prayers",
       "year": 1987,
       "isbn_13": "9781404014657",
@@ -7217,18 +7617,18 @@
     },
     {
       "title": "Anything Is Possible",
-      "authors": [
-        "Elizabeth Strout"
-      ],
+      "year": 2017,
       "isbn_13": "9784411368607",
-      "isbn_10": "4411368609",
+      "isbn_10": "4411368602",
+      "pages": 254,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2017,
-      "page_count": 254
+      "authors": [
+        "Elizabeth Strout"
+      ],
+      "source": "seed"
     },
     {
       "title": "Aparajito",
@@ -7359,19 +7759,19 @@
     },
     {
       "title": "Arctic Drift",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 2008,
       "isbn_13": "9784755531316",
-      "isbn_10": "4755531314",
+      "isbn_10": "4755531317",
+      "pages": 515,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2008,
-      "page_count": 515
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Are You My Mother?",
@@ -7629,6 +8029,24 @@
       "page_count": 248
     },
     {
+      "title": "Ashenden",
+      "year": 1928,
+      "isbn_13": "9781545184400",
+      "isbn_10": "1545184409",
+      "pages": 292,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Spy Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "W. Somerset Maugham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Ashley Bell",
       "authors": [
         "Dean Koontz"
@@ -7657,6 +8075,23 @@
       "description": "",
       "authors": [
         "Banana Yoshimoto"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Aspects of the Novel",
+      "year": 1927,
+      "isbn_13": "9788825469530",
+      "isbn_10": "8825469536",
+      "pages": 160,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "E.M. Forster"
       ],
       "source": "seed"
     },
@@ -7709,19 +8144,19 @@
     },
     {
       "title": "Assegai",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 2009,
       "isbn_13": "9785800443325",
-      "isbn_10": "5800443327",
+      "isbn_10": "5800443324",
+      "pages": 450,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2009,
-      "page_count": 448
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Asterios Polyp",
@@ -7869,19 +8304,19 @@
     },
     {
       "title": "Atlantis Found",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 1999,
       "isbn_13": "9785559573830",
-      "isbn_10": "5559573833",
+      "isbn_10": "5559573838",
+      "pages": 534,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1999,
-      "page_count": 534
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Atlas Obscura",
@@ -8148,6 +8583,21 @@
       "source": "seed"
     },
     {
+      "title": "Avenue of Mysteries",
+      "year": 2015,
+      "isbn_13": "9783548223049",
+      "isbn_10": "3548223047",
+      "pages": 460,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "John Irving"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Awakenings",
       "authors": [
         "Oliver Sacks"
@@ -8260,18 +8710,18 @@
     },
     {
       "title": "Babysitter",
-      "authors": [
-        "Joyce Carol Oates"
-      ],
+      "year": 2022,
       "isbn_13": "9780421515321",
-      "isbn_10": "0421515325",
+      "isbn_10": "0421515326",
+      "pages": 416,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2022,
-      "page_count": 400
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
     },
     {
       "title": "Back Spin",
@@ -8339,6 +8789,22 @@
       "source": "seed"
     },
     {
+      "title": "Bad Boy Brawly Brown",
+      "year": 2002,
+      "isbn_13": "9787619359248",
+      "isbn_10": "7619359242",
+      "pages": 311,
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Bad Luck and Trouble",
       "authors": [
         "Lee Child"
@@ -8352,6 +8818,22 @@
       "source": "seed",
       "year_published": 2007,
       "page_count": 377
+    },
+    {
+      "title": "Bad Monkey",
+      "year": 2013,
+      "isbn_13": "9789524644341",
+      "isbn_10": "9524644344",
+      "pages": 317,
+      "genres": [
+        "Crime Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Carl Hiaasen"
+      ],
+      "source": "seed"
     },
     {
       "title": "Bag of Bones",
@@ -8561,6 +9043,22 @@
       "source": "seed",
       "year_published": 1853,
       "page_count": 64
+    },
+    {
+      "title": "Basket Case",
+      "year": 2002,
+      "isbn_13": "9780386471991",
+      "isbn_10": "038647199X",
+      "pages": 319,
+      "genres": [
+        "Crime Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Carl Hiaasen"
+      ],
+      "source": "seed"
     },
     {
       "title": "Batman: The Dark Knight Returns",
@@ -8823,18 +9321,34 @@
     },
     {
       "title": "Because It Is Bitter, and Because It Is My Heart",
-      "authors": [
-        "Joyce Carol Oates"
-      ],
+      "year": 1990,
       "isbn_13": "9780133009439",
-      "isbn_10": "0133009432",
+      "isbn_10": "0133009439",
+      "pages": 405,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1990,
-      "page_count": 405
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Because the Night",
+      "year": 1984,
+      "isbn_13": "9784577008300",
+      "isbn_10": "4577008300",
+      "pages": 283,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Ellroy"
+      ],
+      "source": "seed"
     },
     {
       "title": "Becoming",
@@ -9082,6 +9596,22 @@
       "source": "seed"
     },
     {
+      "title": "Bel Canto",
+      "year": 2001,
+      "isbn_13": "9781973537717",
+      "isbn_10": "1973537710",
+      "pages": 318,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Ann Patchett"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Belgarath the Sorcerer",
       "year": 1995,
       "isbn_13": "9781322235585",
@@ -9109,6 +9639,21 @@
       "language": "en",
       "authors": [
         "Frances Mayes"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Bellefleur",
+      "year": 1980,
+      "isbn_13": "9783531647111",
+      "isbn_10": "3531647118",
+      "pages": 558,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Joyce Carol Oates"
       ],
       "source": "seed"
     },
@@ -9800,19 +10345,19 @@
     },
     {
       "title": "Birds of Prey",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1997,
       "isbn_13": "9780061396113",
-      "isbn_10": "0061396117",
+      "isbn_10": "0061396114",
+      "pages": 554,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1997,
-      "page_count": 554
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Birdsong",
@@ -9938,6 +10483,22 @@
       "language": "en",
       "authors": [
         "Ian Rankin"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Black Betty",
+      "year": 1994,
+      "isbn_13": "9781974088119",
+      "isbn_10": "197408811X",
+      "pages": 255,
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
       ],
       "source": "seed"
     },
@@ -10105,6 +10666,23 @@
       "source": "seed"
     },
     {
+      "title": "Black Mischief",
+      "year": 1932,
+      "isbn_13": "9780745353333",
+      "isbn_10": "0745353332",
+      "pages": 251,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Evelyn Waugh"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Black Notice",
       "authors": [
         "Patricia Cornwell"
@@ -10218,34 +10796,34 @@
     },
     {
       "title": "Black Water",
-      "authors": [
-        "Joyce Carol Oates"
-      ],
+      "year": 1992,
       "isbn_13": "9787392630466",
-      "isbn_10": "7392630466",
+      "isbn_10": "7392630465",
+      "pages": 154,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1992,
-      "page_count": 154
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
     },
     {
       "title": "Black Wind",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 2004,
       "isbn_13": "9781253435368",
-      "isbn_10": "1253435367",
+      "isbn_10": "1253435364",
+      "pages": 502,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2004,
-      "page_count": 516
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Blacklist",
@@ -10602,19 +11180,35 @@
     },
     {
       "title": "Blonde",
-      "authors": [
-        "Joyce Carol Oates"
-      ],
+      "year": 2000,
       "isbn_13": "9789521743719",
-      "isbn_10": "9521743719",
+      "isbn_10": "9521743712",
+      "pages": 738,
       "genres": [
         "Literary Fiction",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2000,
-      "page_count": 738
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Blonde Faith",
+      "year": 2007,
+      "isbn_13": "9785415751778",
+      "isbn_10": "5415751774",
+      "pages": 310,
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
+      ],
+      "source": "seed"
     },
     {
       "title": "Blood and Gold",
@@ -10696,6 +11290,22 @@
       "language": "en",
       "authors": [
         "Donna Leon"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Blood Grove",
+      "year": 2021,
+      "isbn_13": "9783341309209",
+      "isbn_10": "3341309202",
+      "pages": 290,
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
       ],
       "source": "seed"
     },
@@ -10796,6 +11406,22 @@
       "source": "seed"
     },
     {
+      "title": "Blood on the Moon",
+      "year": 1984,
+      "isbn_13": "9782212804225",
+      "isbn_10": "2212804222",
+      "pages": 263,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Ellroy"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Blood Shot",
       "year": 1988,
       "isbn_13": "9780142721643",
@@ -10826,6 +11452,23 @@
       "description": "",
       "authors": [
         "Michael Connelly"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Blood's a Rover",
+      "year": 2009,
+      "isbn_13": "9783927451148",
+      "isbn_10": "3927451149",
+      "pages": 640,
+      "genres": [
+        "Crime Fiction",
+        "Thriller",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "James Ellroy"
       ],
       "source": "seed"
     },
@@ -10893,6 +11536,22 @@
       "source": "seed",
       "year_published": 2003,
       "page_count": 478
+    },
+    {
+      "title": "Blow Your House Down",
+      "year": 1984,
+      "isbn_13": "9789757630258",
+      "isbn_10": "9757630251",
+      "pages": 170,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Pat Barker"
+      ],
+      "source": "seed"
     },
     {
       "title": "Blow-Up and Other Stories",
@@ -10978,19 +11637,19 @@
     },
     {
       "title": "Blue Horizon",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 2003,
       "isbn_13": "9780572430207",
-      "isbn_10": "0572430205",
+      "isbn_10": "0572430206",
+      "pages": 528,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2003,
-      "page_count": 490
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Blue Moon",
@@ -11309,6 +11968,22 @@
       "language": "en",
       "authors": [
         "Michael Lewis"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Border Crossing",
+      "year": 2001,
+      "isbn_13": "9786403222362",
+      "isbn_10": "6403222363",
+      "pages": 256,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Pat Barker"
       ],
       "source": "seed"
     },
@@ -11881,6 +12556,23 @@
       "source": "seed"
     },
     {
+      "title": "Brideshead Revisited",
+      "year": 1945,
+      "isbn_13": "9789101222122",
+      "isbn_10": "9101222120",
+      "pages": 351,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Evelyn Waugh"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Bridge of Clay",
       "authors": [
         "Markus Zusak"
@@ -11992,19 +12684,19 @@
     },
     {
       "title": "Brighton Rock",
+      "year": 1938,
+      "isbn_13": "9780346557994",
+      "isbn_10": "0346557999",
+      "pages": 298,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
       "authors": [
         "Graham Greene"
       ],
-      "isbn_13": "9780346557994",
-      "isbn_10": "0346557992",
-      "genres": [
-        "Thriller",
-        "Literary Fiction"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 1938,
-      "page_count": 247
+      "source": "seed"
     },
     {
       "title": "Bring Up the Bodies",
@@ -12211,6 +12903,38 @@
       "language": "en",
       "authors": [
         "C.J. Cherryh"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Brown's Requiem",
+      "year": 1981,
+      "isbn_13": "9785252847061",
+      "isbn_10": "525284706X",
+      "pages": 288,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Ellroy"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Bruno's Dream",
+      "year": 1969,
+      "isbn_13": "9789445731731",
+      "isbn_10": "9445731736",
+      "pages": 311,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
       ],
       "source": "seed"
     },
@@ -12634,6 +13358,22 @@
       "source": "seed"
     },
     {
+      "title": "Cakes and Ale",
+      "year": 1930,
+      "isbn_13": "9780999313220",
+      "isbn_10": "0999313228",
+      "pages": 308,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "W. Somerset Maugham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Caliban's Hour",
       "year": 1994,
       "isbn_13": "9784241413119",
@@ -12680,6 +13420,22 @@
       "description": "",
       "authors": [
         "John Grisham"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Call for the Dead",
+      "year": 1961,
+      "isbn_13": "9784255842363",
+      "isbn_10": "425584236X",
+      "pages": 157,
+      "genres": [
+        "Spy Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "John le Carré"
       ],
       "source": "seed"
     },
@@ -13249,6 +14005,22 @@
       "page_count": 421
     },
     {
+      "title": "Catalina",
+      "year": 1948,
+      "isbn_13": "9784023275485",
+      "isbn_10": "4023275487",
+      "pages": 256,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "W. Somerset Maugham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Catalog of Unabashed Gratitude",
       "authors": [
         "Ross Gay"
@@ -13441,6 +14213,22 @@
       "source": "seed",
       "year_published": 2014,
       "page_count": 384
+    },
+    {
+      "title": "Celtic Empire",
+      "year": 2019,
+      "isbn_13": "9786275365327",
+      "isbn_10": "6275365328",
+      "pages": 464,
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Century Rain",
@@ -13678,6 +14466,22 @@
       "language": "en",
       "authors": [
         "Sandra Brown"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Charcoal Joe",
+      "year": 2016,
+      "isbn_13": "9784142447145",
+      "isbn_10": "4142447142",
+      "pages": 306,
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
       ],
       "source": "seed"
     },
@@ -14144,6 +14948,23 @@
       "page_count": 264
     },
     {
+      "title": "Chomp",
+      "year": 2012,
+      "isbn_13": "9783155635570",
+      "isbn_10": "3155635575",
+      "pages": 290,
+      "genres": [
+        "Crime Fiction",
+        "Humor",
+        "Young Adult"
+      ],
+      "language": "en",
+      "authors": [
+        "Carl Hiaasen"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Choose Me",
       "authors": [
         "Tess Gerritsen"
@@ -14220,6 +15041,22 @@
       "source": "seed",
       "year_published": 1983,
       "page_count": 526
+    },
+    {
+      "title": "Christmas Holiday",
+      "year": 1939,
+      "isbn_13": "9784303905125",
+      "isbn_10": "4303905124",
+      "pages": 273,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "W. Somerset Maugham"
+      ],
+      "source": "seed"
     },
     {
       "title": "Christopher Unborn",
@@ -14347,6 +15184,22 @@
       "source": "seed",
       "year_published": 2019,
       "page_count": 432
+    },
+    {
+      "title": "Cinnamon Kiss",
+      "year": 2005,
+      "isbn_13": "9780555562062",
+      "isbn_10": "0555562062",
+      "pages": 312,
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
+      ],
+      "source": "seed"
     },
     {
       "title": "Circe",
@@ -14600,6 +15453,22 @@
       "language": "en",
       "authors": [
         "Edwidge Danticat"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Clandestine",
+      "year": 1982,
+      "isbn_13": "9780925425355",
+      "isbn_10": "0925425357",
+      "pages": 335,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Ellroy"
       ],
       "source": "seed"
     },
@@ -15351,6 +16220,21 @@
       "source": "seed",
       "year_published": 1776,
       "page_count": 96
+    },
+    {
+      "title": "Commonwealth",
+      "year": 2016,
+      "isbn_13": "9785659403228",
+      "isbn_10": "5659403220",
+      "pages": 322,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Ann Patchett"
+      ],
+      "source": "seed"
     },
     {
       "title": "Compilers: Principles, Techniques, and Tools",
@@ -16124,19 +17008,19 @@
     },
     {
       "title": "Crescent Dawn",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 2010,
       "isbn_13": "9784725253309",
-      "isbn_10": "4725253308",
+      "isbn_10": "4725253303",
+      "pages": 515,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2010,
-      "page_count": 512
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Crete 1941",
@@ -16607,19 +17491,19 @@
     },
     {
       "title": "Cry Wolf",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1976,
       "isbn_13": "9781318110711",
-      "isbn_10": "1318110718",
+      "isbn_10": "1318110713",
+      "pages": 350,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1976,
-      "page_count": 360
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Cry, the Beloved Country",
@@ -16816,19 +17700,19 @@
     },
     {
       "title": "Cyclops",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 1986,
       "isbn_13": "9781205420237",
-      "isbn_10": "1205420231",
+      "isbn_10": "120542023X",
+      "pages": 475,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1986,
-      "page_count": 475
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Cyteen",
@@ -18598,6 +19482,23 @@
       "page_count": 372
     },
     {
+      "title": "Decline and Fall",
+      "year": 1928,
+      "isbn_13": "9781087444161",
+      "isbn_10": "1087444160",
+      "pages": 293,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Evelyn Waugh"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Decoded",
       "authors": [
         "Jay-Z"
@@ -18648,19 +19549,19 @@
     },
     {
       "title": "Deep Six",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 1984,
       "isbn_13": "9781032882109",
-      "isbn_10": "1032882107",
+      "isbn_10": "1032882104",
+      "pages": 392,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1984,
-      "page_count": 432
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Deep Work",
@@ -18932,19 +19833,19 @@
     },
     {
       "title": "Desert God",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 2014,
       "isbn_13": "9788244722742",
-      "isbn_10": "8244722746",
+      "isbn_10": "8244722745",
+      "pages": 436,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2014,
-      "page_count": 400
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Desert Solitaire",
@@ -19147,6 +20048,22 @@
       "language": "en",
       "authors": [
         "P.D. James"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Devil in a Blue Dress",
+      "year": 1990,
+      "isbn_13": "9782710525158",
+      "isbn_10": "271052515X",
+      "pages": 215,
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
       ],
       "source": "seed"
     },
@@ -19452,19 +20369,20 @@
     },
     {
       "title": "Dirty Thirty",
+      "year": 2023,
+      "isbn_13": "9788853369635",
+      "isbn_10": "8853369632",
+      "pages": 288,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9788853369635",
-      "isbn_10": "8853369639",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2023,
-      "page_count": 304
+      "source": "seed"
     },
     {
       "title": "Discipline and Punish",
@@ -19754,18 +20672,18 @@
     },
     {
       "title": "Do with Me What You Will",
-      "authors": [
-        "Joyce Carol Oates"
-      ],
+      "year": 1973,
       "isbn_13": "9782547586742",
-      "isbn_10": "2547586746",
+      "isbn_10": "2547586745",
+      "pages": 561,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1973,
-      "page_count": 560
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
     },
     {
       "title": "Doctor Brodie's Report",
@@ -20071,6 +20989,38 @@
       "page_count": 186
     },
     {
+      "title": "Double Vision",
+      "year": 2003,
+      "isbn_13": "9782427660333",
+      "isbn_10": "2427660334",
+      "pages": 262,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Pat Barker"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Double Whammy",
+      "year": 1987,
+      "isbn_13": "9781159134297",
+      "isbn_10": "1159134297",
+      "pages": 318,
+      "genres": [
+        "Crime Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Carl Hiaasen"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Doughnut Economics",
       "authors": [
         "Kate Raworth"
@@ -20170,19 +21120,19 @@
     },
     {
       "title": "Dragon",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 1990,
       "isbn_13": "9788211322050",
-      "isbn_10": "8211322056",
+      "isbn_10": "8211322055",
+      "pages": 542,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1990,
-      "page_count": 541
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Dragon Haven",
@@ -20842,19 +21792,19 @@
     },
     {
       "title": "Eagle in the Sky",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1974,
       "isbn_13": "9789138548806",
-      "isbn_10": "9138548801",
+      "isbn_10": "913854880X",
+      "pages": 374,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1974,
-      "page_count": 325
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Earth",
@@ -21306,19 +22256,19 @@
     },
     {
       "title": "Elephant Song",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1991,
       "isbn_13": "9788121416146",
       "isbn_10": "8121416140",
+      "pages": 470,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1991,
-      "page_count": 435
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Elephants Can Remember",
@@ -21384,19 +22334,20 @@
     },
     {
       "title": "Eleven on Top",
+      "year": 2005,
+      "isbn_13": "9786931700189",
+      "isbn_10": "6931700182",
+      "pages": 310,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9786931700189",
-      "isbn_10": "6931700189",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2005,
-      "page_count": 310
+      "source": "seed"
     },
     {
       "title": "Eleven Rings",
@@ -21841,6 +22792,22 @@
       "source": "seed",
       "year_published": 1996,
       "page_count": 414
+    },
+    {
+      "title": "England Made Me",
+      "year": 1935,
+      "isbn_13": "9781311436955",
+      "isbn_10": "1311436959",
+      "pages": 209,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Graham Greene"
+      ],
+      "source": "seed"
     },
     {
       "title": "England's Dreaming",
@@ -22693,6 +23660,21 @@
       "page_count": 231
     },
     {
+      "title": "Expensive People",
+      "year": 1968,
+      "isbn_13": "9781030216319",
+      "isbn_10": "1030216319",
+      "pages": 306,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Explorer",
       "year": 2002,
       "isbn_13": "9784398364821",
@@ -22710,19 +23692,20 @@
     },
     {
       "title": "Explosive Eighteen",
+      "year": 2011,
+      "isbn_13": "9783255761247",
+      "isbn_10": "3255761244",
+      "pages": 300,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9783255761247",
-      "isbn_10": "3255761247",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2011,
-      "page_count": 307
+      "source": "seed"
     },
     {
       "title": "Extreme Measures",
@@ -23481,19 +24464,20 @@
     },
     {
       "title": "Fearless Fourteen",
+      "year": 2008,
+      "isbn_13": "9784255380506",
+      "isbn_10": "4255380508",
+      "pages": 320,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9784255380506",
-      "isbn_10": "4255380503",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2008,
-      "page_count": 322
+      "source": "seed"
     },
     {
       "title": "Feel the Noise",
@@ -23836,19 +24820,20 @@
     },
     {
       "title": "Finger Lickin' Fifteen",
+      "year": 2009,
+      "isbn_13": "9788403033122",
+      "isbn_10": "8403033126",
+      "pages": 320,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9788403033122",
-      "isbn_10": "8403033125",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2009,
-      "page_count": 312
+      "source": "seed"
     },
     {
       "title": "Finnegans Wake",
@@ -24380,19 +25365,19 @@
     },
     {
       "title": "Flood Tide",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 1997,
       "isbn_13": "9780504005237",
-      "isbn_10": "0504005235",
+      "isbn_10": "0504005236",
+      "pages": 535,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1997,
-      "page_count": 515
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Flow",
@@ -24473,6 +25458,23 @@
       "description": "",
       "authors": [
         "Hilary Mantel"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Flush",
+      "year": 2005,
+      "isbn_13": "9781241314231",
+      "isbn_10": "1241314238",
+      "pages": 263,
+      "genres": [
+        "Crime Fiction",
+        "Humor",
+        "Young Adult"
+      ],
+      "language": "en",
+      "authors": [
+        "Carl Hiaasen"
       ],
       "source": "seed"
     },
@@ -24778,6 +25780,23 @@
       "source": "seed"
     },
     {
+      "title": "Fortunate Son",
+      "year": 2006,
+      "isbn_13": "9783434243229",
+      "isbn_10": "3434243227",
+      "pages": 312,
+      "genres": [
+        "Mystery",
+        "Crime Fiction",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Fortunately, the Milk",
       "authors": [
         "Neil Gaiman"
@@ -24794,19 +25813,20 @@
     },
     {
       "title": "Fortune and Glory",
+      "year": 2020,
+      "isbn_13": "9785517899538",
+      "isbn_10": "5517899535",
+      "pages": 307,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9785517899538",
-      "isbn_10": "5517899536",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2020,
-      "page_count": 290
+      "source": "seed"
     },
     {
       "title": "Forty Lashes Less One",
@@ -24967,19 +25987,20 @@
     },
     {
       "title": "Four to Score",
+      "year": 1998,
+      "isbn_13": "9787157353807",
+      "isbn_10": "7157353805",
+      "pages": 310,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9787157353807",
-      "isbn_10": "7157353806",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 1998,
-      "page_count": 293
+      "source": "seed"
     },
     {
       "title": "Four Ways to Forgiveness",
@@ -25029,18 +26050,18 @@
     },
     {
       "title": "Foxfire",
-      "authors": [
-        "Joyce Carol Oates"
-      ],
+      "year": 1993,
       "isbn_13": "9784315122558",
-      "isbn_10": "4315122556",
+      "isbn_10": "4315122555",
+      "pages": 328,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1993,
-      "page_count": 328
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
     },
     {
       "title": "Fractured",
@@ -26026,19 +27047,20 @@
     },
     {
       "title": "Game On",
+      "year": 2021,
+      "isbn_13": "9785772952436",
+      "isbn_10": "5772952432",
+      "pages": 277,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9785772952436",
-      "isbn_10": "5772952439",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2021,
-      "page_count": 305
+      "source": "seed"
     },
     {
       "title": "Game, Set and Match: Berlin Game",
@@ -27115,19 +28137,20 @@
     },
     {
       "title": "Going Rogue",
+      "year": 2022,
+      "isbn_13": "9784074370641",
+      "isbn_10": "4074370645",
+      "pages": 272,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9784074370641",
-      "isbn_10": "4074370646",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2022,
-      "page_count": 294
+      "source": "seed"
     },
     {
       "title": "Going Solo",
@@ -27147,19 +28170,19 @@
     },
     {
       "title": "Gold Mine",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1970,
       "isbn_13": "9787413146211",
-      "isbn_10": "7413146215",
+      "isbn_10": "7413146216",
+      "pages": 372,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1970,
-      "page_count": 323
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Golden Fool",
@@ -27178,19 +28201,19 @@
     },
     {
       "title": "Golden Fox",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1990,
       "isbn_13": "9785403924146",
       "isbn_10": "5403924140",
+      "pages": 500,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1990,
-      "page_count": 528
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Goldfinger",
@@ -27223,6 +28246,22 @@
       "source": "seed",
       "year_published": 2006,
       "page_count": 384
+    },
+    {
+      "title": "Gone Fishin'",
+      "year": 1997,
+      "isbn_13": "9784609283484",
+      "isbn_10": "4609283487",
+      "pages": 244,
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
+      ],
+      "source": "seed"
     },
     {
       "title": "Gone for Good",
@@ -28305,19 +29344,20 @@
     },
     {
       "title": "Hard Eight",
+      "year": 2002,
+      "isbn_13": "9786049328015",
+      "isbn_10": "6049328018",
+      "pages": 305,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9786049328015",
-      "isbn_10": "6049328013",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2002,
-      "page_count": 309
+      "source": "seed"
     },
     {
       "title": "Hard Time",
@@ -28672,6 +29712,22 @@
       "source": "seed",
       "year_published": 2005,
       "page_count": 411
+    },
+    {
+      "title": "Havana Storm",
+      "year": 2014,
+      "isbn_13": "9784004271017",
+      "isbn_10": "4004271010",
+      "pages": 436,
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Have Mercy on Us All",
@@ -29114,6 +30170,24 @@
       "source": "seed"
     },
     {
+      "title": "Helena",
+      "year": 1950,
+      "isbn_13": "9788954040273",
+      "isbn_10": "8954040275",
+      "pages": 236,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Humor",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Evelyn Waugh"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Helgoland",
       "authors": [
         "Carlo Rovelli"
@@ -29238,6 +30312,22 @@
       "description": "",
       "authors": [
         "Saul Bellow"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Henry and Cato",
+      "year": 1976,
+      "isbn_13": "9784104193455",
+      "isbn_10": "4104193458",
+      "pages": 352,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
       ],
       "source": "seed"
     },
@@ -29466,19 +30556,20 @@
     },
     {
       "title": "High Five",
+      "year": 1999,
+      "isbn_13": "9785082473034",
+      "isbn_10": "5082473037",
+      "pages": 311,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9785082473034",
-      "isbn_10": "5082473034",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 1999,
-      "page_count": 292
+      "source": "seed"
     },
     {
       "title": "High Noon",
@@ -30048,6 +31139,23 @@
       "page_count": 430
     },
     {
+      "title": "Hoot",
+      "year": 2002,
+      "isbn_13": "9783154615139",
+      "isbn_10": "3154615131",
+      "pages": 292,
+      "genres": [
+        "Crime Fiction",
+        "Humor",
+        "Young Adult"
+      ],
+      "language": "en",
+      "authors": [
+        "Carl Hiaasen"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Hope to Die",
       "authors": [
         "James Patterson"
@@ -30178,19 +31286,20 @@
     },
     {
       "title": "Hot Six",
+      "year": 2000,
+      "isbn_13": "9780758535115",
+      "isbn_10": "0758535119",
+      "pages": 295,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9780758535115",
-      "isbn_10": "0758535112",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2000,
-      "page_count": 292
+      "source": "seed"
     },
     {
       "title": "Hotel Iris",
@@ -30641,6 +31750,22 @@
       "source": "seed"
     },
     {
+      "title": "Howards End",
+      "year": 1910,
+      "isbn_13": "9788726121421",
+      "isbn_10": "8726121426",
+      "pages": 343,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "E.M. Forster"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Howl and Other Poems",
       "authors": [
         "Allen Ginsberg"
@@ -30788,19 +31913,19 @@
     },
     {
       "title": "Hungry as the Sea",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1978,
       "isbn_13": "9785252422800",
-      "isbn_10": "525242280X",
+      "isbn_10": "5252422801",
+      "pages": 392,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1978,
-      "page_count": 408
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Hyperion",
@@ -31282,19 +32407,19 @@
     },
     {
       "title": "Iceberg",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 1975,
       "isbn_13": "9785337243078",
-      "isbn_10": "5337243071",
+      "isbn_10": "533724307X",
+      "pages": 299,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1975,
-      "page_count": 362
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Icon",
@@ -31955,6 +33080,21 @@
       "page_count": 183
     },
     {
+      "title": "In One Person",
+      "year": 2012,
+      "isbn_13": "9782178560333",
+      "isbn_10": "2178560337",
+      "pages": 425,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "John Irving"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "In Other Rooms, Other Wonders",
       "authors": [
         "Daniyal Mueenuddin"
@@ -32443,19 +33583,19 @@
     },
     {
       "title": "Inca Gold",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 1994,
       "isbn_13": "9781251743793",
-      "isbn_10": "125174379X",
+      "isbn_10": "1251743791",
+      "pages": 537,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1994,
-      "page_count": 537
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Incandescence",
@@ -33591,6 +34731,22 @@
       "source": "seed"
     },
     {
+      "title": "It's a Battlefield",
+      "year": 1934,
+      "isbn_13": "9784500596317",
+      "isbn_10": "4500596318",
+      "pages": 180,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Graham Greene"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "It's in His Kiss",
       "authors": [
         "Julia Quinn"
@@ -33713,6 +34869,22 @@
       "language": "en",
       "authors": [
         "Ken Follett"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Jackson's Dilemma",
+      "year": 1995,
+      "isbn_13": "9783464113196",
+      "isbn_10": "346411319X",
+      "pages": 249,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
       ],
       "source": "seed"
     },
@@ -35053,6 +36225,22 @@
       "source": "seed"
     },
     {
+      "title": "King of Kings",
+      "year": 2019,
+      "isbn_13": "9782353335350",
+      "isbn_10": "2353335354",
+      "pages": 416,
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "King of the Murgos",
       "year": 1988,
       "isbn_13": "9788565445542",
@@ -35565,6 +36753,23 @@
       "source": "seed"
     },
     {
+      "title": "L.A. Confidential",
+      "year": 1990,
+      "isbn_13": "9787743026078",
+      "isbn_10": "7743026073",
+      "pages": 460,
+      "genres": [
+        "Crime Fiction",
+        "Thriller",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "James Ellroy"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "La Belle Sauvage",
       "authors": [
         "Philip Pullman"
@@ -35872,6 +37077,21 @@
       "page_count": 480
     },
     {
+      "title": "Last Night in Twisted River",
+      "year": 2009,
+      "isbn_13": "9783148110442",
+      "isbn_10": "3148110444",
+      "pages": 554,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "John Irving"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Last of the Breed",
       "year": 1986,
       "isbn_13": "9785753551825",
@@ -36052,19 +37272,20 @@
     },
     {
       "title": "Lean Mean Thirteen",
+      "year": 2007,
+      "isbn_13": "9785034573157",
+      "isbn_10": "5034573155",
+      "pages": 288,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9785034573157",
-      "isbn_10": "5034573156",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2007,
-      "page_count": 305
+      "source": "seed"
     },
     {
       "title": "Leap of Faith",
@@ -36775,6 +37996,23 @@
       "source": "seed"
     },
     {
+      "title": "Life Class",
+      "year": 2007,
+      "isbn_13": "9782464555371",
+      "isbn_10": "246455537X",
+      "pages": 307,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction",
+        "War"
+      ],
+      "language": "en",
+      "authors": [
+        "Pat Barker"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Life Is Elsewhere",
       "year": 1973,
       "isbn_13": "9782070530151",
@@ -37094,6 +38332,22 @@
       "source": "seed"
     },
     {
+      "title": "Little Green",
+      "year": 2013,
+      "isbn_13": "9785405737447",
+      "isbn_10": "5405737446",
+      "pages": 288,
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Little Men",
       "year": 1871,
       "isbn_13": "9780343345433",
@@ -37106,6 +38360,22 @@
       "language": "en",
       "authors": [
         "Louisa May Alcott"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Little Scarlet",
+      "year": 2004,
+      "isbn_13": "9780631263234",
+      "isbn_10": "0631263238",
+      "pages": 308,
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
       ],
       "source": "seed"
     },
@@ -37224,6 +38494,22 @@
       "source": "seed",
       "year_published": 2002,
       "page_count": 483
+    },
+    {
+      "title": "Liza of Lambeth",
+      "year": 1897,
+      "isbn_13": "9784005652396",
+      "isbn_10": "4005652396",
+      "pages": 170,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "W. Somerset Maugham"
+      ],
+      "source": "seed"
     },
     {
       "title": "Lizard",
@@ -37580,19 +38866,20 @@
     },
     {
       "title": "Look Alive Twenty-Five",
+      "year": 2018,
+      "isbn_13": "9784523011187",
+      "isbn_10": "4523011187",
+      "pages": 285,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9784523011187",
-      "isbn_10": "4523011184",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2018,
-      "page_count": 294
+      "source": "seed"
     },
     {
       "title": "Look Back in Anger",
@@ -38009,19 +39296,35 @@
       "source": "seed"
     },
     {
-      "title": "Lucy by the Sea",
-      "authors": [
-        "Elizabeth Strout"
+      "title": "Lucky You",
+      "year": 1997,
+      "isbn_13": "9782732152813",
+      "isbn_10": "273215281X",
+      "pages": 352,
+      "genres": [
+        "Crime Fiction",
+        "Humor"
       ],
+      "language": "en",
+      "authors": [
+        "Carl Hiaasen"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Lucy by the Sea",
+      "year": 2022,
       "isbn_13": "9784651105000",
-      "isbn_10": "4651105009",
+      "isbn_10": "4651105002",
+      "pages": 256,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2022,
-      "page_count": 288
+      "authors": [
+        "Elizabeth Strout"
+      ],
+      "source": "seed"
     },
     {
       "title": "Luka and the Fire of Life",
@@ -38870,18 +40173,18 @@
     },
     {
       "title": "Marya: A Life",
-      "authors": [
-        "Joyce Carol Oates"
-      ],
+      "year": 1986,
       "isbn_13": "9781207506397",
-      "isbn_10": "1207506397",
+      "isbn_10": "1207506394",
+      "pages": 310,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1986,
-      "page_count": 310
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
     },
     {
       "title": "Maskerade",
@@ -39006,6 +40309,22 @@
       "language": "en",
       "authors": [
         "Karl Marlantes"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Maurice",
+      "year": 1971,
+      "isbn_13": "9785444585528",
+      "isbn_10": "5444585522",
+      "pages": 246,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "E.M. Forster"
       ],
       "source": "seed"
     },
@@ -39451,6 +40770,24 @@
     },
     {
       "title": "Men at Arms",
+      "year": 1952,
+      "isbn_13": "9781184343039",
+      "isbn_10": "1184343032",
+      "pages": 240,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Humor",
+        "War"
+      ],
+      "language": "en",
+      "authors": [
+        "Evelyn Waugh"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Men at Arms",
       "authors": [
         "Terry Pratchett"
       ],
@@ -39467,19 +40804,19 @@
     },
     {
       "title": "Men of Men",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1981,
       "isbn_13": "9782125403133",
-      "isbn_10": "2125403137",
+      "isbn_10": "2125403134",
+      "pages": 528,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1981,
-      "page_count": 476
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Men Without Women",
@@ -40538,6 +41875,22 @@
       "source": "seed"
     },
     {
+      "title": "Monsignor Quixote",
+      "year": 1982,
+      "isbn_13": "9784154956727",
+      "isbn_10": "4154956723",
+      "pages": 221,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Graham Greene"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Monsoon",
       "authors": [
         "Robert D. Kaplan"
@@ -40556,19 +41909,19 @@
     },
     {
       "title": "Monsoon",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1999,
       "isbn_13": "9780168245215",
-      "isbn_10": "0168245213",
+      "isbn_10": "0168245218",
+      "pages": 618,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1999,
-      "page_count": 613
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Monster",
@@ -41247,6 +42600,22 @@
       "source": "seed"
     },
     {
+      "title": "Mrs Craddock",
+      "year": 1902,
+      "isbn_13": "9782322416561",
+      "isbn_10": "2322416563",
+      "pages": 350,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "W. Somerset Maugham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Mrs Dalloway",
       "authors": [
         "Virginia Woolf"
@@ -41327,18 +42696,18 @@
     },
     {
       "title": "Mudwoman",
-      "authors": [
-        "Joyce Carol Oates"
-      ],
+      "year": 2012,
       "isbn_13": "9782733853511",
-      "isbn_10": "2733853511",
+      "isbn_10": "273385351X",
+      "pages": 436,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2012,
-      "page_count": 448
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
     },
     {
       "title": "Murder Being Once Done",
@@ -41522,6 +42891,23 @@
       ],
       "language": "en",
       "page_count": 330,
+      "source": "seed"
+    },
+    {
+      "title": "My Dark Places",
+      "year": 1996,
+      "isbn_13": "9781727242157",
+      "isbn_10": "1727242154",
+      "pages": 381,
+      "genres": [
+        "Crime Fiction",
+        "Thriller",
+        "Memoir"
+      ],
+      "language": "en",
+      "authors": [
+        "James Ellroy"
+      ],
       "source": "seed"
     },
     {
@@ -41752,18 +43138,18 @@
     },
     {
       "title": "My Name Is Lucy Barton",
-      "authors": [
-        "Elizabeth Strout"
-      ],
+      "year": 2016,
       "isbn_13": "9787793431020",
-      "isbn_10": "7793431022",
+      "isbn_10": "7793431029",
+      "pages": 191,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2016,
-      "page_count": 191
+      "authors": [
+        "Elizabeth Strout"
+      ],
+      "source": "seed"
     },
     {
       "title": "My Name Is Red",
@@ -41858,6 +43244,21 @@
       "language": "en",
       "authors": [
         "Ottessa Moshfegh"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Mysteries of Winterthurn",
+      "year": 1984,
+      "isbn_13": "9783516909104",
+      "isbn_10": "3516909109",
+      "pages": 482,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Joyce Carol Oates"
       ],
       "source": "seed"
     },
@@ -42024,6 +43425,38 @@
       ],
       "language": "en",
       "page_count": 504,
+      "source": "seed"
+    },
+    {
+      "title": "Native Tongue",
+      "year": 1991,
+      "isbn_13": "9782191840429",
+      "isbn_10": "2191840425",
+      "pages": 308,
+      "genres": [
+        "Crime Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Carl Hiaasen"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Nature Girl",
+      "year": 2006,
+      "isbn_13": "9787517130529",
+      "isbn_10": "7517130523",
+      "pages": 305,
+      "genres": [
+        "Crime Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Carl Hiaasen"
+      ],
       "source": "seed"
     },
     {
@@ -42570,19 +44003,19 @@
     },
     {
       "title": "Night Probe!",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 1981,
       "isbn_13": "9784311240560",
-      "isbn_10": "4311240562",
+      "isbn_10": "4311240569",
+      "pages": 307,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1981,
-      "page_count": 355
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Night Road",
@@ -42716,18 +44149,18 @@
     },
     {
       "title": "Night. Sleep. Death. The Stars.",
-      "authors": [
-        "Joyce Carol Oates"
-      ],
+      "year": 2020,
       "isbn_13": "9780119422726",
-      "isbn_10": "0119422727",
+      "isbn_10": "0119422724",
+      "pages": 816,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2020,
-      "page_count": 800
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
     },
     {
       "title": "Nightfall",
@@ -43328,6 +44761,23 @@
       "page_count": 464
     },
     {
+      "title": "Noonday",
+      "year": 2015,
+      "isbn_13": "9780370609720",
+      "isbn_10": "0370609724",
+      "pages": 256,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction",
+        "War"
+      ],
+      "language": "en",
+      "authors": [
+        "Pat Barker"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Noor",
       "authors": [
         "Nnedi Okofor"
@@ -43646,19 +45096,20 @@
     },
     {
       "title": "Notorious Nineteen",
+      "year": 2012,
+      "isbn_13": "9780541797119",
+      "isbn_10": "0541797116",
+      "pages": 320,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9780541797119",
-      "isbn_10": "0541797115",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2012,
-      "page_count": 315
+      "source": "seed"
     },
     {
       "title": "Nova",
@@ -43821,6 +45272,22 @@
       "page_count": 191
     },
     {
+      "title": "Nuns and Soldiers",
+      "year": 1980,
+      "isbn_13": "9788724295902",
+      "isbn_10": "8724295905",
+      "pages": 504,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Nutshell",
       "authors": [
         "Ian McEwan"
@@ -43946,6 +45413,22 @@
       "page_count": 390
     },
     {
+      "title": "Odessa Sea",
+      "year": 2016,
+      "isbn_13": "9785424400414",
+      "isbn_10": "5424400413",
+      "pages": 436,
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Odyssey",
       "year": 2006,
       "isbn_13": "9782010228469",
@@ -43990,6 +45473,22 @@
       "source": "seed",
       "year_published": 1967,
       "page_count": 396
+    },
+    {
+      "title": "Of Human Bondage",
+      "year": 1915,
+      "isbn_13": "9785330615803",
+      "isbn_10": "533061580X",
+      "pages": 648,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "W. Somerset Maugham"
+      ],
+      "source": "seed"
     },
     {
       "title": "Of Love and Other Demons",
@@ -44055,19 +45554,37 @@
       "page_count": 174
     },
     {
-      "title": "Oh William!",
-      "authors": [
-        "Elizabeth Strout"
+      "title": "Officers and Gentlemen",
+      "year": 1955,
+      "isbn_13": "9780321185235",
+      "isbn_10": "0321185237",
+      "pages": 308,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Humor",
+        "War"
       ],
+      "language": "en",
+      "authors": [
+        "Evelyn Waugh"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Oh William!",
+      "year": 2021,
       "isbn_13": "9789304736297",
-      "isbn_10": "9304736293",
+      "isbn_10": "9304736298",
+      "pages": 256,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2021,
-      "page_count": 256
+      "authors": [
+        "Elizabeth Strout"
+      ],
+      "source": "seed"
     },
     {
       "title": "Old Babes in the Wood",
@@ -44119,34 +45636,35 @@
     },
     {
       "title": "Olive Kitteridge",
+      "year": 2008,
+      "isbn_13": "9785296401021",
+      "isbn_10": "5296401025",
+      "pages": 270,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories",
+        "Classic"
+      ],
+      "language": "en",
       "authors": [
         "Elizabeth Strout"
       ],
-      "isbn_13": "9785296401021",
-      "isbn_10": "5296401026",
-      "genres": [
-        "Literary Fiction",
-        "Short Stories"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2008,
-      "page_count": 286
+      "source": "seed"
     },
     {
       "title": "Olive, Again",
-      "authors": [
-        "Elizabeth Strout"
-      ],
+      "year": 2019,
       "isbn_13": "9781151384317",
-      "isbn_10": "1151384313",
+      "isbn_10": "1151384318",
+      "pages": 289,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2019,
-      "page_count": 289
+      "authors": [
+        "Elizabeth Strout"
+      ],
+      "source": "seed"
     },
     {
       "title": "Oliver Twist",
@@ -44745,19 +46263,20 @@
     },
     {
       "title": "One for the Money",
+      "year": 1994,
+      "isbn_13": "9784137483493",
+      "isbn_10": "4137483498",
+      "pages": 290,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9784137483493",
-      "isbn_10": "4137483493",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 1994,
-      "page_count": 290
+      "source": "seed"
     },
     {
       "title": "One Hundred Years of Solitude",
@@ -45508,6 +47027,22 @@
       "page_count": 190
     },
     {
+      "title": "Our Game",
+      "year": 1995,
+      "isbn_13": "9781555425135",
+      "isbn_10": "1555425136",
+      "pages": 302,
+      "genres": [
+        "Spy Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Our Gang",
       "authors": [
         "Philip Roth"
@@ -45525,35 +47060,36 @@
     },
     {
       "title": "Our Kind of Traitor",
-      "authors": [
-        "John le Carré"
-      ],
+      "year": 2010,
       "isbn_13": "9789350112939",
       "isbn_10": "9350112930",
+      "pages": 305,
       "genres": [
-        "Espionage",
+        "Spy Fiction",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2010,
-      "page_count": 305
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
     },
     {
       "title": "Our Man in Havana",
+      "year": 1958,
+      "isbn_13": "9786031401498",
+      "isbn_10": "6031401496",
+      "pages": 247,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Humor"
+      ],
+      "language": "en",
       "authors": [
         "Graham Greene"
       ],
-      "isbn_13": "9786031401498",
-      "isbn_10": "6031401495",
-      "genres": [
-        "Espionage",
-        "Satire"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 1958,
-      "page_count": 247
+      "source": "seed"
     },
     {
       "title": "Our Missing Hearts",
@@ -45862,19 +47398,19 @@
     },
     {
       "title": "Pacific Vortex!",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 1983,
       "isbn_13": "9784551403459",
-      "isbn_10": "4551403458",
+      "isbn_10": "4551403453",
+      "pages": 275,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1983,
-      "page_count": 320
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Packing for Mars",
@@ -46800,6 +48336,23 @@
       "source": "seed"
     },
     {
+      "title": "Perfidia",
+      "year": 2014,
+      "isbn_13": "9782462260529",
+      "isbn_10": "2462260523",
+      "pages": 693,
+      "genres": [
+        "Crime Fiction",
+        "Thriller",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "James Ellroy"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Peril at End House",
       "authors": [
         "Agatha Christie"
@@ -47038,19 +48591,19 @@
     },
     {
       "title": "Pharaoh",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 2016,
       "isbn_13": "9787344143150",
-      "isbn_10": "7344143151",
+      "isbn_10": "734414315X",
+      "pages": 448,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2016,
-      "page_count": 560
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Phases of Gravity",
@@ -48018,6 +49571,22 @@
       "source": "seed"
     },
     {
+      "title": "Poseidon's Arrow",
+      "year": 2012,
+      "isbn_13": "9783025174116",
+      "isbn_10": "3025174110",
+      "pages": 435,
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Poseidon's Wake",
       "year": 2015,
       "isbn_13": "9780338051509",
@@ -48148,19 +49717,19 @@
     },
     {
       "title": "Power of the Sword",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1986,
       "isbn_13": "9789147015436",
-      "isbn_10": "9147015438",
+      "isbn_10": "9147015433",
+      "pages": 600,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1986,
-      "page_count": 618
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Prayers for Rain",
@@ -48224,6 +49793,22 @@
       "language": "en",
       "authors": [
         "C.J. Cherryh"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Predator",
+      "year": 2016,
+      "isbn_13": "9785546554279",
+      "isbn_10": "5546554277",
+      "pages": 406,
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Wilbur Smith"
       ],
       "source": "seed"
     },
@@ -48791,6 +50376,23 @@
       "source": "seed"
     },
     {
+      "title": "Put Out More Flags",
+      "year": 1942,
+      "isbn_13": "9781819444230",
+      "isbn_10": "1819444235",
+      "pages": 244,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Evelyn Waugh"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Pygmalion",
       "authors": [
         "George Bernard Shaw"
@@ -49284,19 +50886,19 @@
     },
     {
       "title": "Rage",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1987,
       "isbn_13": "9787131816250",
-      "isbn_10": "7131816256",
+      "isbn_10": "7131816255",
+      "pages": 640,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1987,
-      "page_count": 670
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Rage of a Demon King",
@@ -49361,19 +50963,19 @@
     },
     {
       "title": "Raise the Titanic!",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 1976,
       "isbn_13": "9785415232536",
-      "isbn_10": "5415232532",
+      "isbn_10": "5415232539",
+      "pages": 314,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1976,
-      "page_count": 314
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Raising Demons",
@@ -49550,6 +51152,22 @@
       "language": "en",
       "authors": [
         "Elmore Leonard"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Razor Girl",
+      "year": 2016,
+      "isbn_13": "9785433143104",
+      "isbn_10": "5433143107",
+      "pages": 336,
+      "genres": [
+        "Crime Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Carl Hiaasen"
       ],
       "source": "seed"
     },
@@ -50035,6 +51653,24 @@
       "source": "seed",
       "year_published": 2003,
       "page_count": 131
+    },
+    {
+      "title": "Regeneration",
+      "year": 1991,
+      "isbn_13": "9785931267593",
+      "isbn_10": "5931267591",
+      "pages": 251,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction",
+        "War",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Pat Barker"
+      ],
+      "source": "seed"
     },
     {
       "title": "Regretting You",
@@ -50786,19 +52422,19 @@
     },
     {
       "title": "River God",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1993,
       "isbn_13": "9782202975447",
-      "isbn_10": "2202975446",
+      "isbn_10": "2202975445",
+      "pages": 600,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1993,
-      "page_count": 665
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "River of Smoke",
@@ -51087,6 +52723,22 @@
       "source": "seed"
     },
     {
+      "title": "Rose Gold",
+      "year": 2014,
+      "isbn_13": "9781332186938",
+      "isbn_10": "1332186932",
+      "pages": 290,
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Rose Madder",
       "authors": [
         "Stephen King"
@@ -51340,6 +52992,21 @@
       "language": "en",
       "authors": [
         "S.E. Hinton"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Run",
+      "year": 2007,
+      "isbn_13": "9789134637474",
+      "isbn_10": "9134637473",
+      "pages": 295,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Ann Patchett"
       ],
       "source": "seed"
     },
@@ -51806,19 +53473,19 @@
     },
     {
       "title": "Sahara",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 1992,
       "isbn_13": "9782081759251",
-      "isbn_10": "208175925X",
+      "isbn_10": "2081759251",
+      "pages": 541,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1992,
-      "page_count": 541
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Saint Joan",
@@ -52444,6 +54111,23 @@
       "page_count": 374
     },
     {
+      "title": "Scat",
+      "year": 2009,
+      "isbn_13": "9786141711937",
+      "isbn_10": "6141711935",
+      "pages": 371,
+      "genres": [
+        "Crime Fiction",
+        "Humor",
+        "Young Adult"
+      ],
+      "language": "en",
+      "authors": [
+        "Carl Hiaasen"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Scattered All Over the Earth",
       "year": 2022,
       "isbn_13": "9789200884054",
@@ -52489,6 +54173,24 @@
       "source": "seed",
       "year_published": 2015,
       "page_count": 404
+    },
+    {
+      "title": "Scoop",
+      "year": 1938,
+      "isbn_13": "9783368719203",
+      "isbn_10": "3368719208",
+      "pages": 308,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Humor",
+        "Satire"
+      ],
+      "language": "en",
+      "authors": [
+        "Evelyn Waugh"
+      ],
+      "source": "seed"
     },
     {
       "title": "Scorpions",
@@ -53255,6 +54957,21 @@
       "source": "seed"
     },
     {
+      "title": "Setting Free the Bears",
+      "year": 1968,
+      "isbn_13": "9784413381222",
+      "isbn_10": "4413381221",
+      "pages": 380,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "John Irving"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Seven Brief Lessons on Physics",
       "authors": [
         "Carlo Rovelli"
@@ -53306,19 +55023,20 @@
     },
     {
       "title": "Seven Up",
+      "year": 2001,
+      "isbn_13": "9781961483347",
+      "isbn_10": "1961483348",
+      "pages": 310,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9781961483347",
-      "isbn_10": "1961483343",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2001,
-      "page_count": 309
+      "source": "seed"
     },
     {
       "title": "Seveneves",
@@ -54264,19 +55982,19 @@
     },
     {
       "title": "Shock Wave",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 1996,
       "isbn_13": "9780218420302",
-      "isbn_10": "0218420307",
+      "isbn_10": "0218420304",
+      "pages": 537,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1996,
-      "page_count": 537
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Shoe Dog",
@@ -54329,19 +56047,19 @@
     },
     {
       "title": "Shout at the Devil",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1968,
       "isbn_13": "9780412483059",
-      "isbn_10": "041248305X",
+      "isbn_10": "0412483051",
+      "pages": 430,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1968,
-      "page_count": 368
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Show Business",
@@ -54423,6 +56141,22 @@
       "language": "en",
       "authors": [
         "James Clavell"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Sick Puppy",
+      "year": 1999,
+      "isbn_13": "9784603552265",
+      "isbn_10": "4603552269",
+      "pages": 341,
+      "genres": [
+        "Crime Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Carl Hiaasen"
       ],
       "source": "seed"
     },
@@ -54605,19 +56339,19 @@
     },
     {
       "title": "Silverview",
-      "authors": [
-        "John le Carré"
-      ],
+      "year": 2021,
       "isbn_13": "9780873861519",
-      "isbn_10": "0873861515",
+      "isbn_10": "0873861516",
+      "pages": 210,
       "genres": [
-        "Espionage",
+        "Spy Fiction",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2021,
-      "page_count": 209
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
     },
     {
       "title": "Simisola",
@@ -54748,6 +56482,22 @@
       "source": "seed"
     },
     {
+      "title": "Single & Single",
+      "year": 1999,
+      "isbn_13": "9781257054398",
+      "isbn_10": "1257054399",
+      "pages": 342,
+      "genres": [
+        "Spy Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Sister of My Heart",
       "authors": [
         "Chitra Banerjee Divakaruni"
@@ -54812,6 +56562,23 @@
       "source": "seed",
       "year_published": 1994,
       "page_count": 176
+    },
+    {
+      "title": "Six Easy Pieces",
+      "year": 2003,
+      "isbn_13": "9781130145335",
+      "isbn_10": "1130145335",
+      "pages": 278,
+      "genres": [
+        "Mystery",
+        "Crime Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
+      ],
+      "source": "seed"
     },
     {
       "title": "Six Easy Pieces",
@@ -54912,19 +56679,20 @@
     },
     {
       "title": "Sizzling Sixteen",
+      "year": 2010,
+      "isbn_13": "9785053571929",
+      "isbn_10": "5053571922",
+      "pages": 305,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9785053571929",
-      "isbn_10": "5053571929",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2010,
-      "page_count": 309
+      "source": "seed"
     },
     {
       "title": "Skeleton Crew",
@@ -54958,6 +56726,38 @@
       "source": "seed",
       "year_published": 2018,
       "page_count": 304
+    },
+    {
+      "title": "Skin Tight",
+      "year": 1989,
+      "isbn_13": "9789231433269",
+      "isbn_10": "923143326X",
+      "pages": 295,
+      "genres": [
+        "Crime Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Carl Hiaasen"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Skinny Dip",
+      "year": 2004,
+      "isbn_13": "9788931576436",
+      "isbn_10": "8931576432",
+      "pages": 355,
+      "genres": [
+        "Crime Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Carl Hiaasen"
+      ],
+      "source": "seed"
     },
     {
       "title": "Skyward",
@@ -55321,19 +57121,19 @@
     },
     {
       "title": "Smiley's People",
-      "authors": [
-        "John le Carré"
-      ],
+      "year": 1979,
       "isbn_13": "9788349683016",
-      "isbn_10": "8349683015",
+      "isbn_10": "8349683016",
+      "pages": 374,
       "genres": [
-        "Espionage",
+        "Spy Fiction",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1979,
-      "page_count": 374
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
     },
     {
       "title": "Smith of Wootton Major",
@@ -55400,19 +57200,20 @@
     },
     {
       "title": "Smokin' Seventeen",
+      "year": 2011,
+      "isbn_13": "9784230233445",
+      "isbn_10": "4230233449",
+      "pages": 310,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9784230233445",
-      "isbn_10": "4230233442",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2011,
-      "page_count": 293
+      "source": "seed"
     },
     {
       "title": "Snow",
@@ -55636,6 +57437,21 @@
       "source": "seed",
       "year_published": 1997,
       "page_count": 368
+    },
+    {
+      "title": "Solstice",
+      "year": 1985,
+      "isbn_13": "9783716233603",
+      "isbn_10": "3716233602",
+      "pages": 243,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
     },
     {
       "title": "Some Assembly Required",
@@ -56428,6 +58244,22 @@
       "source": "seed"
     },
     {
+      "title": "Squeeze Me",
+      "year": 2020,
+      "isbn_13": "9789325335455",
+      "isbn_10": "9325335451",
+      "pages": 352,
+      "genres": [
+        "Crime Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Carl Hiaasen"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "SS-GB",
       "authors": [
         "Len Deighton"
@@ -56459,6 +58291,23 @@
       "source": "seed",
       "year_published": 1998,
       "page_count": 493
+    },
+    {
+      "title": "Stamboul Train",
+      "year": 1932,
+      "isbn_13": "9785105213616",
+      "isbn_10": "5105213610",
+      "pages": 233,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Graham Greene"
+      ],
+      "source": "seed"
     },
     {
       "title": "Stamped from the Beginning",
@@ -56506,6 +58355,22 @@
       "language": "en",
       "authors": [
         "Sandra Brown"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Star Island",
+      "year": 2010,
+      "isbn_13": "9787432050155",
+      "isbn_10": "7432050156",
+      "pages": 337,
+      "genres": [
+        "Crime Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Carl Hiaasen"
       ],
       "source": "seed"
     },
@@ -56778,6 +58643,21 @@
       "language": "en",
       "authors": [
         "Brad Thor"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "State of Wonder",
+      "year": 2011,
+      "isbn_13": "9789042369009",
+      "isbn_10": "9042369000",
+      "pages": 353,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Ann Patchett"
       ],
       "source": "seed"
     },
@@ -57181,6 +59061,22 @@
       "page_count": 320
     },
     {
+      "title": "Stormy Weather",
+      "year": 1995,
+      "isbn_13": "9784341995171",
+      "isbn_10": "4341995170",
+      "pages": 327,
+      "genres": [
+        "Crime Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Carl Hiaasen"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Story",
       "authors": [
         "Robert McKee"
@@ -57373,6 +59269,22 @@
       "source": "seed"
     },
     {
+      "title": "Strip Tease",
+      "year": 1993,
+      "isbn_13": "9783067076416",
+      "isbn_10": "3067076412",
+      "pages": 353,
+      "genres": [
+        "Crime Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Carl Hiaasen"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Strong Motion",
       "authors": [
         "Jonathan Franzen"
@@ -57511,6 +59423,22 @@
       "source": "seed",
       "year_published": 1897,
       "page_count": 405
+    },
+    {
+      "title": "Suicide Hill",
+      "year": 1986,
+      "isbn_13": "9786020514932",
+      "isbn_10": "6020514936",
+      "pages": 301,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Ellroy"
+      ],
+      "source": "seed"
     },
     {
       "title": "Sula",
@@ -58150,6 +60078,21 @@
       "source": "seed"
     },
     {
+      "title": "Taft",
+      "year": 1994,
+      "isbn_13": "9783158871197",
+      "isbn_10": "3158871191",
+      "pages": 261,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Ann Patchett"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Tai-Pan",
       "year": 1966,
       "isbn_13": "9784822115449",
@@ -58230,19 +60173,20 @@
     },
     {
       "title": "Takedown Twenty",
+      "year": 2013,
+      "isbn_13": "9784313452558",
+      "isbn_10": "4313452552",
+      "pages": 296,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9784313452558",
-      "isbn_10": "4313452559",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2013,
-      "page_count": 307
+      "source": "seed"
     },
     {
       "title": "Taken at the Flood",
@@ -58705,6 +60649,21 @@
       "source": "seed"
     },
     {
+      "title": "Tell Me Everything",
+      "year": 2024,
+      "isbn_13": "9782844676245",
+      "isbn_10": "2844676248",
+      "pages": 256,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Elizabeth Strout"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Tell No One",
       "year": 2001,
       "isbn_13": "9784984260858",
@@ -58723,19 +60682,20 @@
     },
     {
       "title": "Ten Big Ones",
+      "year": 2004,
+      "isbn_13": "9781528825054",
+      "isbn_10": "1528825056",
+      "pages": 262,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9781528825054",
-      "isbn_10": "1528825055",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2004,
-      "page_count": 302
+      "source": "seed"
     },
     {
       "title": "Tender at the Bone",
@@ -59053,6 +61013,21 @@
       "source": "seed",
       "year_published": 2009,
       "page_count": 396
+    },
+    {
+      "title": "The 158-Pound Marriage",
+      "year": 1974,
+      "isbn_13": "9787412793881",
+      "isbn_10": "7412793883",
+      "pages": 216,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "John Irving"
+      ],
+      "source": "seed"
     },
     {
       "title": "The 3 Mistakes of My Life",
@@ -59900,19 +61875,19 @@
     },
     {
       "title": "The Angels Weep",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1982,
       "isbn_13": "9781010073703",
-      "isbn_10": "1010073702",
+      "isbn_10": "1010073709",
+      "pages": 504,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1982,
-      "page_count": 533
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Antelope Wife",
@@ -60371,18 +62346,18 @@
     },
     {
       "title": "The Assassins",
-      "authors": [
-        "Joyce Carol Oates"
-      ],
+      "year": 1975,
       "isbn_13": "9786036941012",
-      "isbn_10": "6036941013",
+      "isbn_10": "6036941018",
+      "pages": 563,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1975,
-      "page_count": 563
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Associate",
@@ -60916,6 +62891,23 @@
       "page_count": 183
     },
     {
+      "title": "The Bell",
+      "year": 1958,
+      "isbn_13": "9781321441543",
+      "isbn_10": "132144154X",
+      "pages": 316,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Bell Jar",
       "authors": [
         "Sylvia Plath"
@@ -61091,6 +63083,22 @@
       "language": "en",
       "authors": [
         "Mulk Raj Anand"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Big Nowhere",
+      "year": 1988,
+      "isbn_13": "9787947031557",
+      "isbn_10": "7947031551",
+      "pages": 359,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Ellroy"
       ],
       "source": "seed"
     },
@@ -61325,6 +63333,23 @@
       "source": "seed"
     },
     {
+      "title": "The Black Dahlia",
+      "year": 1987,
+      "isbn_13": "9789122847403",
+      "isbn_10": "9122847406",
+      "pages": 325,
+      "genres": [
+        "Crime Fiction",
+        "Thriller",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "James Ellroy"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Black Echo",
       "authors": [
         "Michael Connelly"
@@ -61370,6 +63395,23 @@
       "source": "seed",
       "year_published": 1993,
       "page_count": 432
+    },
+    {
+      "title": "The Black Prince",
+      "year": 1973,
+      "isbn_13": "9789353586218",
+      "isbn_10": "9353586215",
+      "pages": 438,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Black Swan",
@@ -61837,6 +63879,22 @@
       "source": "seed",
       "year_published": 1987,
       "page_count": 690
+    },
+    {
+      "title": "The Book and the Brotherhood",
+      "year": 1987,
+      "isbn_13": "9785065543273",
+      "isbn_10": "5065543276",
+      "pages": 607,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Book of Delights",
@@ -62511,6 +64569,21 @@
       "page_count": 515
     },
     {
+      "title": "The Burgess Boys",
+      "year": 2013,
+      "isbn_13": "9788293340188",
+      "isbn_10": "8293340186",
+      "pages": 320,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Elizabeth Strout"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Burial Hour",
       "year": 2017,
       "isbn_13": "9783310445198",
@@ -62611,19 +64684,19 @@
     },
     {
       "title": "The Burning Shore",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1985,
       "isbn_13": "9781326115036",
       "isbn_10": "1326115030",
+      "pages": 524,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1985,
-      "page_count": 582
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Burning Wire",
@@ -62816,6 +64889,22 @@
       "source": "seed",
       "year_published": 1970,
       "page_count": 824
+    },
+    {
+      "title": "The Captain and the Enemy",
+      "year": 1988,
+      "isbn_13": "9783034704014",
+      "isbn_10": "303470401X",
+      "pages": 188,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Graham Greene"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Captain's Daughter",
@@ -63085,6 +65174,22 @@
       "source": "seed",
       "year_published": 1963,
       "page_count": 302
+    },
+    {
+      "title": "The Century's Daughter",
+      "year": 1986,
+      "isbn_13": "9787413717145",
+      "isbn_10": "7413717141",
+      "pages": 299,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Pat Barker"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Ceremonies",
@@ -63447,6 +65552,22 @@
       "source": "seed",
       "year_published": 2002,
       "page_count": 258
+    },
+    {
+      "title": "The Cider House Rules",
+      "year": 1985,
+      "isbn_13": "9788233447021",
+      "isbn_10": "823344702X",
+      "pages": 560,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "John Irving"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Circadian Code",
@@ -63882,6 +66003,23 @@
       "source": "seed"
     },
     {
+      "title": "The Cold Six Thousand",
+      "year": 2001,
+      "isbn_13": "9786135251043",
+      "isbn_10": "6135251041",
+      "pages": 672,
+      "genres": [
+        "Crime Fiction",
+        "Thriller",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "James Ellroy"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Collapsing Empire",
       "authors": [
         "John Scalzi"
@@ -64116,6 +66254,22 @@
       "page_count": 40
     },
     {
+      "title": "The Comedians",
+      "year": 1966,
+      "isbn_13": "9780018680432",
+      "isbn_10": "0018680434",
+      "pages": 309,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Graham Greene"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Comfort Book",
       "year": 2021,
       "isbn_13": "9781327323294",
@@ -64276,6 +66430,23 @@
       "page_count": 400
     },
     {
+      "title": "The Complete Short Stories",
+      "year": 1951,
+      "isbn_13": "9784340520206",
+      "isbn_10": "4340520202",
+      "pages": 1024,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "W. Somerset Maugham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Complete Stories",
       "year": 1971,
       "isbn_13": "9789379421036",
@@ -64344,6 +66515,23 @@
       "source": "seed"
     },
     {
+      "title": "The Confidential Agent",
+      "year": 1939,
+      "isbn_13": "9784186457391",
+      "isbn_10": "4186457396",
+      "pages": 232,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Graham Greene"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Consolation of Philosophy",
       "authors": [
         "Boethius"
@@ -64392,19 +66580,19 @@
     },
     {
       "title": "The Constant Gardener",
-      "authors": [
-        "John le Carré"
-      ],
+      "year": 2001,
       "isbn_13": "9785525645363",
-      "isbn_10": "552564536X",
+      "isbn_10": "5525645361",
+      "pages": 492,
       "genres": [
-        "Espionage",
+        "Spy Fiction",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2001,
-      "page_count": 497
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Constant Princess",
@@ -65052,19 +67240,19 @@
     },
     {
       "title": "The Dark of the Sun",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1965,
       "isbn_13": "9784509430483",
-      "isbn_10": "4509430485",
+      "isbn_10": "4509430486",
+      "pages": 320,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1965,
-      "page_count": 316
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Dark Room",
@@ -65757,19 +67945,19 @@
     },
     {
       "title": "The Diamond Hunters",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1971,
       "isbn_13": "9788074111372",
-      "isbn_10": "8074111377",
+      "isbn_10": "8074111374",
+      "pages": 380,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1971,
-      "page_count": 350
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Diamond Throne",
@@ -66424,6 +68612,21 @@
       "page_count": 52
     },
     {
+      "title": "The Dutch House",
+      "year": 2019,
+      "isbn_13": "9785014775120",
+      "isbn_10": "5014775123",
+      "pages": 337,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Ann Patchett"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Dying Animal",
       "authors": [
         "Philip Roth"
@@ -66918,18 +69121,19 @@
     },
     {
       "title": "The End of the Affair",
+      "year": 1951,
+      "isbn_13": "9785351376370",
+      "isbn_10": "5351376374",
+      "pages": 160,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
       "authors": [
         "Graham Greene"
       ],
-      "isbn_13": "9785351376370",
-      "isbn_10": "5351376377",
-      "genres": [
-        "Literary Fiction"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 1951,
-      "page_count": 160
+      "source": "seed"
     },
     {
       "title": "The Enemy",
@@ -67188,6 +69392,23 @@
       "page_count": 307
     },
     {
+      "title": "The Eye in the Door",
+      "year": 1993,
+      "isbn_13": "9780200444033",
+      "isbn_10": "0200444037",
+      "pages": 280,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction",
+        "War"
+      ],
+      "language": "en",
+      "authors": [
+        "Pat Barker"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Eye of the Leopard",
       "authors": [
         "Henning Mankell"
@@ -67204,19 +69425,19 @@
     },
     {
       "title": "The Eye of the Tiger",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1975,
       "isbn_13": "9784335323089",
-      "isbn_10": "4335323085",
+      "isbn_10": "4335323086",
+      "pages": 368,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1975,
-      "page_count": 380
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Eye of the World",
@@ -67380,18 +69601,18 @@
     },
     {
       "title": "The Falls",
-      "authors": [
-        "Joyce Carol Oates"
-      ],
+      "year": 2004,
       "isbn_13": "9783424405439",
-      "isbn_10": "3424405434",
+      "isbn_10": "3424405437",
+      "pages": 481,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2004,
-      "page_count": 481
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Falls",
@@ -68134,6 +70355,22 @@
       "page_count": 127
     },
     {
+      "title": "The Flight from the Enchanter",
+      "year": 1956,
+      "isbn_13": "9781053938052",
+      "isbn_10": "1053938056",
+      "pages": 316,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Flounder",
       "year": 1977,
       "isbn_13": "9785282042122",
@@ -68405,6 +70642,21 @@
       "source": "seed",
       "year_published": 1996,
       "page_count": 560
+    },
+    {
+      "title": "The Fourth Hand",
+      "year": 2001,
+      "isbn_13": "9784252747265",
+      "isbn_10": "4252747260",
+      "pages": 316,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "John Irving"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Fourth Protocol",
@@ -68945,6 +71197,23 @@
       "language": "fr",
       "authors": [
         "Fred Vargas"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Ghost Road",
+      "year": 1995,
+      "isbn_13": "9782114432243",
+      "isbn_10": "2114432245",
+      "pages": 276,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction",
+        "War"
+      ],
+      "language": "en",
+      "authors": [
+        "Pat Barker"
       ],
       "source": "seed"
     },
@@ -69678,6 +71947,22 @@
       "source": "seed"
     },
     {
+      "title": "The Good Apprentice",
+      "year": 1985,
+      "isbn_13": "9786574934293",
+      "isbn_10": "6574934291",
+      "pages": 522,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Good Daughter",
       "authors": [
         "Karin Slaughter"
@@ -69857,18 +72142,18 @@
     },
     {
       "title": "The Gravedigger's Daughter",
-      "authors": [
-        "Joyce Carol Oates"
-      ],
+      "year": 2007,
       "isbn_13": "9780426482260",
-      "isbn_10": "0426482263",
+      "isbn_10": "0426482268",
+      "pages": 582,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2007,
-      "page_count": 582
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Graveyard Book",
@@ -70111,6 +72396,22 @@
       "description": "",
       "authors": [
         "Mario Vargas Llosa"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Green Knight",
+      "year": 1993,
+      "isbn_13": "9784395284436",
+      "isbn_10": "4395284437",
+      "pages": 472,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
       ],
       "source": "seed"
     },
@@ -70651,18 +72952,19 @@
     },
     {
       "title": "The Heart of the Matter",
+      "year": 1948,
+      "isbn_13": "9781483966694",
+      "isbn_10": "1483966690",
+      "pages": 272,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
       "authors": [
         "Graham Greene"
       ],
-      "isbn_13": "9781483966694",
-      "isbn_10": "1483966690",
-      "genres": [
-        "Literary Fiction"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 1948,
-      "page_count": 272
+      "source": "seed"
     },
     {
       "title": "The Heaven & Earth Grocery Store",
@@ -70901,6 +73203,23 @@
       "source": "seed",
       "year_published": 1942,
       "page_count": 220
+    },
+    {
+      "title": "The Hilliker Curse",
+      "year": 2010,
+      "isbn_13": "9784901159906",
+      "isbn_10": "4901159902",
+      "pages": 206,
+      "genres": [
+        "Crime Fiction",
+        "Thriller",
+        "Memoir"
+      ],
+      "language": "en",
+      "authors": [
+        "James Ellroy"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Hired Man",
@@ -71142,6 +73461,22 @@
       "source": "seed"
     },
     {
+      "title": "The Honorary Consul",
+      "year": 1973,
+      "isbn_13": "9782431616494",
+      "isbn_10": "2431616496",
+      "pages": 315,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Graham Greene"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Honourable Schoolboy",
       "authors": [
         "John le Carre"
@@ -71159,19 +73494,19 @@
     },
     {
       "title": "The Honourable Schoolboy",
-      "authors": [
-        "John le Carré"
-      ],
+      "year": 1977,
       "isbn_13": "9783232680219",
-      "isbn_10": "3232680216",
+      "isbn_10": "3232680215",
+      "pages": 532,
       "genres": [
-        "Espionage",
+        "Spy Fiction",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1977,
-      "page_count": 530
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Horse and His Boy",
@@ -71236,6 +73571,21 @@
       "source": "seed",
       "year_published": 1994,
       "page_count": 300
+    },
+    {
+      "title": "The Hotel New Hampshire",
+      "year": 1981,
+      "isbn_13": "9787014840556",
+      "isbn_10": "7014840551",
+      "pages": 401,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "John Irving"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Hound of the Baskervilles",
@@ -71483,19 +73833,20 @@
     },
     {
       "title": "The Human Factor",
+      "year": 1978,
+      "isbn_13": "9784063133134",
+      "isbn_10": "4063133138",
+      "pages": 338,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Spy Fiction"
+      ],
+      "language": "en",
       "authors": [
         "Graham Greene"
       ],
-      "isbn_13": "9784063133134",
-      "isbn_10": "4063133133",
-      "genres": [
-        "Espionage",
-        "Literary Fiction"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 1978,
-      "page_count": 338
+      "source": "seed"
     },
     {
       "title": "The Human Stain",
@@ -72466,6 +74817,22 @@
       "page_count": 384
     },
     {
+      "title": "The Italian Girl",
+      "year": 1964,
+      "isbn_13": "9781581304329",
+      "isbn_10": "1581304328",
+      "pages": 206,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Jackal",
       "authors": [
         "Frederick Forsyth"
@@ -73286,6 +75653,21 @@
       "page_count": 280
     },
     {
+      "title": "The Last Chairlift",
+      "year": 2022,
+      "isbn_13": "9784651145242",
+      "isbn_10": "4651145243",
+      "pages": 889,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "John Irving"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Last Colony",
       "authors": [
         "John Scalzi"
@@ -73331,6 +75713,23 @@
       "source": "seed",
       "year_published": 1995,
       "page_count": 410
+    },
+    {
+      "title": "The Last Days of Ptolemy Grey",
+      "year": 2010,
+      "isbn_13": "9781910245415",
+      "isbn_10": "1910245410",
+      "pages": 277,
+      "genres": [
+        "Mystery",
+        "Crime Fiction",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Last Devil to Die",
@@ -73909,19 +76308,19 @@
     },
     {
       "title": "The Leopard Hunts in Darkness",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1984,
       "isbn_13": "9785755211741",
-      "isbn_10": "5755211744",
+      "isbn_10": "5755211747",
+      "pages": 462,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1984,
-      "page_count": 448
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Letter of Marque",
@@ -74351,19 +76750,19 @@
     },
     {
       "title": "The Little Drummer Girl",
-      "authors": [
-        "John le Carré"
-      ],
+      "year": 1983,
       "isbn_13": "9782571859522",
-      "isbn_10": "2571859528",
+      "isbn_10": "2571859523",
+      "pages": 429,
       "genres": [
-        "Espionage",
+        "Spy Fiction",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1983,
-      "page_count": 429
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Little Friend",
@@ -74745,6 +77144,22 @@
       "source": "seed"
     },
     {
+      "title": "The Longest Journey",
+      "year": 1907,
+      "isbn_13": "9783773316103",
+      "isbn_10": "3773316100",
+      "pages": 362,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "E.M. Forster"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Longest Ride",
       "authors": [
         "Nicholas Sparks"
@@ -74758,6 +77173,22 @@
       "source": "seed",
       "year_published": 2013,
       "page_count": 399
+    },
+    {
+      "title": "The Looking Glass War",
+      "year": 1965,
+      "isbn_13": "9785125720026",
+      "isbn_10": "5125720021",
+      "pages": 237,
+      "genres": [
+        "Spy Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Lords of the North",
@@ -74987,6 +77418,24 @@
       "page_count": 32
     },
     {
+      "title": "The Loved One",
+      "year": 1948,
+      "isbn_13": "9788810112151",
+      "isbn_10": "8810112155",
+      "pages": 164,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Humor",
+        "Satire"
+      ],
+      "language": "en",
+      "authors": [
+        "Evelyn Waugh"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Lowland",
       "authors": [
         "Jhumpa Lahiri"
@@ -75127,6 +77576,21 @@
       ],
       "language": "de",
       "page_count": 720,
+      "source": "seed"
+    },
+    {
+      "title": "The Magician's Assistant",
+      "year": 1997,
+      "isbn_13": "9781551571843",
+      "isbn_10": "1551571845",
+      "pages": 357,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Ann Patchett"
+      ],
       "source": "seed"
     },
     {
@@ -75291,6 +77755,23 @@
       "source": "seed"
     },
     {
+      "title": "The Man in My Basement",
+      "year": 2004,
+      "isbn_13": "9783246248405",
+      "isbn_10": "3246248400",
+      "pages": 249,
+      "genres": [
+        "Mystery",
+        "Crime Fiction",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Man in the Brown Suit",
       "authors": [
         "Agatha Christie"
@@ -75402,6 +77883,22 @@
       "source": "seed",
       "year_published": 1994,
       "page_count": 309
+    },
+    {
+      "title": "The Man Who Wasn't There",
+      "year": 1989,
+      "isbn_13": "9783470349442",
+      "isbn_10": "3470349447",
+      "pages": 220,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Pat Barker"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Man with the Golden Gun",
@@ -75872,19 +78369,19 @@
     },
     {
       "title": "The Mediterranean Caper",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 1973,
       "isbn_13": "9780503381578",
-      "isbn_10": "0503381578",
+      "isbn_10": "0503381573",
+      "pages": 311,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1973,
-      "page_count": 287
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Meeting at Telgte",
@@ -76033,6 +78530,22 @@
       "source": "seed"
     },
     {
+      "title": "The Message to the Planet",
+      "year": 1989,
+      "isbn_13": "9782335374438",
+      "isbn_10": "2335374436",
+      "pages": 563,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Metamorphosis",
       "authors": [
         "Franz Kafka"
@@ -76176,6 +78689,23 @@
       "page_count": 320
     },
     {
+      "title": "The Ministry of Fear",
+      "year": 1943,
+      "isbn_13": "9780702349560",
+      "isbn_10": "0702349562",
+      "pages": 222,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Graham Greene"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Ministry of Pain",
       "year": 2004,
       "isbn_13": "9781112826139",
@@ -76285,6 +78815,22 @@
       "page_count": 256
     },
     {
+      "title": "The Mission Song",
+      "year": 2006,
+      "isbn_13": "9784001375510",
+      "isbn_10": "4001375515",
+      "pages": 339,
+      "genres": [
+        "Spy Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Mistress of Spices",
       "authors": [
         "Chitra Banerjee Divakaruni"
@@ -76316,6 +78862,22 @@
       "source": "seed",
       "year_published": 1975,
       "page_count": 387
+    },
+    {
+      "title": "The Moon and Sixpence",
+      "year": 1919,
+      "isbn_13": "9785140375065",
+      "isbn_10": "5140375060",
+      "pages": 216,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "W. Somerset Maugham"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Moon Is a Harsh Mistress",
@@ -76893,6 +79455,22 @@
       "source": "seed"
     },
     {
+      "title": "The Narrow Corner",
+      "year": 1932,
+      "isbn_13": "9785654633057",
+      "isbn_10": "5654633053",
+      "pages": 266,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "W. Somerset Maugham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Narrow Corridor",
       "year": 2019,
       "isbn_13": "9788043264139",
@@ -77135,6 +79713,22 @@
       "page_count": 400
     },
     {
+      "title": "The Nice and the Good",
+      "year": 1968,
+      "isbn_13": "9784248598208",
+      "isbn_10": "4248598206",
+      "pages": 378,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Nick Adams Stories",
       "year": 1972,
       "isbn_13": "9781291215014",
@@ -77219,19 +79813,19 @@
     },
     {
       "title": "The Night Manager",
-      "authors": [
-        "John le Carré"
-      ],
+      "year": 1993,
       "isbn_13": "9788635244167",
-      "isbn_10": "8635244168",
+      "isbn_10": "8635244163",
+      "pages": 408,
       "genres": [
-        "Espionage",
+        "Spy Fiction",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1993,
-      "page_count": 429
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Night Watchman",
@@ -77738,6 +80332,23 @@
       "page_count": 246
     },
     {
+      "title": "The Ordeal of Gilbert Pinfold",
+      "year": 1957,
+      "isbn_13": "9782348551307",
+      "isbn_10": "2348551305",
+      "pages": 168,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Evelyn Waugh"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Order of Things",
       "authors": [
         "Michel Foucault"
@@ -78063,6 +80674,22 @@
       "source": "seed"
     },
     {
+      "title": "The Painted Veil",
+      "year": 1925,
+      "isbn_13": "9780194580335",
+      "isbn_10": "0194580337",
+      "pages": 237,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "W. Somerset Maugham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Painter of Signs",
       "authors": [
         "R.K. Narayan"
@@ -78364,6 +80991,21 @@
       "source": "seed"
     },
     {
+      "title": "The Patron Saint of Liars",
+      "year": 1992,
+      "isbn_13": "9788836824366",
+      "isbn_10": "8836824365",
+      "pages": 338,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Ann Patchett"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Pearl",
       "authors": [
         "John Steinbeck"
@@ -78634,6 +81276,22 @@
       "source": "seed",
       "year_published": 2015,
       "page_count": 416
+    },
+    {
+      "title": "The Philosopher's Pupil",
+      "year": 1983,
+      "isbn_13": "9781029454029",
+      "isbn_10": "1029454024",
+      "pages": 576,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Philosophy of Andy Warhol",
@@ -79051,18 +81709,19 @@
     },
     {
       "title": "The Power and the Glory",
+      "year": 1940,
+      "isbn_13": "9780844557571",
+      "isbn_10": "0844557572",
+      "pages": 222,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
       "authors": [
         "Graham Greene"
       ],
-      "isbn_13": "9780844557571",
-      "isbn_10": "0844557579",
-      "genres": [
-        "Literary Fiction"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 1940,
-      "page_count": 222
+      "source": "seed"
     },
     {
       "title": "The Power of Geography",
@@ -79658,19 +82317,19 @@
     },
     {
       "title": "The Quest",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 2007,
       "isbn_13": "9782613017583",
-      "isbn_10": "2613017589",
+      "isbn_10": "2613017582",
+      "pages": 498,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2007,
-      "page_count": 544
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Quest",
@@ -79691,19 +82350,19 @@
     },
     {
       "title": "The Quiet American",
+      "year": 1955,
+      "isbn_13": "9786558834939",
+      "isbn_10": "6558834935",
+      "pages": 180,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
       "authors": [
         "Graham Greene"
       ],
-      "isbn_13": "9786558834939",
-      "isbn_10": "6558834936",
-      "genres": [
-        "Espionage",
-        "Literary Fiction"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 1955,
-      "page_count": 180
+      "source": "seed"
     },
     {
       "title": "The Quilt and Other Stories",
@@ -79867,6 +82526,22 @@
       "page_count": 428
     },
     {
+      "title": "The Razor's Edge",
+      "year": 1944,
+      "isbn_13": "9781230476438",
+      "isbn_10": "123047643X",
+      "pages": 314,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "W. Somerset Maugham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Real Life of Alejandro Mayta",
       "year": 1984,
       "isbn_13": "9786012513417",
@@ -79960,6 +82635,22 @@
       "description": "",
       "authors": [
         "John Grisham"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Red and the Green",
+      "year": 1965,
+      "isbn_13": "9780201864311",
+      "isbn_10": "0201864319",
+      "pages": 318,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
       ],
       "source": "seed"
     },
@@ -81051,19 +83742,19 @@
     },
     {
       "title": "The Russia House",
-      "authors": [
-        "John le Carré"
-      ],
+      "year": 1989,
       "isbn_13": "9782021510652",
-      "isbn_10": "2021510654",
+      "isbn_10": "2021510657",
+      "pages": 353,
       "genres": [
-        "Espionage",
+        "Spy Fiction",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1989,
-      "page_count": 353
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Sackett Brand",
@@ -81078,6 +83769,37 @@
       "language": "en",
       "authors": [
         "Louis L'Amour"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Sacred and Profane Love Machine",
+      "year": 1974,
+      "isbn_13": "9788731403215",
+      "isbn_10": "8731403219",
+      "pages": 366,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Sacrifice",
+      "year": 2015,
+      "isbn_13": "9786313848522",
+      "isbn_10": "6313848524",
+      "pages": 302,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Joyce Carol Oates"
       ],
       "source": "seed"
     },
@@ -81143,6 +83865,22 @@
       "source": "seed",
       "year_published": 2021,
       "page_count": 400
+    },
+    {
+      "title": "The Sandcastle",
+      "year": 1957,
+      "isbn_13": "9780500045350",
+      "isbn_10": "0500045355",
+      "pages": 312,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Sandman: Overture",
@@ -81451,6 +84189,23 @@
       "page_count": 279
     },
     {
+      "title": "The Sea, the Sea",
+      "year": 1978,
+      "isbn_13": "9785567219256",
+      "isbn_10": "5567219258",
+      "pages": 502,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Sea-Wolf",
       "year": 1904,
       "isbn_13": "9782406225133",
@@ -81707,6 +84462,22 @@
       "page_count": 349
     },
     {
+      "title": "The Secret Pilgrim",
+      "year": 1990,
+      "isbn_13": "9784344684447",
+      "isbn_10": "4344684448",
+      "pages": 335,
+      "genres": [
+        "Spy Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Secret Place",
       "authors": [
         "Tana French"
@@ -81897,19 +84668,19 @@
     },
     {
       "title": "The Seventh Scroll",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1995,
       "isbn_13": "9785004585210",
       "isbn_10": "5004585210",
+      "pages": 486,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1995,
-      "page_count": 486
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Shadow District",
@@ -82362,6 +85133,22 @@
       "source": "seed",
       "year_published": 2020,
       "page_count": 116
+    },
+    {
+      "title": "The Silence of the Girls",
+      "year": 2018,
+      "isbn_13": "9786452410291",
+      "isbn_10": "6452410295",
+      "pages": 291,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Pat Barker"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Silence of the Lambs",
@@ -83140,19 +85927,19 @@
     },
     {
       "title": "The Sound of Thunder",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1966,
       "isbn_13": "9780414822566",
       "isbn_10": "0414822560",
+      "pages": 446,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1966,
-      "page_count": 420
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Source of Self-Regard",
@@ -83360,19 +86147,20 @@
     },
     {
       "title": "The Spy Who Came in from the Cold",
+      "year": 1963,
+      "isbn_13": "9789559341031",
+      "isbn_10": "9559341030",
+      "pages": 224,
+      "genres": [
+        "Spy Fiction",
+        "Thriller",
+        "Classic"
+      ],
+      "language": "en",
       "authors": [
         "John le Carré"
       ],
-      "isbn_13": "9789559341031",
-      "isbn_10": "9559341030",
-      "genres": [
-        "Espionage",
-        "Thriller"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 1963,
-      "page_count": 224
+      "source": "seed"
     },
     {
       "title": "The Spy Who Loved Me",
@@ -84036,6 +86824,23 @@
       "page_count": 798
     },
     {
+      "title": "The Summing Up",
+      "year": 1938,
+      "isbn_13": "9781012410704",
+      "isbn_10": "1012410705",
+      "pages": 310,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Memoir"
+      ],
+      "language": "en",
+      "authors": [
+        "W. Somerset Maugham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Summons",
       "year": 2002,
       "isbn_13": "9788501355904",
@@ -84085,19 +86890,19 @@
     },
     {
       "title": "The Sunbird",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1972,
       "isbn_13": "9781305553439",
-      "isbn_10": "1305553438",
+      "isbn_10": "1305553433",
+      "pages": 510,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1972,
-      "page_count": 495
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Sunday Philosophy Club",
@@ -84327,19 +87132,19 @@
     },
     {
       "title": "The Tailor of Panama",
-      "authors": [
-        "John le Carré"
-      ],
+      "year": 1996,
       "isbn_13": "9782379805158",
-      "isbn_10": "2379805156",
+      "isbn_10": "2379805155",
+      "pages": 357,
       "genres": [
-        "Espionage",
+        "Spy Fiction",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1996,
-      "page_count": 331
+      "authors": [
+        "John le Carré"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Taking",
@@ -84940,18 +87745,20 @@
     },
     {
       "title": "The Third Man",
-      "authors": [
-        "Graham Greene"
-      ],
+      "year": 1950,
       "isbn_13": "9787357336952",
-      "isbn_10": "7357336956",
+      "isbn_10": "7357336955",
+      "pages": 157,
       "genres": [
+        "Literary Fiction",
+        "Classic",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1950,
-      "page_count": 157
+      "authors": [
+        "Graham Greene"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Third Option",
@@ -85246,19 +88053,19 @@
     },
     {
       "title": "The Tiger's Prey",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 2017,
       "isbn_13": "9788037383440",
-      "isbn_10": "803738344X",
+      "isbn_10": "8037383441",
+      "pages": 400,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2018,
-      "page_count": 400
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Time Machine",
@@ -85289,6 +88096,22 @@
       "language": "en",
       "authors": [
         "Richard Powers"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Time of the Angels",
+      "year": 1966,
+      "isbn_13": "9784132010953",
+      "isbn_10": "4132010958",
+      "pages": 224,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
       ],
       "source": "seed"
     },
@@ -85594,19 +88417,19 @@
     },
     {
       "title": "The Triumph of the Sun",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 2005,
       "isbn_13": "9782253919490",
-      "isbn_10": "2253919497",
+      "isbn_10": "2253919494",
+      "pages": 494,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2005,
-      "page_count": 512
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Troop",
@@ -85974,6 +88797,22 @@
       "source": "seed",
       "year_published": 2019,
       "page_count": 400
+    },
+    {
+      "title": "The Unicorn",
+      "year": 1963,
+      "isbn_13": "9780015917678",
+      "isbn_10": "0015917678",
+      "pages": 320,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Uninhabitable Earth",
@@ -86848,6 +89687,21 @@
       "language": "en",
       "authors": [
         "Ruth Rendell"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Water-Method Man",
+      "year": 1972,
+      "isbn_13": "9784053528551",
+      "isbn_10": "4053528550",
+      "pages": 369,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "John Irving"
       ],
       "source": "seed"
     },
@@ -87971,6 +90825,22 @@
       "page_count": 472
     },
     {
+      "title": "The Women of Troy",
+      "year": 2021,
+      "isbn_13": "9788543427539",
+      "isbn_10": "8543427538",
+      "pages": 292,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Pat Barker"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Wonderful Wizard of Oz",
       "authors": [
         "L. Frank Baum"
@@ -88066,6 +90936,22 @@
       "language": "en",
       "authors": [
         "Alexander McCall Smith"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The World According to Garp",
+      "year": 1978,
+      "isbn_13": "9785054491356",
+      "isbn_10": "5054491351",
+      "pages": 609,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "John Irving"
       ],
       "source": "seed"
     },
@@ -88457,6 +91343,22 @@
       "page_count": 39
     },
     {
+      "title": "Theatre",
+      "year": 1937,
+      "isbn_13": "9783400981940",
+      "isbn_10": "3400981941",
+      "pages": 256,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "W. Somerset Maugham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Theft: A Love Story",
       "year": 2006,
       "isbn_13": "9780505530769",
@@ -88490,18 +91392,35 @@
     },
     {
       "title": "them",
+      "year": 1969,
+      "isbn_13": "9780812016406",
+      "isbn_10": "0812016403",
+      "pages": 508,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
       "authors": [
         "Joyce Carol Oates"
       ],
-      "isbn_13": "9780812016406",
-      "isbn_10": "0812016408",
+      "source": "seed"
+    },
+    {
+      "title": "Then and Now",
+      "year": 1946,
+      "isbn_13": "9788192228303",
+      "isbn_10": "8192228307",
+      "pages": 256,
       "genres": [
-        "Literary Fiction"
+        "Literary Fiction",
+        "Classic"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1969,
-      "page_count": 508
+      "authors": [
+        "W. Somerset Maugham"
+      ],
+      "source": "seed"
     },
     {
       "title": "They Came to Baghdad",
@@ -88728,6 +91647,22 @@
       "page_count": 213
     },
     {
+      "title": "This Is the Story of a Happy Marriage",
+      "year": 2013,
+      "isbn_13": "9788240044107",
+      "isbn_10": "8240044104",
+      "pages": 305,
+      "genres": [
+        "Literary Fiction",
+        "Memoir"
+      ],
+      "language": "en",
+      "authors": [
+        "Ann Patchett"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "This Is Why We Lied",
       "authors": [
         "Karin Slaughter"
@@ -88841,6 +91776,23 @@
       "page_count": 305
     },
     {
+      "title": "This Storm",
+      "year": 2019,
+      "isbn_13": "9781093454550",
+      "isbn_10": "1093454556",
+      "pages": 596,
+      "genres": [
+        "Crime Fiction",
+        "Thriller",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "James Ellroy"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "This Was a Man",
       "authors": [
         "Jeffrey Archer"
@@ -88857,19 +91809,19 @@
     },
     {
       "title": "Those in Peril",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 2011,
       "isbn_13": "9788997335558",
-      "isbn_10": "8997335553",
+      "isbn_10": "8997335558",
+      "pages": 407,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2011,
-      "page_count": 384
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Those Who Leave and Those Who Stay",
@@ -89059,19 +92011,20 @@
     },
     {
       "title": "Three to Get Deadly",
+      "year": 1997,
+      "isbn_13": "9786100899140",
+      "isbn_10": "6100899140",
+      "pages": 308,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9786100899140",
-      "isbn_10": "6100899140",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 1997,
-      "page_count": 300
+      "source": "seed"
     },
     {
       "title": "Three Wishes",
@@ -89445,19 +92398,20 @@
     },
     {
       "title": "Tinker Tailor Soldier Spy",
+      "year": 1974,
+      "isbn_13": "9789256914156",
+      "isbn_10": "9256914153",
+      "pages": 355,
+      "genres": [
+        "Spy Fiction",
+        "Thriller",
+        "Classic"
+      ],
+      "language": "en",
       "authors": [
         "John le Carré"
       ],
-      "isbn_13": "9789256914156",
-      "isbn_10": "9256914158",
-      "genres": [
-        "Espionage",
-        "Thriller"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 1974,
-      "page_count": 355
+      "source": "seed"
     },
     {
       "title": "Tiny Beautiful Things",
@@ -89702,19 +92656,37 @@
     },
     {
       "title": "To the Nines",
+      "year": 2003,
+      "isbn_13": "9789025348908",
+      "isbn_10": "9025348907",
+      "pages": 312,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9789025348908",
-      "isbn_10": "9025348904",
+      "source": "seed"
+    },
+    {
+      "title": "Toby's Room",
+      "year": 2012,
+      "isbn_13": "9787943056394",
+      "isbn_10": "7943056395",
+      "pages": 256,
       "genres": [
-        "Mystery",
-        "Humor"
+        "Literary Fiction",
+        "Historical Fiction",
+        "War"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2003,
-      "page_count": 312
+      "authors": [
+        "Pat Barker"
+      ],
+      "source": "seed"
     },
     {
       "title": "Toll the Hounds",
@@ -89730,6 +92702,21 @@
       "source": "seed",
       "year_published": 2008,
       "page_count": 872
+    },
+    {
+      "title": "Tom Lake",
+      "year": 2023,
+      "isbn_13": "9785413050101",
+      "isbn_10": "5413050100",
+      "pages": 309,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Ann Patchett"
+      ],
+      "source": "seed"
     },
     {
       "title": "Tomb of Sand",
@@ -89895,19 +92882,20 @@
     },
     {
       "title": "Top Secret Twenty-One",
+      "year": 2014,
+      "isbn_13": "9782454045417",
+      "isbn_10": "2454045412",
+      "pages": 293,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9782454045417",
-      "isbn_10": "2454045419",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2014,
-      "page_count": 305
+      "source": "seed"
     },
     {
       "title": "Tortilla Flat",
@@ -90018,6 +93006,22 @@
       "language": "en",
       "authors": [
         "Peter Mayle"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Tourist Season",
+      "year": 1986,
+      "isbn_13": "9781904143048",
+      "isbn_10": "1904143040",
+      "pages": 272,
+      "genres": [
+        "Crime Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Carl Hiaasen"
       ],
       "source": "seed"
     },
@@ -90311,6 +93315,23 @@
       "page_count": 288
     },
     {
+      "title": "Travels with My Aunt",
+      "year": 1969,
+      "isbn_13": "9781815053337",
+      "isbn_10": "1815053331",
+      "pages": 264,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Graham Greene"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Travesties",
       "authors": [
         "Tom Stoppard"
@@ -90343,19 +93364,19 @@
     },
     {
       "title": "Treasure",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 1988,
       "isbn_13": "9789240502284",
-      "isbn_10": "9240502289",
+      "isbn_10": "9240502282",
+      "pages": 539,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1988,
-      "page_count": 539
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Treasure Island",
@@ -90375,19 +93396,19 @@
     },
     {
       "title": "Treasure of Khan",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 2006,
       "isbn_13": "9786477783455",
-      "isbn_10": "6477783452",
+      "isbn_10": "6477783459",
+      "pages": 540,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2006,
-      "page_count": 531
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Tree and Leaf",
@@ -90499,19 +93520,20 @@
     },
     {
       "title": "Tricky Twenty-Two",
+      "year": 2015,
+      "isbn_13": "9781613153536",
+      "isbn_10": "1613153533",
+      "pages": 304,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9781613153536",
-      "isbn_10": "1613153538",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2015,
-      "page_count": 286
+      "source": "seed"
     },
     {
       "title": "Trigger Warning",
@@ -90562,19 +93584,19 @@
     },
     {
       "title": "Trojan Odyssey",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 2003,
       "isbn_13": "9781231819746",
-      "isbn_10": "123181974X",
+      "isbn_10": "1231819741",
+      "pages": 504,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2003,
-      "page_count": 484
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Troubled Blood",
@@ -90819,6 +93841,22 @@
       "source": "seed"
     },
     {
+      "title": "Truth & Beauty",
+      "year": 2004,
+      "isbn_13": "9784272280551",
+      "isbn_10": "4272280557",
+      "pages": 257,
+      "genres": [
+        "Literary Fiction",
+        "Memoir"
+      ],
+      "language": "en",
+      "authors": [
+        "Ann Patchett"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Truth of the Divine",
       "authors": [
         "Lindsay Ellis"
@@ -90897,19 +93935,20 @@
     },
     {
       "title": "Turbo Twenty-Three",
+      "year": 2016,
+      "isbn_13": "9782032118106",
+      "isbn_10": "2032118105",
+      "pages": 304,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9782032118106",
-      "isbn_10": "2032118106",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2016,
-      "page_count": 307
+      "source": "seed"
     },
     {
       "title": "Turn a Blind Eye",
@@ -90976,19 +94015,20 @@
     },
     {
       "title": "Twelve Sharp",
+      "year": 2006,
+      "isbn_13": "9781323653579",
+      "isbn_10": "1323653570",
+      "pages": 302,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9781323653579",
-      "isbn_10": "1323653570",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2006,
-      "page_count": 310
+      "source": "seed"
     },
     {
       "title": "Twenty Love Poems and a Song of Despair",
@@ -91056,19 +94096,20 @@
     },
     {
       "title": "Twisted Twenty-Six",
+      "year": 2019,
+      "isbn_13": "9787946431532",
+      "isbn_10": "7946431533",
+      "pages": 282,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9787946431532",
-      "isbn_10": "7946431538",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 2019,
-      "page_count": 293
+      "source": "seed"
     },
     {
       "title": "Two by Two",
@@ -91088,19 +94129,20 @@
     },
     {
       "title": "Two for the Dough",
+      "year": 1996,
+      "isbn_13": "9789622103962",
+      "isbn_10": "9622103960",
+      "pages": 300,
+      "genres": [
+        "Mystery",
+        "Humor",
+        "Romance"
+      ],
+      "language": "en",
       "authors": [
         "Janet Evanovich"
       ],
-      "isbn_13": "9789622103962",
-      "isbn_10": "9622103960",
-      "genres": [
-        "Mystery",
-        "Humor"
-      ],
-      "language": "en",
-      "source": "seed",
-      "year_published": 1996,
-      "page_count": 306
+      "source": "seed"
     },
     {
       "title": "Two Kinds of Truth",
@@ -91394,6 +94436,24 @@
       "page_count": 80
     },
     {
+      "title": "Unconditional Surrender",
+      "year": 1961,
+      "isbn_13": "9786420411510",
+      "isbn_10": "6420411518",
+      "pages": 307,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Humor",
+        "War"
+      ],
+      "language": "en",
+      "authors": [
+        "Evelyn Waugh"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Undaunted Courage",
       "authors": [
         "Stephen E. Ambrose"
@@ -91521,6 +94581,22 @@
       "source": "seed",
       "year_published": 1986,
       "page_count": 86
+    },
+    {
+      "title": "Under the Net",
+      "year": 1954,
+      "isbn_13": "9789683993458",
+      "isbn_10": "968399345X",
+      "pages": 286,
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "en",
+      "authors": [
+        "Iris Murdoch"
+      ],
+      "source": "seed"
     },
     {
       "title": "Under the Sea Wind",
@@ -91749,6 +94825,22 @@
       "source": "seed"
     },
     {
+      "title": "Union Street",
+      "year": 1982,
+      "isbn_13": "9783014852506",
+      "isbn_10": "3014852508",
+      "pages": 265,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Pat Barker"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Unknown Man #89",
       "year": 1977,
       "isbn_13": "9788202471347",
@@ -91910,6 +95002,21 @@
       "source": "seed",
       "year_published": 2024,
       "page_count": 144
+    },
+    {
+      "title": "Until I Find You",
+      "year": 2005,
+      "isbn_13": "9785009128337",
+      "isbn_10": "5009128330",
+      "pages": 824,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "John Irving"
+      ],
+      "source": "seed"
     },
     {
       "title": "Until the End of Time",
@@ -92239,19 +95346,19 @@
     },
     {
       "title": "Valhalla Rising",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 2001,
       "isbn_13": "9785302047342",
-      "isbn_10": "5302047349",
+      "isbn_10": "5302047342",
+      "pages": 531,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2001,
-      "page_count": 531
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "VALIS",
@@ -92462,19 +95569,19 @@
     },
     {
       "title": "Vicious Circle",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 2013,
       "isbn_13": "9780586140154",
-      "isbn_10": "0586140158",
+      "isbn_10": "0586140153",
+      "pages": 478,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2013,
-      "page_count": 400
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Victim 2117",
@@ -92521,6 +95628,23 @@
       "language": "en",
       "authors": [
         "Naomi Novik"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Vile Bodies",
+      "year": 1930,
+      "isbn_13": "9781401286132",
+      "isbn_10": "1401286136",
+      "pages": 321,
+      "genres": [
+        "Literary Fiction",
+        "Classic",
+        "Humor"
+      ],
+      "language": "en",
+      "authors": [
+        "Evelyn Waugh"
       ],
       "source": "seed"
     },
@@ -92702,19 +95826,19 @@
     },
     {
       "title": "Vixen 03",
-      "authors": [
-        "Clive Cussler"
-      ],
+      "year": 1978,
       "isbn_13": "9783431544428",
-      "isbn_10": "3431544428",
+      "isbn_10": "3431544423",
+      "pages": 280,
       "genres": [
         "Adventure",
         "Thriller"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1978,
-      "page_count": 344
+      "authors": [
+        "Clive Cussler"
+      ],
+      "source": "seed"
     },
     {
       "title": "Voice of the Violin",
@@ -93027,6 +96151,23 @@
       "page_count": 432
     },
     {
+      "title": "Walkin' the Dog",
+      "year": 1999,
+      "isbn_13": "9784923514196",
+      "isbn_10": "492351419X",
+      "pages": 260,
+      "genres": [
+        "Mystery",
+        "Crime Fiction",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Wanderlust",
       "authors": [
         "Danielle Steel"
@@ -93091,19 +96232,19 @@
     },
     {
       "title": "War Cry",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 2017,
       "isbn_13": "9784220022110",
-      "isbn_10": "4220022112",
+      "isbn_10": "4220022119",
+      "pages": 442,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2017,
-      "page_count": 448
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "War Lord",
@@ -93237,19 +96378,19 @@
     },
     {
       "title": "Warlock",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 2001,
       "isbn_13": "9782043077829",
-      "isbn_10": "2043077821",
+      "isbn_10": "204307782X",
+      "pages": 566,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 2001,
-      "page_count": 530
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Warriors of the Storm",
@@ -93543,18 +96684,18 @@
     },
     {
       "title": "We Were the Mulvaneys",
-      "authors": [
-        "Joyce Carol Oates"
-      ],
+      "year": 1996,
       "isbn_13": "9783370350593",
-      "isbn_10": "3370350599",
+      "isbn_10": "3370350592",
+      "pages": 454,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1996,
-      "page_count": 454
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
     },
     {
       "title": "We'll Always Have Paris",
@@ -93770,18 +96911,18 @@
     },
     {
       "title": "What I Lived For",
-      "authors": [
-        "Joyce Carol Oates"
-      ],
+      "year": 1994,
       "isbn_13": "9785255620555",
-      "isbn_10": "5255620556",
+      "isbn_10": "5255620555",
+      "pages": 608,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1994,
-      "page_count": 608
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
     },
     {
       "title": "What I Talk About When I Talk About Running",
@@ -93960,19 +97101,19 @@
     },
     {
       "title": "When the Lion Feeds",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1964,
       "isbn_13": "9780832120626",
-      "isbn_10": "0832120626",
+      "isbn_10": "0832120625",
+      "pages": 468,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1964,
-      "page_count": 468
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "When the Music's Over",
@@ -94054,6 +97195,22 @@
       "source": "seed",
       "year_published": 2020,
       "page_count": 416
+    },
+    {
+      "title": "Where Angels Fear to Tread",
+      "year": 1905,
+      "isbn_13": "9788957495469",
+      "isbn_10": "8957495460",
+      "pages": 174,
+      "genres": [
+        "Literary Fiction",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "E.M. Forster"
+      ],
+      "source": "seed"
     },
     {
       "title": "Where Are the Children?",
@@ -94326,6 +97483,22 @@
       "page_count": 496
     },
     {
+      "title": "White Butterfly",
+      "year": 1992,
+      "isbn_13": "9783844230536",
+      "isbn_10": "3844230531",
+      "pages": 272,
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Mosley"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "White Egrets",
       "year": 2010,
       "isbn_13": "9782852673021",
@@ -94386,6 +97559,22 @@
       "language": "en",
       "authors": [
         "Sandra Brown"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "White Jazz",
+      "year": 1992,
+      "isbn_13": "9780292235106",
+      "isbn_10": "0292235100",
+      "pages": 349,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Ellroy"
       ],
       "source": "seed"
     },
@@ -94681,19 +97870,19 @@
     },
     {
       "title": "Wild Justice",
-      "authors": [
-        "Wilbur Smith"
-      ],
+      "year": 1979,
       "isbn_13": "9783645039628",
-      "isbn_10": "3645039627",
+      "isbn_10": "3645039624",
+      "pages": 478,
       "genres": [
         "Adventure",
         "Historical Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1979,
-      "page_count": 383
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "source": "seed"
     },
     {
       "title": "Wild Mountain Thyme",
@@ -95108,6 +98297,21 @@
       "page_count": 324
     },
     {
+      "title": "With Shuddering Fall",
+      "year": 1964,
+      "isbn_13": "9781488153464",
+      "isbn_10": "1488153462",
+      "pages": 382,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Without Fail",
       "authors": [
         "Lee Child"
@@ -95348,18 +98552,18 @@
     },
     {
       "title": "Wonderland",
-      "authors": [
-        "Joyce Carol Oates"
-      ],
+      "year": 1971,
       "isbn_13": "9787955805041",
-      "isbn_10": "7955805046",
+      "isbn_10": "7955805045",
+      "pages": 512,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1971,
-      "page_count": 512
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
     },
     {
       "title": "Wool",
@@ -95796,18 +99000,18 @@
     },
     {
       "title": "You Must Remember This",
-      "authors": [
-        "Joyce Carol Oates"
-      ],
+      "year": 1987,
       "isbn_13": "9785459356595",
-      "isbn_10": "5459356598",
+      "isbn_10": "5459356593",
+      "pages": 436,
       "genres": [
         "Literary Fiction"
       ],
       "language": "en",
-      "source": "seed",
-      "year_published": 1987,
-      "page_count": 436
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "source": "seed"
     },
     {
       "title": "You Must Set Forth at Dawn",

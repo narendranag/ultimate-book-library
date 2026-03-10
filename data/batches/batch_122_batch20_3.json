@@ -1,0 +1,1299 @@
+[
+  {
+    "title": "Liza of Lambeth",
+    "author": "W. Somerset Maugham",
+    "year": 1897,
+    "isbn_13": "9784005652396",
+    "isbn_10": "4005652396",
+    "pages": 170,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Mrs Craddock",
+    "author": "W. Somerset Maugham",
+    "year": 1902,
+    "isbn_13": "9782322416561",
+    "isbn_10": "2322416563",
+    "pages": 350,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Of Human Bondage",
+    "author": "W. Somerset Maugham",
+    "year": 1915,
+    "isbn_13": "9785330615803",
+    "isbn_10": "533061580X",
+    "pages": 648,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Moon and Sixpence",
+    "author": "W. Somerset Maugham",
+    "year": 1919,
+    "isbn_13": "9785140375065",
+    "isbn_10": "5140375060",
+    "pages": 216,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Painted Veil",
+    "author": "W. Somerset Maugham",
+    "year": 1925,
+    "isbn_13": "9780194580335",
+    "isbn_10": "0194580337",
+    "pages": 237,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ashenden",
+    "author": "W. Somerset Maugham",
+    "year": 1928,
+    "isbn_13": "9781545184400",
+    "isbn_10": "1545184409",
+    "pages": 292,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Spy Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Cakes and Ale",
+    "author": "W. Somerset Maugham",
+    "year": 1930,
+    "isbn_13": "9780999313220",
+    "isbn_10": "0999313228",
+    "pages": 308,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Narrow Corner",
+    "author": "W. Somerset Maugham",
+    "year": 1932,
+    "isbn_13": "9785654633057",
+    "isbn_10": "5654633053",
+    "pages": 266,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Theatre",
+    "author": "W. Somerset Maugham",
+    "year": 1937,
+    "isbn_13": "9783400981940",
+    "isbn_10": "3400981941",
+    "pages": 256,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Christmas Holiday",
+    "author": "W. Somerset Maugham",
+    "year": 1939,
+    "isbn_13": "9784303905125",
+    "isbn_10": "4303905124",
+    "pages": 273,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Razor's Edge",
+    "author": "W. Somerset Maugham",
+    "year": 1944,
+    "isbn_13": "9781230476438",
+    "isbn_10": "123047643X",
+    "pages": 314,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Then and Now",
+    "author": "W. Somerset Maugham",
+    "year": 1946,
+    "isbn_13": "9788192228303",
+    "isbn_10": "8192228307",
+    "pages": 256,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Catalina",
+    "author": "W. Somerset Maugham",
+    "year": 1948,
+    "isbn_13": "9784023275485",
+    "isbn_10": "4023275487",
+    "pages": 256,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Summing Up",
+    "author": "W. Somerset Maugham",
+    "year": 1938,
+    "isbn_13": "9781012410704",
+    "isbn_10": "1012410705",
+    "pages": 310,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Writer's Notebook",
+    "author": "W. Somerset Maugham",
+    "year": 1949,
+    "isbn_13": "9788613925248",
+    "isbn_10": "8613925248",
+    "pages": 349,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Complete Short Stories",
+    "author": "W. Somerset Maugham",
+    "year": 1951,
+    "isbn_13": "9784340520206",
+    "isbn_10": "4340520202",
+    "pages": 1024,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Stamboul Train",
+    "author": "Graham Greene",
+    "year": 1932,
+    "isbn_13": "9785105213616",
+    "isbn_10": "5105213610",
+    "pages": 233,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "It's a Battlefield",
+    "author": "Graham Greene",
+    "year": 1934,
+    "isbn_13": "9784500596317",
+    "isbn_10": "4500596318",
+    "pages": 180,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "England Made Me",
+    "author": "Graham Greene",
+    "year": 1935,
+    "isbn_13": "9781311436955",
+    "isbn_10": "1311436959",
+    "pages": 209,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Gun for Sale",
+    "author": "Graham Greene",
+    "year": 1936,
+    "isbn_13": "9781020091834",
+    "isbn_10": "1020091836",
+    "pages": 188,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Brighton Rock",
+    "author": "Graham Greene",
+    "year": 1938,
+    "isbn_13": "9780346557994",
+    "isbn_10": "0346557999",
+    "pages": 298,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Confidential Agent",
+    "author": "Graham Greene",
+    "year": 1939,
+    "isbn_13": "9784186457391",
+    "isbn_10": "4186457396",
+    "pages": 232,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Power and the Glory",
+    "author": "Graham Greene",
+    "year": 1940,
+    "isbn_13": "9780844557571",
+    "isbn_10": "0844557572",
+    "pages": 222,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Ministry of Fear",
+    "author": "Graham Greene",
+    "year": 1943,
+    "isbn_13": "9780702349560",
+    "isbn_10": "0702349562",
+    "pages": 222,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Heart of the Matter",
+    "author": "Graham Greene",
+    "year": 1948,
+    "isbn_13": "9781483966694",
+    "isbn_10": "1483966690",
+    "pages": 272,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Third Man",
+    "author": "Graham Greene",
+    "year": 1950,
+    "isbn_13": "9787357336952",
+    "isbn_10": "7357336955",
+    "pages": 157,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The End of the Affair",
+    "author": "Graham Greene",
+    "year": 1951,
+    "isbn_13": "9785351376370",
+    "isbn_10": "5351376374",
+    "pages": 160,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Quiet American",
+    "author": "Graham Greene",
+    "year": 1955,
+    "isbn_13": "9786558834939",
+    "isbn_10": "6558834935",
+    "pages": 180,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Our Man in Havana",
+    "author": "Graham Greene",
+    "year": 1958,
+    "isbn_13": "9786031401498",
+    "isbn_10": "6031401496",
+    "pages": 247,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Burnt-Out Case",
+    "author": "Graham Greene",
+    "year": 1960,
+    "isbn_13": "9785806565007",
+    "isbn_10": "5806565002",
+    "pages": 198,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Comedians",
+    "author": "Graham Greene",
+    "year": 1966,
+    "isbn_13": "9780018680432",
+    "isbn_10": "0018680434",
+    "pages": 309,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Travels with My Aunt",
+    "author": "Graham Greene",
+    "year": 1969,
+    "isbn_13": "9781815053337",
+    "isbn_10": "1815053331",
+    "pages": 264,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Honorary Consul",
+    "author": "Graham Greene",
+    "year": 1973,
+    "isbn_13": "9782431616494",
+    "isbn_10": "2431616496",
+    "pages": 315,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Human Factor",
+    "author": "Graham Greene",
+    "year": 1978,
+    "isbn_13": "9784063133134",
+    "isbn_10": "4063133138",
+    "pages": 338,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Spy Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Monsignor Quixote",
+    "author": "Graham Greene",
+    "year": 1982,
+    "isbn_13": "9784154956727",
+    "isbn_10": "4154956723",
+    "pages": 221,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Captain and the Enemy",
+    "author": "Graham Greene",
+    "year": 1988,
+    "isbn_13": "9783034704014",
+    "isbn_10": "303470401X",
+    "pages": 188,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Decline and Fall",
+    "author": "Evelyn Waugh",
+    "year": 1928,
+    "isbn_13": "9781087444161",
+    "isbn_10": "1087444160",
+    "pages": 293,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Vile Bodies",
+    "author": "Evelyn Waugh",
+    "year": 1930,
+    "isbn_13": "9781401286132",
+    "isbn_10": "1401286136",
+    "pages": 321,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Black Mischief",
+    "author": "Evelyn Waugh",
+    "year": 1932,
+    "isbn_13": "9780745353333",
+    "isbn_10": "0745353332",
+    "pages": 251,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Handful of Dust",
+    "author": "Evelyn Waugh",
+    "year": 1934,
+    "isbn_13": "9785840480359",
+    "isbn_10": "5840480356",
+    "pages": 308,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Scoop",
+    "author": "Evelyn Waugh",
+    "year": 1938,
+    "isbn_13": "9783368719203",
+    "isbn_10": "3368719208",
+    "pages": 308,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Humor",
+      "Satire"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Put Out More Flags",
+    "author": "Evelyn Waugh",
+    "year": 1942,
+    "isbn_13": "9781819444230",
+    "isbn_10": "1819444235",
+    "pages": 244,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Brideshead Revisited",
+    "author": "Evelyn Waugh",
+    "year": 1945,
+    "isbn_13": "9789101222122",
+    "isbn_10": "9101222120",
+    "pages": 351,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Loved One",
+    "author": "Evelyn Waugh",
+    "year": 1948,
+    "isbn_13": "9788810112151",
+    "isbn_10": "8810112155",
+    "pages": 164,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Humor",
+      "Satire"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Helena",
+    "author": "Evelyn Waugh",
+    "year": 1950,
+    "isbn_13": "9788954040273",
+    "isbn_10": "8954040275",
+    "pages": 236,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Humor",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Men at Arms",
+    "author": "Evelyn Waugh",
+    "year": 1952,
+    "isbn_13": "9781184343039",
+    "isbn_10": "1184343032",
+    "pages": 240,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Humor",
+      "War"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Officers and Gentlemen",
+    "author": "Evelyn Waugh",
+    "year": 1955,
+    "isbn_13": "9780321185235",
+    "isbn_10": "0321185237",
+    "pages": 308,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Humor",
+      "War"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Unconditional Surrender",
+    "author": "Evelyn Waugh",
+    "year": 1961,
+    "isbn_13": "9786420411510",
+    "isbn_10": "6420411518",
+    "pages": 307,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Humor",
+      "War"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Ordeal of Gilbert Pinfold",
+    "author": "Evelyn Waugh",
+    "year": 1957,
+    "isbn_13": "9782348551307",
+    "isbn_10": "2348551305",
+    "pages": 168,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Where Angels Fear to Tread",
+    "author": "E.M. Forster",
+    "year": 1905,
+    "isbn_13": "9788957495469",
+    "isbn_10": "8957495460",
+    "pages": 174,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Longest Journey",
+    "author": "E.M. Forster",
+    "year": 1907,
+    "isbn_13": "9783773316103",
+    "isbn_10": "3773316100",
+    "pages": 362,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Room with a View",
+    "author": "E.M. Forster",
+    "year": 1908,
+    "isbn_13": "9782077541990",
+    "isbn_10": "2077541994",
+    "pages": 224,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Howards End",
+    "author": "E.M. Forster",
+    "year": 1910,
+    "isbn_13": "9788726121421",
+    "isbn_10": "8726121426",
+    "pages": 343,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Passage to India",
+    "author": "E.M. Forster",
+    "year": 1924,
+    "isbn_13": "9783214400989",
+    "isbn_10": "3214400988",
+    "pages": 362,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Indian Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Maurice",
+    "author": "E.M. Forster",
+    "year": 1971,
+    "isbn_13": "9785444585528",
+    "isbn_10": "5444585522",
+    "pages": 246,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Aspects of the Novel",
+    "author": "E.M. Forster",
+    "year": 1927,
+    "isbn_13": "9788825469530",
+    "isbn_10": "8825469536",
+    "pages": 160,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Amy and Isabelle",
+    "author": "Elizabeth Strout",
+    "year": 1998,
+    "isbn_13": "9782472404951",
+    "isbn_10": "2472404955",
+    "pages": 303,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Abide with Me",
+    "author": "Elizabeth Strout",
+    "year": 2006,
+    "isbn_13": "9785024700211",
+    "isbn_10": "5024700211",
+    "pages": 290,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Olive Kitteridge",
+    "author": "Elizabeth Strout",
+    "year": 2008,
+    "isbn_13": "9785296401021",
+    "isbn_10": "5296401025",
+    "pages": 270,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Burgess Boys",
+    "author": "Elizabeth Strout",
+    "year": 2013,
+    "isbn_13": "9788293340188",
+    "isbn_10": "8293340186",
+    "pages": 320,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "My Name Is Lucy Barton",
+    "author": "Elizabeth Strout",
+    "year": 2016,
+    "isbn_13": "9787793431020",
+    "isbn_10": "7793431029",
+    "pages": 191,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Anything Is Possible",
+    "author": "Elizabeth Strout",
+    "year": 2017,
+    "isbn_13": "9784411368607",
+    "isbn_10": "4411368602",
+    "pages": 254,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Olive, Again",
+    "author": "Elizabeth Strout",
+    "year": 2019,
+    "isbn_13": "9781151384317",
+    "isbn_10": "1151384318",
+    "pages": 289,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Oh William!",
+    "author": "Elizabeth Strout",
+    "year": 2021,
+    "isbn_13": "9789304736297",
+    "isbn_10": "9304736298",
+    "pages": 256,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Tell Me Everything",
+    "author": "Elizabeth Strout",
+    "year": 2024,
+    "isbn_13": "9782844676245",
+    "isbn_10": "2844676248",
+    "pages": 256,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Lucy by the Sea",
+    "author": "Elizabeth Strout",
+    "year": 2022,
+    "isbn_13": "9784651105000",
+    "isbn_10": "4651105002",
+    "pages": 256,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Patron Saint of Liars",
+    "author": "Ann Patchett",
+    "year": 1992,
+    "isbn_13": "9788836824366",
+    "isbn_10": "8836824365",
+    "pages": 338,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Taft",
+    "author": "Ann Patchett",
+    "year": 1994,
+    "isbn_13": "9783158871197",
+    "isbn_10": "3158871191",
+    "pages": 261,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Magician's Assistant",
+    "author": "Ann Patchett",
+    "year": 1997,
+    "isbn_13": "9781551571843",
+    "isbn_10": "1551571845",
+    "pages": 357,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bel Canto",
+    "author": "Ann Patchett",
+    "year": 2001,
+    "isbn_13": "9781973537717",
+    "isbn_10": "1973537710",
+    "pages": 318,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Run",
+    "author": "Ann Patchett",
+    "year": 2007,
+    "isbn_13": "9789134637474",
+    "isbn_10": "9134637473",
+    "pages": 295,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "State of Wonder",
+    "author": "Ann Patchett",
+    "year": 2011,
+    "isbn_13": "9789042369009",
+    "isbn_10": "9042369000",
+    "pages": 353,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Commonwealth",
+    "author": "Ann Patchett",
+    "year": 2016,
+    "isbn_13": "9785659403228",
+    "isbn_10": "5659403220",
+    "pages": 322,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Dutch House",
+    "author": "Ann Patchett",
+    "year": 2019,
+    "isbn_13": "9785014775120",
+    "isbn_10": "5014775123",
+    "pages": 337,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Tom Lake",
+    "author": "Ann Patchett",
+    "year": 2023,
+    "isbn_13": "9785413050101",
+    "isbn_10": "5413050100",
+    "pages": 309,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Truth & Beauty",
+    "author": "Ann Patchett",
+    "year": 2004,
+    "isbn_13": "9784272280551",
+    "isbn_10": "4272280557",
+    "pages": 257,
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "This Is the Story of a Happy Marriage",
+    "author": "Ann Patchett",
+    "year": 2013,
+    "isbn_13": "9788240044107",
+    "isbn_10": "8240044104",
+    "pages": 305,
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "With Shuddering Fall",
+    "author": "Joyce Carol Oates",
+    "year": 1964,
+    "isbn_13": "9781488153464",
+    "isbn_10": "1488153462",
+    "pages": 382,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Garden of Earthly Delights",
+    "author": "Joyce Carol Oates",
+    "year": 1967,
+    "isbn_13": "9788945334909",
+    "isbn_10": "8945334907",
+    "pages": 440,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Expensive People",
+    "author": "Joyce Carol Oates",
+    "year": 1968,
+    "isbn_13": "9781030216319",
+    "isbn_10": "1030216319",
+    "pages": 306,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "them",
+    "author": "Joyce Carol Oates",
+    "year": 1969,
+    "isbn_13": "9780812016406",
+    "isbn_10": "0812016403",
+    "pages": 508,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Wonderland",
+    "author": "Joyce Carol Oates",
+    "year": 1971,
+    "isbn_13": "9787955805041",
+    "isbn_10": "7955805045",
+    "pages": 512,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Do with Me What You Will",
+    "author": "Joyce Carol Oates",
+    "year": 1973,
+    "isbn_13": "9782547586742",
+    "isbn_10": "2547586745",
+    "pages": 561,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Assassins",
+    "author": "Joyce Carol Oates",
+    "year": 1975,
+    "isbn_13": "9786036941012",
+    "isbn_10": "6036941018",
+    "pages": 563,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bellefleur",
+    "author": "Joyce Carol Oates",
+    "year": 1980,
+    "isbn_13": "9783531647111",
+    "isbn_10": "3531647118",
+    "pages": 558,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Bloodsmoor Romance",
+    "author": "Joyce Carol Oates",
+    "year": 1982,
+    "isbn_13": "9787238335579",
+    "isbn_10": "7238335578",
+    "pages": 615,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Mysteries of Winterthurn",
+    "author": "Joyce Carol Oates",
+    "year": 1984,
+    "isbn_13": "9783516909104",
+    "isbn_10": "3516909109",
+    "pages": 482,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Solstice",
+    "author": "Joyce Carol Oates",
+    "year": 1985,
+    "isbn_13": "9783716233603",
+    "isbn_10": "3716233602",
+    "pages": 243,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Marya: A Life",
+    "author": "Joyce Carol Oates",
+    "year": 1986,
+    "isbn_13": "9781207506397",
+    "isbn_10": "1207506394",
+    "pages": 310,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "You Must Remember This",
+    "author": "Joyce Carol Oates",
+    "year": 1987,
+    "isbn_13": "9785459356595",
+    "isbn_10": "5459356593",
+    "pages": 436,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Because It Is Bitter, and Because It Is My Heart",
+    "author": "Joyce Carol Oates",
+    "year": 1990,
+    "isbn_13": "9780133009439",
+    "isbn_10": "0133009439",
+    "pages": 405,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Black Water",
+    "author": "Joyce Carol Oates",
+    "year": 1992,
+    "isbn_13": "9787392630466",
+    "isbn_10": "7392630465",
+    "pages": 154,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Foxfire",
+    "author": "Joyce Carol Oates",
+    "year": 1993,
+    "isbn_13": "9784315122558",
+    "isbn_10": "4315122555",
+    "pages": 328,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "What I Lived For",
+    "author": "Joyce Carol Oates",
+    "year": 1994,
+    "isbn_13": "9785255620555",
+    "isbn_10": "5255620555",
+    "pages": 608,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "We Were the Mulvaneys",
+    "author": "Joyce Carol Oates",
+    "year": 1996,
+    "isbn_13": "9783370350593",
+    "isbn_10": "3370350592",
+    "pages": 454,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Blonde",
+    "author": "Joyce Carol Oates",
+    "year": 2000,
+    "isbn_13": "9789521743719",
+    "isbn_10": "9521743712",
+    "pages": 738,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Falls",
+    "author": "Joyce Carol Oates",
+    "year": 2004,
+    "isbn_13": "9783424405439",
+    "isbn_10": "3424405437",
+    "pages": 481,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Gravedigger's Daughter",
+    "author": "Joyce Carol Oates",
+    "year": 2007,
+    "isbn_13": "9780426482260",
+    "isbn_10": "0426482268",
+    "pages": 582,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Fair Maiden",
+    "author": "Joyce Carol Oates",
+    "year": 2010,
+    "isbn_13": "9786172567169",
+    "isbn_10": "6172567160",
+    "pages": 166,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Mudwoman",
+    "author": "Joyce Carol Oates",
+    "year": 2012,
+    "isbn_13": "9782733853511",
+    "isbn_10": "273385351X",
+    "pages": 436,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  }
+]
