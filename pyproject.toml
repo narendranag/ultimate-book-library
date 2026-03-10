@@ -6,6 +6,7 @@ readme = "README.md"
 license = "MIT"
 requires-python = ">=3.11"
 dependencies = [
+    "pydantic>=2.0",
     "requests>=2.31.0",
 ]
 
