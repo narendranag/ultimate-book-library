@@ -31,7 +31,10 @@ def deduplicate(books: list[dict]) -> list[dict]:
     unique = []
     for book in books:
         isbn = book.get("isbn_13", "")
-        title_key = (book["title"].lower(), tuple(a.lower() for a in book["authors"]))
+        authors = book.get("authors", [])
+        if not authors and book.get("author"):
+            authors = [book["author"]]
+        title_key = (book["title"].lower(), tuple(a.lower() for a in authors))
 
         if isbn and isbn in seen_isbns:
             continue
@@ -48,11 +51,16 @@ def deduplicate(books: list[dict]) -> list[dict]:
 def add_defaults(books: list[dict]) -> list[dict]:
     """Ensure all books have required fields with defaults."""
     for book in books:
+        # Convert author (string) to authors (list) if needed
+        if "author" in book and "authors" not in book:
+            book["authors"] = [book.pop("author")]
         book.setdefault("language", "en")
         book.setdefault("genres", [])
         book.setdefault("source", "seed")
         # Remove None values
-        book = {k: v for k, v in book.items() if v is not None}
+        for k in list(book.keys()):
+            if book[k] is None:
+                del book[k]
     return books
 
 
@@ -63,7 +71,7 @@ def validate(books: list[dict]) -> None:
         if not book.get("title"):
             print(f"  ERROR: Book {i} missing title")
             errors += 1
-        if not book.get("authors"):
+        if not book.get("authors") and not book.get("author"):
             print(f"  ERROR: Book {i} '{book.get('title', '?')}' missing authors")
             errors += 1
     if errors:

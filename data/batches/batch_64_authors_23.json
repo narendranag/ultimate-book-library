@@ -1,0 +1,1392 @@
+[
+  {
+    "title": "The Little Friend",
+    "author": "Donna Tartt",
+    "year": 2002,
+    "isbn_13": "9788925735634",
+    "isbn_10": "8925735635",
+    "pages": 555,
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Goldfinch",
+    "author": "Donna Tartt",
+    "year": 2013,
+    "isbn_13": "9786131237812",
+    "isbn_10": "6131237815",
+    "pages": 771,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Virgin Suicides",
+    "author": "Jeffrey Eugenides",
+    "year": 1993,
+    "isbn_13": "9785597356136",
+    "isbn_10": "5597356136",
+    "pages": 249,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Middlesex",
+    "author": "Jeffrey Eugenides",
+    "year": 2002,
+    "isbn_13": "9784556895518",
+    "isbn_10": "4556895510",
+    "pages": 529,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Marriage Plot",
+    "author": "Jeffrey Eugenides",
+    "year": 2011,
+    "isbn_13": "9783922103813",
+    "isbn_10": "3922103819",
+    "pages": 406,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Fresh Complaint",
+    "author": "Jeffrey Eugenides",
+    "year": 2017,
+    "isbn_13": "9781015055841",
+    "isbn_10": "1015055849",
+    "pages": 288,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Mysteries of Pittsburgh",
+    "author": "Michael Chabon",
+    "year": 1988,
+    "isbn_13": "9783613134607",
+    "isbn_10": "3613134603",
+    "pages": 297,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Wonder Boys",
+    "author": "Michael Chabon",
+    "year": 1995,
+    "isbn_13": "9786502125342",
+    "isbn_10": "6502125347",
+    "pages": 368,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Amazing Adventures of Kavalier & Clay",
+    "author": "Michael Chabon",
+    "year": 2000,
+    "isbn_13": "9786345297008",
+    "isbn_10": "6345297008",
+    "pages": 639,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Final Solution",
+    "author": "Michael Chabon",
+    "year": 2004,
+    "isbn_13": "9783259569313",
+    "isbn_10": "3259569315",
+    "pages": 131,
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Yiddish Policemen's Union",
+    "author": "Michael Chabon",
+    "year": 2007,
+    "isbn_13": "9782989300258",
+    "isbn_10": "2989300259",
+    "pages": 414,
+    "genres": [
+      "Literary Fiction",
+      "Mystery",
+      "Alternate History"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Gentlemen of the Road",
+    "author": "Michael Chabon",
+    "year": 2007,
+    "isbn_13": "9783609883731",
+    "isbn_10": "360988373X",
+    "pages": 204,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Adventure"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Telegraph Avenue",
+    "author": "Michael Chabon",
+    "year": 2012,
+    "isbn_13": "9787343270130",
+    "isbn_10": "7343270138",
+    "pages": 468,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Moonglow",
+    "author": "Michael Chabon",
+    "year": 2016,
+    "isbn_13": "9782017523512",
+    "isbn_10": "2017523513",
+    "pages": 430,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Love Medicine",
+    "author": "Louise Erdrich",
+    "year": 1984,
+    "isbn_13": "9785168532518",
+    "isbn_10": "5168532512",
+    "pages": 367,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Beet Queen",
+    "author": "Louise Erdrich",
+    "year": 1986,
+    "isbn_13": "9781041285182",
+    "isbn_10": "1041285188",
+    "pages": 338,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Tracks",
+    "author": "Louise Erdrich",
+    "year": 1988,
+    "isbn_13": "9784371924288",
+    "isbn_10": "4371924281",
+    "pages": 226,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Bingo Palace",
+    "author": "Louise Erdrich",
+    "year": 1994,
+    "isbn_13": "9784856092112",
+    "isbn_10": "485609211X",
+    "pages": 274,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Tales of Burning Love",
+    "author": "Louise Erdrich",
+    "year": 1996,
+    "isbn_13": "9782948433621",
+    "isbn_10": "2948433629",
+    "pages": 452,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Antelope Wife",
+    "author": "Louise Erdrich",
+    "year": 1998,
+    "isbn_13": "9784362388525",
+    "isbn_10": "4362388527",
+    "pages": 240,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Last Report on the Miracles at Little No Horse",
+    "author": "Louise Erdrich",
+    "year": 2001,
+    "isbn_13": "9782255224318",
+    "isbn_10": "2255224318",
+    "pages": 361,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Master Butchers Singing Club",
+    "author": "Louise Erdrich",
+    "year": 2003,
+    "isbn_13": "9780122566066",
+    "isbn_10": "0122566063",
+    "pages": 389,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Painted Drum",
+    "author": "Louise Erdrich",
+    "year": 2005,
+    "isbn_13": "9785111322609",
+    "isbn_10": "5111322607",
+    "pages": 277,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Plague of Doves",
+    "author": "Louise Erdrich",
+    "year": 2008,
+    "isbn_13": "9788842613442",
+    "isbn_10": "8842613447",
+    "pages": 313,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Shadow Tag",
+    "author": "Louise Erdrich",
+    "year": 2010,
+    "isbn_13": "9789969739459",
+    "isbn_10": "9969739451",
+    "pages": 255,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Round House",
+    "author": "Louise Erdrich",
+    "year": 2012,
+    "isbn_13": "9782005711549",
+    "isbn_10": "2005711548",
+    "pages": 321,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "LaRose",
+    "author": "Louise Erdrich",
+    "year": 2016,
+    "isbn_13": "9780813210186",
+    "isbn_10": "0813210185",
+    "pages": 372,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Future Home of the Living God",
+    "author": "Louise Erdrich",
+    "year": 2017,
+    "isbn_13": "9780067055519",
+    "isbn_10": "0067055515",
+    "pages": 263,
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Night Watchman",
+    "author": "Louise Erdrich",
+    "year": 2020,
+    "isbn_13": "9785009784311",
+    "isbn_10": "5009784312",
+    "pages": 451,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Sentence",
+    "author": "Louise Erdrich",
+    "year": 2021,
+    "isbn_13": "9781653163540",
+    "isbn_10": "1653163549",
+    "pages": 386,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Housekeeping",
+    "author": "Marilynne Robinson",
+    "year": 1980,
+    "isbn_13": "9782514248727",
+    "isbn_10": "2514248723",
+    "pages": 219,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Gilead",
+    "author": "Marilynne Robinson",
+    "year": 2004,
+    "isbn_13": "9784590227252",
+    "isbn_10": "4590227253",
+    "pages": 247,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Home",
+    "author": "Marilynne Robinson",
+    "year": 2008,
+    "isbn_13": "9783546934909",
+    "isbn_10": "3546934908",
+    "pages": 325,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Lila",
+    "author": "Marilynne Robinson",
+    "year": 2014,
+    "isbn_13": "9784283105980",
+    "isbn_10": "4283105983",
+    "pages": 261,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Jack",
+    "author": "Marilynne Robinson",
+    "year": 2020,
+    "isbn_13": "9782280730198",
+    "isbn_10": "2280730194",
+    "pages": 308,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Every Day Is Mother's Day",
+    "author": "Hilary Mantel",
+    "year": 1985,
+    "isbn_13": "9786612116025",
+    "isbn_10": "661211602X",
+    "pages": 256,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Vacant Possession",
+    "author": "Hilary Mantel",
+    "year": 1986,
+    "isbn_13": "9785113169455",
+    "isbn_10": "5113169456",
+    "pages": 230,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Eight Months on Ghazzah Street",
+    "author": "Hilary Mantel",
+    "year": 1988,
+    "isbn_13": "9780143376057",
+    "isbn_10": "0143376056",
+    "pages": 272,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Fludd",
+    "author": "Hilary Mantel",
+    "year": 1989,
+    "isbn_13": "9785651402342",
+    "isbn_10": "5651402342",
+    "pages": 181,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "A Place of Greater Safety",
+    "author": "Hilary Mantel",
+    "year": 1992,
+    "isbn_13": "9789241124720",
+    "isbn_10": "9241124726",
+    "pages": 749,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "A Change of Climate",
+    "author": "Hilary Mantel",
+    "year": 1994,
+    "isbn_13": "9782403588439",
+    "isbn_10": "240358843X",
+    "pages": 342,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "An Experiment in Love",
+    "author": "Hilary Mantel",
+    "year": 1995,
+    "isbn_13": "9783029412344",
+    "isbn_10": "3029412349",
+    "pages": 250,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Giant, O'Brien",
+    "author": "Hilary Mantel",
+    "year": 1998,
+    "isbn_13": "9786698859328",
+    "isbn_10": "6698859321",
+    "pages": 213,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Beyond Black",
+    "author": "Hilary Mantel",
+    "year": 2005,
+    "isbn_13": "9787452011761",
+    "isbn_10": "7452011764",
+    "pages": 365,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Wolf Hall",
+    "author": "Hilary Mantel",
+    "year": 2009,
+    "isbn_13": "9788253228709",
+    "isbn_10": "8253228703",
+    "pages": 604,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Bring Up the Bodies",
+    "author": "Hilary Mantel",
+    "year": 2012,
+    "isbn_13": "9785611782958",
+    "isbn_10": "5611782954",
+    "pages": 432,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Mirror & the Light",
+    "author": "Hilary Mantel",
+    "year": 2020,
+    "isbn_13": "9785843228439",
+    "isbn_10": "5843228435",
+    "pages": 754,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Giving Up the Ghost",
+    "author": "Hilary Mantel",
+    "year": 2003,
+    "isbn_13": "9789797179106",
+    "isbn_10": "9797179102",
+    "pages": 250,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Memoir"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Troubling Love",
+    "author": "Elena Ferrante",
+    "year": 1992,
+    "isbn_13": "9781994246704",
+    "isbn_10": "1994246704",
+    "pages": 140,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "The Days of Abandonment",
+    "author": "Elena Ferrante",
+    "year": 2002,
+    "isbn_13": "9784078278936",
+    "isbn_10": "4078278930",
+    "pages": 188,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "The Lost Daughter",
+    "author": "Elena Ferrante",
+    "year": 2006,
+    "isbn_13": "9780839406112",
+    "isbn_10": "0839406113",
+    "pages": 125,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "My Brilliant Friend",
+    "author": "Elena Ferrante",
+    "year": 2011,
+    "isbn_13": "9785535013596",
+    "isbn_10": "5535013596",
+    "pages": 331,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "The Story of a New Name",
+    "author": "Elena Ferrante",
+    "year": 2012,
+    "isbn_13": "9785222491430",
+    "isbn_10": "5222491432",
+    "pages": 471,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "Those Who Leave and Those Who Stay",
+    "author": "Elena Ferrante",
+    "year": 2013,
+    "isbn_13": "9784329356352",
+    "isbn_10": "4329356351",
+    "pages": 400,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "The Story of the Lost Child",
+    "author": "Elena Ferrante",
+    "year": 2014,
+    "isbn_13": "9785434352949",
+    "isbn_10": "5434352944",
+    "pages": 473,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "The Lying Life of Adults",
+    "author": "Elena Ferrante",
+    "year": 2019,
+    "isbn_13": "9781382549837",
+    "isbn_10": "1382549830",
+    "pages": 324,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "description": ""
+  },
+  {
+    "title": "The White Castle",
+    "author": "Orhan Pamuk",
+    "year": 1985,
+    "isbn_13": "9782245109014",
+    "isbn_10": "2245109016",
+    "pages": 161,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "tr",
+    "description": ""
+  },
+  {
+    "title": "The Black Book",
+    "author": "Orhan Pamuk",
+    "year": 1990,
+    "isbn_13": "9781022216099",
+    "isbn_10": "1022216090",
+    "pages": 462,
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "tr",
+    "description": ""
+  },
+  {
+    "title": "The New Life",
+    "author": "Orhan Pamuk",
+    "year": 1994,
+    "isbn_13": "9783149992481",
+    "isbn_10": "3149992485",
+    "pages": 296,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "tr",
+    "description": ""
+  },
+  {
+    "title": "My Name Is Red",
+    "author": "Orhan Pamuk",
+    "year": 1998,
+    "isbn_13": "9785201365769",
+    "isbn_10": "5201365760",
+    "pages": 417,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Mystery"
+    ],
+    "language": "tr",
+    "description": ""
+  },
+  {
+    "title": "Snow",
+    "author": "Orhan Pamuk",
+    "year": 2002,
+    "isbn_13": "9784631626266",
+    "isbn_10": "4631626264",
+    "pages": 426,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "tr",
+    "description": ""
+  },
+  {
+    "title": "The Museum of Innocence",
+    "author": "Orhan Pamuk",
+    "year": 2008,
+    "isbn_13": "9785065441289",
+    "isbn_10": "5065441285",
+    "pages": 535,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "tr",
+    "description": ""
+  },
+  {
+    "title": "A Strangeness in My Mind",
+    "author": "Orhan Pamuk",
+    "year": 2014,
+    "isbn_13": "9788145270250",
+    "isbn_10": "814527025X",
+    "pages": 591,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "tr",
+    "description": ""
+  },
+  {
+    "title": "The Red-Haired Woman",
+    "author": "Orhan Pamuk",
+    "year": 2016,
+    "isbn_13": "9788680128238",
+    "isbn_10": "8680128235",
+    "pages": 253,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "tr",
+    "description": ""
+  },
+  {
+    "title": "Nights of Plague",
+    "author": "Orhan Pamuk",
+    "year": 2021,
+    "isbn_13": "9786333933567",
+    "isbn_10": "6333933569",
+    "pages": 694,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "tr",
+    "description": ""
+  },
+  {
+    "title": "Istanbul: Memories and the City",
+    "author": "Orhan Pamuk",
+    "year": 2003,
+    "isbn_13": "9783033682528",
+    "isbn_10": "3033682522",
+    "pages": 348,
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "tr",
+    "description": ""
+  },
+  {
+    "title": "Interpreter of Maladies",
+    "author": "Jhumpa Lahiri",
+    "year": 1999,
+    "isbn_13": "9782514014032",
+    "isbn_10": "2514014037",
+    "pages": 198,
+    "genres": [
+      "Literary Fiction",
+      "Indian Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Namesake",
+    "author": "Jhumpa Lahiri",
+    "year": 2003,
+    "isbn_13": "9786384553103",
+    "isbn_10": "6384553107",
+    "pages": 291,
+    "genres": [
+      "Literary Fiction",
+      "Indian Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Unaccustomed Earth",
+    "author": "Jhumpa Lahiri",
+    "year": 2008,
+    "isbn_13": "9783921425619",
+    "isbn_10": "392142561X",
+    "pages": 333,
+    "genres": [
+      "Literary Fiction",
+      "Indian Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Lowland",
+    "author": "Jhumpa Lahiri",
+    "year": 2013,
+    "isbn_13": "9782351392232",
+    "isbn_10": "2351392231",
+    "pages": 340,
+    "genres": [
+      "Literary Fiction",
+      "Indian Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Whereabouts",
+    "author": "Jhumpa Lahiri",
+    "year": 2021,
+    "isbn_13": "9783511602543",
+    "isbn_10": "3511602543",
+    "pages": 176,
+    "genres": [
+      "Literary Fiction",
+      "Indian Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The God of Small Things",
+    "author": "Arundhati Roy",
+    "year": 1997,
+    "isbn_13": "9785331275587",
+    "isbn_10": "5331275588",
+    "pages": 321,
+    "genres": [
+      "Literary Fiction",
+      "Indian Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Ministry of Utmost Happiness",
+    "author": "Arundhati Roy",
+    "year": 2017,
+    "isbn_13": "9781734929027",
+    "isbn_10": "1734929029",
+    "pages": 449,
+    "genres": [
+      "Literary Fiction",
+      "Indian Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Circle of Reason",
+    "author": "Amitav Ghosh",
+    "year": 1986,
+    "isbn_13": "9781142254803",
+    "isbn_10": "114225480X",
+    "pages": 423,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Indian Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Shadow Lines",
+    "author": "Amitav Ghosh",
+    "year": 1988,
+    "isbn_13": "9781553653318",
+    "isbn_10": "1553653312",
+    "pages": 246,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Indian Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "In an Antique Land",
+    "author": "Amitav Ghosh",
+    "year": 1992,
+    "isbn_13": "9784741815307",
+    "isbn_10": "4741815304",
+    "pages": 393,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Indian Fiction",
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Calcutta Chromosome",
+    "author": "Amitav Ghosh",
+    "year": 1996,
+    "isbn_13": "9784102802991",
+    "isbn_10": "410280299X",
+    "pages": 310,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Indian Fiction",
+      "Science Fiction",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Glass Palace",
+    "author": "Amitav Ghosh",
+    "year": 2000,
+    "isbn_13": "9780132215251",
+    "isbn_10": "0132215251",
+    "pages": 474,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Indian Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Hungry Tide",
+    "author": "Amitav Ghosh",
+    "year": 2004,
+    "isbn_13": "9785912977336",
+    "isbn_10": "591297733X",
+    "pages": 333,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Indian Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Sea of Poppies",
+    "author": "Amitav Ghosh",
+    "year": 2008,
+    "isbn_13": "9788144215825",
+    "isbn_10": "8144215825",
+    "pages": 515,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Indian Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "River of Smoke",
+    "author": "Amitav Ghosh",
+    "year": 2011,
+    "isbn_13": "9781532264580",
+    "isbn_10": "1532264586",
+    "pages": 528,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Indian Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Flood of Fire",
+    "author": "Amitav Ghosh",
+    "year": 2015,
+    "isbn_13": "9784120132391",
+    "isbn_10": "4120132390",
+    "pages": 616,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Indian Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Gun Island",
+    "author": "Amitav Ghosh",
+    "year": 2019,
+    "isbn_13": "9783420137501",
+    "isbn_10": "3420137503",
+    "pages": 292,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Indian Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Nutmeg's Curse",
+    "author": "Amitav Ghosh",
+    "year": 2021,
+    "isbn_13": "9780322694842",
+    "isbn_10": "032269484X",
+    "pages": 336,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Indian Fiction",
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Jungle Nama",
+    "author": "Amitav Ghosh",
+    "year": 2021,
+    "isbn_13": "9781610627320",
+    "isbn_10": "1610627325",
+    "pages": 62,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Indian Fiction",
+      "Poetry"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Play Dead",
+    "author": "Harlan Coben",
+    "year": 1990,
+    "isbn_13": "9788531569357",
+    "isbn_10": "8531569357",
+    "pages": 324,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Miracle Cure",
+    "author": "Harlan Coben",
+    "year": 1991,
+    "isbn_13": "9788472133464",
+    "isbn_10": "8472133461",
+    "pages": 352,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Deal Breaker",
+    "author": "Harlan Coben",
+    "year": 1995,
+    "isbn_13": "9787739721000",
+    "isbn_10": "7739721001",
+    "pages": 312,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Drop Shot",
+    "author": "Harlan Coben",
+    "year": 1996,
+    "isbn_13": "9787415290479",
+    "isbn_10": "7415290471",
+    "pages": 322,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Fade Away",
+    "author": "Harlan Coben",
+    "year": 1996,
+    "isbn_13": "9786663021750",
+    "isbn_10": "6663021758",
+    "pages": 309,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Back Spin",
+    "author": "Harlan Coben",
+    "year": 1997,
+    "isbn_13": "9784812739198",
+    "isbn_10": "4812739196",
+    "pages": 336,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "One False Move",
+    "author": "Harlan Coben",
+    "year": 1998,
+    "isbn_13": "9783525461143",
+    "isbn_10": "3525461148",
+    "pages": 322,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Final Detail",
+    "author": "Harlan Coben",
+    "year": 1999,
+    "isbn_13": "9782246314172",
+    "isbn_10": "2246314173",
+    "pages": 340,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Darkest Fear",
+    "author": "Harlan Coben",
+    "year": 2000,
+    "isbn_13": "9783392100909",
+    "isbn_10": "3392100900",
+    "pages": 308,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Tell No One",
+    "author": "Harlan Coben",
+    "year": 2001,
+    "isbn_13": "9784984260858",
+    "isbn_10": "4984260853",
+    "pages": 370,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Gone for Good",
+    "author": "Harlan Coben",
+    "year": 2002,
+    "isbn_13": "9783500214924",
+    "isbn_10": "3500214927",
+    "pages": 340,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "No Second Chance",
+    "author": "Harlan Coben",
+    "year": 2003,
+    "isbn_13": "9782515125133",
+    "isbn_10": "251512513X",
+    "pages": 355,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Just One Look",
+    "author": "Harlan Coben",
+    "year": 2004,
+    "isbn_13": "9784411314796",
+    "isbn_10": "4411314794",
+    "pages": 370,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Innocent",
+    "author": "Harlan Coben",
+    "year": 2005,
+    "isbn_13": "9780018333734",
+    "isbn_10": "0018333734",
+    "pages": 389,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Promise Me",
+    "author": "Harlan Coben",
+    "year": 2006,
+    "isbn_13": "9781465907219",
+    "isbn_10": "146590721X",
+    "pages": 387,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  }
+]

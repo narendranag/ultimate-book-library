@@ -1,0 +1,956 @@
+[
+  {
+    "title": "The Woods",
+    "author": "Harlan Coben",
+    "year": 2007,
+    "isbn_13": "9780034047530",
+    "isbn_10": "0034047530",
+    "pages": 404,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Hold Tight",
+    "author": "Harlan Coben",
+    "year": 2008,
+    "isbn_13": "9783541189915",
+    "isbn_10": "3541189915",
+    "pages": 413,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Long Lost",
+    "author": "Harlan Coben",
+    "year": 2009,
+    "isbn_13": "9783233300390",
+    "isbn_10": "3233300396",
+    "pages": 387,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Caught",
+    "author": "Harlan Coben",
+    "year": 2010,
+    "isbn_13": "9785181351561",
+    "isbn_10": "5181351566",
+    "pages": 390,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Live Wire",
+    "author": "Harlan Coben",
+    "year": 2011,
+    "isbn_13": "9781095452554",
+    "isbn_10": "1095452551",
+    "pages": 372,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Stay Close",
+    "author": "Harlan Coben",
+    "year": 2012,
+    "isbn_13": "9783437954412",
+    "isbn_10": "3437954416",
+    "pages": 400,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Six Years",
+    "author": "Harlan Coben",
+    "year": 2013,
+    "isbn_13": "9781619651210",
+    "isbn_10": "161965121X",
+    "pages": 356,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Missing You",
+    "author": "Harlan Coben",
+    "year": 2014,
+    "isbn_13": "9782172233158",
+    "isbn_10": "2172233158",
+    "pages": 385,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Stranger",
+    "author": "Harlan Coben",
+    "year": 2015,
+    "isbn_13": "9786951120394",
+    "isbn_10": "6951120390",
+    "pages": 378,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Fool Me Once",
+    "author": "Harlan Coben",
+    "year": 2016,
+    "isbn_13": "9789154046751",
+    "isbn_10": "9154046750",
+    "pages": 389,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Home",
+    "author": "Harlan Coben",
+    "year": 2016,
+    "isbn_13": "9785295521102",
+    "isbn_10": "5295521102",
+    "pages": 381,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Don't Let Go",
+    "author": "Harlan Coben",
+    "year": 2017,
+    "isbn_13": "9784532644147",
+    "isbn_10": "4532644148",
+    "pages": 372,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Run Away",
+    "author": "Harlan Coben",
+    "year": 2019,
+    "isbn_13": "9780324520422",
+    "isbn_10": "0324520426",
+    "pages": 372,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Boy from the Woods",
+    "author": "Harlan Coben",
+    "year": 2020,
+    "isbn_13": "9785402077355",
+    "isbn_10": "5402077356",
+    "pages": 372,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Win",
+    "author": "Harlan Coben",
+    "year": 2021,
+    "isbn_13": "9789831395059",
+    "isbn_10": "9831395050",
+    "pages": 340,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "A Drink Before the War",
+    "author": "Dennis Lehane",
+    "year": 1994,
+    "isbn_13": "9781232740056",
+    "isbn_10": "1232740056",
+    "pages": 273,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Darkness, Take My Hand",
+    "author": "Dennis Lehane",
+    "year": 1996,
+    "isbn_13": "9780865546370",
+    "isbn_10": "086554637X",
+    "pages": 357,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Sacred",
+    "author": "Dennis Lehane",
+    "year": 1997,
+    "isbn_13": "9784341530464",
+    "isbn_10": "434153046X",
+    "pages": 288,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Gone, Baby, Gone",
+    "author": "Dennis Lehane",
+    "year": 1998,
+    "isbn_13": "9785539152505",
+    "isbn_10": "5539152505",
+    "pages": 323,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Prayers for Rain",
+    "author": "Dennis Lehane",
+    "year": 1999,
+    "isbn_13": "9784203442492",
+    "isbn_10": "4203442497",
+    "pages": 337,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Mystic River",
+    "author": "Dennis Lehane",
+    "year": 2001,
+    "isbn_13": "9788923473064",
+    "isbn_10": "8923473066",
+    "pages": 401,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Shutter Island",
+    "author": "Dennis Lehane",
+    "year": 2003,
+    "isbn_13": "9784774549453",
+    "isbn_10": "4774549459",
+    "pages": 325,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction",
+      "Horror"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Given Day",
+    "author": "Dennis Lehane",
+    "year": 2008,
+    "isbn_13": "9784444523479",
+    "isbn_10": "4444523475",
+    "pages": 704,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Moonlight Mile",
+    "author": "Dennis Lehane",
+    "year": 2010,
+    "isbn_13": "9783744312103",
+    "isbn_10": "3744312100",
+    "pages": 322,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Live by Night",
+    "author": "Dennis Lehane",
+    "year": 2012,
+    "isbn_13": "9783640791088",
+    "isbn_10": "3640791083",
+    "pages": 401,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "World Gone By",
+    "author": "Dennis Lehane",
+    "year": 2015,
+    "isbn_13": "9787291051232",
+    "isbn_10": "729105123X",
+    "pages": 334,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Since We Fell",
+    "author": "Dennis Lehane",
+    "year": 2017,
+    "isbn_13": "9784861002526",
+    "isbn_10": "4861002527",
+    "pages": 401,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Small Mercies",
+    "author": "Dennis Lehane",
+    "year": 2023,
+    "isbn_13": "9786399525348",
+    "isbn_10": "6399525342",
+    "pages": 320,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Bat",
+    "author": "Jo Nesb\u00f8",
+    "year": 1997,
+    "isbn_13": "9785205717212",
+    "isbn_10": "520571721X",
+    "pages": 367,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "Cockroaches",
+    "author": "Jo Nesb\u00f8",
+    "year": 1998,
+    "isbn_13": "9781767201442",
+    "isbn_10": "1767201448",
+    "pages": 398,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "The Redbreast",
+    "author": "Jo Nesb\u00f8",
+    "year": 2000,
+    "isbn_13": "9784414003246",
+    "isbn_10": "4414003246",
+    "pages": 521,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "Nemesis",
+    "author": "Jo Nesb\u00f8",
+    "year": 2002,
+    "isbn_13": "9785252612997",
+    "isbn_10": "5252612997",
+    "pages": 474,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "The Devil's Star",
+    "author": "Jo Nesb\u00f8",
+    "year": 2003,
+    "isbn_13": "9783283375997",
+    "isbn_10": "3283375999",
+    "pages": 452,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "The Redeemer",
+    "author": "Jo Nesb\u00f8",
+    "year": 2005,
+    "isbn_13": "9781371085124",
+    "isbn_10": "1371085122",
+    "pages": 468,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "The Snowman",
+    "author": "Jo Nesb\u00f8",
+    "year": 2007,
+    "isbn_13": "9783578100204",
+    "isbn_10": "3578100201",
+    "pages": 550,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "The Leopard",
+    "author": "Jo Nesb\u00f8",
+    "year": 2009,
+    "isbn_13": "9780360505018",
+    "isbn_10": "0360505016",
+    "pages": 612,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "Phantom",
+    "author": "Jo Nesb\u00f8",
+    "year": 2012,
+    "isbn_13": "9780316028387",
+    "isbn_10": "0316028381",
+    "pages": 498,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "Police",
+    "author": "Jo Nesb\u00f8",
+    "year": 2013,
+    "isbn_13": "9789235111255",
+    "isbn_10": "9235111250",
+    "pages": 492,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "The Thirst",
+    "author": "Jo Nesb\u00f8",
+    "year": 2017,
+    "isbn_13": "9785315174189",
+    "isbn_10": "5315174189",
+    "pages": 496,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "Knife",
+    "author": "Jo Nesb\u00f8",
+    "year": 2019,
+    "isbn_13": "9785625582568",
+    "isbn_10": "5625582567",
+    "pages": 480,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "The Kingdom",
+    "author": "Jo Nesb\u00f8",
+    "year": 2020,
+    "isbn_13": "9788790800444",
+    "isbn_10": "8790800448",
+    "pages": 524,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "The Jealousy Man",
+    "author": "Jo Nesb\u00f8",
+    "year": 2021,
+    "isbn_13": "9789272040204",
+    "isbn_10": "9272040206",
+    "pages": 320,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction",
+      "Short Stories"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "Killing Moon",
+    "author": "Jo Nesb\u00f8",
+    "year": 2023,
+    "isbn_13": "9780132865326",
+    "isbn_10": "0132865324",
+    "pages": 496,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "Headhunters",
+    "author": "Jo Nesb\u00f8",
+    "year": 2008,
+    "isbn_13": "9788606873495",
+    "isbn_10": "8606873494",
+    "pages": 265,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "Blood on Snow",
+    "author": "Jo Nesb\u00f8",
+    "year": 2015,
+    "isbn_13": "9781384440231",
+    "isbn_10": "1384440239",
+    "pages": 198,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "Midnight Sun",
+    "author": "Jo Nesb\u00f8",
+    "year": 2015,
+    "isbn_13": "9782964753505",
+    "isbn_10": "2964753507",
+    "pages": 259,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "Macbeth",
+    "author": "Jo Nesb\u00f8",
+    "year": 2018,
+    "isbn_13": "9780374110246",
+    "isbn_10": "0374110244",
+    "pages": 480,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "The Son",
+    "author": "Jo Nesb\u00f8",
+    "year": 2014,
+    "isbn_13": "9782242359290",
+    "isbn_10": "2242359290",
+    "pages": 506,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "no",
+    "description": ""
+  },
+  {
+    "title": "Faceless Killers",
+    "author": "Henning Mankell",
+    "year": 1991,
+    "isbn_13": "9780205449569",
+    "isbn_10": "0205449566",
+    "pages": 310,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "description": ""
+  },
+  {
+    "title": "The Dogs of Riga",
+    "author": "Henning Mankell",
+    "year": 1992,
+    "isbn_13": "9782383236566",
+    "isbn_10": "2383236561",
+    "pages": 326,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "description": ""
+  },
+  {
+    "title": "The White Lioness",
+    "author": "Henning Mankell",
+    "year": 1993,
+    "isbn_13": "9786627053575",
+    "isbn_10": "6627053573",
+    "pages": 406,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "description": ""
+  },
+  {
+    "title": "The Man Who Smiled",
+    "author": "Henning Mankell",
+    "year": 1994,
+    "isbn_13": "9782900920114",
+    "isbn_10": "2900920115",
+    "pages": 339,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "description": ""
+  },
+  {
+    "title": "Sidetracked",
+    "author": "Henning Mankell",
+    "year": 1995,
+    "isbn_13": "9783191931216",
+    "isbn_10": "3191931211",
+    "pages": 410,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "description": ""
+  },
+  {
+    "title": "The Fifth Woman",
+    "author": "Henning Mankell",
+    "year": 1996,
+    "isbn_13": "9782760806320",
+    "isbn_10": "2760806327",
+    "pages": 404,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "description": ""
+  },
+  {
+    "title": "One Step Behind",
+    "author": "Henning Mankell",
+    "year": 1997,
+    "isbn_13": "9785427178129",
+    "isbn_10": "5427178120",
+    "pages": 407,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "description": ""
+  },
+  {
+    "title": "Firewall",
+    "author": "Henning Mankell",
+    "year": 1998,
+    "isbn_13": "9787446065466",
+    "isbn_10": "7446065461",
+    "pages": 402,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "description": ""
+  },
+  {
+    "title": "Before the Frost",
+    "author": "Henning Mankell",
+    "year": 2002,
+    "isbn_13": "9787714203002",
+    "isbn_10": "7714203006",
+    "pages": 371,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "description": ""
+  },
+  {
+    "title": "The Troubled Man",
+    "author": "Henning Mankell",
+    "year": 2009,
+    "isbn_13": "9785620320080",
+    "isbn_10": "562032008X",
+    "pages": 518,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "description": ""
+  },
+  {
+    "title": "An Event in Autumn",
+    "author": "Henning Mankell",
+    "year": 2013,
+    "isbn_13": "9781022640160",
+    "isbn_10": "1022640161",
+    "pages": 130,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "description": ""
+  },
+  {
+    "title": "The Return of the Dancing Master",
+    "author": "Henning Mankell",
+    "year": 2000,
+    "isbn_13": "9781937673970",
+    "isbn_10": "1937673972",
+    "pages": 391,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "description": ""
+  },
+  {
+    "title": "Kennedy's Brain",
+    "author": "Henning Mankell",
+    "year": 2005,
+    "isbn_13": "9782215135357",
+    "isbn_10": "2215135359",
+    "pages": 384,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "description": ""
+  },
+  {
+    "title": "The Eye of the Leopard",
+    "author": "Henning Mankell",
+    "year": 2008,
+    "isbn_13": "9788324048212",
+    "isbn_10": "8324048212",
+    "pages": 325,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "description": ""
+  },
+  {
+    "title": "Italian Shoes",
+    "author": "Henning Mankell",
+    "year": 2006,
+    "isbn_13": "9783711608550",
+    "isbn_10": "3711608553",
+    "pages": 310,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction",
+      "Literary Fiction"
+    ],
+    "language": "sv",
+    "description": ""
+  },
+  {
+    "title": "Daniel",
+    "author": "Henning Mankell",
+    "year": 2000,
+    "isbn_13": "9786594554310",
+    "isbn_10": "6594554311",
+    "pages": 442,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction",
+      "Historical Fiction"
+    ],
+    "language": "sv",
+    "description": ""
+  }
+]

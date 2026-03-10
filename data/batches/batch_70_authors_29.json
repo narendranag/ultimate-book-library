@@ -1,0 +1,1399 @@
+[
+  {
+    "title": "Reaper's Gale",
+    "author": "Steven Erikson",
+    "year": 2007,
+    "isbn_13": "9784321752305",
+    "isbn_10": "4321752309",
+    "pages": 902,
+    "genres": [
+      "Fantasy",
+      "Epic Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Toll the Hounds",
+    "author": "Steven Erikson",
+    "year": 2008,
+    "isbn_13": "9782150830126",
+    "isbn_10": "2150830127",
+    "pages": 1263,
+    "genres": [
+      "Fantasy",
+      "Epic Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Dust of Dreams",
+    "author": "Steven Erikson",
+    "year": 2009,
+    "isbn_13": "9788515819393",
+    "isbn_10": "8515819399",
+    "pages": 887,
+    "genres": [
+      "Fantasy",
+      "Epic Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Crippled God",
+    "author": "Steven Erikson",
+    "year": 2011,
+    "isbn_13": "9785617511484",
+    "isbn_10": "5617511488",
+    "pages": 895,
+    "genres": [
+      "Fantasy",
+      "Epic Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Forge of Darkness",
+    "author": "Steven Erikson",
+    "year": 2012,
+    "isbn_13": "9785253351055",
+    "isbn_10": "525335105X",
+    "pages": 752,
+    "genres": [
+      "Fantasy",
+      "Epic Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Fall of Light",
+    "author": "Steven Erikson",
+    "year": 2016,
+    "isbn_13": "9784018023435",
+    "isbn_10": "4018023431",
+    "pages": 880,
+    "genres": [
+      "Fantasy",
+      "Epic Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Walk in Shadow",
+    "author": "Steven Erikson",
+    "year": 2024,
+    "isbn_13": "9782455031815",
+    "isbn_10": "2455031810",
+    "pages": 900,
+    "genres": [
+      "Fantasy",
+      "Epic Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Beauty",
+    "author": "Robin McKinley",
+    "year": 1978,
+    "isbn_13": "9781351349321",
+    "isbn_10": "1351349326",
+    "pages": 247,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Door in the Hedge",
+    "author": "Robin McKinley",
+    "year": 1981,
+    "isbn_13": "9780146577123",
+    "isbn_10": "0146577127",
+    "pages": 232,
+    "genres": [
+      "Fantasy",
+      "Short Stories"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Blue Sword",
+    "author": "Robin McKinley",
+    "year": 1982,
+    "isbn_13": "9782952360845",
+    "isbn_10": "2952360844",
+    "pages": 272,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Hero and the Crown",
+    "author": "Robin McKinley",
+    "year": 1984,
+    "isbn_13": "9784085135093",
+    "isbn_10": "4085135090",
+    "pages": 227,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Outlaws of Sherwood",
+    "author": "Robin McKinley",
+    "year": 1988,
+    "isbn_13": "9781045722126",
+    "isbn_10": "1045722121",
+    "pages": 282,
+    "genres": [
+      "Fantasy",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Deerskin",
+    "author": "Robin McKinley",
+    "year": 1993,
+    "isbn_13": "9780723256243",
+    "isbn_10": "072325624X",
+    "pages": 309,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Rose Daughter",
+    "author": "Robin McKinley",
+    "year": 1997,
+    "isbn_13": "9788452355343",
+    "isbn_10": "8452355348",
+    "pages": 306,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Spindle's End",
+    "author": "Robin McKinley",
+    "year": 2000,
+    "isbn_13": "9789555500975",
+    "isbn_10": "9555500976",
+    "pages": 354,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Sunshine",
+    "author": "Robin McKinley",
+    "year": 2003,
+    "isbn_13": "9784848349163",
+    "isbn_10": "4848349163",
+    "pages": 389,
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Dragonhaven",
+    "author": "Robin McKinley",
+    "year": 2007,
+    "isbn_13": "9785352233290",
+    "isbn_10": "5352233297",
+    "pages": 342,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Pegasus",
+    "author": "Robin McKinley",
+    "year": 2010,
+    "isbn_13": "9783438360199",
+    "isbn_10": "3438360196",
+    "pages": 404,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Chalice",
+    "author": "Robin McKinley",
+    "year": 2008,
+    "isbn_13": "9782898043826",
+    "isbn_10": "2898043825",
+    "pages": 263,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Road Through the Wall",
+    "author": "Shirley Jackson",
+    "year": 1948,
+    "isbn_13": "9789455124080",
+    "isbn_10": "9455124087",
+    "pages": 254,
+    "genres": [
+      "Horror",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Hangsaman",
+    "author": "Shirley Jackson",
+    "year": 1951,
+    "isbn_13": "9783493000214",
+    "isbn_10": "3493000212",
+    "pages": 218,
+    "genres": [
+      "Horror",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Bird's Nest",
+    "author": "Shirley Jackson",
+    "year": 1954,
+    "isbn_13": "9780714330150",
+    "isbn_10": "0714330152",
+    "pages": 276,
+    "genres": [
+      "Horror",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Sundial",
+    "author": "Shirley Jackson",
+    "year": 1958,
+    "isbn_13": "9781171446453",
+    "isbn_10": "1171446457",
+    "pages": 245,
+    "genres": [
+      "Horror",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Haunting of Hill House",
+    "author": "Shirley Jackson",
+    "year": 1959,
+    "isbn_13": "9783411003013",
+    "isbn_10": "3411003017",
+    "pages": 246,
+    "genres": [
+      "Horror",
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "We Have Always Lived in the Castle",
+    "author": "Shirley Jackson",
+    "year": 1962,
+    "isbn_13": "9785204435728",
+    "isbn_10": "5204435724",
+    "pages": 214,
+    "genres": [
+      "Horror",
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Life Among the Savages",
+    "author": "Shirley Jackson",
+    "year": 1953,
+    "isbn_13": "9784429306141",
+    "isbn_10": "442930614X",
+    "pages": 241,
+    "genres": [
+      "Horror",
+      "Literary Fiction",
+      "Humor",
+      "Memoir"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Raising Demons",
+    "author": "Shirley Jackson",
+    "year": 1957,
+    "isbn_13": "9780224640633",
+    "isbn_10": "022464063X",
+    "pages": 302,
+    "genres": [
+      "Horror",
+      "Literary Fiction",
+      "Humor",
+      "Memoir"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Lottery and Other Stories",
+    "author": "Shirley Jackson",
+    "year": 1949,
+    "isbn_13": "9780470922156",
+    "isbn_10": "0470922151",
+    "pages": 302,
+    "genres": [
+      "Horror",
+      "Literary Fiction",
+      "Short Stories",
+      "Classic"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Come Along with Me",
+    "author": "Shirley Jackson",
+    "year": 1968,
+    "isbn_13": "9782310050456",
+    "isbn_10": "2310050453",
+    "pages": 268,
+    "genres": [
+      "Horror",
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Julia",
+    "author": "Peter Straub",
+    "year": 1975,
+    "isbn_13": "9787232494951",
+    "isbn_10": "7232494956",
+    "pages": 284,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "If You Could See Me Now",
+    "author": "Peter Straub",
+    "year": 1977,
+    "isbn_13": "9781100544014",
+    "isbn_10": "110054401X",
+    "pages": 286,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Ghost Story",
+    "author": "Peter Straub",
+    "year": 1979,
+    "isbn_13": "9780831490010",
+    "isbn_10": "0831490019",
+    "pages": 567,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Shadowland",
+    "author": "Peter Straub",
+    "year": 1980,
+    "isbn_13": "9784724414961",
+    "isbn_10": "4724414960",
+    "pages": 466,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Floating Dragon",
+    "author": "Peter Straub",
+    "year": 1983,
+    "isbn_13": "9783189936230",
+    "isbn_10": "3189936237",
+    "pages": 515,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Talisman",
+    "author": "Peter Straub",
+    "year": 1984,
+    "isbn_13": "9783136743416",
+    "isbn_10": "3136743416",
+    "pages": 646,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Koko",
+    "author": "Peter Straub",
+    "year": 1988,
+    "isbn_13": "9781746300593",
+    "isbn_10": "1746300590",
+    "pages": 562,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Mystery",
+    "author": "Peter Straub",
+    "year": 1990,
+    "isbn_13": "9788138637510",
+    "isbn_10": "8138637511",
+    "pages": 548,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Throat",
+    "author": "Peter Straub",
+    "year": 1993,
+    "isbn_13": "9787058820286",
+    "isbn_10": "7058820284",
+    "pages": 689,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Hellfire Club",
+    "author": "Peter Straub",
+    "year": 1996,
+    "isbn_13": "9781896896557",
+    "isbn_10": "1896896558",
+    "pages": 462,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Mr. X",
+    "author": "Peter Straub",
+    "year": 1999,
+    "isbn_13": "9785142000521",
+    "isbn_10": "5142000523",
+    "pages": 482,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "lost boy lost girl",
+    "author": "Peter Straub",
+    "year": 2003,
+    "isbn_13": "9782747118408",
+    "isbn_10": "274711840X",
+    "pages": 281,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "In the Night Room",
+    "author": "Peter Straub",
+    "year": 2004,
+    "isbn_13": "9784154547154",
+    "isbn_10": "415454715X",
+    "pages": 243,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "A Dark Matter",
+    "author": "Peter Straub",
+    "year": 2010,
+    "isbn_13": "9786330230546",
+    "isbn_10": "6330230547",
+    "pages": 397,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Black House",
+    "author": "Peter Straub",
+    "year": 2001,
+    "isbn_13": "9788812432189",
+    "isbn_10": "8812432189",
+    "pages": 625,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Damnation Game",
+    "author": "Clive Barker",
+    "year": 1985,
+    "isbn_13": "9785930514421",
+    "isbn_10": "5930514422",
+    "pages": 379,
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Hellbound Heart",
+    "author": "Clive Barker",
+    "year": 1986,
+    "isbn_13": "9785192308141",
+    "isbn_10": "5192308148",
+    "pages": 163,
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Weaveworld",
+    "author": "Clive Barker",
+    "year": 1987,
+    "isbn_13": "9783500050652",
+    "isbn_10": "3500050657",
+    "pages": 722,
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Cabal",
+    "author": "Clive Barker",
+    "year": 1988,
+    "isbn_13": "9780137235735",
+    "isbn_10": "0137235732",
+    "pages": 264,
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Great and Secret Show",
+    "author": "Clive Barker",
+    "year": 1989,
+    "isbn_13": "9787650200295",
+    "isbn_10": "7650200292",
+    "pages": 550,
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Imajica",
+    "author": "Clive Barker",
+    "year": 1991,
+    "isbn_13": "9788427254541",
+    "isbn_10": "8427254544",
+    "pages": 824,
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Thief of Always",
+    "author": "Clive Barker",
+    "year": 1992,
+    "isbn_13": "9780287542448",
+    "isbn_10": "0287542440",
+    "pages": 230,
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Everville",
+    "author": "Clive Barker",
+    "year": 1994,
+    "isbn_13": "9781302783327",
+    "isbn_10": "1302783324",
+    "pages": 484,
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Sacrament",
+    "author": "Clive Barker",
+    "year": 1996,
+    "isbn_13": "9786241400496",
+    "isbn_10": "6241400496",
+    "pages": 550,
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Galilee",
+    "author": "Clive Barker",
+    "year": 1998,
+    "isbn_13": "9784333257430",
+    "isbn_10": "4333257438",
+    "pages": 560,
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Coldheart Canyon",
+    "author": "Clive Barker",
+    "year": 2001,
+    "isbn_13": "9784842354194",
+    "isbn_10": "4842354197",
+    "pages": 676,
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Mister B. Gone",
+    "author": "Clive Barker",
+    "year": 2007,
+    "isbn_13": "9788170406594",
+    "isbn_10": "8170406596",
+    "pages": 247,
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Scarlet Gospels",
+    "author": "Clive Barker",
+    "year": 2015,
+    "isbn_13": "9784876026418",
+    "isbn_10": "4876026415",
+    "pages": 369,
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Books of Blood",
+    "author": "Clive Barker",
+    "year": 1984,
+    "isbn_13": "9782253415206",
+    "isbn_10": "2253415200",
+    "pages": 462,
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "Short Stories"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Irish Thoroughbred",
+    "author": "Nora Roberts",
+    "year": 1981,
+    "isbn_13": "9783258542959",
+    "isbn_10": "3258542958",
+    "pages": 256,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Untamed",
+    "author": "Nora Roberts",
+    "year": 1983,
+    "isbn_13": "9780521213462",
+    "isbn_10": "0521213460",
+    "pages": 256,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "This Magic Moment",
+    "author": "Nora Roberts",
+    "year": 1983,
+    "isbn_13": "9783318412246",
+    "isbn_10": "3318412247",
+    "pages": 256,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Born in Fire",
+    "author": "Nora Roberts",
+    "year": 1994,
+    "isbn_13": "9787075729241",
+    "isbn_10": "707572924X",
+    "pages": 400,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Born in Ice",
+    "author": "Nora Roberts",
+    "year": 1995,
+    "isbn_13": "9781430428459",
+    "isbn_10": "1430428454",
+    "pages": 387,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Born in Shame",
+    "author": "Nora Roberts",
+    "year": 1996,
+    "isbn_13": "9788812812141",
+    "isbn_10": "8812812144",
+    "pages": 384,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Reef",
+    "author": "Nora Roberts",
+    "year": 1998,
+    "isbn_13": "9786554562164",
+    "isbn_10": "6554562163",
+    "pages": 448,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "River's End",
+    "author": "Nora Roberts",
+    "year": 1999,
+    "isbn_13": "9784615673781",
+    "isbn_10": "4615673784",
+    "pages": 419,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Carolina Moon",
+    "author": "Nora Roberts",
+    "year": 2000,
+    "isbn_13": "9788960132108",
+    "isbn_10": "896013210X",
+    "pages": 437,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Villa",
+    "author": "Nora Roberts",
+    "year": 2001,
+    "isbn_13": "9781251659810",
+    "isbn_10": "1251659810",
+    "pages": 468,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Midnight Bayou",
+    "author": "Nora Roberts",
+    "year": 2001,
+    "isbn_13": "9783136357149",
+    "isbn_10": "3136357140",
+    "pages": 352,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Chesapeake Blue",
+    "author": "Nora Roberts",
+    "year": 2002,
+    "isbn_13": "9781320549035",
+    "isbn_10": "1320549032",
+    "pages": 336,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Three Fates",
+    "author": "Nora Roberts",
+    "year": 2002,
+    "isbn_13": "9782441404227",
+    "isbn_10": "2441404222",
+    "pages": 454,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Birthright",
+    "author": "Nora Roberts",
+    "year": 2003,
+    "isbn_13": "9789038123127",
+    "isbn_10": "9038123127",
+    "pages": 451,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Northern Lights",
+    "author": "Nora Roberts",
+    "year": 2004,
+    "isbn_13": "9782201450945",
+    "isbn_10": "2201450948",
+    "pages": 500,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Blue Smoke",
+    "author": "Nora Roberts",
+    "year": 2005,
+    "isbn_13": "9783307823251",
+    "isbn_10": "3307823255",
+    "pages": 472,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Angels Fall",
+    "author": "Nora Roberts",
+    "year": 2006,
+    "isbn_13": "9781800282537",
+    "isbn_10": "1800282539",
+    "pages": 422,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "High Noon",
+    "author": "Nora Roberts",
+    "year": 2007,
+    "isbn_13": "9783021563303",
+    "isbn_10": "3021563302",
+    "pages": 452,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Tribute",
+    "author": "Nora Roberts",
+    "year": 2008,
+    "isbn_13": "9783253554803",
+    "isbn_10": "3253554806",
+    "pages": 452,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Black Hills",
+    "author": "Nora Roberts",
+    "year": 2009,
+    "isbn_13": "9784034333297",
+    "isbn_10": "4034333297",
+    "pages": 452,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Search",
+    "author": "Nora Roberts",
+    "year": 2010,
+    "isbn_13": "9784125595634",
+    "isbn_10": "412559563X",
+    "pages": 480,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Chasing Fire",
+    "author": "Nora Roberts",
+    "year": 2011,
+    "isbn_13": "9781227432027",
+    "isbn_10": "1227432021",
+    "pages": 472,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Witness",
+    "author": "Nora Roberts",
+    "year": 2012,
+    "isbn_13": "9785615209314",
+    "isbn_10": "5615209318",
+    "pages": 488,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Whiskey Beach",
+    "author": "Nora Roberts",
+    "year": 2013,
+    "isbn_13": "9781341035074",
+    "isbn_10": "1341035074",
+    "pages": 480,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Collector",
+    "author": "Nora Roberts",
+    "year": 2014,
+    "isbn_13": "9782064112721",
+    "isbn_10": "2064112728",
+    "pages": 470,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Liar",
+    "author": "Nora Roberts",
+    "year": 2015,
+    "isbn_13": "9782228554305",
+    "isbn_10": "2228554303",
+    "pages": 496,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Obsession",
+    "author": "Nora Roberts",
+    "year": 2016,
+    "isbn_13": "9781390134919",
+    "isbn_10": "139013491X",
+    "pages": 453,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Come Sundown",
+    "author": "Nora Roberts",
+    "year": 2017,
+    "isbn_13": "9781545854174",
+    "isbn_10": "1545854178",
+    "pages": 496,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Shelter in Place",
+    "author": "Nora Roberts",
+    "year": 2018,
+    "isbn_13": "9783250850120",
+    "isbn_10": "3250850123",
+    "pages": 464,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Under Currents",
+    "author": "Nora Roberts",
+    "year": 2019,
+    "isbn_13": "9783151220046",
+    "isbn_10": "3151220046",
+    "pages": 464,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Hideaway",
+    "author": "Nora Roberts",
+    "year": 2020,
+    "isbn_13": "9788406150123",
+    "isbn_10": "8406150129",
+    "pages": 464,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Legacy",
+    "author": "Nora Roberts",
+    "year": 2021,
+    "isbn_13": "9780161352545",
+    "isbn_10": "0161352546",
+    "pages": 432,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Outlander",
+    "author": "Diana Gabaldon",
+    "year": 1991,
+    "isbn_13": "9783566142650",
+    "isbn_10": "3566142657",
+    "pages": 850,
+    "genres": [
+      "Romance",
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Dragonfly in Amber",
+    "author": "Diana Gabaldon",
+    "year": 1992,
+    "isbn_13": "9781140692621",
+    "isbn_10": "1140692628",
+    "pages": 947,
+    "genres": [
+      "Romance",
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Voyager",
+    "author": "Diana Gabaldon",
+    "year": 1993,
+    "isbn_13": "9781745090747",
+    "isbn_10": "1745090745",
+    "pages": 1059,
+    "genres": [
+      "Romance",
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Drums of Autumn",
+    "author": "Diana Gabaldon",
+    "year": 1996,
+    "isbn_13": "9780016375927",
+    "isbn_10": "0016375920",
+    "pages": 880,
+    "genres": [
+      "Romance",
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Fiery Cross",
+    "author": "Diana Gabaldon",
+    "year": 2001,
+    "isbn_13": "9787325161050",
+    "isbn_10": "7325161050",
+    "pages": 979,
+    "genres": [
+      "Romance",
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "A Breath of Snow and Ashes",
+    "author": "Diana Gabaldon",
+    "year": 2005,
+    "isbn_13": "9780888135063",
+    "isbn_10": "0888135063",
+    "pages": 980,
+    "genres": [
+      "Romance",
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "An Echo in the Bone",
+    "author": "Diana Gabaldon",
+    "year": 2009,
+    "isbn_13": "9784086402347",
+    "isbn_10": "4086402348",
+    "pages": 820,
+    "genres": [
+      "Romance",
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Written in My Own Heart's Blood",
+    "author": "Diana Gabaldon",
+    "year": 2014,
+    "isbn_13": "9787611750395",
+    "isbn_10": "7611750392",
+    "pages": 825,
+    "genres": [
+      "Romance",
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Go Tell the Bees That I Am Gone",
+    "author": "Diana Gabaldon",
+    "year": 2021,
+    "isbn_13": "9783089525190",
+    "isbn_10": "3089525197",
+    "pages": 896,
+    "genres": [
+      "Romance",
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Notebook",
+    "author": "Nicholas Sparks",
+    "year": 1996,
+    "isbn_13": "9784880069609",
+    "isbn_10": "4880069607",
+    "pages": 214,
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "description": ""
+  }
+]

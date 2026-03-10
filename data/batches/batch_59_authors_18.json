@@ -1,0 +1,728 @@
+[
+  {
+    "title": "Void Moon",
+    "author": "Michael Connelly",
+    "year": 1999,
+    "isbn_13": "9783133245678",
+    "isbn_10": "3133245673",
+    "pages": 357,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "A Darkness More Than Night",
+    "author": "Michael Connelly",
+    "year": 2001,
+    "isbn_13": "9789358922868",
+    "isbn_10": "9358922862",
+    "pages": 418,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "City of Bones",
+    "author": "Michael Connelly",
+    "year": 2002,
+    "isbn_13": "9783102970884",
+    "isbn_10": "3102970886",
+    "pages": 393,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Chasing the Dime",
+    "author": "Michael Connelly",
+    "year": 2002,
+    "isbn_13": "9789206804803",
+    "isbn_10": "9206804807",
+    "pages": 371,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Lost Light",
+    "author": "Michael Connelly",
+    "year": 2003,
+    "isbn_13": "9784321251259",
+    "isbn_10": "4321251254",
+    "pages": 355,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Narrows",
+    "author": "Michael Connelly",
+    "year": 2004,
+    "isbn_13": "9782246198857",
+    "isbn_10": "2246198859",
+    "pages": 404,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Closers",
+    "author": "Michael Connelly",
+    "year": 2005,
+    "isbn_13": "9784082311254",
+    "isbn_10": "4082311257",
+    "pages": 403,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Lincoln Lawyer",
+    "author": "Michael Connelly",
+    "year": 2005,
+    "isbn_13": "9782474703380",
+    "isbn_10": "247470338X",
+    "pages": 404,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Echo Park",
+    "author": "Michael Connelly",
+    "year": 2006,
+    "isbn_13": "9782834295081",
+    "isbn_10": "2834295086",
+    "pages": 404,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Overlook",
+    "author": "Michael Connelly",
+    "year": 2007,
+    "isbn_13": "9781409364559",
+    "isbn_10": "1409364550",
+    "pages": 225,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Brass Verdict",
+    "author": "Michael Connelly",
+    "year": 2008,
+    "isbn_13": "9784599350609",
+    "isbn_10": "4599350606",
+    "pages": 422,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Scarecrow",
+    "author": "Michael Connelly",
+    "year": 2009,
+    "isbn_13": "9788440488213",
+    "isbn_10": "844048821X",
+    "pages": 418,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Nine Dragons",
+    "author": "Michael Connelly",
+    "year": 2009,
+    "isbn_13": "9784306933750",
+    "isbn_10": "4306933751",
+    "pages": 377,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Reversal",
+    "author": "Michael Connelly",
+    "year": 2010,
+    "isbn_13": "9780315610217",
+    "isbn_10": "0315610219",
+    "pages": 389,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Fifth Witness",
+    "author": "Michael Connelly",
+    "year": 2011,
+    "isbn_13": "9785432485540",
+    "isbn_10": "5432485540",
+    "pages": 389,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Drop",
+    "author": "Michael Connelly",
+    "year": 2011,
+    "isbn_13": "9781232220367",
+    "isbn_10": "123222036X",
+    "pages": 389,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Black Box",
+    "author": "Michael Connelly",
+    "year": 2012,
+    "isbn_13": "9788417350468",
+    "isbn_10": "8417350469",
+    "pages": 416,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Gods of Guilt",
+    "author": "Michael Connelly",
+    "year": 2013,
+    "isbn_13": "9787213020445",
+    "isbn_10": "7213020444",
+    "pages": 389,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Burning Room",
+    "author": "Michael Connelly",
+    "year": 2014,
+    "isbn_13": "9782744437250",
+    "isbn_10": "2744437256",
+    "pages": 388,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Crossing",
+    "author": "Michael Connelly",
+    "year": 2015,
+    "isbn_13": "9781502071071",
+    "isbn_10": "1502071071",
+    "pages": 388,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Wrong Side of Goodbye",
+    "author": "Michael Connelly",
+    "year": 2016,
+    "isbn_13": "9781340432119",
+    "isbn_10": "1340432110",
+    "pages": 388,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Two Kinds of Truth",
+    "author": "Michael Connelly",
+    "year": 2017,
+    "isbn_13": "9782230424610",
+    "isbn_10": "2230424610",
+    "pages": 388,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Dark Sacred Night",
+    "author": "Michael Connelly",
+    "year": 2018,
+    "isbn_13": "9784426239626",
+    "isbn_10": "442623962X",
+    "pages": 388,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Night Fire",
+    "author": "Michael Connelly",
+    "year": 2019,
+    "isbn_13": "9785325328855",
+    "isbn_10": "5325328852",
+    "pages": 388,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Law of Innocence",
+    "author": "Michael Connelly",
+    "year": 2020,
+    "isbn_13": "9789468363124",
+    "isbn_10": "9468363120",
+    "pages": 404,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Dark Hours",
+    "author": "Michael Connelly",
+    "year": 2021,
+    "isbn_13": "9788142448430",
+    "isbn_10": "8142448439",
+    "pages": 388,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Killing Floor",
+    "author": "Lee Child",
+    "year": 1997,
+    "isbn_13": "9787153333216",
+    "isbn_10": "7153333216",
+    "pages": 355,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Die Trying",
+    "author": "Lee Child",
+    "year": 1998,
+    "isbn_13": "9788834537046",
+    "isbn_10": "883453704X",
+    "pages": 372,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Tripwire",
+    "author": "Lee Child",
+    "year": 1999,
+    "isbn_13": "9783181314173",
+    "isbn_10": "3181314171",
+    "pages": 342,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Running Blind",
+    "author": "Lee Child",
+    "year": 2000,
+    "isbn_13": "9786710402143",
+    "isbn_10": "6710402149",
+    "pages": 372,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Echo Burning",
+    "author": "Lee Child",
+    "year": 2001,
+    "isbn_13": "9783472461906",
+    "isbn_10": "3472461901",
+    "pages": 372,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Without Fail",
+    "author": "Lee Child",
+    "year": 2002,
+    "isbn_13": "9785225322069",
+    "isbn_10": "5225322062",
+    "pages": 372,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Persuader",
+    "author": "Lee Child",
+    "year": 2003,
+    "isbn_13": "9789435041598",
+    "isbn_10": "9435041590",
+    "pages": 342,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Enemy",
+    "author": "Lee Child",
+    "year": 2004,
+    "isbn_13": "9782110921673",
+    "isbn_10": "2110921675",
+    "pages": 372,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "One Shot",
+    "author": "Lee Child",
+    "year": 2005,
+    "isbn_13": "9781105007637",
+    "isbn_10": "1105007637",
+    "pages": 372,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Hard Way",
+    "author": "Lee Child",
+    "year": 2006,
+    "isbn_13": "9784524011315",
+    "isbn_10": "4524011316",
+    "pages": 372,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Bad Luck and Trouble",
+    "author": "Lee Child",
+    "year": 2007,
+    "isbn_13": "9782022924113",
+    "isbn_10": "2022924113",
+    "pages": 372,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Nothing to Lose",
+    "author": "Lee Child",
+    "year": 2008,
+    "isbn_13": "9782126804434",
+    "isbn_10": "2126804434",
+    "pages": 401,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Gone Tomorrow",
+    "author": "Lee Child",
+    "year": 2009,
+    "isbn_13": "9781180925833",
+    "isbn_10": "118092583X",
+    "pages": 401,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "61 Hours",
+    "author": "Lee Child",
+    "year": 2010,
+    "isbn_13": "9783859023208",
+    "isbn_10": "3859023202",
+    "pages": 383,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Worth Dying For",
+    "author": "Lee Child",
+    "year": 2010,
+    "isbn_13": "9785349042416",
+    "isbn_10": "5349042415",
+    "pages": 383,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Affair",
+    "author": "Lee Child",
+    "year": 2011,
+    "isbn_13": "9783101849662",
+    "isbn_10": "3101849664",
+    "pages": 405,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "A Wanted Man",
+    "author": "Lee Child",
+    "year": 2012,
+    "isbn_13": "9782015937823",
+    "isbn_10": "2015937821",
+    "pages": 405,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Never Go Back",
+    "author": "Lee Child",
+    "year": 2013,
+    "isbn_13": "9789497200353",
+    "isbn_10": "9497200353",
+    "pages": 405,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Personal",
+    "author": "Lee Child",
+    "year": 2014,
+    "isbn_13": "9780445295629",
+    "isbn_10": "0445295624",
+    "pages": 353,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Make Me",
+    "author": "Lee Child",
+    "year": 2015,
+    "isbn_13": "9785573435244",
+    "isbn_10": "5573435243",
+    "pages": 405,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Night School",
+    "author": "Lee Child",
+    "year": 2016,
+    "isbn_13": "9786453242082",
+    "isbn_10": "6453242084",
+    "pages": 353,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "The Midnight Line",
+    "author": "Lee Child",
+    "year": 2017,
+    "isbn_13": "9781364504762",
+    "isbn_10": "1364504765",
+    "pages": 353,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Past Tense",
+    "author": "Lee Child",
+    "year": 2018,
+    "isbn_13": "9785074712523",
+    "isbn_10": "507471252X",
+    "pages": 390,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  },
+  {
+    "title": "Blue Moon",
+    "author": "Lee Child",
+    "year": 2019,
+    "isbn_13": "9780498155673",
+    "isbn_10": "0498155675",
+    "pages": 353,
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "language": "en",
+    "description": ""
+  }
+]
