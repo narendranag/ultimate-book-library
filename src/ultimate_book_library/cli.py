@@ -312,6 +312,33 @@ def stats(
     console.print(f"\n  ISBN coverage: {with_isbn}/{len(books)} ({100 * with_isbn // len(books)}%)")
 
 
+# -- serve command --
+
+
+@app.command()
+def serve(
+    data: Annotated[Path | None, typer.Option(help="Path to books.json")] = None,
+    host: Annotated[str, typer.Option(help="Host to bind to")] = "127.0.0.1",
+    port: Annotated[int, typer.Option(help="Port to bind to")] = 8000,
+) -> None:
+    """Start the REST API server."""
+    try:
+        import uvicorn
+
+        from ultimate_book_library.api.app import create_app
+    except ImportError:
+        err_console.print(
+            "[red]API dependencies not installed.[/red] "
+            "Install with: pip install 'ultimate-book-library[api]'"
+        )
+        raise typer.Exit(1) from None
+
+    api_app = create_app(data_path=data)
+    console.print(f"Starting API server at [bold]http://{host}:{port}[/bold]")
+    console.print(f"  API docs: [link]http://{host}:{port}/docs[/link]")
+    uvicorn.run(api_app, host=host, port=port)
+
+
 # -- export command --
 
 
