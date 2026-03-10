@@ -1,0 +1,1288 @@
+[
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "year": 2008,
+    "isbn_13": "9784143415143",
+    "isbn_10": "4143415148",
+    "pages": 374,
+    "genres": [
+      "Young Adult",
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Catching Fire",
+    "author": "Suzanne Collins",
+    "year": 2009,
+    "isbn_13": "9784533449314",
+    "isbn_10": "4533449311",
+    "pages": 391,
+    "genres": [
+      "Young Adult",
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Mockingjay",
+    "author": "Suzanne Collins",
+    "year": 2010,
+    "isbn_13": "9789462211346",
+    "isbn_10": "9462211346",
+    "pages": 390,
+    "genres": [
+      "Young Adult",
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Ballad of Songbirds and Snakes",
+    "author": "Suzanne Collins",
+    "year": 2020,
+    "isbn_13": "9780195433326",
+    "isbn_10": "0195433324",
+    "pages": 517,
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sunrise on the Reaping",
+    "author": "Suzanne Collins",
+    "year": 2025,
+    "isbn_13": "9789328342146",
+    "isbn_10": "9328342144",
+    "pages": 400,
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Divergent",
+    "author": "Veronica Roth",
+    "year": 2011,
+    "isbn_13": "9780032122055",
+    "isbn_10": "0032122056",
+    "pages": 487,
+    "genres": [
+      "Young Adult",
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Insurgent",
+    "author": "Veronica Roth",
+    "year": 2012,
+    "isbn_13": "9782110125439",
+    "isbn_10": "2110125433",
+    "pages": 525,
+    "genres": [
+      "Young Adult",
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Allegiant",
+    "author": "Veronica Roth",
+    "year": 2013,
+    "isbn_13": "9784173405503",
+    "isbn_10": "4173405509",
+    "pages": 526,
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Maze Runner",
+    "author": "James Dashner",
+    "year": 2009,
+    "isbn_13": "9783400501032",
+    "isbn_10": "3400501037",
+    "pages": 375,
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Scorch Trials",
+    "author": "James Dashner",
+    "year": 2010,
+    "isbn_13": "9785449798848",
+    "isbn_10": "5449798842",
+    "pages": 360,
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Death Cure",
+    "author": "James Dashner",
+    "year": 2011,
+    "isbn_13": "9783391055149",
+    "isbn_10": "3391055145",
+    "pages": 325,
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "year": 1993,
+    "isbn_13": "9781037356155",
+    "isbn_10": "1037356159",
+    "pages": 180,
+    "genres": [
+      "Young Adult",
+      "Science Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Gathering Blue",
+    "author": "Lois Lowry",
+    "year": 2000,
+    "isbn_13": "9788260228860",
+    "isbn_10": "8260228865",
+    "pages": 215,
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Messenger",
+    "author": "Lois Lowry",
+    "year": 2004,
+    "isbn_13": "9785508352257",
+    "isbn_10": "5508352259",
+    "pages": 169,
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Son",
+    "author": "Lois Lowry",
+    "year": 2012,
+    "isbn_13": "9784762459245",
+    "isbn_10": "4762459240",
+    "pages": 393,
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Number the Stars",
+    "author": "Lois Lowry",
+    "year": 1989,
+    "isbn_13": "9786155491955",
+    "isbn_10": "6155491951",
+    "pages": 137,
+    "genres": [
+      "Young Adult",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "year": 2012,
+    "isbn_13": "9784341721008",
+    "isbn_10": "4341721008",
+    "pages": 313,
+    "genres": [
+      "Young Adult",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Looking for Alaska",
+    "author": "John Green",
+    "year": 2005,
+    "isbn_13": "9787013541348",
+    "isbn_10": "7013541345",
+    "pages": 221,
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "An Abundance of Katherines",
+    "author": "John Green",
+    "year": 2006,
+    "isbn_13": "9780163852050",
+    "isbn_10": "0163852054",
+    "pages": 227,
+    "genres": [
+      "Young Adult",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Paper Towns",
+    "author": "John Green",
+    "year": 2008,
+    "isbn_13": "9783172724851",
+    "isbn_10": "3172724852",
+    "pages": 305,
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Turtles All the Way Down",
+    "author": "John Green",
+    "year": 2017,
+    "isbn_13": "9783514834613",
+    "isbn_10": "3514834611",
+    "pages": 286,
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Anthropocene Reviewed",
+    "author": "John Green",
+    "year": 2021,
+    "isbn_13": "9783792263082",
+    "isbn_10": "3792263087",
+    "pages": 293,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Twilight",
+    "author": "Stephenie Meyer",
+    "year": 2005,
+    "isbn_13": "9785543434161",
+    "isbn_10": "5543434169",
+    "pages": 498,
+    "genres": [
+      "Young Adult",
+      "Romance",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "New Moon",
+    "author": "Stephenie Meyer",
+    "year": 2006,
+    "isbn_13": "9784349613640",
+    "isbn_10": "434961364X",
+    "pages": 563,
+    "genres": [
+      "Young Adult",
+      "Romance",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Eclipse",
+    "author": "Stephenie Meyer",
+    "year": 2007,
+    "isbn_13": "9780050002506",
+    "isbn_10": "0050002508",
+    "pages": 629,
+    "genres": [
+      "Young Adult",
+      "Romance",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Breaking Dawn",
+    "author": "Stephenie Meyer",
+    "year": 2008,
+    "isbn_13": "9780081660119",
+    "isbn_10": "008166011X",
+    "pages": 756,
+    "genres": [
+      "Young Adult",
+      "Romance",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Host",
+    "author": "Stephenie Meyer",
+    "year": 2008,
+    "isbn_13": "9784344953611",
+    "isbn_10": "4344953617",
+    "pages": 619,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Midnight Sun",
+    "author": "Stephenie Meyer",
+    "year": 2020,
+    "isbn_13": "9780116344465",
+    "isbn_10": "0116344465",
+    "pages": 658,
+    "genres": [
+      "Young Adult",
+      "Romance",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Percy Jackson and the Lightning Thief",
+    "author": "Rick Riordan",
+    "year": 2005,
+    "isbn_13": "9786110032421",
+    "isbn_10": "6110032426",
+    "pages": 375,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Percy Jackson and the Sea of Monsters",
+    "author": "Rick Riordan",
+    "year": 2006,
+    "isbn_13": "9785206264302",
+    "isbn_10": "5206264301",
+    "pages": 279,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Percy Jackson and the Titan's Curse",
+    "author": "Rick Riordan",
+    "year": 2007,
+    "isbn_13": "9780102300208",
+    "isbn_10": "0102300203",
+    "pages": 312,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Percy Jackson and the Battle of the Labyrinth",
+    "author": "Rick Riordan",
+    "year": 2008,
+    "isbn_13": "9781604333022",
+    "isbn_10": "1604333029",
+    "pages": 361,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Percy Jackson and the Last Olympian",
+    "author": "Rick Riordan",
+    "year": 2009,
+    "isbn_13": "9782234574540",
+    "isbn_10": "2234574547",
+    "pages": 381,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Red Pyramid",
+    "author": "Rick Riordan",
+    "year": 2010,
+    "isbn_13": "9787571213138",
+    "isbn_10": "7571213137",
+    "pages": 516,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Lost Hero",
+    "author": "Rick Riordan",
+    "year": 2010,
+    "isbn_13": "9787507127225",
+    "isbn_10": "7507127229",
+    "pages": 553,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Eragon",
+    "author": "Christopher Paolini",
+    "year": 2003,
+    "isbn_13": "9780031089519",
+    "isbn_10": "0031089513",
+    "pages": 503,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Eldest",
+    "author": "Christopher Paolini",
+    "year": 2005,
+    "isbn_13": "9783191033422",
+    "isbn_10": "3191033427",
+    "pages": 681,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Brisingr",
+    "author": "Christopher Paolini",
+    "year": 2008,
+    "isbn_13": "9780811612302",
+    "isbn_10": "0811612302",
+    "pages": 748,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Inheritance",
+    "author": "Christopher Paolini",
+    "year": 2011,
+    "isbn_13": "9786508351479",
+    "isbn_10": "6508351473",
+    "pages": 849,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "year": 2005,
+    "isbn_13": "9783025833518",
+    "isbn_10": "3025833518",
+    "pages": 552,
+    "genres": [
+      "Young Adult",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "I Am the Messenger",
+    "author": "Markus Zusak",
+    "year": 2002,
+    "isbn_13": "9782713384608",
+    "isbn_10": "2713384606",
+    "pages": 357,
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bridge to Terabithia",
+    "author": "Katherine Paterson",
+    "year": 1977,
+    "isbn_13": "9785711898122",
+    "isbn_10": "5711898127",
+    "pages": 128,
+    "genres": [
+      "Young Adult",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Jacob Have I Loved",
+    "author": "Katherine Paterson",
+    "year": 1980,
+    "isbn_13": "9782054414507",
+    "isbn_10": "2054414505",
+    "pages": 216,
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Holes",
+    "author": "Louis Sachar",
+    "year": 1998,
+    "isbn_13": "9782913742024",
+    "isbn_10": "2913742026",
+    "pages": 233,
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Hatchet",
+    "author": "Gary Paulsen",
+    "year": 1987,
+    "isbn_13": "9782343261843",
+    "isbn_10": "2343261842",
+    "pages": 195,
+    "genres": [
+      "Young Adult",
+      "Adventure"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Outsiders",
+    "author": "S.E. Hinton",
+    "year": 1967,
+    "isbn_13": "9782774207502",
+    "isbn_10": "2774207502",
+    "pages": 192,
+    "genres": [
+      "Young Adult",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "That Was Then, This Is Now",
+    "author": "S.E. Hinton",
+    "year": 1971,
+    "isbn_13": "9781342255327",
+    "isbn_10": "134225532X",
+    "pages": 159,
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Rumble Fish",
+    "author": "S.E. Hinton",
+    "year": 1975,
+    "isbn_13": "9784054939240",
+    "isbn_10": "4054939247",
+    "pages": 122,
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Tex",
+    "author": "S.E. Hinton",
+    "year": 1979,
+    "isbn_13": "9782271038449",
+    "isbn_10": "2271038443",
+    "pages": 194,
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Speak",
+    "author": "Laurie Halse Anderson",
+    "year": 1999,
+    "isbn_13": "9788320311198",
+    "isbn_10": "8320311196",
+    "pages": 198,
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Wintergirls",
+    "author": "Laurie Halse Anderson",
+    "year": 2009,
+    "isbn_13": "9781730548864",
+    "isbn_10": "1730548866",
+    "pages": 278,
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Chains",
+    "author": "Laurie Halse Anderson",
+    "year": 2008,
+    "isbn_13": "9787114531347",
+    "isbn_10": "7114531345",
+    "pages": 316,
+    "genres": [
+      "Young Adult",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Fever 1793",
+    "author": "Laurie Halse Anderson",
+    "year": 2000,
+    "isbn_13": "9785742125105",
+    "isbn_10": "5742125100",
+    "pages": 251,
+    "genres": [
+      "Young Adult",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "author": "Stephen Chbosky",
+    "year": 1999,
+    "isbn_13": "9782048501725",
+    "isbn_10": "2048501722",
+    "pages": 213,
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Stargirl",
+    "author": "Jerry Spinelli",
+    "year": 2000,
+    "isbn_13": "9783131314093",
+    "isbn_10": "3131314096",
+    "pages": 186,
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Maniac Magee",
+    "author": "Jerry Spinelli",
+    "year": 1990,
+    "isbn_13": "9788127383428",
+    "isbn_10": "8127383429",
+    "pages": 184,
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Monster",
+    "author": "Walter Dean Myers",
+    "year": 1999,
+    "isbn_13": "9788706268191",
+    "isbn_10": "8706268195",
+    "pages": 281,
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Scorpions",
+    "author": "Walter Dean Myers",
+    "year": 1988,
+    "isbn_13": "9782402183956",
+    "isbn_10": "2402183950",
+    "pages": 216,
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Fallen Angels",
+    "author": "Walter Dean Myers",
+    "year": 1988,
+    "isbn_13": "9783037506509",
+    "isbn_10": "3037506507",
+    "pages": 309,
+    "genres": [
+      "Young Adult",
+      "War"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Hate U Give",
+    "author": "Angie Thomas",
+    "year": 2017,
+    "isbn_13": "9786331152595",
+    "isbn_10": "6331152593",
+    "pages": 444,
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "On the Come Up",
+    "author": "Angie Thomas",
+    "year": 2019,
+    "isbn_13": "9781432195281",
+    "isbn_10": "1432195281",
+    "pages": 447,
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Concrete Rose",
+    "author": "Angie Thomas",
+    "year": 2021,
+    "isbn_13": "9781394070718",
+    "isbn_10": "1394070718",
+    "pages": 304,
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Children of Blood and Bone",
+    "author": "Tomi Adeyemi",
+    "year": 2018,
+    "isbn_13": "9781243133496",
+    "isbn_10": "1243133491",
+    "pages": 525,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Children of Virtue and Vengeance",
+    "author": "Tomi Adeyemi",
+    "year": 2019,
+    "isbn_13": "9782135330474",
+    "isbn_10": "2135330474",
+    "pages": 400,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Six of Crows",
+    "author": "Leigh Bardugo",
+    "year": 2015,
+    "isbn_13": "9783511415839",
+    "isbn_10": "3511415834",
+    "pages": 465,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Crooked Kingdom",
+    "author": "Leigh Bardugo",
+    "year": 2016,
+    "isbn_13": "9789420327928",
+    "isbn_10": "9420327929",
+    "pages": 536,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Shadow and Bone",
+    "author": "Leigh Bardugo",
+    "year": 2012,
+    "isbn_13": "9784253032766",
+    "isbn_10": "425303276X",
+    "pages": 358,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Siege and Storm",
+    "author": "Leigh Bardugo",
+    "year": 2013,
+    "isbn_13": "9783084411160",
+    "isbn_10": "3084411165",
+    "pages": 435,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ruin and Rising",
+    "author": "Leigh Bardugo",
+    "year": 2014,
+    "isbn_13": "9788598150550",
+    "isbn_10": "8598150551",
+    "pages": 422,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ninth House",
+    "author": "Leigh Bardugo",
+    "year": 2019,
+    "isbn_13": "9787928367798",
+    "isbn_10": "7928367798",
+    "pages": 458,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Cruel Prince",
+    "author": "Holly Black",
+    "year": 2018,
+    "isbn_13": "9789520662417",
+    "isbn_10": "9520662418",
+    "pages": 370,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Wicked King",
+    "author": "Holly Black",
+    "year": 2019,
+    "isbn_13": "9782743181833",
+    "isbn_10": "2743181837",
+    "pages": 336,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Queen of Nothing",
+    "author": "Holly Black",
+    "year": 2019,
+    "isbn_13": "9783131363404",
+    "isbn_10": "313136340X",
+    "pages": 308,
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Charlotte's Web",
+    "author": "E.B. White",
+    "year": 1952,
+    "isbn_13": "9781580994200",
+    "isbn_10": "1580994209",
+    "pages": 184,
+    "genres": [
+      "Children's",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Stuart Little",
+    "author": "E.B. White",
+    "year": 1945,
+    "isbn_13": "9781134091171",
+    "isbn_10": "1134091175",
+    "pages": 131,
+    "genres": [
+      "Children's",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Trumpet of the Swan",
+    "author": "E.B. White",
+    "year": 1970,
+    "isbn_13": "9782485497803",
+    "isbn_10": "2485497801",
+    "pages": 210,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Charlie and the Chocolate Factory",
+    "author": "Roald Dahl",
+    "year": 1964,
+    "isbn_13": "9787355346908",
+    "isbn_10": "7355346908",
+    "pages": 176,
+    "genres": [
+      "Children's",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "James and the Giant Peach",
+    "author": "Roald Dahl",
+    "year": 1961,
+    "isbn_13": "9785207512433",
+    "isbn_10": "5207512432",
+    "pages": 160,
+    "genres": [
+      "Children's",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Matilda",
+    "author": "Roald Dahl",
+    "year": 1988,
+    "isbn_13": "9782815358026",
+    "isbn_10": "2815358025",
+    "pages": 240,
+    "genres": [
+      "Children's",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The BFG",
+    "author": "Roald Dahl",
+    "year": 1982,
+    "isbn_13": "9783376021282",
+    "isbn_10": "3376021284",
+    "pages": 208,
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Witches",
+    "author": "Roald Dahl",
+    "year": 1983,
+    "isbn_13": "9788574478517",
+    "isbn_10": "8574478519",
+    "pages": 208,
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Danny the Champion of the World",
+    "author": "Roald Dahl",
+    "year": 1975,
+    "isbn_13": "9786043548259",
+    "isbn_10": "6043548252",
+    "pages": 196,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Fantastic Mr Fox",
+    "author": "Roald Dahl",
+    "year": 1970,
+    "isbn_13": "9786050944426",
+    "isbn_10": "6050944428",
+    "pages": 96,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Twits",
+    "author": "Roald Dahl",
+    "year": 1980,
+    "isbn_13": "9784061130418",
+    "isbn_10": "4061130419",
+    "pages": 112,
+    "genres": [
+      "Children's",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "George's Marvellous Medicine",
+    "author": "Roald Dahl",
+    "year": 1981,
+    "isbn_13": "9782744909191",
+    "isbn_10": "2744909191",
+    "pages": 89,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Boy: Tales of Childhood",
+    "author": "Roald Dahl",
+    "year": 1984,
+    "isbn_13": "9781561833443",
+    "isbn_10": "1561833447",
+    "pages": 176,
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Going Solo",
+    "author": "Roald Dahl",
+    "year": 1986,
+    "isbn_13": "9782120686227",
+    "isbn_10": "2120686221",
+    "pages": 209,
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Wrinkle in Time",
+    "author": "Madeleine L'Engle",
+    "year": 1962,
+    "isbn_13": "9782815214001",
+    "isbn_10": "2815214003",
+    "pages": 211,
+    "genres": [
+      "Children's",
+      "Science Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Wind in the Door",
+    "author": "Madeleine L'Engle",
+    "year": 1973,
+    "isbn_13": "9782707554253",
+    "isbn_10": "270755425X",
+    "pages": 211,
+    "genres": [
+      "Children's",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Swiftly Tilting Planet",
+    "author": "Madeleine L'Engle",
+    "year": 1978,
+    "isbn_13": "9785321244296",
+    "isbn_10": "5321244297",
+    "pages": 278,
+    "genres": [
+      "Children's",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "year": 1950,
+    "isbn_13": "9788031541259",
+    "isbn_10": "8031541255",
+    "pages": 206,
+    "genres": [
+      "Children's",
+      "Fantasy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Prince Caspian",
+    "author": "C.S. Lewis",
+    "year": 1951,
+    "isbn_13": "9789413445769",
+    "isbn_10": "941344576X",
+    "pages": 195,
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Voyage of the Dawn Treader",
+    "author": "C.S. Lewis",
+    "year": 1952,
+    "isbn_13": "9783241447315",
+    "isbn_10": "3241447315",
+    "pages": 223,
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Silver Chair",
+    "author": "C.S. Lewis",
+    "year": 1953,
+    "isbn_13": "9780843952001",
+    "isbn_10": "0843952003",
+    "pages": 217,
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Horse and His Boy",
+    "author": "C.S. Lewis",
+    "year": 1954,
+    "isbn_13": "9784035240488",
+    "isbn_10": "4035240485",
+    "pages": 199,
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Magician's Nephew",
+    "author": "C.S. Lewis",
+    "year": 1955,
+    "isbn_13": "9780016417016",
+    "isbn_10": "001641701X",
+    "pages": 183,
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Last Battle",
+    "author": "C.S. Lewis",
+    "year": 1956,
+    "isbn_13": "9781648543104",
+    "isbn_10": "1648543108",
+    "pages": 184,
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Phantom Tollbooth",
+    "author": "Norton Juster",
+    "year": 1961,
+    "isbn_13": "9781775238799",
+    "isbn_10": "1775238799",
+    "pages": 255,
+    "genres": [
+      "Children's",
+      "Fantasy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Where the Wild Things Are",
+    "author": "Maurice Sendak",
+    "year": 1963,
+    "isbn_13": "9786657624400",
+    "isbn_10": "6657624402",
+    "pages": 48,
+    "genres": [
+      "Children's",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Very Hungry Caterpillar",
+    "author": "Eric Carle",
+    "year": 1969,
+    "isbn_13": "9789352440092",
+    "isbn_10": "9352440092",
+    "pages": 22,
+    "genres": [
+      "Children's",
+      "Classic"
+    ],
+    "language": "en"
+  }
+]

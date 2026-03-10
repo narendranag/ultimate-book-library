@@ -1,0 +1,1297 @@
+[
+  {
+    "title": "The Hanging Valley",
+    "author": "Peter Robinson",
+    "year": 1989,
+    "isbn_13": "9783667262455",
+    "isbn_10": "3667262450",
+    "pages": 275,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Past Reason Hated",
+    "author": "Peter Robinson",
+    "year": 1991,
+    "isbn_13": "9785113020374",
+    "isbn_10": "5113020370",
+    "pages": 302,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Wednesday's Child",
+    "author": "Peter Robinson",
+    "year": 1992,
+    "isbn_13": "9789090357447",
+    "isbn_10": "9090357440",
+    "pages": 286,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dry Bones That Dream",
+    "author": "Peter Robinson",
+    "year": 1994,
+    "isbn_13": "9788275317047",
+    "isbn_10": "8275317046",
+    "pages": 302,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Innocent Graves",
+    "author": "Peter Robinson",
+    "year": 1996,
+    "isbn_13": "9782455336125",
+    "isbn_10": "2455336128",
+    "pages": 320,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Blood at the Root",
+    "author": "Peter Robinson",
+    "year": 1997,
+    "isbn_13": "9787003704500",
+    "isbn_10": "700370450X",
+    "pages": 336,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "In a Dry Season",
+    "author": "Peter Robinson",
+    "year": 1999,
+    "isbn_13": "9783520352866",
+    "isbn_10": "3520352862",
+    "pages": 403,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Cold Is the Grave",
+    "author": "Peter Robinson",
+    "year": 2000,
+    "isbn_13": "9782126486494",
+    "isbn_10": "2126486497",
+    "pages": 376,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Aftermath",
+    "author": "Peter Robinson",
+    "year": 2001,
+    "isbn_13": "9785209603498",
+    "isbn_10": "5209603490",
+    "pages": 384,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Close to Home",
+    "author": "Peter Robinson",
+    "year": 2003,
+    "isbn_13": "9780071133357",
+    "isbn_10": "0071133355",
+    "pages": 384,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Playing with Fire",
+    "author": "Peter Robinson",
+    "year": 2004,
+    "isbn_13": "9783944575018",
+    "isbn_10": "3944575015",
+    "pages": 384,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Strange Affair",
+    "author": "Peter Robinson",
+    "year": 2005,
+    "isbn_13": "9780811023566",
+    "isbn_10": "0811023564",
+    "pages": 384,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Piece of My Heart",
+    "author": "Peter Robinson",
+    "year": 2006,
+    "isbn_13": "9783365054307",
+    "isbn_10": "3365054303",
+    "pages": 416,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Friend of the Devil",
+    "author": "Peter Robinson",
+    "year": 2007,
+    "isbn_13": "9784565364838",
+    "isbn_10": "4565364839",
+    "pages": 400,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "All the Colours of Darkness",
+    "author": "Peter Robinson",
+    "year": 2008,
+    "isbn_13": "9781234616823",
+    "isbn_10": "1234616828",
+    "pages": 384,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bad Boy",
+    "author": "Peter Robinson",
+    "year": 2010,
+    "isbn_13": "9782965465131",
+    "isbn_10": "2965465133",
+    "pages": 384,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Watching the Dark",
+    "author": "Peter Robinson",
+    "year": 2012,
+    "isbn_13": "9785933438700",
+    "isbn_10": "5933438704",
+    "pages": 416,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Children of the Revolution",
+    "author": "Peter Robinson",
+    "year": 2013,
+    "isbn_13": "9784723212124",
+    "isbn_10": "4723212127",
+    "pages": 400,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Abattoir Blues",
+    "author": "Peter Robinson",
+    "year": 2014,
+    "isbn_13": "9787482833913",
+    "isbn_10": "7482833912",
+    "pages": 400,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "When the Music's Over",
+    "author": "Peter Robinson",
+    "year": 2016,
+    "isbn_13": "9784036392254",
+    "isbn_10": "4036392256",
+    "pages": 448,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sleeping in the Ground",
+    "author": "Peter Robinson",
+    "year": 2017,
+    "isbn_13": "9781249517252",
+    "isbn_10": "1249517254",
+    "pages": 400,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Careless Love",
+    "author": "Peter Robinson",
+    "year": 2018,
+    "isbn_13": "9788302195020",
+    "isbn_10": "8302195029",
+    "pages": 400,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Many Rivers to Cross",
+    "author": "Peter Robinson",
+    "year": 2019,
+    "isbn_13": "9784870367326",
+    "isbn_10": "4870367324",
+    "pages": 400,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Not Dark Yet",
+    "author": "Peter Robinson",
+    "year": 2021,
+    "isbn_13": "9780964851238",
+    "isbn_10": "0964851234",
+    "pages": 384,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Cuckoo's Calling",
+    "author": "Robert Galbraith",
+    "year": 2013,
+    "isbn_13": "9780515362459",
+    "isbn_10": "0515362451",
+    "pages": 449,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Silkworm",
+    "author": "Robert Galbraith",
+    "year": 2014,
+    "isbn_13": "9786055516147",
+    "isbn_10": "6055516147",
+    "pages": 455,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Career of Evil",
+    "author": "Robert Galbraith",
+    "year": 2015,
+    "isbn_13": "9784124111125",
+    "isbn_10": "4124111125",
+    "pages": 487,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Lethal White",
+    "author": "Robert Galbraith",
+    "year": 2018,
+    "isbn_13": "9785383210208",
+    "isbn_10": "5383210209",
+    "pages": 649,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Troubled Blood",
+    "author": "Robert Galbraith",
+    "year": 2020,
+    "isbn_13": "9781385557679",
+    "isbn_10": "1385557679",
+    "pages": 927,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Ink Black Heart",
+    "author": "Robert Galbraith",
+    "year": 2022,
+    "isbn_13": "9781543352542",
+    "isbn_10": "1543352546",
+    "pages": 1024,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Running Grave",
+    "author": "Robert Galbraith",
+    "year": 2023,
+    "isbn_13": "9782208788980",
+    "isbn_10": "2208788989",
+    "pages": 960,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Still Life",
+    "author": "Louise Penny",
+    "year": 2005,
+    "isbn_13": "9784087840032",
+    "isbn_10": "4087840037",
+    "pages": 312,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Fatal Grace",
+    "author": "Louise Penny",
+    "year": 2006,
+    "isbn_13": "9781095135655",
+    "isbn_10": "109513565X",
+    "pages": 344,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Cruelest Month",
+    "author": "Louise Penny",
+    "year": 2007,
+    "isbn_13": "9785258227829",
+    "isbn_10": "5258227820",
+    "pages": 320,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Rule Against Murder",
+    "author": "Louise Penny",
+    "year": 2008,
+    "isbn_13": "9782136174800",
+    "isbn_10": "2136174800",
+    "pages": 338,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Brutal Telling",
+    "author": "Louise Penny",
+    "year": 2009,
+    "isbn_13": "9785912495809",
+    "isbn_10": "5912495802",
+    "pages": 372,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bury Your Dead",
+    "author": "Louise Penny",
+    "year": 2010,
+    "isbn_13": "9781119802013",
+    "isbn_10": "1119802015",
+    "pages": 371,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Trick of the Light",
+    "author": "Louise Penny",
+    "year": 2011,
+    "isbn_13": "9783533712022",
+    "isbn_10": "3533712023",
+    "pages": 339,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Beautiful Mystery",
+    "author": "Louise Penny",
+    "year": 2012,
+    "isbn_13": "9784325538110",
+    "isbn_10": "4325538112",
+    "pages": 339,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "How the Light Gets In",
+    "author": "Louise Penny",
+    "year": 2013,
+    "isbn_13": "9785193108740",
+    "isbn_10": "519310874X",
+    "pages": 403,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Long Way Home",
+    "author": "Louise Penny",
+    "year": 2014,
+    "isbn_13": "9786324092136",
+    "isbn_10": "6324092136",
+    "pages": 386,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Nature of the Beast",
+    "author": "Louise Penny",
+    "year": 2015,
+    "isbn_13": "9783434923121",
+    "isbn_10": "3434923123",
+    "pages": 372,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Great Reckoning",
+    "author": "Louise Penny",
+    "year": 2016,
+    "isbn_13": "9787928523361",
+    "isbn_10": "792852336X",
+    "pages": 386,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Glass Houses",
+    "author": "Louise Penny",
+    "year": 2017,
+    "isbn_13": "9786300380011",
+    "isbn_10": "6300380014",
+    "pages": 391,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Kingdom of the Blind",
+    "author": "Louise Penny",
+    "year": 2018,
+    "isbn_13": "9783220347148",
+    "isbn_10": "3220347149",
+    "pages": 391,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Better Man",
+    "author": "Louise Penny",
+    "year": 2019,
+    "isbn_13": "9783346352385",
+    "isbn_10": "3346352389",
+    "pages": 416,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "All the Devils Are Here",
+    "author": "Louise Penny",
+    "year": 2020,
+    "isbn_13": "9788910291893",
+    "isbn_10": "8910291898",
+    "pages": 432,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Madness of Crowds",
+    "author": "Louise Penny",
+    "year": 2021,
+    "isbn_13": "9783492148566",
+    "isbn_10": "3492148566",
+    "pages": 420,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A World of Curiosities",
+    "author": "Louise Penny",
+    "year": 2022,
+    "isbn_13": "9781832010719",
+    "isbn_10": "1832010715",
+    "pages": 400,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Patternmaster",
+    "author": "Octavia E. Butler",
+    "year": 1976,
+    "isbn_13": "9781535133487",
+    "isbn_10": "153513348X",
+    "pages": 186,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Mind of My Mind",
+    "author": "Octavia E. Butler",
+    "year": 1977,
+    "isbn_13": "9784640300959",
+    "isbn_10": "4640300955",
+    "pages": 224,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Survivor",
+    "author": "Octavia E. Butler",
+    "year": 1978,
+    "isbn_13": "9781007941817",
+    "isbn_10": "1007941819",
+    "pages": 185,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Kindred",
+    "author": "Octavia E. Butler",
+    "year": 1979,
+    "isbn_13": "9787125558944",
+    "isbn_10": "712555894X",
+    "pages": 264,
+    "genres": [
+      "Science Fiction",
+      "Classic",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Wild Seed",
+    "author": "Octavia E. Butler",
+    "year": 1980,
+    "isbn_13": "9786555453096",
+    "isbn_10": "6555453096",
+    "pages": 248,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Clay's Ark",
+    "author": "Octavia E. Butler",
+    "year": 1984,
+    "isbn_13": "9782620676292",
+    "isbn_10": "2620676290",
+    "pages": 201,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dawn",
+    "author": "Octavia E. Butler",
+    "year": 2000,
+    "isbn_13": "9784068246044",
+    "isbn_10": "406824604X",
+    "pages": 248,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Adulthood Rites",
+    "author": "Octavia E. Butler",
+    "year": 1988,
+    "isbn_13": "9784005142767",
+    "isbn_10": "400514276X",
+    "pages": 277,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Imago",
+    "author": "Octavia E. Butler",
+    "year": 1989,
+    "isbn_13": "9788455781569",
+    "isbn_10": "8455781567",
+    "pages": 264,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Parable of the Sower",
+    "author": "Octavia E. Butler",
+    "year": 1993,
+    "isbn_13": "9781391541204",
+    "isbn_10": "1391541200",
+    "pages": 345,
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Parable of the Talents",
+    "author": "Octavia E. Butler",
+    "year": 1998,
+    "isbn_13": "9788572013406",
+    "isbn_10": "8572013404",
+    "pages": 365,
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Fledgling",
+    "author": "Octavia E. Butler",
+    "year": 2005,
+    "isbn_13": "9789392290374",
+    "isbn_10": "9392290378",
+    "pages": 310,
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bloodchild and Other Stories",
+    "author": "Octavia E. Butler",
+    "year": 1995,
+    "isbn_13": "9781650721446",
+    "isbn_10": "1650721444",
+    "pages": 145,
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Lincoln's Dreams",
+    "author": "Connie Willis",
+    "year": 1987,
+    "isbn_13": "9780392321570",
+    "isbn_10": "0392321579",
+    "pages": 291,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Doomsday Book",
+    "author": "Connie Willis",
+    "year": 1992,
+    "isbn_13": "9789059325197",
+    "isbn_10": "9059325199",
+    "pages": 578,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Uncharted Territory",
+    "author": "Connie Willis",
+    "year": 1994,
+    "isbn_13": "9784403220135",
+    "isbn_10": "4403220137",
+    "pages": 149,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Remake",
+    "author": "Connie Willis",
+    "year": 1995,
+    "isbn_13": "9787111934356",
+    "isbn_10": "7111934350",
+    "pages": 160,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bellwether",
+    "author": "Connie Willis",
+    "year": 1996,
+    "isbn_13": "9785250525299",
+    "isbn_10": "5250525295",
+    "pages": 247,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "To Say Nothing of the Dog",
+    "author": "Connie Willis",
+    "year": 1997,
+    "isbn_13": "9784508154632",
+    "isbn_10": "4508154633",
+    "pages": 434,
+    "genres": [
+      "Science Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Passage",
+    "author": "Connie Willis",
+    "year": 2001,
+    "isbn_13": "9785151103619",
+    "isbn_10": "5151103611",
+    "pages": 594,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Blackout",
+    "author": "Connie Willis",
+    "year": 2010,
+    "isbn_13": "9780351210846",
+    "isbn_10": "0351210842",
+    "pages": 491,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "All Clear",
+    "author": "Connie Willis",
+    "year": 2010,
+    "isbn_13": "9783440591208",
+    "isbn_10": "3440591207",
+    "pages": 641,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Crosstalk",
+    "author": "Connie Willis",
+    "year": 2016,
+    "isbn_13": "9780912979328",
+    "isbn_10": "091297932X",
+    "pages": 498,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Fire Watch",
+    "author": "Connie Willis",
+    "year": 1985,
+    "isbn_13": "9784135918089",
+    "isbn_10": "4135918086",
+    "pages": 262,
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Impossible Things",
+    "author": "Connie Willis",
+    "year": 1994,
+    "isbn_13": "9783309533141",
+    "isbn_10": "3309533141",
+    "pages": 309,
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Song of Kali",
+    "author": "Dan Simmons",
+    "year": 1985,
+    "isbn_13": "9787455209233",
+    "isbn_10": "745520923X",
+    "pages": 311,
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Phases of Gravity",
+    "author": "Dan Simmons",
+    "year": 1989,
+    "isbn_13": "9780421294202",
+    "isbn_10": "0421294206",
+    "pages": 278,
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Hyperion",
+    "author": "Dan Simmons",
+    "year": 1989,
+    "isbn_13": "9780555630983",
+    "isbn_10": "0555630985",
+    "pages": 482,
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Fall of Hyperion",
+    "author": "Dan Simmons",
+    "year": 1990,
+    "isbn_13": "9784524623020",
+    "isbn_10": "4524623024",
+    "pages": 517,
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Endymion",
+    "author": "Dan Simmons",
+    "year": 1996,
+    "isbn_13": "9780157873221",
+    "isbn_10": "0157873225",
+    "pages": 563,
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Rise of Endymion",
+    "author": "Dan Simmons",
+    "year": 1997,
+    "isbn_13": "9785445542421",
+    "isbn_10": "5445542427",
+    "pages": 709,
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Carrion Comfort",
+    "author": "Dan Simmons",
+    "year": 1989,
+    "isbn_13": "9781530376209",
+    "isbn_10": "1530376208",
+    "pages": 884,
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Summer of Night",
+    "author": "Dan Simmons",
+    "year": 1991,
+    "isbn_13": "9784692290703",
+    "isbn_10": "4692290705",
+    "pages": 555,
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Children of the Night",
+    "author": "Dan Simmons",
+    "year": 1992,
+    "isbn_13": "9780738328027",
+    "isbn_10": "0738328029",
+    "pages": 382,
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Hollow Man",
+    "author": "Dan Simmons",
+    "year": 1992,
+    "isbn_13": "9784115386129",
+    "isbn_10": "4115386125",
+    "pages": 304,
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Fires of Eden",
+    "author": "Dan Simmons",
+    "year": 1994,
+    "isbn_13": "9780484313360",
+    "isbn_10": "0484313368",
+    "pages": 367,
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Terror",
+    "author": "Dan Simmons",
+    "year": 2007,
+    "isbn_13": "9783262268081",
+    "isbn_10": "3262268082",
+    "pages": 769,
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Historical Fiction",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Drood",
+    "author": "Dan Simmons",
+    "year": 2009,
+    "isbn_13": "9785312301892",
+    "isbn_10": "5312301899",
+    "pages": 775,
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Flashback",
+    "author": "Dan Simmons",
+    "year": 2011,
+    "isbn_13": "9789954333150",
+    "isbn_10": "9954333150",
+    "pages": 553,
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Dystopian"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Abominable",
+    "author": "Dan Simmons",
+    "year": 2013,
+    "isbn_13": "9785863834313",
+    "isbn_10": "5863834316",
+    "pages": 662,
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Adventure"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ilium",
+    "author": "Dan Simmons",
+    "year": 2003,
+    "isbn_13": "9781618427243",
+    "isbn_10": "1618427246",
+    "pages": 576,
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Olympos",
+    "author": "Dan Simmons",
+    "year": 2005,
+    "isbn_13": "9780280320067",
+    "isbn_10": "0280320061",
+    "pages": 690,
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Shards of Honor",
+    "author": "Lois McMaster Bujold",
+    "year": 1986,
+    "isbn_13": "9789166433051",
+    "isbn_10": "9166433058",
+    "pages": 253,
+    "genres": [
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Warrior's Apprentice",
+    "author": "Lois McMaster Bujold",
+    "year": 1986,
+    "isbn_13": "9782261454952",
+    "isbn_10": "2261454958",
+    "pages": 315,
+    "genres": [
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ethan of Athos",
+    "author": "Lois McMaster Bujold",
+    "year": 1986,
+    "isbn_13": "9789729009907",
+    "isbn_10": "9729009909",
+    "pages": 230,
+    "genres": [
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Falling Free",
+    "author": "Lois McMaster Bujold",
+    "year": 1988,
+    "isbn_13": "9780834345300",
+    "isbn_10": "0834345304",
+    "pages": 307,
+    "genres": [
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Brothers in Arms",
+    "author": "Lois McMaster Bujold",
+    "year": 1989,
+    "isbn_13": "9784060126030",
+    "isbn_10": "4060126032",
+    "pages": 312,
+    "genres": [
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Borders of Infinity",
+    "author": "Lois McMaster Bujold",
+    "year": 1989,
+    "isbn_13": "9784424492658",
+    "isbn_10": "4424492655",
+    "pages": 311,
+    "genres": [
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Vor Game",
+    "author": "Lois McMaster Bujold",
+    "year": 1990,
+    "isbn_13": "9789111540353",
+    "isbn_10": "9111540357",
+    "pages": 345,
+    "genres": [
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Barrayar",
+    "author": "Lois McMaster Bujold",
+    "year": 1991,
+    "isbn_13": "9787238341150",
+    "isbn_10": "7238341153",
+    "pages": 386,
+    "genres": [
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Mirror Dance",
+    "author": "Lois McMaster Bujold",
+    "year": 1994,
+    "isbn_13": "9785895283158",
+    "isbn_10": "5895283159",
+    "pages": 393,
+    "genres": [
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "language": "en"
+  }
+]

@@ -1,0 +1,737 @@
+[
+  {
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "year": 1992,
+    "isbn_13": "9784732551832",
+    "isbn_10": "473255183X",
+    "pages": 440,
+    "genres": [
+      "Science Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Diamond Age",
+    "author": "Neal Stephenson",
+    "year": 1995,
+    "isbn_13": "9780534582616",
+    "isbn_10": "0534582618",
+    "pages": 455,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Anathem",
+    "author": "Neal Stephenson",
+    "year": 2008,
+    "isbn_13": "9785192038093",
+    "isbn_10": "5192038091",
+    "pages": 937,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Seveneves",
+    "author": "Neal Stephenson",
+    "year": 2015,
+    "isbn_13": "9784375605022",
+    "isbn_10": "4375605029",
+    "pages": 880,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "year": 2011,
+    "isbn_13": "9783926651013",
+    "isbn_10": "3926651015",
+    "pages": 1044,
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Termination Shock",
+    "author": "Neal Stephenson",
+    "year": 2021,
+    "isbn_13": "9781930178014",
+    "isbn_10": "1930178013",
+    "pages": 720,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "year": 1984,
+    "isbn_13": "9783914484623",
+    "isbn_10": "3914484627",
+    "pages": 271,
+    "genres": [
+      "Science Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Count Zero",
+    "author": "William Gibson",
+    "year": 1986,
+    "isbn_13": "9781771289016",
+    "isbn_10": "1771289016",
+    "pages": 256,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Mona Lisa Overdrive",
+    "author": "William Gibson",
+    "year": 1988,
+    "isbn_13": "9789572213421",
+    "isbn_10": "9572213428",
+    "pages": 260,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Virtual Light",
+    "author": "William Gibson",
+    "year": 1993,
+    "isbn_13": "9785470197597",
+    "isbn_10": "5470197591",
+    "pages": 304,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Idoru",
+    "author": "William Gibson",
+    "year": 1996,
+    "isbn_13": "9782955559055",
+    "isbn_10": "2955559052",
+    "pages": 292,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "All Tomorrow's Parties",
+    "author": "William Gibson",
+    "year": 1999,
+    "isbn_13": "9780084552312",
+    "isbn_10": "0084552311",
+    "pages": 277,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Pattern Recognition",
+    "author": "William Gibson",
+    "year": 2003,
+    "isbn_13": "9782640812045",
+    "isbn_10": "264081204X",
+    "pages": 356,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Spook Country",
+    "author": "William Gibson",
+    "year": 2007,
+    "isbn_13": "9789342034546",
+    "isbn_10": "9342034548",
+    "pages": 371,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Zero History",
+    "author": "William Gibson",
+    "year": 2010,
+    "isbn_13": "9782809040203",
+    "isbn_10": "2809040205",
+    "pages": 404,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Peripheral",
+    "author": "William Gibson",
+    "year": 2014,
+    "isbn_13": "9786083004210",
+    "isbn_10": "6083004214",
+    "pages": 485,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Agency",
+    "author": "William Gibson",
+    "year": 2020,
+    "isbn_13": "9789085824398",
+    "isbn_10": "9085824394",
+    "pages": 416,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Nicomachean Ethics",
+    "author": "Aristotle",
+    "year": -350,
+    "isbn_13": "9784351630451",
+    "isbn_10": "4351630450",
+    "pages": 266,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Poetics",
+    "author": "Aristotle",
+    "year": -335,
+    "isbn_13": "9780300483345",
+    "isbn_10": "030048334X",
+    "pages": 100,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Politics",
+    "author": "Aristotle",
+    "year": -350,
+    "isbn_13": "9783983345979",
+    "isbn_10": "3983345979",
+    "pages": 368,
+    "genres": [
+      "Philosophy",
+      "Classic",
+      "Politics"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Critique of Pure Reason",
+    "author": "Immanuel Kant",
+    "year": 1781,
+    "isbn_13": "9787925688568",
+    "isbn_10": "7925688567",
+    "pages": 856,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Groundwork of the Metaphysics of Morals",
+    "author": "Immanuel Kant",
+    "year": 1785,
+    "isbn_13": "9787104795704",
+    "isbn_10": "7104795704",
+    "pages": 112,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Critique of Practical Reason",
+    "author": "Immanuel Kant",
+    "year": 1788,
+    "isbn_13": "9785068910201",
+    "isbn_10": "506891020X",
+    "pages": 204,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "year": 1886,
+    "isbn_13": "9786540002520",
+    "isbn_10": "654000252X",
+    "pages": 240,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Thus Spoke Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "year": 1883,
+    "isbn_13": "9785515512804",
+    "isbn_10": "5515512807",
+    "pages": 352,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "On the Genealogy of Morals",
+    "author": "Friedrich Nietzsche",
+    "year": 1887,
+    "isbn_13": "9783602245536",
+    "isbn_10": "3602245536",
+    "pages": 208,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Birth of Tragedy",
+    "author": "Friedrich Nietzsche",
+    "year": 1872,
+    "isbn_13": "9785153195179",
+    "isbn_10": "515319517X",
+    "pages": 160,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ecce Homo",
+    "author": "Friedrich Nietzsche",
+    "year": 1908,
+    "isbn_13": "9780141260808",
+    "isbn_10": "0141260804",
+    "pages": 144,
+    "genres": [
+      "Philosophy",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Will to Power",
+    "author": "Friedrich Nietzsche",
+    "year": 1901,
+    "isbn_13": "9780457503507",
+    "isbn_10": "0457503506",
+    "pages": 546,
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Twilight of the Idols",
+    "author": "Friedrich Nietzsche",
+    "year": 1889,
+    "isbn_13": "9782498215142",
+    "isbn_10": "2498215141",
+    "pages": 112,
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Phenomenology of Spirit",
+    "author": "G.W.F. Hegel",
+    "year": 1807,
+    "isbn_13": "9785394637506",
+    "isbn_10": "5394637507",
+    "pages": 591,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The World as Will and Representation",
+    "author": "Arthur Schopenhauer",
+    "year": 1818,
+    "isbn_13": "9784032053739",
+    "isbn_10": "403205373X",
+    "pages": 534,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Fear and Trembling",
+    "author": "S\u00f8ren Kierkegaard",
+    "year": 1843,
+    "isbn_13": "9789733043225",
+    "isbn_10": "9733043229",
+    "pages": 158,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Either/Or",
+    "author": "S\u00f8ren Kierkegaard",
+    "year": 1843,
+    "isbn_13": "9782054287934",
+    "isbn_10": "2054287933",
+    "pages": 460,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Sickness unto Death",
+    "author": "S\u00f8ren Kierkegaard",
+    "year": 1849,
+    "isbn_13": "9780136861102",
+    "isbn_10": "0136861106",
+    "pages": 150,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Philosophical Investigations",
+    "author": "Ludwig Wittgenstein",
+    "year": 1953,
+    "isbn_13": "9785645811730",
+    "isbn_10": "5645811732",
+    "pages": 250,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Tractatus Logico-Philosophicus",
+    "author": "Ludwig Wittgenstein",
+    "year": 1921,
+    "isbn_13": "9783549006573",
+    "isbn_10": "3549006573",
+    "pages": 75,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Being and Time",
+    "author": "Martin Heidegger",
+    "year": 1927,
+    "isbn_13": "9785363383946",
+    "isbn_10": "5363383949",
+    "pages": 589,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Ethics",
+    "author": "Baruch Spinoza",
+    "year": 1677,
+    "isbn_13": "9781707480302",
+    "isbn_10": "1707480308",
+    "pages": 308,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "An Essay Concerning Human Understanding",
+    "author": "John Locke",
+    "year": 1689,
+    "isbn_13": "9785140340186",
+    "isbn_10": "5140340185",
+    "pages": 700,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Treatise of Human Nature",
+    "author": "David Hume",
+    "year": 1739,
+    "isbn_13": "9785445049340",
+    "isbn_10": "5445049346",
+    "pages": 621,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "An Enquiry Concerning Human Understanding",
+    "author": "David Hume",
+    "year": 1748,
+    "isbn_13": "9783324081948",
+    "isbn_10": "3324081944",
+    "pages": 186,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Discourse on the Method",
+    "author": "Ren\u00e9 Descartes",
+    "year": 1637,
+    "isbn_13": "9787213225505",
+    "isbn_10": "7213225509",
+    "pages": 86,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Meditations on First Philosophy",
+    "author": "Ren\u00e9 Descartes",
+    "year": 1641,
+    "isbn_13": "9781241513511",
+    "isbn_10": "124151351X",
+    "pages": 59,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Confessions",
+    "author": "Saint Augustine",
+    "year": 397,
+    "isbn_13": "9780622413846",
+    "isbn_10": "0622413843",
+    "pages": 341,
+    "genres": [
+      "Philosophy",
+      "Classic",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Summa Theologica",
+    "author": "Thomas Aquinas",
+    "year": 1274,
+    "isbn_13": "9782654630505",
+    "isbn_10": "265463050X",
+    "pages": 1800,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Tao Te Ching",
+    "author": "Lao Tzu",
+    "year": -600,
+    "isbn_13": "9789067704755",
+    "isbn_10": "9067704751",
+    "pages": 81,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Analects",
+    "author": "Confucius",
+    "year": -479,
+    "isbn_13": "9783273210345",
+    "isbn_10": "3273210345",
+    "pages": 128,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Art of Living",
+    "author": "Epictetus",
+    "year": 135,
+    "isbn_13": "9784593700318",
+    "isbn_10": "4593700310",
+    "pages": 124,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Letters from a Stoic",
+    "author": "Seneca",
+    "year": 65,
+    "isbn_13": "9782812762918",
+    "isbn_10": "2812762913",
+    "pages": 256,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Consolation of Philosophy",
+    "author": "Boethius",
+    "year": 524,
+    "isbn_13": "9784953065415",
+    "isbn_10": "4953065414",
+    "pages": 154,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Utilitarianism",
+    "author": "John Stuart Mill",
+    "year": 1863,
+    "isbn_13": "9782409028229",
+    "isbn_10": "2409028226",
+    "pages": 70,
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Pragmatist",
+    "author": "William James",
+    "year": 1907,
+    "isbn_13": "9783342131205",
+    "isbn_10": "3342131202",
+    "pages": 286,
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Process and Reality",
+    "author": "Alfred North Whitehead",
+    "year": 1929,
+    "isbn_13": "9782558902258",
+    "isbn_10": "2558902258",
+    "pages": 413,
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Justice",
+    "author": "Michael Sandel",
+    "year": 2009,
+    "isbn_13": "9783131330413",
+    "isbn_10": "3131330417",
+    "pages": 308,
+    "genres": [
+      "Philosophy",
+      "Politics"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Moral Landscape",
+    "author": "Sam Harris",
+    "year": 2010,
+    "isbn_13": "9783210135762",
+    "isbn_10": "3210135769",
+    "pages": 291,
+    "genres": [
+      "Philosophy",
+      "Science"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Free Will",
+    "author": "Sam Harris",
+    "year": 2012,
+    "isbn_13": "9782201457135",
+    "isbn_10": "220145713X",
+    "pages": 96,
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Waking Up",
+    "author": "Sam Harris",
+    "year": 2014,
+    "isbn_13": "9782194127343",
+    "isbn_10": "2194127343",
+    "pages": 256,
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en"
+  }
+]

@@ -1,0 +1,816 @@
+[
+  {
+    "title": "Queen of Sorcery",
+    "author": "David Eddings",
+    "year": 1982,
+    "isbn_13": "9786620450050",
+    "isbn_10": "6620450052",
+    "pages": 327,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Magician's Gambit",
+    "author": "David Eddings",
+    "year": 1983,
+    "isbn_13": "9789615753433",
+    "isbn_10": "9615753439",
+    "pages": 305,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Castle of Wizardry",
+    "author": "David Eddings",
+    "year": 1984,
+    "isbn_13": "9781385035542",
+    "isbn_10": "1385035547",
+    "pages": 373,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Enchanters' End Game",
+    "author": "David Eddings",
+    "year": 1984,
+    "isbn_13": "9787264043592",
+    "isbn_10": "7264043599",
+    "pages": 372,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Guardians of the West",
+    "author": "David Eddings",
+    "year": 1987,
+    "isbn_13": "9783038548584",
+    "isbn_10": "3038548583",
+    "pages": 373,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "King of the Murgos",
+    "author": "David Eddings",
+    "year": 1988,
+    "isbn_13": "9788565445542",
+    "isbn_10": "8565445549",
+    "pages": 372,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Demon Lord of Karanda",
+    "author": "David Eddings",
+    "year": 1988,
+    "isbn_13": "9780448407524",
+    "isbn_10": "0448407528",
+    "pages": 372,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sorceress of Darshiva",
+    "author": "David Eddings",
+    "year": 1989,
+    "isbn_13": "9781364304027",
+    "isbn_10": "1364304028",
+    "pages": 372,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Seeress of Kell",
+    "author": "David Eddings",
+    "year": 1991,
+    "isbn_13": "9783489265894",
+    "isbn_10": "3489265890",
+    "pages": 374,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Diamond Throne",
+    "author": "David Eddings",
+    "year": 1989,
+    "isbn_13": "9784181014049",
+    "isbn_10": "4181014046",
+    "pages": 432,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Ruby Knight",
+    "author": "David Eddings",
+    "year": 1990,
+    "isbn_13": "9786793230008",
+    "isbn_10": "6793230001",
+    "pages": 407,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Sapphire Rose",
+    "author": "David Eddings",
+    "year": 1991,
+    "isbn_13": "9783270687409",
+    "isbn_10": "3270687400",
+    "pages": 441,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Domes of Fire",
+    "author": "David Eddings",
+    "year": 1993,
+    "isbn_13": "9785791326331",
+    "isbn_10": "5791326336",
+    "pages": 500,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Shining Ones",
+    "author": "David Eddings",
+    "year": 1993,
+    "isbn_13": "9787024621091",
+    "isbn_10": "7024621096",
+    "pages": 562,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Hidden City",
+    "author": "David Eddings",
+    "year": 1994,
+    "isbn_13": "9788593151873",
+    "isbn_10": "8593151875",
+    "pages": 500,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Belgarath the Sorcerer",
+    "author": "David Eddings",
+    "year": 1995,
+    "isbn_13": "9781322235585",
+    "isbn_10": "1322235582",
+    "pages": 726,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Polgara the Sorceress",
+    "author": "David Eddings",
+    "year": 1997,
+    "isbn_13": "9787591070827",
+    "isbn_10": "7591070824",
+    "pages": 697,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Redemption of Althalus",
+    "author": "David Eddings",
+    "year": 2000,
+    "isbn_13": "9782421015351",
+    "isbn_10": "2421015352",
+    "pages": 752,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Indemnity Only",
+    "author": "Sara Paretsky",
+    "year": 1982,
+    "isbn_13": "9789502252056",
+    "isbn_10": "9502252056",
+    "pages": 252,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Deadlock",
+    "author": "Sara Paretsky",
+    "year": 1984,
+    "isbn_13": "9780623604229",
+    "isbn_10": "062360422X",
+    "pages": 252,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Killing Orders",
+    "author": "Sara Paretsky",
+    "year": 1985,
+    "isbn_13": "9784103045243",
+    "isbn_10": "4103045243",
+    "pages": 288,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bitter Medicine",
+    "author": "Sara Paretsky",
+    "year": 1987,
+    "isbn_13": "9784778344405",
+    "isbn_10": "4778344406",
+    "pages": 291,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Blood Shot",
+    "author": "Sara Paretsky",
+    "year": 1988,
+    "isbn_13": "9780142721643",
+    "isbn_10": "0142721645",
+    "pages": 332,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Burn Marks",
+    "author": "Sara Paretsky",
+    "year": 1990,
+    "isbn_13": "9780218243130",
+    "isbn_10": "0218243133",
+    "pages": 340,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Guardian Angel",
+    "author": "Sara Paretsky",
+    "year": 1992,
+    "isbn_13": "9780873153416",
+    "isbn_10": "0873153418",
+    "pages": 370,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Tunnel Vision",
+    "author": "Sara Paretsky",
+    "year": 1994,
+    "isbn_13": "9783345521003",
+    "isbn_10": "3345521003",
+    "pages": 432,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Hard Time",
+    "author": "Sara Paretsky",
+    "year": 1999,
+    "isbn_13": "9784483074307",
+    "isbn_10": "4483074301",
+    "pages": 385,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Total Recall",
+    "author": "Sara Paretsky",
+    "year": 2001,
+    "isbn_13": "9786508623767",
+    "isbn_10": "650862376X",
+    "pages": 432,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Blacklist",
+    "author": "Sara Paretsky",
+    "year": 2003,
+    "isbn_13": "9780527245603",
+    "isbn_10": "0527245604",
+    "pages": 432,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Fire Sale",
+    "author": "Sara Paretsky",
+    "year": 2005,
+    "isbn_13": "9785099622661",
+    "isbn_10": "5099622665",
+    "pages": 401,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Hardball",
+    "author": "Sara Paretsky",
+    "year": 2009,
+    "isbn_13": "9782330180799",
+    "isbn_10": "2330180792",
+    "pages": 432,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Body Work",
+    "author": "Sara Paretsky",
+    "year": 2010,
+    "isbn_13": "9783256312967",
+    "isbn_10": "3256312962",
+    "pages": 401,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Breakdown",
+    "author": "Sara Paretsky",
+    "year": 2012,
+    "isbn_13": "9783040560437",
+    "isbn_10": "3040560438",
+    "pages": 432,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Critical Mass",
+    "author": "Sara Paretsky",
+    "year": 2013,
+    "isbn_13": "9780427488629",
+    "isbn_10": "042748862X",
+    "pages": 487,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Brush Back",
+    "author": "Sara Paretsky",
+    "year": 2015,
+    "isbn_13": "9784907145354",
+    "isbn_10": "4907145354",
+    "pages": 453,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Fallout",
+    "author": "Sara Paretsky",
+    "year": 2017,
+    "isbn_13": "9785543211748",
+    "isbn_10": "5543211740",
+    "pages": 453,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Shell Game",
+    "author": "Sara Paretsky",
+    "year": 2018,
+    "isbn_13": "9783304434108",
+    "isbn_10": "3304434100",
+    "pages": 421,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dead Land",
+    "author": "Sara Paretsky",
+    "year": 2020,
+    "isbn_13": "9784243352454",
+    "isbn_10": "4243352458",
+    "pages": 432,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Overboard",
+    "author": "Sara Paretsky",
+    "year": 2022,
+    "isbn_13": "9780485437904",
+    "isbn_10": "0485437909",
+    "pages": 464,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Is for Alibi",
+    "author": "Sue Grafton",
+    "year": 1982,
+    "isbn_13": "9785835602339",
+    "isbn_10": "5835602339",
+    "pages": 274,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "B Is for Burglar",
+    "author": "Sue Grafton",
+    "year": 1985,
+    "isbn_13": "9783283945619",
+    "isbn_10": "3283945615",
+    "pages": 244,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "C Is for Corpse",
+    "author": "Sue Grafton",
+    "year": 1986,
+    "isbn_13": "9783213134212",
+    "isbn_10": "3213134211",
+    "pages": 243,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "D Is for Deadbeat",
+    "author": "Sue Grafton",
+    "year": 1987,
+    "isbn_13": "9782426124447",
+    "isbn_10": "2426124441",
+    "pages": 229,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "E Is for Evidence",
+    "author": "Sue Grafton",
+    "year": 1988,
+    "isbn_13": "9789647342759",
+    "isbn_10": "9647342755",
+    "pages": 227,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "F Is for Fugitive",
+    "author": "Sue Grafton",
+    "year": 1989,
+    "isbn_13": "9780826012906",
+    "isbn_10": "0826012905",
+    "pages": 261,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "G Is for Gumshoe",
+    "author": "Sue Grafton",
+    "year": 1990,
+    "isbn_13": "9785904180928",
+    "isbn_10": "5904180925",
+    "pages": 261,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "H Is for Homicide",
+    "author": "Sue Grafton",
+    "year": 1991,
+    "isbn_13": "9783849628680",
+    "isbn_10": "3849628681",
+    "pages": 256,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "I Is for Innocent",
+    "author": "Sue Grafton",
+    "year": 1992,
+    "isbn_13": "9781138578500",
+    "isbn_10": "1138578502",
+    "pages": 286,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "J Is for Judgment",
+    "author": "Sue Grafton",
+    "year": 1993,
+    "isbn_13": "9783071556331",
+    "isbn_10": "3071556330",
+    "pages": 288,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "K Is for Killer",
+    "author": "Sue Grafton",
+    "year": 1994,
+    "isbn_13": "9785423444457",
+    "isbn_10": "5423444457",
+    "pages": 284,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "L Is for Lawless",
+    "author": "Sue Grafton",
+    "year": 1995,
+    "isbn_13": "9785206300338",
+    "isbn_10": "5206300330",
+    "pages": 290,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "M Is for Malice",
+    "author": "Sue Grafton",
+    "year": 1996,
+    "isbn_13": "9780227001646",
+    "isbn_10": "0227001643",
+    "pages": 300,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "N Is for Noose",
+    "author": "Sue Grafton",
+    "year": 1998,
+    "isbn_13": "9783114562404",
+    "isbn_10": "3114562401",
+    "pages": 306,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "O Is for Outlaw",
+    "author": "Sue Grafton",
+    "year": 1999,
+    "isbn_13": "9782001342273",
+    "isbn_10": "2001342275",
+    "pages": 318,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "P Is for Peril",
+    "author": "Sue Grafton",
+    "year": 2001,
+    "isbn_13": "9785765482131",
+    "isbn_10": "5765482132",
+    "pages": 352,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Q Is for Quarry",
+    "author": "Sue Grafton",
+    "year": 2002,
+    "isbn_13": "9784570602475",
+    "isbn_10": "4570602472",
+    "pages": 385,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "R Is for Ricochet",
+    "author": "Sue Grafton",
+    "year": 2004,
+    "isbn_13": "9782312212548",
+    "isbn_10": "2312212547",
+    "pages": 420,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "S Is for Silence",
+    "author": "Sue Grafton",
+    "year": 2005,
+    "isbn_13": "9786822545233",
+    "isbn_10": "6822545232",
+    "pages": 374,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "T Is for Trespass",
+    "author": "Sue Grafton",
+    "year": 2007,
+    "isbn_13": "9788424123611",
+    "isbn_10": "842412361X",
+    "pages": 387,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "U Is for Undertow",
+    "author": "Sue Grafton",
+    "year": 2009,
+    "isbn_13": "9783558884025",
+    "isbn_10": "3558884024",
+    "pages": 406,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "V Is for Vengeance",
+    "author": "Sue Grafton",
+    "year": 2011,
+    "isbn_13": "9787946272425",
+    "isbn_10": "794627242X",
+    "pages": 434,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "W Is for Wasted",
+    "author": "Sue Grafton",
+    "year": 2013,
+    "isbn_13": "9780733543579",
+    "isbn_10": "0733543571",
+    "pages": 484,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "X",
+    "author": "Sue Grafton",
+    "year": 2015,
+    "isbn_13": "9786837149402",
+    "isbn_10": "6837149404",
+    "pages": 338,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Y Is for Yesterday",
+    "author": "Sue Grafton",
+    "year": 2017,
+    "isbn_13": "9787953044497",
+    "isbn_10": "7953044493",
+    "pages": 494,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  }
+]

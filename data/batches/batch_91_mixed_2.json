@@ -1,0 +1,1296 @@
+[
+  {
+    "title": "Goodnight Moon",
+    "author": "Margaret Wise Brown",
+    "year": 1947,
+    "isbn_13": "9786812062610",
+    "isbn_10": "6812062613",
+    "pages": 30,
+    "genres": [
+      "Children's",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Giving Tree",
+    "author": "Shel Silverstein",
+    "year": 1964,
+    "isbn_13": "9785012142818",
+    "isbn_10": "5012142810",
+    "pages": 64,
+    "genres": [
+      "Children's",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Where the Sidewalk Ends",
+    "author": "Shel Silverstein",
+    "year": 1974,
+    "isbn_13": "9788178303192",
+    "isbn_10": "817830319X",
+    "pages": 176,
+    "genres": [
+      "Children's",
+      "Poetry"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Light in the Attic",
+    "author": "Shel Silverstein",
+    "year": 1981,
+    "isbn_13": "9785022851250",
+    "isbn_10": "5022851258",
+    "pages": 176,
+    "genres": [
+      "Children's",
+      "Poetry"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Anne of Green Gables",
+    "author": "L.M. Montgomery",
+    "year": 1908,
+    "isbn_13": "9784019073941",
+    "isbn_10": "4019073946",
+    "pages": 320,
+    "genres": [
+      "Children's",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Anne of Avonlea",
+    "author": "L.M. Montgomery",
+    "year": 1909,
+    "isbn_13": "9782488240642",
+    "isbn_10": "2488240643",
+    "pages": 278,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Anne of the Island",
+    "author": "L.M. Montgomery",
+    "year": 1915,
+    "isbn_13": "9780200443135",
+    "isbn_10": "0200443136",
+    "pages": 326,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "year": 1911,
+    "isbn_13": "9785475275450",
+    "isbn_10": "5475275452",
+    "pages": 256,
+    "genres": [
+      "Children's",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Little Princess",
+    "author": "Frances Hodgson Burnett",
+    "year": 1905,
+    "isbn_13": "9780495030584",
+    "isbn_10": "0495030582",
+    "pages": 246,
+    "genres": [
+      "Children's",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Wind in the Willows",
+    "author": "Kenneth Grahame",
+    "year": 1908,
+    "isbn_13": "9785895193945",
+    "isbn_10": "5895193948",
+    "pages": 200,
+    "genres": [
+      "Children's",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "year": 1883,
+    "isbn_13": "9781117004501",
+    "isbn_10": "1117004508",
+    "pages": 292,
+    "genres": [
+      "Children's",
+      "Adventure",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Kidnapped",
+    "author": "Robert Louis Stevenson",
+    "year": 1886,
+    "isbn_13": "9786361654205",
+    "isbn_10": "6361654205",
+    "pages": 252,
+    "genres": [
+      "Adventure",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Strange Case of Dr Jekyll and Mr Hyde",
+    "author": "Robert Louis Stevenson",
+    "year": 1886,
+    "isbn_13": "9782821014121",
+    "isbn_10": "2821014120",
+    "pages": 141,
+    "genres": [
+      "Horror",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Adventures of Tom Sawyer",
+    "author": "Mark Twain",
+    "year": 1876,
+    "isbn_13": "9784030214071",
+    "isbn_10": "4030214071",
+    "pages": 274,
+    "genres": [
+      "Children's",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "year": 1884,
+    "isbn_13": "9785427147248",
+    "isbn_10": "542714724X",
+    "pages": 366,
+    "genres": [
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "author": "Mark Twain",
+    "year": 1889,
+    "isbn_13": "9784475324038",
+    "isbn_10": "4475324038",
+    "pages": 469,
+    "genres": [
+      "Classic",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Prince and the Pauper",
+    "author": "Mark Twain",
+    "year": 1881,
+    "isbn_13": "9788014399020",
+    "isbn_10": "801439902X",
+    "pages": 226,
+    "genres": [
+      "Classic",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Wonderful Wizard of Oz",
+    "author": "L. Frank Baum",
+    "year": 1900,
+    "isbn_13": "9789200417047",
+    "isbn_10": "9200417048",
+    "pages": 148,
+    "genres": [
+      "Children's",
+      "Fantasy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Peter Pan",
+    "author": "J.M. Barrie",
+    "year": 1911,
+    "isbn_13": "9787731456863",
+    "isbn_10": "7731456869",
+    "pages": 200,
+    "genres": [
+      "Children's",
+      "Fantasy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "year": 1865,
+    "isbn_13": "9780254238459",
+    "isbn_10": "0254238452",
+    "pages": 96,
+    "genres": [
+      "Children's",
+      "Fantasy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Through the Looking-Glass",
+    "author": "Lewis Carroll",
+    "year": 1871,
+    "isbn_13": "9780049354531",
+    "isbn_10": "004935453X",
+    "pages": 100,
+    "genres": [
+      "Children's",
+      "Fantasy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Jungle Book",
+    "author": "Rudyard Kipling",
+    "year": 1894,
+    "isbn_13": "9785430321178",
+    "isbn_10": "5430321175",
+    "pages": 212,
+    "genres": [
+      "Children's",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Kim",
+    "author": "Rudyard Kipling",
+    "year": 1901,
+    "isbn_13": "9783600373620",
+    "isbn_10": "3600373626",
+    "pages": 368,
+    "genres": [
+      "Classic",
+      "Adventure"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Just So Stories",
+    "author": "Rudyard Kipling",
+    "year": 1902,
+    "isbn_13": "9780220154110",
+    "isbn_10": "0220154119",
+    "pages": 120,
+    "genres": [
+      "Children's",
+      "Classic",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Pinocchio",
+    "author": "Carlo Collodi",
+    "year": 1883,
+    "isbn_13": "9781136241215",
+    "isbn_10": "1136241218",
+    "pages": 240,
+    "genres": [
+      "Children's",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "year": 1868,
+    "isbn_13": "9787627288400",
+    "isbn_10": "762728840X",
+    "pages": 449,
+    "genres": [
+      "Classic",
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Little Men",
+    "author": "Louisa May Alcott",
+    "year": 1871,
+    "isbn_13": "9780343345433",
+    "isbn_10": "0343345432",
+    "pages": 376,
+    "genres": [
+      "Children's",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Call of the Wild",
+    "author": "Jack London",
+    "year": 1903,
+    "isbn_13": "9789091850022",
+    "isbn_10": "9091850024",
+    "pages": 128,
+    "genres": [
+      "Classic",
+      "Adventure"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "White Fang",
+    "author": "Jack London",
+    "year": 1906,
+    "isbn_13": "9782040099510",
+    "isbn_10": "2040099517",
+    "pages": 298,
+    "genres": [
+      "Classic",
+      "Adventure"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Sea-Wolf",
+    "author": "Jack London",
+    "year": 1904,
+    "isbn_13": "9782406225133",
+    "isbn_10": "2406225136",
+    "pages": 366,
+    "genres": [
+      "Classic",
+      "Adventure"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Heidi",
+    "author": "Johanna Spyri",
+    "year": 1881,
+    "isbn_13": "9788902714522",
+    "isbn_10": "8902714524",
+    "pages": 288,
+    "genres": [
+      "Children's",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exup\u00e9ry",
+    "year": 1943,
+    "isbn_13": "9788818512458",
+    "isbn_10": "8818512456",
+    "pages": 96,
+    "genres": [
+      "Children's",
+      "Classic",
+      "Philosophy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Night Flight",
+    "author": "Antoine de Saint-Exup\u00e9ry",
+    "year": 1931,
+    "isbn_13": "9788151463554",
+    "isbn_10": "8151463557",
+    "pages": 128,
+    "genres": [
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Wind, Sand and Stars",
+    "author": "Antoine de Saint-Exup\u00e9ry",
+    "year": 1939,
+    "isbn_13": "9781665999670",
+    "isbn_10": "1665999676",
+    "pages": 224,
+    "genres": [
+      "Memoir",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Watchmen",
+    "author": "Alan Moore",
+    "year": 1987,
+    "isbn_13": "9787355118451",
+    "isbn_10": "7355118456",
+    "pages": 416,
+    "genres": [
+      "Graphic Novel",
+      "Science Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "V for Vendetta",
+    "author": "Alan Moore",
+    "year": 1989,
+    "isbn_13": "9786905404075",
+    "isbn_10": "690540407X",
+    "pages": 296,
+    "genres": [
+      "Graphic Novel",
+      "Dystopian"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "From Hell",
+    "author": "Alan Moore",
+    "year": 1999,
+    "isbn_13": "9782861851724",
+    "isbn_10": "2861851727",
+    "pages": 572,
+    "genres": [
+      "Graphic Novel",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The League of Extraordinary Gentlemen",
+    "author": "Alan Moore",
+    "year": 1999,
+    "isbn_13": "9785563241725",
+    "isbn_10": "5563241725",
+    "pages": 176,
+    "genres": [
+      "Graphic Novel",
+      "Adventure"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Saga of the Swamp Thing",
+    "author": "Alan Moore",
+    "year": 1987,
+    "isbn_13": "9782120650945",
+    "isbn_10": "2120650949",
+    "pages": 208,
+    "genres": [
+      "Graphic Novel",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Promethea",
+    "author": "Alan Moore",
+    "year": 2000,
+    "isbn_13": "9788342401235",
+    "isbn_10": "8342401236",
+    "pages": 160,
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Batman: The Dark Knight Returns",
+    "author": "Frank Miller",
+    "year": 1986,
+    "isbn_13": "9782139142356",
+    "isbn_10": "2139142354",
+    "pages": 224,
+    "genres": [
+      "Graphic Novel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sin City",
+    "author": "Frank Miller",
+    "year": 1991,
+    "isbn_13": "9781684314836",
+    "isbn_10": "1684314835",
+    "pages": 208,
+    "genres": [
+      "Graphic Novel",
+      "Crime Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "300",
+    "author": "Frank Miller",
+    "year": 1998,
+    "isbn_13": "9780043350133",
+    "isbn_10": "0043350136",
+    "pages": 88,
+    "genres": [
+      "Graphic Novel",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Batman: Year One",
+    "author": "Frank Miller",
+    "year": 1987,
+    "isbn_13": "9780411551285",
+    "isbn_10": "0411551280",
+    "pages": 144,
+    "genres": [
+      "Graphic Novel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sandman: Preludes & Nocturnes",
+    "author": "Neil Gaiman",
+    "year": 1989,
+    "isbn_13": "9780120507375",
+    "isbn_10": "0120507377",
+    "pages": 240,
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sandman: The Doll's House",
+    "author": "Neil Gaiman",
+    "year": 1990,
+    "isbn_13": "9782101404222",
+    "isbn_10": "2101404229",
+    "pages": 232,
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sandman: Dream Country",
+    "author": "Neil Gaiman",
+    "year": 1991,
+    "isbn_13": "9783182623496",
+    "isbn_10": "3182623497",
+    "pages": 160,
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sandman: Season of Mists",
+    "author": "Neil Gaiman",
+    "year": 1992,
+    "isbn_13": "9780575935105",
+    "isbn_10": "0575935108",
+    "pages": 192,
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sandman: A Game of You",
+    "author": "Neil Gaiman",
+    "year": 1993,
+    "isbn_13": "9780184222429",
+    "isbn_10": "0184222424",
+    "pages": 192,
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sandman: Fables & Reflections",
+    "author": "Neil Gaiman",
+    "year": 1993,
+    "isbn_13": "9789553532992",
+    "isbn_10": "9553532998",
+    "pages": 264,
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sandman: Brief Lives",
+    "author": "Neil Gaiman",
+    "year": 1994,
+    "isbn_13": "9783191481599",
+    "isbn_10": "319148159X",
+    "pages": 256,
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sandman: World's End",
+    "author": "Neil Gaiman",
+    "year": 1994,
+    "isbn_13": "9782787373096",
+    "isbn_10": "2787373094",
+    "pages": 168,
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sandman: The Kindly Ones",
+    "author": "Neil Gaiman",
+    "year": 1996,
+    "isbn_13": "9789163043901",
+    "isbn_10": "9163043907",
+    "pages": 352,
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sandman: The Wake",
+    "author": "Neil Gaiman",
+    "year": 1997,
+    "isbn_13": "9781206954380",
+    "isbn_10": "1206954383",
+    "pages": 192,
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Saga Volume 1",
+    "author": "Brian K. Vaughan",
+    "year": 2012,
+    "isbn_13": "9783054350154",
+    "isbn_10": "3054350150",
+    "pages": 160,
+    "genres": [
+      "Graphic Novel",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Y: The Last Man Volume 1",
+    "author": "Brian K. Vaughan",
+    "year": 2002,
+    "isbn_13": "9784234511525",
+    "isbn_10": "4234511523",
+    "pages": 128,
+    "genres": [
+      "Graphic Novel",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Paper Girls Volume 1",
+    "author": "Brian K. Vaughan",
+    "year": 2016,
+    "isbn_13": "9784611130400",
+    "isbn_10": "461113040X",
+    "pages": 128,
+    "genres": [
+      "Graphic Novel",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bone: Out from Boneville",
+    "author": "Jeff Smith",
+    "year": 1991,
+    "isbn_13": "9781792433696",
+    "isbn_10": "1792433694",
+    "pages": 138,
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Jimmy Corrigan: The Smartest Kid on Earth",
+    "author": "Chris Ware",
+    "year": 2000,
+    "isbn_13": "9783534832040",
+    "isbn_10": "3534832048",
+    "pages": 380,
+    "genres": [
+      "Graphic Novel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ghost World",
+    "author": "Daniel Clowes",
+    "year": 1997,
+    "isbn_13": "9785124121350",
+    "isbn_10": "512412135X",
+    "pages": 80,
+    "genres": [
+      "Graphic Novel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Blankets",
+    "author": "Craig Thompson",
+    "year": 2003,
+    "isbn_13": "9782522357022",
+    "isbn_10": "2522357025",
+    "pages": 582,
+    "genres": [
+      "Graphic Novel",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Black Hole",
+    "author": "Charles Burns",
+    "year": 2005,
+    "isbn_13": "9780680623140",
+    "isbn_10": "0680623140",
+    "pages": 368,
+    "genres": [
+      "Graphic Novel",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Building Stories",
+    "author": "Chris Ware",
+    "year": 2012,
+    "isbn_13": "9784130988506",
+    "isbn_10": "4130988505",
+    "pages": 260,
+    "genres": [
+      "Graphic Novel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "My Favorite Thing Is Monsters",
+    "author": "Emil Ferris",
+    "year": 2017,
+    "isbn_13": "9786544826757",
+    "isbn_10": "6544826753",
+    "pages": 388,
+    "genres": [
+      "Graphic Novel",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "March: Book One",
+    "author": "John Lewis",
+    "year": 2013,
+    "isbn_13": "9786467672257",
+    "isbn_10": "6467672252",
+    "pages": 121,
+    "genres": [
+      "Graphic Novel",
+      "History",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "March: Book Two",
+    "author": "John Lewis",
+    "year": 2015,
+    "isbn_13": "9787468314085",
+    "isbn_10": "7468314081",
+    "pages": 192,
+    "genres": [
+      "Graphic Novel",
+      "History",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "March: Book Three",
+    "author": "John Lewis",
+    "year": 2016,
+    "isbn_13": "9785024330449",
+    "isbn_10": "5024330444",
+    "pages": 246,
+    "genres": [
+      "Graphic Novel",
+      "History",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Nimona",
+    "author": "Noelle Stevenson",
+    "year": 2015,
+    "isbn_13": "9788192100357",
+    "isbn_10": "8192100352",
+    "pages": 266,
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Daytripper",
+    "author": "F\u00e1bio Moon",
+    "year": 2011,
+    "isbn_13": "9783246424243",
+    "isbn_10": "324642424X",
+    "pages": 256,
+    "genres": [
+      "Graphic Novel",
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Innovator's Dilemma",
+    "author": "Clayton M. Christensen",
+    "year": 1997,
+    "isbn_13": "9786157146020",
+    "isbn_10": "6157146023",
+    "pages": 286,
+    "genres": [
+      "Business"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "year": 2011,
+    "isbn_13": "9785201571405",
+    "isbn_10": "5201571402",
+    "pages": 336,
+    "genres": [
+      "Business"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "year": 2014,
+    "isbn_13": "9787102051994",
+    "isbn_10": "7102051992",
+    "pages": 195,
+    "genres": [
+      "Business"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Good to Great",
+    "author": "Jim Collins",
+    "year": 2001,
+    "isbn_13": "9783335529033",
+    "isbn_10": "3335529030",
+    "pages": 300,
+    "genres": [
+      "Business"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Built to Last",
+    "author": "Jim Collins",
+    "year": 1994,
+    "isbn_13": "9783165365511",
+    "isbn_10": "3165365519",
+    "pages": 342,
+    "genres": [
+      "Business"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Hard Thing About Hard Things",
+    "author": "Ben Horowitz",
+    "year": 2014,
+    "isbn_13": "9787056682749",
+    "isbn_10": "7056682741",
+    "pages": 304,
+    "genres": [
+      "Business",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Shoe Dog",
+    "author": "Phil Knight",
+    "year": 2016,
+    "isbn_13": "9787710202436",
+    "isbn_10": "7710202433",
+    "pages": 386,
+    "genres": [
+      "Business",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Everything Store",
+    "author": "Brad Stone",
+    "year": 2013,
+    "isbn_13": "9788416317509",
+    "isbn_10": "8416317501",
+    "pages": 372,
+    "genres": [
+      "Business",
+      "Biography"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Creativity, Inc.",
+    "author": "Ed Catmull",
+    "year": 2014,
+    "isbn_13": "9785111410153",
+    "isbn_10": "5111410156",
+    "pages": 368,
+    "genres": [
+      "Business"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bad Blood",
+    "author": "John Carreyrou",
+    "year": 2018,
+    "isbn_13": "9788950132088",
+    "isbn_10": "8950132084",
+    "pages": 352,
+    "genres": [
+      "Business",
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Social Dilemma",
+    "author": "Jeff Orlowski",
+    "year": 2020,
+    "isbn_13": "9783584557207",
+    "isbn_10": "3584557203",
+    "pages": 250,
+    "genres": [
+      "Technology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Age of Surveillance Capitalism",
+    "author": "Shoshana Zuboff",
+    "year": 2019,
+    "isbn_13": "9787155129206",
+    "isbn_10": "7155129203",
+    "pages": 691,
+    "genres": [
+      "Technology",
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Weapons of Math Destruction",
+    "author": "Cathy O'Neil",
+    "year": 2016,
+    "isbn_13": "9785332052972",
+    "isbn_10": "5332052972",
+    "pages": 259,
+    "genres": [
+      "Technology",
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Automating Inequality",
+    "author": "Virginia Eubanks",
+    "year": 2018,
+    "isbn_13": "9788133443147",
+    "isbn_10": "8133443143",
+    "pages": 260,
+    "genres": [
+      "Technology",
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Race After Technology",
+    "author": "Ruha Benjamin",
+    "year": 2019,
+    "isbn_13": "9784267205323",
+    "isbn_10": "4267205322",
+    "pages": 172,
+    "genres": [
+      "Technology",
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Life 3.0",
+    "author": "Max Tegmark",
+    "year": 2017,
+    "isbn_13": "9785547445200",
+    "isbn_10": "5547445204",
+    "pages": 364,
+    "genres": [
+      "Technology",
+      "Science"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Superintelligence",
+    "author": "Nick Bostrom",
+    "year": 2014,
+    "isbn_13": "9788513701423",
+    "isbn_10": "8513701427",
+    "pages": 352,
+    "genres": [
+      "Technology",
+      "Science"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Singularity Is Near",
+    "author": "Ray Kurzweil",
+    "year": 2005,
+    "isbn_13": "9783511203320",
+    "isbn_10": "3511203326",
+    "pages": 652,
+    "genres": [
+      "Technology",
+      "Science"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "How to Create a Mind",
+    "author": "Ray Kurzweil",
+    "year": 2012,
+    "isbn_13": "9786042657518",
+    "isbn_10": "6042657513",
+    "pages": 282,
+    "genres": [
+      "Technology",
+      "Science"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Hackers",
+    "author": "Steven Levy",
+    "year": 1984,
+    "isbn_13": "9781665103800",
+    "isbn_10": "1665103802",
+    "pages": 511,
+    "genres": [
+      "Technology",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Soul of a New Machine",
+    "author": "Tracy Kidder",
+    "year": 1981,
+    "isbn_13": "9787205915070",
+    "isbn_10": "7205915077",
+    "pages": 293,
+    "genres": [
+      "Technology",
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dealers of Lightning",
+    "author": "Michael A. Hiltzik",
+    "year": 1999,
+    "isbn_13": "9782355442018",
+    "isbn_10": "2355442010",
+    "pages": 470,
+    "genres": [
+      "Technology",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Where Wizards Stay Up Late",
+    "author": "Katie Hafner",
+    "year": 1996,
+    "isbn_13": "9782149112455",
+    "isbn_10": "2149112450",
+    "pages": 304,
+    "genres": [
+      "Technology",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Cluetrain Manifesto",
+    "author": "Rick Levine",
+    "year": 2000,
+    "isbn_13": "9783013045329",
+    "isbn_10": "3013045322",
+    "pages": 190,
+    "genres": [
+      "Technology",
+      "Business"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "In the Plex",
+    "author": "Steven Levy",
+    "year": 2011,
+    "isbn_13": "9785414241614",
+    "isbn_10": "5414241612",
+    "pages": 424,
+    "genres": [
+      "Technology",
+      "Business"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Filter Bubble",
+    "author": "Eli Pariser",
+    "year": 2011,
+    "isbn_13": "9780603015052",
+    "isbn_10": "0603015050",
+    "pages": 294,
+    "genres": [
+      "Technology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Algorithms to Live By",
+    "author": "Brian Christian",
+    "year": 2016,
+    "isbn_13": "9781555633066",
+    "isbn_10": "1555633067",
+    "pages": 368,
+    "genres": [
+      "Technology",
+      "Science"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Master Algorithm",
+    "author": "Pedro Domingos",
+    "year": 2015,
+    "isbn_13": "9780984092185",
+    "isbn_10": "0984092183",
+    "pages": 352,
+    "genres": [
+      "Technology",
+      "Science"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Permanent Record",
+    "author": "Edward Snowden",
+    "year": 2019,
+    "isbn_13": "9787046796951",
+    "isbn_10": "7046796956",
+    "pages": 339,
+    "genres": [
+      "Memoir",
+      "Technology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Code Book",
+    "author": "Simon Singh",
+    "year": 1999,
+    "isbn_13": "9781551251547",
+    "isbn_10": "1551251541",
+    "pages": 402,
+    "genres": [
+      "Technology",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Cryptonomicon",
+    "author": "Neal Stephenson",
+    "year": 1999,
+    "isbn_13": "9782313847107",
+    "isbn_10": "231384710X",
+    "pages": 918,
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  }
+]
