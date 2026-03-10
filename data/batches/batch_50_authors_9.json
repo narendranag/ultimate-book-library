@@ -1,0 +1,1562 @@
+[
+  {
+    "title": "Home",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9787416413419",
+    "isbn_10": "7416413419",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 147
+  },
+  {
+    "title": "God Help the Child",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9780323525121",
+    "isbn_10": "0323525121",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 178
+  },
+  {
+    "title": "Playing in the Dark",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9780266455301",
+    "isbn_10": "0266455301",
+    "genres": [
+      "Literary Criticism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 91
+  },
+  {
+    "title": "The Source of Self-Regard",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9785348507237",
+    "isbn_10": "5348507237",
+    "genres": [
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 354
+  },
+  {
+    "title": "Americana",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9784885905513",
+    "isbn_10": "4885905516",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1971,
+    "page_count": 377
+  },
+  {
+    "title": "End Zone",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9784571149153",
+    "isbn_10": "4571149158",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 242
+  },
+  {
+    "title": "Great Jones Street",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9780920254066",
+    "isbn_10": "0920254063",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 265
+  },
+  {
+    "title": "Ratner's Star",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9781861140326",
+    "isbn_10": "1861140320",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1976,
+    "page_count": 438
+  },
+  {
+    "title": "Players",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9780004791128",
+    "isbn_10": "0004791126",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 212
+  },
+  {
+    "title": "Running Dog",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9785239029381",
+    "isbn_10": "5239029385",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1978,
+    "page_count": 248
+  },
+  {
+    "title": "The Names",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9780863780516",
+    "isbn_10": "0863780512",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 339
+  },
+  {
+    "title": "White Noise",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9784501103927",
+    "isbn_10": "4501103922",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 326
+  },
+  {
+    "title": "Libra",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9785700348461",
+    "isbn_10": "5700348462",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 456
+  },
+  {
+    "title": "Mao II",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9782211130103",
+    "isbn_10": "2211130100",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 241
+  },
+  {
+    "title": "Underworld",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9782733202852",
+    "isbn_10": "2733202855",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 827
+  },
+  {
+    "title": "The Body Artist",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9783157915427",
+    "isbn_10": "3157915428",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 124
+  },
+  {
+    "title": "Cosmopolis",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9785067310385",
+    "isbn_10": "5067310383",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 209
+  },
+  {
+    "title": "Falling Man",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9784631154226",
+    "isbn_10": "4631154225",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 246
+  },
+  {
+    "title": "Point Omega",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9783465000259",
+    "isbn_10": "3465000250",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 117
+  },
+  {
+    "title": "Zero K",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9783536453885",
+    "isbn_10": "3536453880",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 274
+  },
+  {
+    "title": "The Silence",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9783714445176",
+    "isbn_10": "371444517X",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 116
+  },
+  {
+    "title": "V.",
+    "authors": [
+      "Thomas Pynchon"
+    ],
+    "isbn_13": "9784919391978",
+    "isbn_10": "4919391978",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 492
+  },
+  {
+    "title": "The Crying of Lot 49",
+    "authors": [
+      "Thomas Pynchon"
+    ],
+    "isbn_13": "9784443163621",
+    "isbn_10": "444316362X",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1966,
+    "page_count": 152
+  },
+  {
+    "title": "Gravity's Rainbow",
+    "authors": [
+      "Thomas Pynchon"
+    ],
+    "isbn_13": "9785841689058",
+    "isbn_10": "5841689053",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 760
+  },
+  {
+    "title": "Slow Learner",
+    "authors": [
+      "Thomas Pynchon"
+    ],
+    "isbn_13": "9784243555435",
+    "isbn_10": "4243555435",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 193
+  },
+  {
+    "title": "Vineland",
+    "authors": [
+      "Thomas Pynchon"
+    ],
+    "isbn_13": "9782350024080",
+    "isbn_10": "2350024083",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 385
+  },
+  {
+    "title": "Mason & Dixon",
+    "authors": [
+      "Thomas Pynchon"
+    ],
+    "isbn_13": "9784555344734",
+    "isbn_10": "4555344731",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 773
+  },
+  {
+    "title": "Against the Day",
+    "authors": [
+      "Thomas Pynchon"
+    ],
+    "isbn_13": "9789867240538",
+    "isbn_10": "9867240537",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 1085
+  },
+  {
+    "title": "Inherent Vice",
+    "authors": [
+      "Thomas Pynchon"
+    ],
+    "isbn_13": "9787263340814",
+    "isbn_10": "726334081X",
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 369
+  },
+  {
+    "title": "Bleeding Edge",
+    "authors": [
+      "Thomas Pynchon"
+    ],
+    "isbn_13": "9781722003807",
+    "isbn_10": "1722003804",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 477
+  },
+  {
+    "title": "The Orchard Keeper",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9783104096308",
+    "isbn_10": "3104096309",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 246
+  },
+  {
+    "title": "Outer Dark",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9788027957378",
+    "isbn_10": "8027957370",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1968,
+    "page_count": 242
+  },
+  {
+    "title": "Child of God",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9780470281239",
+    "isbn_10": "0470281235",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 197
+  },
+  {
+    "title": "Suttree",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9783562240411",
+    "isbn_10": "3562240414",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 471
+  },
+  {
+    "title": "Blood Meridian",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9786452426537",
+    "isbn_10": "6452426532",
+    "genres": [
+      "Literary Fiction",
+      "Western"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 337
+  },
+  {
+    "title": "All the Pretty Horses",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9781429227247",
+    "isbn_10": "1429227249",
+    "genres": [
+      "Literary Fiction",
+      "Western"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 302
+  },
+  {
+    "title": "The Crossing",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9789269573203",
+    "isbn_10": "9269573206",
+    "genres": [
+      "Literary Fiction",
+      "Western"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 426
+  },
+  {
+    "title": "Cities of the Plain",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9783412084547",
+    "isbn_10": "3412084549",
+    "genres": [
+      "Literary Fiction",
+      "Western"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 291
+  },
+  {
+    "title": "No Country for Old Men",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9786145885139",
+    "isbn_10": "6145885130",
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 309
+  },
+  {
+    "title": "The Road",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9787626010873",
+    "isbn_10": "7626010876",
+    "genres": [
+      "Literary Fiction",
+      "Dystopian"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 287
+  },
+  {
+    "title": "The Passenger",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9781293313541",
+    "isbn_10": "1293313548",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 383
+  },
+  {
+    "title": "Stella Maris",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9780206832018",
+    "isbn_10": "020683201X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 190
+  },
+  {
+    "title": "The Edible Woman",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9782305406275",
+    "isbn_10": "2305406274",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 281
+  },
+  {
+    "title": "Surfacing",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9783150530016",
+    "isbn_10": "3150530016",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 224
+  },
+  {
+    "title": "Lady Oracle",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9781701185562",
+    "isbn_10": "1701185563",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1976,
+    "page_count": 345
+  },
+  {
+    "title": "Life Before Man",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9789005352857",
+    "isbn_10": "900535285X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 317
+  },
+  {
+    "title": "Bodily Harm",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9784965572086",
+    "isbn_10": "4965572084",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 301
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9780032020979",
+    "isbn_10": "003202097X",
+    "genres": [
+      "Literary Fiction",
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 311
+  },
+  {
+    "title": "Cat's Eye",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9785019533107",
+    "isbn_10": "5019533106",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 421
+  },
+  {
+    "title": "The Robber Bride",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9786747254814",
+    "isbn_10": "6747254813",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 528
+  },
+  {
+    "title": "Alias Grace",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9784486962007",
+    "isbn_10": "4486962001",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 470
+  },
+  {
+    "title": "The Blind Assassin",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9785194080724",
+    "isbn_10": "5194080727",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 521
+  },
+  {
+    "title": "Oryx and Crake",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9782486343734",
+    "isbn_10": "2486343733",
+    "genres": [
+      "Literary Fiction",
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 374
+  },
+  {
+    "title": "The Year of the Flood",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9787642765504",
+    "isbn_10": "7642765509",
+    "genres": [
+      "Literary Fiction",
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 431
+  },
+  {
+    "title": "MaddAddam",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9781888911275",
+    "isbn_10": "1888911271",
+    "genres": [
+      "Literary Fiction",
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 394
+  },
+  {
+    "title": "The Heart Goes Last",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9782197041844",
+    "isbn_10": "2197041843",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 316
+  },
+  {
+    "title": "Hag-Seed",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9783851114430",
+    "isbn_10": "3851114434",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 295
+  },
+  {
+    "title": "The Testaments",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9782975057906",
+    "isbn_10": "2975057903",
+    "genres": [
+      "Literary Fiction",
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 419
+  },
+  {
+    "title": "Stone Mattress",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9783040096066",
+    "isbn_10": "3040096060",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 256
+  },
+  {
+    "title": "Moral Disorder",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9782255401856",
+    "isbn_10": "2255401851",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 257
+  },
+  {
+    "title": "Wilderness Tips",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9781694334015",
+    "isbn_10": "1694334015",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 227
+  },
+  {
+    "title": "Dancing Girls",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9787210832904",
+    "isbn_10": "7210832904",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 256
+  },
+  {
+    "title": "Bluebeard's Egg",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9781884853340",
+    "isbn_10": "188485334X",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 281
+  },
+  {
+    "title": "Old Babes in the Wood",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9784132110523",
+    "isbn_10": "4132110524",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 272
+  },
+  {
+    "title": "Dearly",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9785080722653",
+    "isbn_10": "5080722657",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 128
+  },
+  {
+    "title": "The Tent",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9783300673617",
+    "isbn_10": "3300673615",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 163
+  },
+  {
+    "title": "them",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9780812016406",
+    "isbn_10": "0812016408",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 508
+  },
+  {
+    "title": "Wonderland",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9787955805041",
+    "isbn_10": "7955805046",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1971,
+    "page_count": 512
+  },
+  {
+    "title": "Do with Me What You Will",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9782547586742",
+    "isbn_10": "2547586746",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 560
+  },
+  {
+    "title": "The Assassins",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9786036941012",
+    "isbn_10": "6036941013",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 563
+  },
+  {
+    "title": "A Bloodsmoor Romance",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9787238335579",
+    "isbn_10": "7238335573",
+    "genres": [
+      "Literary Fiction",
+      "Gothic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 615
+  },
+  {
+    "title": "Marya: A Life",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9781207506397",
+    "isbn_10": "1207506397",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 310
+  },
+  {
+    "title": "You Must Remember This",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9785459356595",
+    "isbn_10": "5459356598",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 436
+  },
+  {
+    "title": "Because It Is Bitter, and Because It Is My Heart",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9780133009439",
+    "isbn_10": "0133009432",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 405
+  },
+  {
+    "title": "Black Water",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9787392630466",
+    "isbn_10": "7392630466",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 154
+  },
+  {
+    "title": "Foxfire",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9784315122558",
+    "isbn_10": "4315122556",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 328
+  },
+  {
+    "title": "What I Lived For",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9785255620555",
+    "isbn_10": "5255620556",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 608
+  },
+  {
+    "title": "We Were the Mulvaneys",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9783370350593",
+    "isbn_10": "3370350599",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 454
+  },
+  {
+    "title": "Blonde",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9789521743719",
+    "isbn_10": "9521743719",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 738
+  },
+  {
+    "title": "The Falls",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9783424405439",
+    "isbn_10": "3424405434",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 481
+  },
+  {
+    "title": "The Gravedigger's Daughter",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9780426482260",
+    "isbn_10": "0426482263",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 582
+  },
+  {
+    "title": "A Fair Maiden",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9786172567169",
+    "isbn_10": "6172567160",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 165
+  },
+  {
+    "title": "Mudwoman",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9782733853511",
+    "isbn_10": "2733853511",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 448
+  },
+  {
+    "title": "The Accursed",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9785590125319",
+    "isbn_10": "5590125316",
+    "genres": [
+      "Literary Fiction",
+      "Gothic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 688
+  },
+  {
+    "title": "Carthage",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9786359402245",
+    "isbn_10": "6359402246",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 496
+  },
+  {
+    "title": "The Man Without a Shadow",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9788013435026",
+    "isbn_10": "8013435024",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 384
+  },
+  {
+    "title": "A Book of American Martyrs",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9785948182032",
+    "isbn_10": "5948182037",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 736
+  },
+  {
+    "title": "My Life as a Rat",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9783347556034",
+    "isbn_10": "3347556038",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 400
+  },
+  {
+    "title": "Night. Sleep. Death. The Stars.",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9780119422726",
+    "isbn_10": "0119422727",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 800
+  },
+  {
+    "title": "Breathe",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9780832001581",
+    "isbn_10": "0832001589",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 320
+  },
+  {
+    "title": "Babysitter",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9780421515321",
+    "isbn_10": "0421515325",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 400
+  },
+  {
+    "title": "The (Other) You",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9789303412437",
+    "isbn_10": "9303412435",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 304
+  },
+  {
+    "title": "Zero-Sum",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9786100424397",
+    "isbn_10": "6100424398",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 384
+  },
+  {
+    "title": "Night, Neon",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9784034522264",
+    "isbn_10": "4034522267",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 192
+  },
+  {
+    "title": "Beautiful Days",
+    "authors": [
+      "Joyce Carol Oates"
+    ],
+    "isbn_13": "9787869938156",
+    "isbn_10": "7869938157",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 384
+  },
+  {
+    "title": "Goodbye, Columbus",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9787324150550",
+    "isbn_10": "7324150551",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 298
+  },
+  {
+    "title": "Letting Go",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9789281551227",
+    "isbn_10": "9281551225",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 630
+  },
+  {
+    "title": "When She Was Good",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9787628982413",
+    "isbn_10": "7628982417",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1967,
+    "page_count": 306
+  },
+  {
+    "title": "Portnoy's Complaint",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9780030009068",
+    "isbn_10": "0030009065",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 274
+  },
+  {
+    "title": "Our Gang",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9780963825322",
+    "isbn_10": "0963825321",
+    "genres": [
+      "Literary Fiction",
+      "Satire"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1971,
+    "page_count": 200
+  }
+]

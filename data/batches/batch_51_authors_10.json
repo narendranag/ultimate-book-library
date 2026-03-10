@@ -1,0 +1,760 @@
+[
+  {
+    "title": "The Breast",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9784084193759",
+    "isbn_10": "4084193755",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 89
+  },
+  {
+    "title": "The Great American Novel",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9783358451625",
+    "isbn_10": "3358451623",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 382
+  },
+  {
+    "title": "My Life as a Man",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9780751101430",
+    "isbn_10": "0751101435",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 330
+  },
+  {
+    "title": "The Professor of Desire",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9788201903290",
+    "isbn_10": "8201903293",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 263
+  },
+  {
+    "title": "The Ghost Writer",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9787148563543",
+    "isbn_10": "7148563542",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 180
+  },
+  {
+    "title": "Zuckerman Unbound",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9788055476803",
+    "isbn_10": "8055476802",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 225
+  },
+  {
+    "title": "The Anatomy Lesson",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9782253555087",
+    "isbn_10": "2253555088",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 291
+  },
+  {
+    "title": "The Counterlife",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9788769494834",
+    "isbn_10": "8769494835",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 324
+  },
+  {
+    "title": "Deception",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9783551653093",
+    "isbn_10": "3551653097",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 208
+  },
+  {
+    "title": "Operation Shylock",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9782923544007",
+    "isbn_10": "2923544005",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 398
+  },
+  {
+    "title": "Sabbath's Theater",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9781140322665",
+    "isbn_10": "1140322664",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 451
+  },
+  {
+    "title": "American Pastoral",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9784102964422",
+    "isbn_10": "4102964428",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 423
+  },
+  {
+    "title": "I Married a Communist",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9785671214147",
+    "isbn_10": "5671214149",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 323
+  },
+  {
+    "title": "The Human Stain",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9782591142345",
+    "isbn_10": "2591142343",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 361
+  },
+  {
+    "title": "The Dying Animal",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9780316863742",
+    "isbn_10": "0316863742",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 156
+  },
+  {
+    "title": "The Plot Against America",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9788223905418",
+    "isbn_10": "8223905418",
+    "genres": [
+      "Literary Fiction",
+      "Alternative History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 391
+  },
+  {
+    "title": "Everyman",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9781501340529",
+    "isbn_10": "1501340522",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 182
+  },
+  {
+    "title": "Exit Ghost",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9780609579084",
+    "isbn_10": "0609579088",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 292
+  },
+  {
+    "title": "Indignation",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9786505183301",
+    "isbn_10": "6505183302",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 233
+  },
+  {
+    "title": "The Humbling",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9781521211175",
+    "isbn_10": "1521211175",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 140
+  },
+  {
+    "title": "Nemesis",
+    "authors": [
+      "Philip Roth"
+    ],
+    "isbn_13": "9787533205218",
+    "isbn_10": "7533205219",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 280
+  },
+  {
+    "title": "The Poorhouse Fair",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9783500551456",
+    "isbn_10": "3500551459",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 185
+  },
+  {
+    "title": "Rabbit, Run",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9784604265829",
+    "isbn_10": "4604265828",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1960,
+    "page_count": 264
+  },
+  {
+    "title": "The Centaur",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9788535215212",
+    "isbn_10": "8535215212",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 302
+  },
+  {
+    "title": "Of the Farm",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9788324311071",
+    "isbn_10": "8324311076",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 174
+  },
+  {
+    "title": "Couples",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9783152560653",
+    "isbn_10": "3152560656",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1968,
+    "page_count": 458
+  },
+  {
+    "title": "Rabbit Redux",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9787270579436",
+    "isbn_10": "7270579431",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1971,
+    "page_count": 407
+  },
+  {
+    "title": "A Month of Sundays",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9786943381932",
+    "isbn_10": "6943381938",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 228
+  },
+  {
+    "title": "Marry Me",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9784410172021",
+    "isbn_10": "4410172026",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1976,
+    "page_count": 303
+  },
+  {
+    "title": "The Coup",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9785303554139",
+    "isbn_10": "5303554139",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1978,
+    "page_count": 299
+  },
+  {
+    "title": "Rabbit Is Rich",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9786657443681",
+    "isbn_10": "6657443684",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 467
+  },
+  {
+    "title": "The Witches of Eastwick",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9780081884126",
+    "isbn_10": "0081884125",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 307
+  },
+  {
+    "title": "Roger's Version",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9780291699831",
+    "isbn_10": "0291699839",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 329
+  },
+  {
+    "title": "S.",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9780734922649",
+    "isbn_10": "0734922647",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 279
+  },
+  {
+    "title": "Rabbit at Rest",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9785960634519",
+    "isbn_10": "5960634511",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 512
+  },
+  {
+    "title": "Memories of the Ford Administration",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9780649695157",
+    "isbn_10": "0649695151",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 369
+  },
+  {
+    "title": "Brazil",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9782940406210",
+    "isbn_10": "2940406219",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 260
+  },
+  {
+    "title": "In the Beauty of the Lilies",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9785727193341",
+    "isbn_10": "5727193346",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 491
+  },
+  {
+    "title": "Toward the End of Time",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9785010122614",
+    "isbn_10": "5010122618",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 334
+  },
+  {
+    "title": "Gertrude and Claudius",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9781961571624",
+    "isbn_10": "1961571625",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 212
+  },
+  {
+    "title": "Seek My Face",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9783822614099",
+    "isbn_10": "3822614092",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 276
+  },
+  {
+    "title": "Villages",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9789050202985",
+    "isbn_10": "9050202985",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 321
+  },
+  {
+    "title": "Terrorist",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9780142881040",
+    "isbn_10": "014288104X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 310
+  },
+  {
+    "title": "The Widows of Eastwick",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9785755726375",
+    "isbn_10": "575572637X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 308
+  },
+  {
+    "title": "Pigeon Feathers",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9781312353503",
+    "isbn_10": "1312353503",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 278
+  },
+  {
+    "title": "Too Far to Go",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9785530253324",
+    "isbn_10": "5530253326",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 246
+  },
+  {
+    "title": "Trust Me",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9789434131757",
+    "isbn_10": "9434131758",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 302
+  },
+  {
+    "title": "The Afterlife",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9781400205035",
+    "isbn_10": "1400205034",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 316
+  },
+  {
+    "title": "Licks of Love",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9785589281248",
+    "isbn_10": "5589281245",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 359
+  },
+  {
+    "title": "My Father's Tears",
+    "authors": [
+      "John Updike"
+    ],
+    "isbn_13": "9788610247152",
+    "isbn_10": "8610247155",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 292
+  }
+]

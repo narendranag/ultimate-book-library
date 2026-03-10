@@ -1,0 +1,1562 @@
+[
+  {
+    "title": "Stranger in a Strange Land",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9780785312802",
+    "isbn_10": "0785312803",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1961,
+    "page_count": 408
+  },
+  {
+    "title": "Starship Troopers",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9785653517204",
+    "isbn_10": "5653517208",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 263
+  },
+  {
+    "title": "The Moon Is a Harsh Mistress",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9781993464505",
+    "isbn_10": "1993464506",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1966,
+    "page_count": 382
+  },
+  {
+    "title": "Time Enough for Love",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9785176301335",
+    "isbn_10": "5176301334",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 605
+  },
+  {
+    "title": "The Door into Summer",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9786212256336",
+    "isbn_10": "6212256330",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1957,
+    "page_count": 188
+  },
+  {
+    "title": "Citizen of the Galaxy",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9785085354286",
+    "isbn_10": "5085354281",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1957,
+    "page_count": 302
+  },
+  {
+    "title": "Have Space Suit—Will Travel",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9786990701431",
+    "isbn_10": "6990701439",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1958,
+    "page_count": 276
+  },
+  {
+    "title": "Double Star",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9782100655366",
+    "isbn_10": "2100655361",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1956,
+    "page_count": 186
+  },
+  {
+    "title": "The Puppet Masters",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9780014255313",
+    "isbn_10": "0014255316",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 219
+  },
+  {
+    "title": "Glory Road",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9788443225037",
+    "isbn_10": "8443225033",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 288
+  },
+  {
+    "title": "Friday",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9781744412052",
+    "isbn_10": "1744412057",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 368
+  },
+  {
+    "title": "Job: A Comedy of Justice",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9783904070119",
+    "isbn_10": "3904070118",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 376
+  },
+  {
+    "title": "The Cat Who Walks Through Walls",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9783167274200",
+    "isbn_10": "3167274204",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 388
+  },
+  {
+    "title": "To Sail Beyond the Sunset",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9783501405215",
+    "isbn_10": "3501405219",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 416
+  },
+  {
+    "title": "Tunnel in the Sky",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9783370001594",
+    "isbn_10": "3370001594",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1955,
+    "page_count": 262
+  },
+  {
+    "title": "Methuselah's Children",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9787492571553",
+    "isbn_10": "7492571550",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1958,
+    "page_count": 188
+  },
+  {
+    "title": "Farnham's Freehold",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9781133495413",
+    "isbn_10": "1133495419",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1964,
+    "page_count": 315
+  },
+  {
+    "title": "I Will Fear No Evil",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9789013504774",
+    "isbn_10": "9013504779",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1970,
+    "page_count": 401
+  },
+  {
+    "title": "The Number of the Beast",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9783247211750",
+    "isbn_10": "3247211756",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 511
+  },
+  {
+    "title": "Red Planet",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9782589402246",
+    "isbn_10": "2589402244",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1949,
+    "page_count": 211
+  },
+  {
+    "title": "Between Planets",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9784032376715",
+    "isbn_10": "4032376719",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 222
+  },
+  {
+    "title": "The Rolling Stones",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9788800135313",
+    "isbn_10": "8800135315",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1952,
+    "page_count": 276
+  },
+  {
+    "title": "The Star Beast",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9785473642131",
+    "isbn_10": "5473642136",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1954,
+    "page_count": 282
+  },
+  {
+    "title": "Podkayne of Mars",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9786404200048",
+    "isbn_10": "640420004X",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 191
+  },
+  {
+    "title": "Revolt in 2100",
+    "authors": [
+      "Robert A. Heinlein"
+    ],
+    "isbn_13": "9780106051588",
+    "isbn_10": "010605158X",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1953,
+    "page_count": 199
+  },
+  {
+    "title": "The Martian Chronicles",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9782278362493",
+    "isbn_10": "2278362496",
+    "genres": [
+      "Science Fiction",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1950,
+    "page_count": 222
+  },
+  {
+    "title": "Fahrenheit 451",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9783134140538",
+    "isbn_10": "3134140535",
+    "genres": [
+      "Science Fiction",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1953,
+    "page_count": 227
+  },
+  {
+    "title": "The Illustrated Man",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9784669036006",
+    "isbn_10": "4669036009",
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 275
+  },
+  {
+    "title": "Dandelion Wine",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9781159538675",
+    "isbn_10": "1159538670",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1957,
+    "page_count": 239
+  },
+  {
+    "title": "Something Wicked This Way Comes",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9782232806551",
+    "isbn_10": "2232806553",
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 293
+  },
+  {
+    "title": "The October Country",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9784063061246",
+    "isbn_10": "4063061248",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1955,
+    "page_count": 306
+  },
+  {
+    "title": "Death Is a Lonely Business",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9784231365466",
+    "isbn_10": "4231365466",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 279
+  },
+  {
+    "title": "A Graveyard for Lunatics",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9783405300500",
+    "isbn_10": "3405300509",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 285
+  },
+  {
+    "title": "Let's All Kill Constance",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9783193130327",
+    "isbn_10": "319313032X",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 233
+  },
+  {
+    "title": "Green Shadows, White Whale",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9785203005656",
+    "isbn_10": "5203005656",
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 271
+  },
+  {
+    "title": "From the Dust Returned",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9784383444538",
+    "isbn_10": "4383444539",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 204
+  },
+  {
+    "title": "The Halloween Tree",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9782755535259",
+    "isbn_10": "2755535253",
+    "genres": [
+      "Fantasy",
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 145
+  },
+  {
+    "title": "I Sing the Body Electric!",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9784543730464",
+    "isbn_10": "4543730461",
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 305
+  },
+  {
+    "title": "R Is for Rocket",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9780185579454",
+    "isbn_10": "0185579450",
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 233
+  },
+  {
+    "title": "S Is for Space",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9783375485351",
+    "isbn_10": "3375485352",
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1966,
+    "page_count": 244
+  },
+  {
+    "title": "Long After Midnight",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9785649740227",
+    "isbn_10": "5649740224",
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1976,
+    "page_count": 274
+  },
+  {
+    "title": "The Toynbee Convector",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9789466272237",
+    "isbn_10": "9466272233",
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 286
+  },
+  {
+    "title": "Quicker Than the Eye",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9780090655175",
+    "isbn_10": "0090655176",
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 260
+  },
+  {
+    "title": "One More for the Road",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9783115220303",
+    "isbn_10": "3115220308",
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 258
+  },
+  {
+    "title": "We'll Always Have Paris",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9783416582742",
+    "isbn_10": "3416582748",
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 226
+  },
+  {
+    "title": "American Gods",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9785553353575",
+    "isbn_10": "5553353572",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 465
+  },
+  {
+    "title": "Anansi Boys",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9782593321106",
+    "isbn_10": "2593321105",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 336
+  },
+  {
+    "title": "Neverwhere",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9782342051421",
+    "isbn_10": "2342051425",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 370
+  },
+  {
+    "title": "Stardust",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9781205721129",
+    "isbn_10": "1205721126",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 248
+  },
+  {
+    "title": "Coraline",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9785823491532",
+    "isbn_10": "5823491530",
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 163
+  },
+  {
+    "title": "The Graveyard Book",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9780211495475",
+    "isbn_10": "0211495476",
+    "genres": [
+      "Fantasy",
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 312
+  },
+  {
+    "title": "The Ocean at the End of the Lane",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9782354445546",
+    "isbn_10": "2354445547",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 181
+  },
+  {
+    "title": "Good Omens",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9788212114463",
+    "isbn_10": "8212114465",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 288
+  },
+  {
+    "title": "Norse Mythology",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9780180222119",
+    "isbn_10": "0180222112",
+    "genres": [
+      "Fantasy",
+      "Mythology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 299
+  },
+  {
+    "title": "Smoke and Mirrors",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9782055895183",
+    "isbn_10": "2055895184",
+    "genres": [
+      "Fantasy",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 365
+  },
+  {
+    "title": "Fragile Things",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9784945517915",
+    "isbn_10": "4945517916",
+    "genres": [
+      "Fantasy",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 369
+  },
+  {
+    "title": "Trigger Warning",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9781595804662",
+    "isbn_10": "1595804668",
+    "genres": [
+      "Fantasy",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 310
+  },
+  {
+    "title": "Odd and the Frost Giants",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9780449486924",
+    "isbn_10": "0449486923",
+    "genres": [
+      "Fantasy",
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 117
+  },
+  {
+    "title": "Fortunately, the Milk",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9781623248833",
+    "isbn_10": "1623248833",
+    "genres": [
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 128
+  },
+  {
+    "title": "The Wolves in the Walls",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9789302723909",
+    "isbn_10": "9302723909",
+    "genres": [
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 64
+  },
+  {
+    "title": "Blueberry Girl",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9785344202433",
+    "isbn_10": "5344202431",
+    "genres": [
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 32
+  },
+  {
+    "title": "Crazy Hair",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9786353495052",
+    "isbn_10": "6353495056",
+    "genres": [
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 32
+  },
+  {
+    "title": "Chu's Day",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9781364079208",
+    "isbn_10": "1364079208",
+    "genres": [
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 32
+  },
+  {
+    "title": "Interworld",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9783814542348",
+    "isbn_10": "3814542347",
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 239
+  },
+  {
+    "title": "The Silver Dream",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9782416872662",
+    "isbn_10": "2416872664",
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 260
+  },
+  {
+    "title": "Eternity's Wheel",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9785595383226",
+    "isbn_10": "5595383224",
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 260
+  },
+  {
+    "title": "The View from the Cheap Seats",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9780137631445",
+    "isbn_10": "0137631448",
+    "genres": [
+      "Non-Fiction",
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 544
+  },
+  {
+    "title": "Art Matters",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9789553905451",
+    "isbn_10": "9553905455",
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 112
+  },
+  {
+    "title": "The Sandman: Overture",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9783356390209",
+    "isbn_10": "3356390201",
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 224
+  },
+  {
+    "title": "Digital Fortress",
+    "authors": [
+      "Dan Brown"
+    ],
+    "isbn_13": "9788537947920",
+    "isbn_10": "853794792X",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 372
+  },
+  {
+    "title": "Deception Point",
+    "authors": [
+      "Dan Brown"
+    ],
+    "isbn_13": "9785915915298",
+    "isbn_10": "5915915299",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 372
+  },
+  {
+    "title": "Angels & Demons",
+    "authors": [
+      "Dan Brown"
+    ],
+    "isbn_13": "9789969558371",
+    "isbn_10": "9969558374",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 572
+  },
+  {
+    "title": "The Da Vinci Code",
+    "authors": [
+      "Dan Brown"
+    ],
+    "isbn_13": "9782021970333",
+    "isbn_10": "2021970337",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 454
+  },
+  {
+    "title": "The Lost Symbol",
+    "authors": [
+      "Dan Brown"
+    ],
+    "isbn_13": "9782344851203",
+    "isbn_10": "2344851208",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 509
+  },
+  {
+    "title": "Inferno",
+    "authors": [
+      "Dan Brown"
+    ],
+    "isbn_13": "9784200560458",
+    "isbn_10": "4200560453",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 461
+  },
+  {
+    "title": "Origin",
+    "authors": [
+      "Dan Brown"
+    ],
+    "isbn_13": "9780563415480",
+    "isbn_10": "0563415487",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 461
+  },
+  {
+    "title": "Pacific Vortex!",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9784551403459",
+    "isbn_10": "4551403458",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 320
+  },
+  {
+    "title": "The Mediterranean Caper",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9780503381578",
+    "isbn_10": "0503381578",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 287
+  },
+  {
+    "title": "Iceberg",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9785337243078",
+    "isbn_10": "5337243071",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 362
+  },
+  {
+    "title": "Raise the Titanic!",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9785415232536",
+    "isbn_10": "5415232532",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1976,
+    "page_count": 314
+  },
+  {
+    "title": "Vixen 03",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9783431544428",
+    "isbn_10": "3431544428",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1978,
+    "page_count": 344
+  },
+  {
+    "title": "Night Probe!",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9784311240560",
+    "isbn_10": "4311240562",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 355
+  },
+  {
+    "title": "Deep Six",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9781032882109",
+    "isbn_10": "1032882107",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 432
+  },
+  {
+    "title": "Cyclops",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9781205420237",
+    "isbn_10": "1205420231",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 475
+  },
+  {
+    "title": "Treasure",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9789240502284",
+    "isbn_10": "9240502289",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 539
+  },
+  {
+    "title": "Dragon",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9788211322050",
+    "isbn_10": "8211322056",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 541
+  },
+  {
+    "title": "Sahara",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9782081759251",
+    "isbn_10": "208175925X",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 541
+  },
+  {
+    "title": "Inca Gold",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9781251743793",
+    "isbn_10": "125174379X",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 537
+  },
+  {
+    "title": "Shock Wave",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9780218420302",
+    "isbn_10": "0218420307",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 537
+  },
+  {
+    "title": "Flood Tide",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9780504005237",
+    "isbn_10": "0504005235",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 515
+  },
+  {
+    "title": "Atlantis Found",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9785559573830",
+    "isbn_10": "5559573833",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 534
+  },
+  {
+    "title": "Valhalla Rising",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9785302047342",
+    "isbn_10": "5302047349",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 531
+  },
+  {
+    "title": "Trojan Odyssey",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9781231819746",
+    "isbn_10": "123181974X",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 484
+  },
+  {
+    "title": "Black Wind",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9781253435368",
+    "isbn_10": "1253435367",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 516
+  },
+  {
+    "title": "Treasure of Khan",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9786477783455",
+    "isbn_10": "6477783452",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 531
+  },
+  {
+    "title": "Arctic Drift",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9784755531316",
+    "isbn_10": "4755531314",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 515
+  },
+  {
+    "title": "Crescent Dawn",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9784725253309",
+    "isbn_10": "4725253308",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 512
+  },
+  {
+    "title": "The Storm",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9788321652023",
+    "isbn_10": "8321652026",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 400
+  },
+  {
+    "title": "Zero Hour",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9781061231138",
+    "isbn_10": "1061231135",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 400
+  },
+  {
+    "title": "Ghost Ship",
+    "authors": [
+      "Clive Cussler"
+    ],
+    "isbn_13": "9785302465504",
+    "isbn_10": "5302465507",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 416
+  }
+]

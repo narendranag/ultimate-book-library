@@ -511,6 +511,37 @@
       "page_count": 368
     },
     {
+      "title": "A Bloodsmoor Romance",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9787238335579",
+      "isbn_10": "7238335573",
+      "genres": [
+        "Literary Fiction",
+        "Gothic"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1982,
+      "page_count": 615
+    },
+    {
+      "title": "A Book of American Martyrs",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9785948182032",
+      "isbn_10": "5948182037",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 736
+    },
+    {
       "title": "A Boy's Life",
       "authors": [
         "Robert McCammon"
@@ -957,6 +988,37 @@
       "page_count": 68
     },
     {
+      "title": "A Fair Maiden",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9786172567169",
+      "isbn_10": "6172567160",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 165
+    },
+    {
+      "title": "A Falcon Flies",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9782157537233",
+      "isbn_10": "2157537236",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1980,
+      "page_count": 533
+    },
+    {
       "title": "A Fall of Moondust",
       "authors": [
         "Arthur C. Clarke"
@@ -1086,6 +1148,21 @@
       "source": "seed",
       "year_published": 1967,
       "page_count": 247
+    },
+    {
+      "title": "A Graveyard for Lunatics",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "isbn_13": "9783405300500",
+      "isbn_10": "3405300509",
+      "genres": [
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1990,
+      "page_count": 285
     },
     {
       "title": "A Hat Full of Sky",
@@ -1355,6 +1432,22 @@
       "page_count": 153
     },
     {
+      "title": "A Matter of Honour",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9782856253588",
+      "isbn_10": "285625358X",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1986,
+      "page_count": 480
+    },
+    {
       "title": "A Maze of Death",
       "authors": [
         "Philip K. Dick"
@@ -1431,6 +1524,21 @@
       "source": "seed",
       "year_published": 1596,
       "page_count": 223
+    },
+    {
+      "title": "A Month of Sundays",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9786943381932",
+      "isbn_10": "6943381938",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1975,
+      "page_count": 228
     },
     {
       "title": "A Moon for the Misbegotten",
@@ -1668,6 +1776,22 @@
       "page_count": 304
     },
     {
+      "title": "A Prisoner of Birth",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9780514942287",
+      "isbn_10": "0514942282",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 528
+    },
+    {
       "title": "A Promised Land",
       "authors": [
         "Barack Obama"
@@ -1809,6 +1933,22 @@
       "source": "seed",
       "year_published": 2022,
       "page_count": 240
+    },
+    {
+      "title": "A Sparrow Falls",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9787833654334",
+      "isbn_10": "7833654337",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1977,
+      "page_count": 608
     },
     {
       "title": "A Sportsman's Sketches",
@@ -2020,6 +2160,22 @@
       "page_count": 480
     },
     {
+      "title": "A Time to Die",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9780419107927",
+      "isbn_10": "0419107924",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1989,
+      "page_count": 596
+    },
+    {
       "title": "A Time to Kill",
       "authors": [
         "John Grisham"
@@ -2049,6 +2205,22 @@
       "source": "seed",
       "year_published": 1739,
       "page_count": 576
+    },
+    {
+      "title": "A Universal History of Infamy",
+      "authors": [
+        "Jorge Luis Borges"
+      ],
+      "isbn_13": "9780287315448",
+      "isbn_10": "0287315444",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "es",
+      "source": "seed",
+      "year_published": 1935,
+      "page_count": 158
     },
     {
       "title": "A View from the Bridge",
@@ -2112,6 +2284,21 @@
       "source": "seed",
       "year_published": 1999,
       "page_count": 240
+    },
+    {
+      "title": "A Wanted Man",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9782015937823",
+      "isbn_10": "201593782X",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2012,
+      "page_count": 388
     },
     {
       "title": "A Way of Being Free",
@@ -2448,6 +2635,22 @@
       "page_count": 240
     },
     {
+      "title": "Adultery",
+      "authors": [
+        "Paulo Coelho"
+      ],
+      "isbn_13": "9780051033356",
+      "isbn_10": "0051033356",
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "pt",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 260
+    },
+    {
       "title": "Adulthood Rites",
       "authors": [
         "Octavia E. Butler"
@@ -2528,6 +2731,21 @@
       "page_count": 352
     },
     {
+      "title": "After the Fire",
+      "authors": [
+        "Henning Mankell"
+      ],
+      "isbn_13": "9782414314140",
+      "isbn_10": "2414314141",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "sv",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 310
+    },
+    {
       "title": "After the Funeral",
       "authors": [
         "Agatha Christie"
@@ -2587,6 +2805,22 @@
       "source": "seed",
       "year_published": 2015,
       "page_count": 352
+    },
+    {
+      "title": "Against the Day",
+      "authors": [
+        "Thomas Pynchon"
+      ],
+      "isbn_13": "9789867240538",
+      "isbn_10": "9867240537",
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2006,
+      "page_count": 1085
     },
     {
       "title": "Against the Fall of Night",
@@ -2680,6 +2914,22 @@
       "source": "seed",
       "year_published": 2011,
       "page_count": 349
+    },
+    {
+      "title": "Aleph",
+      "authors": [
+        "Paulo Coelho"
+      ],
+      "isbn_13": "9785023157238",
+      "isbn_10": "5023157237",
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "pt",
+      "source": "seed",
+      "year_published": 2010,
+      "page_count": 315
     },
     {
       "title": "Alex Cross's Trial",
@@ -3033,6 +3283,22 @@
       "page_count": 292
     },
     {
+      "title": "Americana",
+      "authors": [
+        "Don DeLillo"
+      ],
+      "isbn_13": "9784885905513",
+      "isbn_10": "4885905516",
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1971,
+      "page_count": 377
+    },
+    {
       "title": "Americanah",
       "authors": [
         "Chimamanda Ngozi Adichie"
@@ -3304,6 +3570,22 @@
       "page_count": 624
     },
     {
+      "title": "An Eye for an Eye",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9780280753735",
+      "isbn_10": "028075373X",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2023,
+      "page_count": 384
+    },
+    {
       "title": "An Ideal Husband",
       "authors": [
         "Oscar Wilde"
@@ -3432,6 +3714,21 @@
       "source": "seed",
       "year_published": 2024,
       "page_count": 448
+    },
+    {
+      "title": "Anansi Boys",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "isbn_13": "9782593321106",
+      "isbn_10": "2593321105",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2005,
+      "page_count": 336
     },
     {
       "title": "Anarchy, State, and Utopia",
@@ -3953,6 +4250,22 @@
       "page_count": 97
     },
     {
+      "title": "Arctic Drift",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9784755531316",
+      "isbn_10": "4755531314",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 515
+    },
+    {
       "title": "Are You My Mother?",
       "authors": [
         "Alison Bechdel"
@@ -4065,6 +4378,21 @@
       "page_count": 466
     },
     {
+      "title": "Art Matters",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "isbn_13": "9789553905451",
+      "isbn_10": "9553905455",
+      "genres": [
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 112
+    },
+    {
       "title": "Artemis",
       "authors": [
         "Andy Weir"
@@ -4129,6 +4457,22 @@
       "source": "seed"
     },
     {
+      "title": "As the Crow Flies",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9780513753105",
+      "isbn_10": "0513753109",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1991,
+      "page_count": 617
+    },
+    {
       "title": "As You Like It",
       "authors": [
         "William Shakespeare"
@@ -4191,6 +4535,22 @@
       "language": "en",
       "page_count": 757,
       "source": "seed"
+    },
+    {
+      "title": "Assegai",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9785800443325",
+      "isbn_10": "5800443327",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 448
     },
     {
       "title": "Asterios Polyp",
@@ -4287,6 +4647,22 @@
       "source": "seed",
       "year_published": 1936,
       "page_count": 111
+    },
+    {
+      "title": "Atlantis Found",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9785559573830",
+      "isbn_10": "5559573833",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1999,
+      "page_count": 534
     },
     {
       "title": "Atlas Obscura",
@@ -4521,6 +4897,21 @@
       "page_count": 194
     },
     {
+      "title": "Babysitter",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9780421515321",
+      "isbn_10": "0421515325",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2022,
+      "page_count": 400
+    },
+    {
       "title": "Bad Blood",
       "authors": [
         "John Carreyrou"
@@ -4535,6 +4926,21 @@
       "source": "seed",
       "year_published": 2018,
       "page_count": 352
+    },
+    {
+      "title": "Bad Luck and Trouble",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9782022924113",
+      "isbn_10": "2022924118",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2007,
+      "page_count": 377
     },
     {
       "title": "Bag of Bones",
@@ -4697,6 +5103,22 @@
       "page_count": 617
     },
     {
+      "title": "Baudolino",
+      "authors": [
+        "Umberto Eco"
+      ],
+      "isbn_13": "9781159025830",
+      "isbn_10": "1159025835",
+      "genres": [
+        "Literary Fiction",
+        "Mystery"
+      ],
+      "language": "it",
+      "source": "seed",
+      "year_published": 2000,
+      "page_count": 522
+    },
+    {
       "title": "Baumgartner's Bombay",
       "authors": [
         "Anita Desai"
@@ -4712,6 +5134,21 @@
       "source": "seed",
       "year_published": 1988,
       "page_count": 321
+    },
+    {
+      "title": "Be Careful What You Wish For",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9782242648813",
+      "isbn_10": "2242648810",
+      "genres": [
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 416
     },
     {
       "title": "Beach Read",
@@ -4745,6 +5182,22 @@
       "page_count": 418
     },
     {
+      "title": "Beautiful Days",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9787869938156",
+      "isbn_10": "7869938157",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 384
+    },
+    {
       "title": "Beautiful World, Where Are You",
       "authors": [
         "Sally Rooney"
@@ -4759,6 +5212,21 @@
       "language": "en",
       "page_count": 356,
       "source": "seed"
+    },
+    {
+      "title": "Because It Is Bitter, and Because It Is My Heart",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9780133009439",
+      "isbn_10": "0133009432",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1990,
+      "page_count": 405
     },
     {
       "title": "Becoming",
@@ -4840,6 +5308,22 @@
       "source": "seed",
       "year_published": 2017,
       "page_count": 256
+    },
+    {
+      "title": "Before the Frost",
+      "authors": [
+        "Henning Mankell"
+      ],
+      "isbn_13": "9787714203002",
+      "isbn_10": "7714203005",
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "sv",
+      "source": "seed",
+      "year_published": 2002,
+      "page_count": 370
     },
     {
       "title": "Before They Are Hanged",
@@ -5009,6 +5493,21 @@
       "page_count": 605
     },
     {
+      "title": "Best Kept Secret",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9783851422337",
+      "isbn_10": "3851422333",
+      "genres": [
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 432
+    },
+    {
       "title": "Best of Friends",
       "authors": [
         "Kamila Shamsie"
@@ -5072,6 +5571,21 @@
       "page_count": 273
     },
     {
+      "title": "Better Off Dead",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9787532023127",
+      "isbn_10": "7532023125",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2021,
+      "page_count": 320
+    },
+    {
       "title": "Between a Rock and a Hard Place",
       "authors": [
         "Aron Ralston"
@@ -5086,6 +5600,21 @@
       "source": "seed",
       "year_published": 2004,
       "page_count": 354
+    },
+    {
+      "title": "Between Planets",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9784032376715",
+      "isbn_10": "4032376719",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1951,
+      "page_count": 222
     },
     {
       "title": "Between the Acts",
@@ -5358,6 +5887,22 @@
       "page_count": 239
     },
     {
+      "title": "Birds of Prey",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9780061396113",
+      "isbn_10": "0061396117",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1997,
+      "page_count": 554
+    },
+    {
       "title": "Bittersweet",
       "authors": [
         "Susan Cain"
@@ -5532,6 +6077,37 @@
       "page_count": 371
     },
     {
+      "title": "Black Water",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9787392630466",
+      "isbn_10": "7392630466",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1992,
+      "page_count": 154
+    },
+    {
+      "title": "Black Wind",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9781253435368",
+      "isbn_10": "1253435367",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2004,
+      "page_count": 516
+    },
+    {
       "title": "Blackwater: The Flood",
       "authors": [
         "Michael McDowell"
@@ -5578,6 +6154,22 @@
       "source": "seed",
       "year_published": 1853,
       "page_count": 1017
+    },
+    {
+      "title": "Bleeding Edge",
+      "authors": [
+        "Thomas Pynchon"
+      ],
+      "isbn_13": "9781722003807",
+      "isbn_10": "1722003804",
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 477
     },
     {
       "title": "Bless the Daughter Raised by a Voice in Her Head",
@@ -5707,6 +6299,22 @@
       "page_count": 320
     },
     {
+      "title": "Blonde",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9789521743719",
+      "isbn_10": "9521743719",
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2000,
+      "page_count": 738
+    },
+    {
       "title": "Blood Meridian",
       "authors": [
         "Cormac McCarthy"
@@ -5790,6 +6398,37 @@
       "page_count": 421
     },
     {
+      "title": "Blue Horizon",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9780572430207",
+      "isbn_10": "0572430205",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2003,
+      "page_count": 490
+    },
+    {
+      "title": "Blue Moon",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9780498155673",
+      "isbn_10": "0498155676",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2019,
+      "page_count": 368
+    },
+    {
       "title": "Blue Nights",
       "authors": [
         "Joan Didion"
@@ -5834,6 +6473,52 @@
       "source": "seed",
       "year_published": 1987,
       "page_count": 300
+    },
+    {
+      "title": "Bluebeard's Egg",
+      "authors": [
+        "Margaret Atwood"
+      ],
+      "isbn_13": "9781884853340",
+      "isbn_10": "188485334X",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1983,
+      "page_count": 281
+    },
+    {
+      "title": "Blueberry Girl",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "isbn_13": "9785344202433",
+      "isbn_10": "5344202431",
+      "genres": [
+        "Children's"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 32
+    },
+    {
+      "title": "Bodily Harm",
+      "authors": [
+        "Margaret Atwood"
+      ],
+      "isbn_13": "9784965572086",
+      "isbn_10": "4965572084",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1981,
+      "page_count": 301
     },
     {
       "title": "Body of Evidence",
@@ -5915,6 +6600,21 @@
       "source": "seed",
       "year_published": 2023,
       "page_count": 352
+    },
+    {
+      "title": "Borges on Writing",
+      "authors": [
+        "Jorge Luis Borges"
+      ],
+      "isbn_13": "9788614122349",
+      "isbn_10": "8614122349",
+      "genres": [
+        "Essays"
+      ],
+      "language": "es",
+      "source": "seed",
+      "year_published": 1973,
+      "page_count": 175
     },
     {
       "title": "Born a Crime",
@@ -6141,6 +6841,21 @@
       "source": "seed"
     },
     {
+      "title": "Brazil",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9782940406210",
+      "isbn_10": "2940406219",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1994,
+      "page_count": 260
+    },
+    {
       "title": "Breakfast of Champions",
       "authors": [
         "Kurt Vonnegut"
@@ -6186,6 +6901,21 @@
       "source": "seed",
       "year_published": 2020,
       "page_count": 304
+    },
+    {
+      "title": "Breathe",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9780832001581",
+      "isbn_10": "0832001589",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2021,
+      "page_count": 320
     },
     {
       "title": "Breathless",
@@ -6809,6 +7539,21 @@
       "source": "seed",
       "year_published": 1925,
       "page_count": 287
+    },
+    {
+      "title": "Carthage",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9786359402245",
+      "isbn_10": "6359402246",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 496
     },
     {
       "title": "Casino Royale",
@@ -7448,6 +8193,21 @@
       "page_count": 120
     },
     {
+      "title": "Chronicler of the Winds",
+      "authors": [
+        "Henning Mankell"
+      ],
+      "isbn_13": "9789831531273",
+      "isbn_10": "9831531272",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "sv",
+      "source": "seed",
+      "year_published": 1995,
+      "page_count": 224
+    },
+    {
       "title": "Chronicles: Volume One",
       "authors": [
         "Bob Dylan"
@@ -7464,6 +8224,21 @@
       "source": "seed",
       "year_published": 2004,
       "page_count": 293
+    },
+    {
+      "title": "Chu's Day",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "isbn_13": "9781364079208",
+      "isbn_10": "1364079208",
+      "genres": [
+        "Children's"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 32
     },
     {
       "title": "Cilka's Journey",
@@ -7512,6 +8287,21 @@
       "source": "seed",
       "year_published": 1998,
       "page_count": 291
+    },
+    {
+      "title": "Citizen of the Galaxy",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9785085354286",
+      "isbn_10": "5085354281",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1957,
+      "page_count": 302
     },
     {
       "title": "Citizen Soldiers",
@@ -7988,6 +8778,21 @@
       "page_count": 169
     },
     {
+      "title": "Cometh the Hour",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9782574003397",
+      "isbn_10": "257400339X",
+      "genres": [
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2016,
+      "page_count": 416
+    },
+    {
       "title": "Coming Home",
       "authors": [
         "Nora Roberts"
@@ -8386,6 +9191,37 @@
       "page_count": 160
     },
     {
+      "title": "Couples",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9783152560653",
+      "isbn_10": "3152560656",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1968,
+      "page_count": 458
+    },
+    {
+      "title": "Courtney's War",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9782025093007",
+      "isbn_10": "2025093004",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 432
+    },
+    {
       "title": "Cracking India",
       "authors": [
         "Bapsi Sidhwa"
@@ -8419,6 +9255,21 @@
       "page_count": 224
     },
     {
+      "title": "Crazy Hair",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "isbn_13": "9786353495052",
+      "isbn_10": "6353495056",
+      "genres": [
+        "Children's"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 32
+    },
+    {
       "title": "Creativity",
       "authors": [
         "Mihaly Csikszentmihalyi"
@@ -8432,6 +9283,22 @@
       "source": "seed",
       "year_published": 1996,
       "page_count": 456
+    },
+    {
+      "title": "Crescent Dawn",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9784725253309",
+      "isbn_10": "4725253308",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2010,
+      "page_count": 512
     },
     {
       "title": "Crete 1941",
@@ -8739,6 +9606,22 @@
       "page_count": 372
     },
     {
+      "title": "Cry Wolf",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9781318110711",
+      "isbn_10": "1318110718",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1976,
+      "page_count": 360
+    },
+    {
       "title": "Cry, the Beloved Country",
       "authors": [
         "Alan Paton"
@@ -8866,6 +9749,22 @@
       "page_count": 288
     },
     {
+      "title": "Cyclops",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9781205420237",
+      "isbn_10": "1205420231",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1986,
+      "page_count": 475
+    },
+    {
       "title": "D-Day",
       "authors": [
         "Antony Beevor"
@@ -8946,6 +9845,22 @@
       "page_count": 393
     },
     {
+      "title": "Dancing Girls",
+      "authors": [
+        "Margaret Atwood"
+      ],
+      "isbn_13": "9787210832904",
+      "isbn_10": "7210832904",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1977,
+      "page_count": 256
+    },
+    {
       "title": "Dandelion Wine",
       "authors": [
         "Ray Bradbury"
@@ -8959,6 +9874,21 @@
       "source": "seed",
       "year_published": 1957,
       "page_count": 239
+    },
+    {
+      "title": "Daniel",
+      "authors": [
+        "Henning Mankell"
+      ],
+      "isbn_13": "9786594554310",
+      "isbn_10": "659455431X",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "sv",
+      "source": "seed",
+      "year_published": 2010,
+      "page_count": 348
     },
     {
       "title": "Daniel Deronda",
@@ -9405,6 +10335,21 @@
       "source": "seed"
     },
     {
+      "title": "Death Is a Lonely Business",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "isbn_13": "9784231365466",
+      "isbn_10": "4231365466",
+      "genres": [
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1985,
+      "page_count": 279
+    },
+    {
       "title": "Death of a Naturalist",
       "authors": [
         "Seamus Heaney"
@@ -9485,6 +10430,37 @@
       "page_count": 534
     },
     {
+      "title": "Deception",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9783551653093",
+      "isbn_10": "3551653097",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1990,
+      "page_count": 208
+    },
+    {
+      "title": "Deception Point",
+      "authors": [
+        "Dan Brown"
+      ],
+      "isbn_13": "9785915915298",
+      "isbn_10": "5915915299",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 372
+    },
+    {
       "title": "Decoded",
       "authors": [
         "Jay-Z"
@@ -9532,6 +10508,22 @@
       "source": "seed",
       "year_published": 2016,
       "page_count": 800
+    },
+    {
+      "title": "Deep Six",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9781032882109",
+      "isbn_10": "1032882107",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1984,
+      "page_count": 432
     },
     {
       "title": "Deep Work",
@@ -9675,6 +10667,38 @@
       "source": "seed",
       "year_published": 2014,
       "page_count": 177
+    },
+    {
+      "title": "Depths",
+      "authors": [
+        "Henning Mankell"
+      ],
+      "isbn_13": "9788328591806",
+      "isbn_10": "8328591804",
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "sv",
+      "source": "seed",
+      "year_published": 2004,
+      "page_count": 257
+    },
+    {
+      "title": "Desert God",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9788244722742",
+      "isbn_10": "8244722746",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 400
     },
     {
       "title": "Desert Solitaire",
@@ -9925,6 +10949,38 @@
       "page_count": 320
     },
     {
+      "title": "Difficult Loves",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "isbn_13": "9789032144463",
+      "isbn_10": "9032144464",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "it",
+      "source": "seed",
+      "year_published": 1970,
+      "page_count": 262
+    },
+    {
+      "title": "Digital Fortress",
+      "authors": [
+        "Dan Brown"
+      ],
+      "isbn_13": "9788537947920",
+      "isbn_10": "853794792X",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1998,
+      "page_count": 372
+    },
+    {
       "title": "Digital Minimalism",
       "authors": [
         "Cal Newport"
@@ -10147,6 +11203,37 @@
       "page_count": 292
     },
     {
+      "title": "Do with Me What You Will",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9782547586742",
+      "isbn_10": "2547586746",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1973,
+      "page_count": 560
+    },
+    {
+      "title": "Doctor Brodie's Report",
+      "authors": [
+        "Jorge Luis Borges"
+      ],
+      "isbn_13": "9780146851926",
+      "isbn_10": "0146851927",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "es",
+      "source": "seed",
+      "year_published": 1970,
+      "page_count": 128
+    },
+    {
       "title": "Doctor Faustus",
       "authors": [
         "Thomas Mann"
@@ -10289,6 +11376,21 @@
       "page_count": 373
     },
     {
+      "title": "Double Star",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9782100655366",
+      "isbn_10": "2100655361",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1956,
+      "page_count": 186
+    },
+    {
       "title": "Doughnut Economics",
       "authors": [
         "Kate Raworth"
@@ -10369,6 +11471,22 @@
       "source": "seed",
       "year_published": 1897,
       "page_count": 418
+    },
+    {
+      "title": "Dragon",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9788211322050",
+      "isbn_10": "8211322056",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1990,
+      "page_count": 541
     },
     {
       "title": "Dragon Tears",
@@ -10677,6 +11795,22 @@
       "page_count": 248
     },
     {
+      "title": "Eagle in the Sky",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9789138548806",
+      "isbn_10": "9138548801",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1974,
+      "page_count": 325
+    },
+    {
       "title": "Earthlight",
       "authors": [
         "Arthur C. Clarke"
@@ -10965,6 +12099,22 @@
       "page_count": 327
     },
     {
+      "title": "Elephant Song",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9788121416146",
+      "isbn_10": "8121416140",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1991,
+      "page_count": 435
+    },
+    {
       "title": "Elephants Can Remember",
       "authors": [
         "Agatha Christie"
@@ -11104,6 +12254,22 @@
       "source": "seed",
       "year_published": 1984,
       "page_count": 351
+    },
+    {
+      "title": "End Zone",
+      "authors": [
+        "Don DeLillo"
+      ],
+      "isbn_13": "9784571149153",
+      "isbn_10": "4571149158",
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1972,
+      "page_count": 242
     },
     {
       "title": "Ender's Game",
@@ -11319,6 +12485,22 @@
       "page_count": 369
     },
     {
+      "title": "Eternity's Wheel",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "isbn_13": "9785595383226",
+      "isbn_10": "5595383224",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 260
+    },
+    {
       "title": "Eugene Onegin",
       "authors": [
         "Alexander Pushkin"
@@ -11378,6 +12560,21 @@
       "source": "seed",
       "year_published": 2007,
       "page_count": 162
+    },
+    {
+      "title": "Everyman",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9781501340529",
+      "isbn_10": "1501340522",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2006,
+      "page_count": 182
     },
     {
       "title": "Everything I Never Told You",
@@ -11457,6 +12654,21 @@
       "language": "en",
       "page_count": 352,
       "source": "seed"
+    },
+    {
+      "title": "Exit Ghost",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9780609579084",
+      "isbn_10": "0609579088",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2007,
+      "page_count": 292
     },
     {
       "title": "Exit Strategy",
@@ -11649,6 +12861,38 @@
       "page_count": 883
     },
     {
+      "title": "Falling Man",
+      "authors": [
+        "Don DeLillo"
+      ],
+      "isbn_13": "9784631154226",
+      "isbn_10": "4631154225",
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2007,
+      "page_count": 246
+    },
+    {
+      "title": "False Impression",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9783128073378",
+      "isbn_10": "3128073376",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2005,
+      "page_count": 386
+    },
+    {
       "title": "Family Album",
       "authors": [
         "Danielle Steel"
@@ -11744,6 +12988,21 @@
       "language": "en",
       "page_count": 275,
       "source": "seed"
+    },
+    {
+      "title": "Farnham's Freehold",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9781133495413",
+      "isbn_10": "1133495419",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1964,
+      "page_count": 315
     },
     {
       "title": "Fashion, Faith, and Fantasy",
@@ -12100,6 +13359,38 @@
       "page_count": 401
     },
     {
+      "title": "Firewall",
+      "authors": [
+        "Henning Mankell"
+      ],
+      "isbn_13": "9787446065466",
+      "isbn_10": "744606546X",
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "sv",
+      "source": "seed",
+      "year_published": 1998,
+      "page_count": 452
+    },
+    {
+      "title": "First Among Equals",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9784075545239",
+      "isbn_10": "4075545237",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1984,
+      "page_count": 438
+    },
+    {
       "title": "First Person Singular",
       "authors": [
         "Haruki Murakami"
@@ -12292,6 +13583,22 @@
       "source": "seed",
       "year_published": 2015,
       "page_count": 616
+    },
+    {
+      "title": "Flood Tide",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9780504005237",
+      "isbn_10": "0504005235",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1997,
+      "page_count": 515
     },
     {
       "title": "Flow",
@@ -12591,6 +13898,37 @@
       "page_count": 228
     },
     {
+      "title": "Foxfire",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9784315122558",
+      "isbn_10": "4315122556",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1993,
+      "page_count": 328
+    },
+    {
+      "title": "Fragile Things",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "isbn_13": "9784945517915",
+      "isbn_10": "4945517916",
+      "genres": [
+        "Fantasy",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2006,
+      "page_count": 369
+    },
+    {
       "title": "Frankenstein",
       "authors": [
         "Mary Shelley"
@@ -12733,6 +14071,21 @@
       "source": "seed",
       "year_published": 1983,
       "page_count": 507
+    },
+    {
+      "title": "Friday",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9781744412052",
+      "isbn_10": "1744412057",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1982,
+      "page_count": 368
     },
     {
       "title": "Friday Night Lights",
@@ -12881,6 +14234,21 @@
       "source": "seed",
       "year_published": 2000,
       "page_count": 738
+    },
+    {
+      "title": "From the Dust Returned",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "isbn_13": "9784383444538",
+      "isbn_10": "4383444539",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 204
     },
     {
       "title": "From the Holy Mountain",
@@ -13368,6 +14736,22 @@
       "page_count": 591
     },
     {
+      "title": "Gertrude and Claudius",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9781961571624",
+      "isbn_10": "1961571625",
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2000,
+      "page_count": 212
+    },
+    {
       "title": "Get a Life, Chloe Brown",
       "authors": [
         "Talia Hibbert"
@@ -13397,6 +14781,38 @@
       "source": "seed",
       "year_published": 2013,
       "page_count": 117
+    },
+    {
+      "title": "Ghost Fire",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9782524093928",
+      "isbn_10": "2524093921",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2019,
+      "page_count": 432
+    },
+    {
+      "title": "Ghost Ship",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9785302465504",
+      "isbn_10": "5302465507",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 416
     },
     {
       "title": "Ghost Story",
@@ -13540,6 +14956,21 @@
       "source": "seed",
       "year_published": 2022,
       "page_count": 416
+    },
+    {
+      "title": "Glory Road",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9788443225037",
+      "isbn_10": "8443225033",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1963,
+      "page_count": 288
     },
     {
       "title": "Go Set a Watchman",
@@ -13736,6 +15167,38 @@
       "page_count": 209
     },
     {
+      "title": "Gold Mine",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9787413146211",
+      "isbn_10": "7413146215",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1970,
+      "page_count": 323
+    },
+    {
+      "title": "Golden Fox",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9785403924146",
+      "isbn_10": "5403924140",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1990,
+      "page_count": 528
+    },
+    {
       "title": "Goldfinger",
       "authors": [
         "Ian Fleming"
@@ -13834,6 +15297,22 @@
       "page_count": 288
     },
     {
+      "title": "Good Omens",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "isbn_13": "9788212114463",
+      "isbn_10": "8212114465",
+      "genres": [
+        "Fantasy",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1990,
+      "page_count": 288
+    },
+    {
       "title": "Good to Great",
       "authors": [
         "Jim Collins"
@@ -13862,6 +15341,22 @@
       "source": "seed",
       "year_published": 1989,
       "page_count": 186
+    },
+    {
+      "title": "Goodbye, Columbus",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9787324150550",
+      "isbn_10": "7324150551",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1959,
+      "page_count": 298
     },
     {
       "title": "Gora",
@@ -13945,6 +15440,22 @@
       "source": "seed"
     },
     {
+      "title": "Great Jones Street",
+      "authors": [
+        "Don DeLillo"
+      ],
+      "isbn_13": "9780920254066",
+      "isbn_10": "0920254063",
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1973,
+      "page_count": 265
+    },
+    {
       "title": "Greek Lessons",
       "authors": [
         "Han Kang"
@@ -13958,6 +15469,22 @@
       "source": "seed",
       "year_published": 2011,
       "page_count": 176
+    },
+    {
+      "title": "Green Shadows, White Whale",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "isbn_13": "9785203005656",
+      "isbn_10": "5203005656",
+      "genres": [
+        "Literary Fiction",
+        "Memoir"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1992,
+      "page_count": 271
     },
     {
       "title": "Greenlights",
@@ -14680,6 +16207,37 @@
       "page_count": 411
     },
     {
+      "title": "Have Space Suit—Will Travel",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9786990701431",
+      "isbn_10": "6990701439",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1958,
+      "page_count": 276
+    },
+    {
+      "title": "Heads You Win",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9783360117113",
+      "isbn_10": "3360117115",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 432
+    },
+    {
       "title": "Hear the Wind Sing",
       "authors": [
         "Haruki Murakami"
@@ -14991,6 +16549,22 @@
       "page_count": 432
     },
     {
+      "title": "Hidden in Plain Sight",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9784448067047",
+      "isbn_10": "4448067041",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2020,
+      "page_count": 352
+    },
+    {
       "title": "Hideaway",
       "authors": [
         "Nora Roberts"
@@ -15068,6 +16642,22 @@
       "source": "seed",
       "year_published": 2016,
       "page_count": 264
+    },
+    {
+      "title": "Hippie",
+      "authors": [
+        "Paulo Coelho"
+      ],
+      "isbn_13": "9784440453008",
+      "isbn_10": "4440453007",
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "pt",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 256
     },
     {
       "title": "His Dark Materials: Northern Lights",
@@ -15342,6 +16932,22 @@
       "source": "seed",
       "year_published": 2016,
       "page_count": 448
+    },
+    {
+      "title": "Honour Among Thieves",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9785053098013",
+      "isbn_10": "5053098018",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1993,
+      "page_count": 430
     },
     {
       "title": "Hope to Die",
@@ -15780,6 +17386,22 @@
       "page_count": 244
     },
     {
+      "title": "Hungry as the Sea",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9785252422800",
+      "isbn_10": "525242280X",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1978,
+      "page_count": 408
+    },
+    {
       "title": "Hyperion",
       "authors": [
         "Dan Simmons"
@@ -15941,6 +17563,21 @@
       "page_count": 281
     },
     {
+      "title": "I Married a Communist",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9785671214147",
+      "isbn_10": "5671214149",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1998,
+      "page_count": 323
+    },
+    {
       "title": "I Shall Wear Midnight",
       "authors": [
         "Terry Pratchett"
@@ -15955,6 +17592,37 @@
       "source": "seed",
       "year_published": 2010,
       "page_count": 355
+    },
+    {
+      "title": "I Sing the Body Electric!",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "isbn_13": "9784543730464",
+      "isbn_10": "4543730461",
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1969,
+      "page_count": 305
+    },
+    {
+      "title": "I Will Fear No Evil",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9789013504774",
+      "isbn_10": "9013504779",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1970,
+      "page_count": 401
     },
     {
       "title": "I'll Be Gone in the Dark",
@@ -16049,6 +17717,22 @@
       "language": "en",
       "page_count": 224,
       "source": "seed"
+    },
+    {
+      "title": "Iceberg",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9785337243078",
+      "isbn_10": "5337243071",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1975,
+      "page_count": 362
     },
     {
       "title": "Identity",
@@ -16497,6 +18181,21 @@
       "page_count": 640
     },
     {
+      "title": "In the Beauty of the Lilies",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9785727193341",
+      "isbn_10": "5727193346",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1996,
+      "page_count": 491
+    },
+    {
       "title": "In the Blink of an Eye",
       "authors": [
         "Walter Murch"
@@ -16627,6 +18326,21 @@
       "source": "seed"
     },
     {
+      "title": "In Too Deep",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9780403755127",
+      "isbn_10": "0403755123",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2024,
+      "page_count": 320
+    },
+    {
       "title": "In Xanadu",
       "authors": [
         "William Dalrymple"
@@ -16641,6 +18355,22 @@
       "source": "seed",
       "year_published": 1989,
       "page_count": 315
+    },
+    {
+      "title": "Inca Gold",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9781251743793",
+      "isbn_10": "125174379X",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1994,
+      "page_count": 537
     },
     {
       "title": "Incandescence",
@@ -16706,6 +18436,21 @@
       "source": "seed",
       "year_published": 2000,
       "page_count": 576
+    },
+    {
+      "title": "Indignation",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9786505183301",
+      "isbn_10": "6505183302",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 233
     },
     {
       "title": "Inferno",
@@ -16820,6 +18565,22 @@
       "source": "seed",
       "year_published": 2003,
       "page_count": 628
+    },
+    {
+      "title": "Inherent Vice",
+      "authors": [
+        "Thomas Pynchon"
+      ],
+      "isbn_13": "9787263340814",
+      "isbn_10": "726334081X",
+      "genres": [
+        "Literary Fiction",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 369
     },
     {
       "title": "Innocent",
@@ -16980,6 +18741,22 @@
       "source": "seed",
       "year_published": 2009,
       "page_count": 384
+    },
+    {
+      "title": "Interworld",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "isbn_13": "9783814542348",
+      "isbn_10": "3814542347",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2007,
+      "page_count": 239
     },
     {
       "title": "Into the Wild",
@@ -17268,6 +19045,36 @@
       "page_count": 370
     },
     {
+      "title": "Italian Folktales",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "isbn_13": "9782176295985",
+      "isbn_10": "2176295986",
+      "genres": [
+        "Folklore"
+      ],
+      "language": "it",
+      "source": "seed",
+      "year_published": 1956,
+      "page_count": 763
+    },
+    {
+      "title": "Italian Shoes",
+      "authors": [
+        "Henning Mankell"
+      ],
+      "isbn_13": "9783711608550",
+      "isbn_10": "3711608558",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "sv",
+      "source": "seed",
+      "year_published": 2006,
+      "page_count": 263
+    },
+    {
       "title": "Jack",
       "authors": [
         "Marilynne Robinson"
@@ -17504,6 +19311,21 @@
       "source": "seed",
       "year_published": 1997,
       "page_count": 380
+    },
+    {
+      "title": "Job: A Comedy of Justice",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9783904070119",
+      "isbn_10": "3904070118",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1984,
+      "page_count": 376
     },
     {
       "title": "Joe Turner's Come and Gone",
@@ -17814,6 +19636,22 @@
       "page_count": 480
     },
     {
+      "title": "Kane and Abel",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9788074871436",
+      "isbn_10": "8074871436",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1979,
+      "page_count": 530
+    },
+    {
       "title": "Kanthapura",
       "authors": [
         "Raja Rao"
@@ -17862,6 +19700,22 @@
       "source": "seed",
       "year_published": 2018,
       "page_count": 384
+    },
+    {
+      "title": "Kennedy's Brain",
+      "authors": [
+        "Henning Mankell"
+      ],
+      "isbn_13": "9782215135357",
+      "isbn_10": "2215135352",
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "sv",
+      "source": "seed",
+      "year_published": 2005,
+      "page_count": 386
     },
     {
       "title": "Kill Alex Cross",
@@ -18325,6 +20179,21 @@
       "page_count": 240
     },
     {
+      "title": "Lady Oracle",
+      "authors": [
+        "Margaret Atwood"
+      ],
+      "isbn_13": "9781701185562",
+      "isbn_10": "1701185563",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1976,
+      "page_count": 345
+    },
+    {
       "title": "Lagoon",
       "authors": [
         "Nnedi Okofor"
@@ -18691,6 +20560,21 @@
       "page_count": 416
     },
     {
+      "title": "Let's All Kill Constance",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "isbn_13": "9783193130327",
+      "isbn_10": "319313032X",
+      "genres": [
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2003,
+      "page_count": 233
+    },
+    {
       "title": "Letter from Birmingham Jail",
       "authors": [
         "Martin Luther King Jr."
@@ -18739,6 +20623,21 @@
       "source": "seed",
       "year_published": 1929,
       "page_count": 80
+    },
+    {
+      "title": "Letting Go",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9789281551227",
+      "isbn_10": "9281551225",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1962,
+      "page_count": 630
     },
     {
       "title": "Leviathan",
@@ -18821,6 +20720,22 @@
       "page_count": 456
     },
     {
+      "title": "Licks of Love",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9785589281248",
+      "isbn_10": "5589281245",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2000,
+      "page_count": 359
+    },
+    {
       "title": "Life",
       "authors": [
         "Keith Richards"
@@ -18901,6 +20816,21 @@
       "source": "seed",
       "year_published": 2009,
       "page_count": 344
+    },
+    {
+      "title": "Life Before Man",
+      "authors": [
+        "Margaret Atwood"
+      ],
+      "isbn_13": "9789005352857",
+      "isbn_10": "900535285X",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1979,
+      "page_count": 317
     },
     {
       "title": "Life of Galileo",
@@ -19268,6 +21198,22 @@
       "page_count": 400
     },
     {
+      "title": "Long After Midnight",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "isbn_13": "9785649740227",
+      "isbn_10": "5649740224",
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1976,
+      "page_count": 274
+    },
+    {
       "title": "Long Day's Journey into Night",
       "authors": [
         "Eugene O'Neill"
@@ -19424,6 +21370,21 @@
       "source": "seed",
       "year_published": 2023,
       "page_count": 608
+    },
+    {
+      "title": "Love",
+      "authors": [
+        "Toni Morrison"
+      ],
+      "isbn_13": "9785014748117",
+      "isbn_10": "5014748112",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2003,
+      "page_count": 202
     },
     {
       "title": "Love and Longing in Bombay",
@@ -19679,6 +21640,21 @@
       "page_count": 385
     },
     {
+      "title": "Make Me",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9785573435244",
+      "isbn_10": "5573435248",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 385
+    },
+    {
       "title": "Making Money",
       "authors": [
         "Terry Pratchett"
@@ -19710,6 +21686,22 @@
       "source": "seed",
       "year_published": 1995,
       "page_count": 220
+    },
+    {
+      "title": "Maktub",
+      "authors": [
+        "Paulo Coelho"
+      ],
+      "isbn_13": "9782043731035",
+      "isbn_10": "2043731033",
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "pt",
+      "source": "seed",
+      "year_published": 1994,
+      "page_count": 128
     },
     {
       "title": "Malafrena",
@@ -19919,6 +21911,22 @@
       "page_count": 412
     },
     {
+      "title": "Manuscript Found in Accra",
+      "authors": [
+        "Paulo Coelho"
+      ],
+      "isbn_13": "9781610449205",
+      "isbn_10": "1610449207",
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "pt",
+      "source": "seed",
+      "year_published": 2012,
+      "page_count": 197
+    },
+    {
       "title": "Mao II",
       "authors": [
         "Don DeLillo"
@@ -20002,6 +22010,21 @@
       "page_count": 192
     },
     {
+      "title": "Marcovaldo",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "isbn_13": "9783901892134",
+      "isbn_10": "3901892133",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "it",
+      "source": "seed",
+      "year_published": 1963,
+      "page_count": 121
+    },
+    {
       "title": "Marker",
       "authors": [
         "Robin Cook"
@@ -20016,6 +22039,21 @@
       "source": "seed",
       "year_published": 2005,
       "page_count": 404
+    },
+    {
+      "title": "Marry Me",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9784410172021",
+      "isbn_10": "4410172026",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1976,
+      "page_count": 303
     },
     {
       "title": "Martian Time-Slip",
@@ -20065,6 +22103,21 @@
       "page_count": 388
     },
     {
+      "title": "Marya: A Life",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9781207506397",
+      "isbn_10": "1207506397",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1986,
+      "page_count": 310
+    },
+    {
       "title": "Maskerade",
       "authors": [
         "Terry Pratchett"
@@ -20079,6 +22132,22 @@
       "source": "seed",
       "year_published": 1995,
       "page_count": 360
+    },
+    {
+      "title": "Mason & Dixon",
+      "authors": [
+        "Thomas Pynchon"
+      ],
+      "isbn_13": "9784555344734",
+      "isbn_10": "4555344731",
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1997,
+      "page_count": 773
     },
     {
       "title": "Matilda",
@@ -20244,6 +22313,21 @@
       "page_count": 115
     },
     {
+      "title": "Memories of the Ford Administration",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9780649695157",
+      "isbn_10": "0649695151",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1992,
+      "page_count": 369
+    },
+    {
       "title": "Memories, Dreams, Reflections",
       "authors": [
         "Carl Jung"
@@ -20274,6 +22358,22 @@
       "source": "seed",
       "year_published": 1993,
       "page_count": 357
+    },
+    {
+      "title": "Men of Men",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9782125403133",
+      "isbn_10": "2125403137",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1981,
+      "page_count": 476
     },
     {
       "title": "Men Without Women",
@@ -20337,6 +22437,21 @@
       "source": "seed",
       "year_published": 1998,
       "page_count": 339
+    },
+    {
+      "title": "Methuselah's Children",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9787492571553",
+      "isbn_10": "7492571550",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1958,
+      "page_count": 188
     },
     {
       "title": "Mexican Gothic",
@@ -20528,6 +22643,21 @@
       "source": "seed",
       "year_published": 2015,
       "page_count": 328
+    },
+    {
+      "title": "Mightier Than the Sword",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9780252415098",
+      "isbn_10": "0252415094",
+      "genres": [
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 400
     },
     {
       "title": "Mike Nichols: A Life",
@@ -20910,6 +23040,22 @@
       "page_count": 374
     },
     {
+      "title": "Monsoon",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9780168245215",
+      "isbn_10": "0168245213",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1999,
+      "page_count": 613
+    },
+    {
       "title": "Monstrous Regiment",
       "authors": [
         "Terry Pratchett"
@@ -20971,6 +23117,22 @@
       "source": "seed",
       "year_published": 2011,
       "page_count": 307
+    },
+    {
+      "title": "Moral Disorder",
+      "authors": [
+        "Margaret Atwood"
+      ],
+      "isbn_13": "9782255401856",
+      "isbn_10": "2255401851",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2006,
+      "page_count": 257
     },
     {
       "title": "Morality for Beautiful Girls",
@@ -21277,6 +23439,21 @@
       "page_count": 192
     },
     {
+      "title": "Mudwoman",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9782733853511",
+      "isbn_10": "2733853511",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2012,
+      "page_count": 448
+    },
+    {
       "title": "Murder on the Orient Express",
       "authors": [
         "Agatha Christie"
@@ -21445,6 +23622,22 @@
       "page_count": 528
     },
     {
+      "title": "My Father's Tears",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9788610247152",
+      "isbn_10": "8610247155",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 292
+    },
+    {
       "title": "My Favorite Thing Is Monsters",
       "authors": [
         "Emil Ferris"
@@ -21523,6 +23716,36 @@
       "source": "seed",
       "year_published": 1982,
       "page_count": 256
+    },
+    {
+      "title": "My Life as a Man",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9780751101430",
+      "isbn_10": "0751101435",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1974,
+      "page_count": 330
+    },
+    {
+      "title": "My Life as a Rat",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9783347556034",
+      "isbn_10": "3347556038",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2019,
+      "page_count": 400
     },
     {
       "title": "My Name Is Lucy Barton",
@@ -21793,6 +24016,21 @@
       "page_count": 364
     },
     {
+      "title": "Nemesis",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9787533205218",
+      "isbn_10": "7533205219",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2010,
+      "page_count": 280
+    },
+    {
       "title": "Nervous Conditions",
       "authors": [
         "Tsitsi Dangarembga"
@@ -21852,6 +24090,21 @@
       "source": "seed",
       "year_published": 2021,
       "page_count": 720
+    },
+    {
+      "title": "Never Go Back",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9789497200353",
+      "isbn_10": "9497200358",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 386
     },
     {
       "title": "Never Let Me Go",
@@ -21916,6 +24169,22 @@
       "source": "seed",
       "year_published": 2006,
       "page_count": 431
+    },
+    {
+      "title": "Next in Line",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9783064120433",
+      "isbn_10": "3064120433",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2022,
+      "page_count": 368
     },
     {
       "title": "Nexus",
@@ -21984,6 +24253,37 @@
       "page_count": 120
     },
     {
+      "title": "Night Probe!",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9784311240560",
+      "isbn_10": "4311240562",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1981,
+      "page_count": 355
+    },
+    {
+      "title": "Night School",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9786453242082",
+      "isbn_10": "6453242087",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2016,
+      "page_count": 368
+    },
+    {
       "title": "Night Shift",
       "authors": [
         "Robin Cook"
@@ -22030,6 +24330,37 @@
       "language": "en",
       "page_count": 480,
       "source": "seed"
+    },
+    {
+      "title": "Night, Neon",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9784034522264",
+      "isbn_10": "4034522267",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2021,
+      "page_count": 192
+    },
+    {
+      "title": "Night. Sleep. Death. The Stars.",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9780119422726",
+      "isbn_10": "0119422727",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2020,
+      "page_count": 800
     },
     {
       "title": "Nightfall",
@@ -22319,6 +24650,21 @@
       "page_count": 759
     },
     {
+      "title": "No Plan B",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9781441553331",
+      "isbn_10": "1441553339",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2022,
+      "page_count": 336
+    },
+    {
       "title": "Noble House",
       "authors": [
         "James Clavell"
@@ -22416,6 +24762,22 @@
       "source": "seed"
     },
     {
+      "title": "Norse Mythology",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "isbn_13": "9780180222119",
+      "isbn_10": "0180222112",
+      "genres": [
+        "Fantasy",
+        "Mythology"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 299
+    },
+    {
       "title": "North",
       "authors": [
         "Seamus Heaney"
@@ -22477,6 +24839,22 @@
       "source": "seed",
       "year_published": 2013,
       "page_count": 692
+    },
+    {
+      "title": "Not a Penny More, Not a Penny Less",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9788551488126",
+      "isbn_10": "8551488120",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1976,
+      "page_count": 310
     },
     {
       "title": "Notes from a Small Island",
@@ -22574,6 +24952,37 @@
       "source": "seed",
       "year_published": 1990,
       "page_count": 432
+    },
+    {
+      "title": "Nothing to Lose",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9782126804434",
+      "isbn_10": "2126804437",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 406
+    },
+    {
+      "title": "Nothing Ventured",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9784020407049",
+      "isbn_10": "4020407045",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2019,
+      "page_count": 320
     },
     {
       "title": "Nova",
@@ -22684,6 +25093,38 @@
       "source": "seed",
       "year_published": 2001,
       "page_count": 400
+    },
+    {
+      "title": "Numbers in the Dark",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "isbn_13": "9782370743411",
+      "isbn_10": "2370743417",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "it",
+      "source": "seed",
+      "year_published": 1995,
+      "page_count": 275
+    },
+    {
+      "title": "Numero Zero",
+      "authors": [
+        "Umberto Eco"
+      ],
+      "isbn_13": "9782344991640",
+      "isbn_10": "2344991646",
+      "genres": [
+        "Literary Fiction",
+        "Mystery"
+      ],
+      "language": "it",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 191
     },
     {
       "title": "Nutshell",
@@ -22826,6 +25267,21 @@
       "source": "seed"
     },
     {
+      "title": "Of the Farm",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9788324311071",
+      "isbn_10": "8324311076",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1965,
+      "page_count": 174
+    },
+    {
       "title": "Oh William!",
       "authors": [
         "Elizabeth Strout"
@@ -22839,6 +25295,22 @@
       "source": "seed",
       "year_published": 2021,
       "page_count": 256
+    },
+    {
+      "title": "Old Babes in the Wood",
+      "authors": [
+        "Margaret Atwood"
+      ],
+      "isbn_13": "9784132110523",
+      "isbn_10": "4132110524",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2023,
+      "page_count": 272
     },
     {
       "title": "Old Man's War",
@@ -23369,6 +25841,22 @@
       "page_count": 418
     },
     {
+      "title": "One More for the Road",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "isbn_13": "9783115220303",
+      "isbn_10": "3115220308",
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2002,
+      "page_count": 258
+    },
+    {
       "title": "One Night @ the Call Center",
       "authors": [
         "Chetan Bhagat"
@@ -23509,6 +25997,21 @@
       "page_count": 260
     },
     {
+      "title": "Only Time Will Tell",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9788289324536",
+      "isbn_10": "8289324537",
+      "genres": [
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2011,
+      "page_count": 386
+    },
+    {
       "title": "Open",
       "authors": [
         "Andre Agassi"
@@ -23556,6 +26059,21 @@
       "page_count": 921
     },
     {
+      "title": "Operation Shylock",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9782923544007",
+      "isbn_10": "2923544005",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1993,
+      "page_count": 398
+    },
+    {
       "title": "Orfeo",
       "authors": [
         "Richard Powers"
@@ -23586,6 +26104,22 @@
       "source": "seed",
       "year_published": 1978,
       "page_count": 394
+    },
+    {
+      "title": "Origin",
+      "authors": [
+        "Dan Brown"
+      ],
+      "isbn_13": "9780563415480",
+      "isbn_10": "0563415487",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 461
     },
     {
       "title": "Orsinian Tales",
@@ -23637,6 +26171,21 @@
       "page_count": 314
     },
     {
+      "title": "Other Inquisitions",
+      "authors": [
+        "Jorge Luis Borges"
+      ],
+      "isbn_13": "9785947332438",
+      "isbn_10": "5947332434",
+      "genres": [
+        "Essays"
+      ],
+      "language": "es",
+      "source": "seed",
+      "year_published": 1952,
+      "page_count": 205
+    },
+    {
       "title": "Other Minds",
       "authors": [
         "Peter Godfrey-Smith"
@@ -23685,6 +26234,22 @@
       "source": "seed",
       "year_published": 1970,
       "page_count": 190
+    },
+    {
+      "title": "Our Gang",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9780963825322",
+      "isbn_10": "0963825321",
+      "genres": [
+        "Literary Fiction",
+        "Satire"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1971,
+      "page_count": 200
     },
     {
       "title": "Our Kind of Traitor",
@@ -23877,6 +26442,22 @@
       "page_count": 496
     },
     {
+      "title": "Over My Dead Body",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9780631503156",
+      "isbn_10": "0631503153",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2021,
+      "page_count": 384
+    },
+    {
       "title": "Oxygen",
       "authors": [
         "Nick Lane"
@@ -23909,6 +26490,22 @@
       "language": "en",
       "page_count": 490,
       "source": "seed"
+    },
+    {
+      "title": "Pacific Vortex!",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9784551403459",
+      "isbn_10": "4551403458",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1983,
+      "page_count": 320
     },
     {
       "title": "Packing for Mars",
@@ -24147,6 +26744,21 @@
       "page_count": 272
     },
     {
+      "title": "Past Tense",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9785074712523",
+      "isbn_10": "5074712521",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 384
+    },
+    {
       "title": "Pastoralia",
       "authors": [
         "George Saunders"
@@ -24178,6 +26790,22 @@
       "source": "seed",
       "year_published": 1929,
       "page_count": 456
+    },
+    {
+      "title": "Paths of Glory",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9781204132568",
+      "isbn_10": "1204132569",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 336
     },
     {
       "title": "Patience",
@@ -24466,6 +27094,21 @@
       "page_count": 232
     },
     {
+      "title": "Personal",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9780445295629",
+      "isbn_10": "0445295627",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 361
+    },
+    {
       "title": "Persuader",
       "authors": [
         "Lee Child"
@@ -24591,6 +27234,22 @@
       "page_count": 328
     },
     {
+      "title": "Pharaoh",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9787344143150",
+      "isbn_10": "7344143151",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2016,
+      "page_count": 560
+    },
+    {
       "title": "Phenomenology of Spirit",
       "authors": [
         "Georg Wilhelm Friedrich Hegel"
@@ -24686,6 +27345,22 @@
       "source": "seed",
       "year_published": 2008,
       "page_count": 490
+    },
+    {
+      "title": "Pigeon Feathers",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9781312353503",
+      "isbn_10": "1312353503",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1962,
+      "page_count": 278
     },
     {
       "title": "Pigs Have Wings",
@@ -24880,6 +27555,37 @@
       "page_count": 341
     },
     {
+      "title": "Players",
+      "authors": [
+        "Don DeLillo"
+      ],
+      "isbn_13": "9780004791128",
+      "isbn_10": "0004791126",
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1977,
+      "page_count": 212
+    },
+    {
+      "title": "Playing in the Dark",
+      "authors": [
+        "Toni Morrison"
+      ],
+      "isbn_13": "9780266455301",
+      "isbn_10": "0266455301",
+      "genres": [
+        "Literary Criticism"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1992,
+      "page_count": 91
+    },
+    {
       "title": "Please Kill Me",
       "authors": [
         "Legs McNeil",
@@ -24928,6 +27634,21 @@
       "page_count": 191
     },
     {
+      "title": "Podkayne of Mars",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9786404200048",
+      "isbn_10": "640420004X",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1963,
+      "page_count": 191
+    },
+    {
       "title": "Point of Origin",
       "authors": [
         "Patricia Cornwell"
@@ -24943,6 +27664,22 @@
       "source": "seed",
       "year_published": 1998,
       "page_count": 370
+    },
+    {
+      "title": "Point Omega",
+      "authors": [
+        "Don DeLillo"
+      ],
+      "isbn_13": "9783465000259",
+      "isbn_10": "3465000250",
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2010,
+      "page_count": 117
     },
     {
       "title": "Police",
@@ -25170,6 +27907,22 @@
       "source": "seed",
       "year_published": 2023,
       "page_count": 288
+    },
+    {
+      "title": "Power of the Sword",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9789147015436",
+      "isbn_10": "9147015438",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1986,
+      "page_count": 618
     },
     {
       "title": "Pre-Suasion",
@@ -25606,6 +28359,22 @@
       "page_count": 401
     },
     {
+      "title": "Quicker Than the Eye",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "isbn_13": "9780090655175",
+      "isbn_10": "0090655176",
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1996,
+      "page_count": 260
+    },
+    {
       "title": "Quicksilver",
       "authors": [
         "Dean Koontz"
@@ -25635,6 +28404,22 @@
       "source": "seed",
       "year_published": 2012,
       "page_count": 352
+    },
+    {
+      "title": "R Is for Rocket",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "isbn_13": "9780185579454",
+      "isbn_10": "0185579450",
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1962,
+      "page_count": 233
     },
     {
       "title": "Raag Darbari",
@@ -25670,6 +28455,51 @@
       "page_count": 336
     },
     {
+      "title": "Rabbit at Rest",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9785960634519",
+      "isbn_10": "5960634511",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1990,
+      "page_count": 512
+    },
+    {
+      "title": "Rabbit Is Rich",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9786657443681",
+      "isbn_10": "6657443684",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1981,
+      "page_count": 467
+    },
+    {
+      "title": "Rabbit Redux",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9787270579436",
+      "isbn_10": "7270579431",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1971,
+      "page_count": 407
+    },
+    {
       "title": "Rabbit, Run",
       "authors": [
         "John Updike"
@@ -25701,6 +28531,22 @@
       "page_count": 224
     },
     {
+      "title": "Rage",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9787131816250",
+      "isbn_10": "7131816256",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1987,
+      "page_count": 670
+    },
+    {
       "title": "Raise High the Roof Beam, Carpenters",
       "authors": [
         "J.D. Salinger"
@@ -25714,6 +28560,22 @@
       "source": "seed",
       "year_published": 1963,
       "page_count": 214
+    },
+    {
+      "title": "Raise the Titanic!",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9785415232536",
+      "isbn_10": "5415232532",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1976,
+      "page_count": 314
     },
     {
       "title": "Raising Steam",
@@ -25807,6 +28669,22 @@
       "source": "seed",
       "year_published": 1915,
       "page_count": 102
+    },
+    {
+      "title": "Ratner's Star",
+      "authors": [
+        "Don DeLillo"
+      ],
+      "isbn_13": "9781861140326",
+      "isbn_10": "1861140320",
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1976,
+      "page_count": 438
     },
     {
       "title": "Reading Lolita in Tehran",
@@ -26067,6 +28945,21 @@
       "source": "seed",
       "year_published": 2011,
       "page_count": 384
+    },
+    {
+      "title": "Red Planet",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9782589402246",
+      "isbn_10": "2589402244",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1949,
+      "page_count": 211
     },
     {
       "title": "Red Seas Under Red Skies",
@@ -26416,6 +29309,21 @@
       "page_count": 405
     },
     {
+      "title": "Revolt in 2100",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9780106051588",
+      "isbn_10": "010605158X",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1953,
+      "page_count": 199
+    },
+    {
       "title": "Revolution 2020",
       "authors": [
         "Chetan Bhagat"
@@ -26610,6 +29518,22 @@
       "page_count": 278
     },
     {
+      "title": "River God",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9782202975447",
+      "isbn_10": "2202975446",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1993,
+      "page_count": 665
+    },
+    {
       "title": "River of Smoke",
       "authors": [
         "Amitav Ghosh"
@@ -26702,6 +29626,21 @@
       "source": "seed",
       "year_published": 1966,
       "page_count": 136
+    },
+    {
+      "title": "Roger's Version",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9780291699831",
+      "isbn_10": "0291699839",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1986,
+      "page_count": 329
     },
     {
       "title": "Rogue Protocol",
@@ -26893,6 +29832,37 @@
       "page_count": 421
     },
     {
+      "title": "Running Blind",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9786710402143",
+      "isbn_10": "6710402142",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2000,
+      "page_count": 384
+    },
+    {
+      "title": "Running Dog",
+      "authors": [
+        "Don DeLillo"
+      ],
+      "isbn_13": "9785239029381",
+      "isbn_10": "5239029385",
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1978,
+      "page_count": 248
+    },
+    {
       "title": "Running with Scissors",
       "authors": [
         "Augusten Burroughs"
@@ -26954,6 +29924,52 @@
       "source": "seed",
       "year_published": 2019,
       "page_count": 356
+    },
+    {
+      "title": "S Is for Space",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "isbn_13": "9783375485351",
+      "isbn_10": "3375485352",
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1966,
+      "page_count": 244
+    },
+    {
+      "title": "S.",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9780734922649",
+      "isbn_10": "0734922647",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1988,
+      "page_count": 279
+    },
+    {
+      "title": "Sabbath's Theater",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9781140322665",
+      "isbn_10": "1140322664",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1995,
+      "page_count": 451
     },
     {
       "title": "Sabrina",
@@ -27081,6 +30097,22 @@
       "source": "seed",
       "year_published": 2012,
       "page_count": 160
+    },
+    {
+      "title": "Sahara",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9782081759251",
+      "isbn_10": "208175925X",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1992,
+      "page_count": 541
     },
     {
       "title": "Saint Joan",
@@ -27405,6 +30437,21 @@
       "page_count": 192
     },
     {
+      "title": "Saving Fish from Drowning",
+      "authors": [
+        "Amy Tan"
+      ],
+      "isbn_13": "9784725450944",
+      "isbn_10": "4725450944",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2005,
+      "page_count": 474
+    },
+    {
       "title": "Savor the Moment",
       "authors": [
         "Nora Roberts"
@@ -27600,6 +30647,21 @@
       "page_count": 255
     },
     {
+      "title": "Sea Prayer",
+      "authors": [
+        "Khaled Hosseini"
+      ],
+      "isbn_13": "9789875302426",
+      "isbn_10": "9875302422",
+      "genres": [
+        "Poetry"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 48
+    },
+    {
       "title": "Seabiscuit",
       "authors": [
         "Laura Hillenbrand"
@@ -27768,6 +30830,21 @@
       "page_count": 108
     },
     {
+      "title": "Seek My Face",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9783822614099",
+      "isbn_10": "3822614092",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2002,
+      "page_count": 276
+    },
+    {
       "title": "Seize the Night",
       "authors": [
         "Dean Koontz"
@@ -27929,6 +31006,21 @@
       "page_count": 96
     },
     {
+      "title": "Seven Nights",
+      "authors": [
+        "Jorge Luis Borges"
+      ],
+      "isbn_13": "9784606150093",
+      "isbn_10": "4606150092",
+      "genres": [
+        "Essays"
+      ],
+      "language": "es",
+      "source": "seed",
+      "year_published": 1980,
+      "page_count": 137
+    },
+    {
       "title": "Seven Pillars of Wisdom",
       "authors": [
         "T.E. Lawrence"
@@ -28042,6 +31134,22 @@
       "source": "seed",
       "year_published": 2005,
       "page_count": 398
+    },
+    {
+      "title": "Shall We Tell the President?",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9787949843813",
+      "isbn_10": "7949843810",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1977,
+      "page_count": 352
     },
     {
       "title": "Shame",
@@ -28238,6 +31346,22 @@
       "page_count": 372
     },
     {
+      "title": "Shock Wave",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9780218420302",
+      "isbn_10": "0218420307",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1996,
+      "page_count": 537
+    },
+    {
       "title": "Shoe Dog",
       "authors": [
         "Phil Knight"
@@ -28285,6 +31409,22 @@
       "source": "seed",
       "year_published": 1975,
       "page_count": 1152
+    },
+    {
+      "title": "Shout at the Devil",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9780412483059",
+      "isbn_10": "041248305X",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1968,
+      "page_count": 368
     },
     {
       "title": "Shuggie Bain",
@@ -28531,6 +31671,21 @@
       "page_count": 176
     },
     {
+      "title": "Six Memos for the Next Millennium",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "isbn_13": "9784681103434",
+      "isbn_10": "4681103438",
+      "genres": [
+        "Literary Criticism"
+      ],
+      "language": "it",
+      "source": "seed",
+      "year_published": 1988,
+      "page_count": 124
+    },
+    {
       "title": "Six Not-So-Easy Pieces",
       "authors": [
         "Richard P. Feynman"
@@ -28679,6 +31834,22 @@
       "page_count": 238
     },
     {
+      "title": "Slow Learner",
+      "authors": [
+        "Thomas Pynchon"
+      ],
+      "isbn_13": "9784243555435",
+      "isbn_10": "4243555435",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1984,
+      "page_count": 193
+    },
+    {
       "title": "Slow Productivity",
       "authors": [
         "Cal Newport"
@@ -28774,6 +31945,22 @@
       "source": "seed",
       "year_published": 1979,
       "page_count": 374
+    },
+    {
+      "title": "Smoke and Mirrors",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "isbn_13": "9782055895183",
+      "isbn_10": "2055895184",
+      "genres": [
+        "Fantasy",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1998,
+      "page_count": 365
     },
     {
       "title": "Smoke Gets in Your Eyes",
@@ -29109,6 +32296,22 @@
       "source": "seed",
       "year_published": 1993,
       "page_count": 297
+    },
+    {
+      "title": "Sons of Fortune",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9783277556203",
+      "isbn_10": "3277556204",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2003,
+      "page_count": 505
     },
     {
       "title": "Sophie's World",
@@ -30369,6 +33572,22 @@
       "page_count": 245
     },
     {
+      "title": "t zero",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "isbn_13": "9785427945400",
+      "isbn_10": "5427945407",
+      "genres": [
+        "Literary Fiction",
+        "Science Fiction"
+      ],
+      "language": "it",
+      "source": "seed",
+      "year_published": 1967,
+      "page_count": 157
+    },
+    {
       "title": "Tai-Pan",
       "authors": [
         "James Clavell"
@@ -30575,6 +33794,21 @@
       "page_count": 213
     },
     {
+      "title": "Tea-Bag",
+      "authors": [
+        "Henning Mankell"
+      ],
+      "isbn_13": "9780252684449",
+      "isbn_10": "0252684443",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "sv",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 327
+    },
+    {
       "title": "Teaching a Stone to Talk",
       "authors": [
         "Annie Dillard"
@@ -30733,6 +33967,21 @@
       "page_count": 720
     },
     {
+      "title": "Terrorist",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9780142881040",
+      "isbn_10": "014288104X",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2006,
+      "page_count": 310
+    },
+    {
       "title": "Tess of the d'Urbervilles",
       "authors": [
         "Thomas Hardy"
@@ -30779,6 +34028,22 @@
       "source": "seed",
       "year_published": 1934,
       "page_count": 256
+    },
+    {
+      "title": "The (Other) You",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9789303412437",
+      "isbn_10": "9303412435",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2023,
+      "page_count": 304
     },
     {
       "title": "The 100-Year-Old Man Who Climbed Out the Window and Disappeared",
@@ -30941,6 +34206,22 @@
       "page_count": 448
     },
     {
+      "title": "The Accursed",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9785590125319",
+      "isbn_10": "5590125316",
+      "genres": [
+        "Literary Fiction",
+        "Gothic"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 688
+    },
+    {
       "title": "The Adventures of Sherlock Holmes",
       "authors": [
         "Arthur Conan Doyle"
@@ -30975,6 +34256,21 @@
       "page_count": 274
     },
     {
+      "title": "The Affair",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9783101849662",
+      "isbn_10": "3101849667",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2011,
+      "page_count": 405
+    },
+    {
       "title": "The Afghan",
       "authors": [
         "Frederick Forsyth"
@@ -30989,6 +34285,22 @@
       "source": "seed",
       "year_published": 2006,
       "page_count": 337
+    },
+    {
+      "title": "The Afterlife",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9781400205035",
+      "isbn_10": "1400205034",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1994,
+      "page_count": 316
     },
     {
       "title": "The Age of Capital",
@@ -31266,6 +34578,21 @@
       "page_count": 522
     },
     {
+      "title": "The Anatomy Lesson",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9782253555087",
+      "isbn_10": "2253555088",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1983,
+      "page_count": 291
+    },
+    {
       "title": "The Ancestor's Tale",
       "authors": [
         "Richard Dawkins"
@@ -31328,6 +34655,22 @@
       "source": "seed",
       "year_published": 2008,
       "page_count": 531
+    },
+    {
+      "title": "The Angels Weep",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9781010073703",
+      "isbn_10": "1010073702",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1982,
+      "page_count": 533
     },
     {
       "title": "The Anthropocene Reviewed",
@@ -31409,6 +34752,22 @@
       "source": "seed",
       "year_published": 1984,
       "page_count": 647
+    },
+    {
+      "title": "The Archer",
+      "authors": [
+        "Paulo Coelho"
+      ],
+      "isbn_13": "9788129115133",
+      "isbn_10": "8129115131",
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "pt",
+      "source": "seed",
+      "year_published": 2020,
+      "page_count": 160
     },
     {
       "title": "The Archetypes and the Collective Unconscious",
@@ -31640,6 +34999,21 @@
       "page_count": 165
     },
     {
+      "title": "The Assassins",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9786036941012",
+      "isbn_10": "6036941013",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1975,
+      "page_count": 563
+    },
+    {
       "title": "The Association of Small Bombs",
       "authors": [
         "Karan Mahajan"
@@ -31755,6 +35129,22 @@
       "source": "seed",
       "year_published": 1937,
       "page_count": 173
+    },
+    {
+      "title": "The Backyard Bird Chronicles",
+      "authors": [
+        "Amy Tan"
+      ],
+      "isbn_13": "9784815522490",
+      "isbn_10": "4815522499",
+      "genres": [
+        "Non-Fiction",
+        "Nature"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2024,
+      "page_count": 256
     },
     {
       "title": "The Bad Place",
@@ -32464,6 +35854,22 @@
       "page_count": 464
     },
     {
+      "title": "The Body Artist",
+      "authors": [
+        "Don DeLillo"
+      ],
+      "isbn_13": "9783157915427",
+      "isbn_10": "3157915428",
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 124
+    },
+    {
       "title": "The Body Farm",
       "authors": [
         "Patricia Cornwell"
@@ -32608,6 +36014,21 @@
       "page_count": 828
     },
     {
+      "title": "The Bonesetter's Daughter",
+      "authors": [
+        "Amy Tan"
+      ],
+      "isbn_13": "9780191951954",
+      "isbn_10": "0191951951",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 353
+    },
+    {
       "title": "The Bonfire of the Vanities",
       "authors": [
         "Tom Wolfe"
@@ -32656,6 +36077,22 @@
       "source": "seed"
     },
     {
+      "title": "The Book of Imaginary Beings",
+      "authors": [
+        "Jorge Luis Borges"
+      ],
+      "isbn_13": "9784452692297",
+      "isbn_10": "445269229X",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "es",
+      "source": "seed",
+      "year_published": 1957,
+      "page_count": 237
+    },
+    {
       "title": "The Book of Laughter and Forgetting",
       "authors": [
         "Milan Kundera"
@@ -32685,6 +36122,22 @@
       "source": "seed",
       "year_published": 2006,
       "page_count": 259
+    },
+    {
+      "title": "The Book of Sand",
+      "authors": [
+        "Jorge Luis Borges"
+      ],
+      "isbn_13": "9781945510519",
+      "isbn_10": "194551051X",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "es",
+      "source": "seed",
+      "year_published": 1975,
+      "page_count": 128
     },
     {
       "title": "The Book of the New Sun",
@@ -32862,6 +36315,21 @@
       "source": "seed",
       "year_published": 2008,
       "page_count": 422
+    },
+    {
+      "title": "The Breast",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9784084193759",
+      "isbn_10": "4084193755",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1972,
+      "page_count": 89
     },
     {
       "title": "The Bride Test",
@@ -33069,6 +36537,22 @@
       "page_count": 175
     },
     {
+      "title": "The Burning Shore",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9781326115036",
+      "isbn_10": "1326115030",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1985,
+      "page_count": 582
+    },
+    {
       "title": "The C Programming Language",
       "authors": [
         "Brian W. Kernighan"
@@ -33258,6 +36742,21 @@
       "page_count": 123
     },
     {
+      "title": "The Cat Who Walks Through Walls",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9783167274200",
+      "isbn_10": "3167274204",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1985,
+      "page_count": 388
+    },
+    {
       "title": "The Catcher in the Rye",
       "authors": [
         "J.D. Salinger"
@@ -33303,6 +36802,21 @@
       "language": "en",
       "page_count": 271,
       "source": "seed"
+    },
+    {
+      "title": "The Centaur",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9788535215212",
+      "isbn_10": "8535215212",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1963,
+      "page_count": 302
     },
     {
       "title": "The Ceremonies",
@@ -33730,6 +37244,22 @@
       "page_count": 256
     },
     {
+      "title": "The Cloven Viscount",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "isbn_13": "9782486450517",
+      "isbn_10": "2486450513",
+      "genres": [
+        "Literary Fiction",
+        "Fantasy"
+      ],
+      "language": "it",
+      "source": "seed",
+      "year_published": 1952,
+      "page_count": 105
+    },
+    {
       "title": "The Coast of Utopia",
       "authors": [
         "Tom Stoppard"
@@ -34080,6 +37610,22 @@
       "page_count": 264
     },
     {
+      "title": "The Complete Cosmicomics",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "isbn_13": "9781140515081",
+      "isbn_10": "114051508X",
+      "genres": [
+        "Literary Fiction",
+        "Science Fiction"
+      ],
+      "language": "it",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 400
+    },
+    {
       "title": "The Concrete Blonde",
       "authors": [
         "Michael Connelly"
@@ -34237,6 +37783,36 @@
       "language": "fr",
       "page_count": 1276,
       "source": "seed"
+    },
+    {
+      "title": "The Counterlife",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9788769494834",
+      "isbn_10": "8769494835",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1986,
+      "page_count": 324
+    },
+    {
+      "title": "The Coup",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9785303554139",
+      "isbn_10": "5303554139",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1978,
+      "page_count": 299
     },
     {
       "title": "The Crippled God",
@@ -34474,6 +38050,22 @@
       "language": "zh",
       "page_count": 512,
       "source": "seed"
+    },
+    {
+      "title": "The Dark of the Sun",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9784509430483",
+      "isbn_10": "4509430485",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1965,
+      "page_count": 316
     },
     {
       "title": "The Dark Room",
@@ -34761,6 +38353,22 @@
       "page_count": 368
     },
     {
+      "title": "The Devil and Miss Prym",
+      "authors": [
+        "Paulo Coelho"
+      ],
+      "isbn_13": "9781005392949",
+      "isbn_10": "1005392943",
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "pt",
+      "source": "seed",
+      "year_published": 2000,
+      "page_count": 205
+    },
+    {
       "title": "The Devil and the Dark Water",
       "authors": [
         "Stuart Turton"
@@ -34855,6 +38463,22 @@
       "language": "en",
       "page_count": 499,
       "source": "seed"
+    },
+    {
+      "title": "The Diamond Hunters",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9788074111372",
+      "isbn_10": "8074111377",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1971,
+      "page_count": 350
     },
     {
       "title": "The Diary of a Young Girl",
@@ -35053,6 +38677,21 @@
       "page_count": 480
     },
     {
+      "title": "The Door into Summer",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9786212256336",
+      "isbn_10": "6212256330",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1957,
+      "page_count": 188
+    },
+    {
       "title": "The Double Comfort Safari Club",
       "authors": [
         "Alexander McCall Smith"
@@ -35229,6 +38868,21 @@
       "page_count": 52
     },
     {
+      "title": "The Dying Animal",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9780316863742",
+      "isbn_10": "0316863742",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 156
+    },
+    {
       "title": "The Earth Transformed",
       "authors": [
         "Peter Frankopan"
@@ -35402,6 +39056,22 @@
       "page_count": 327
     },
     {
+      "title": "The Eleventh Commandment",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9787094504102",
+      "isbn_10": "7094504101",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1998,
+      "page_count": 386
+    },
+    {
       "title": "The Emperor of All Maladies",
       "authors": [
         "Siddhartha Mukherjee"
@@ -35516,6 +39186,21 @@
       "page_count": 160
     },
     {
+      "title": "The Enemy",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9782110921673",
+      "isbn_10": "2110921676",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2004,
+      "page_count": 377
+    },
+    {
       "title": "The English Teacher",
       "authors": [
         "R.K. Narayan"
@@ -35612,6 +39297,37 @@
       "page_count": 307
     },
     {
+      "title": "The Eye of the Leopard",
+      "authors": [
+        "Henning Mankell"
+      ],
+      "isbn_13": "9788324048212",
+      "isbn_10": "8324048219",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "sv",
+      "source": "seed",
+      "year_published": 1990,
+      "page_count": 352
+    },
+    {
+      "title": "The Eye of the Tiger",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9784335323089",
+      "isbn_10": "4335323085",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1975,
+      "page_count": 380
+    },
+    {
       "title": "The Eye of the World",
       "authors": [
         "Robert Jordan"
@@ -35692,6 +39408,21 @@
       "language": "en",
       "page_count": 517,
       "source": "seed"
+    },
+    {
+      "title": "The Falls",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9783424405439",
+      "isbn_10": "3424405434",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2004,
+      "page_count": 481
     },
     {
       "title": "The Famished Road",
@@ -35931,6 +39662,22 @@
       "source": "seed",
       "year_published": 2011,
       "page_count": 389
+    },
+    {
+      "title": "The Fifth Woman",
+      "authors": [
+        "Henning Mankell"
+      ],
+      "isbn_13": "9782760806320",
+      "isbn_10": "2760806324",
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "sv",
+      "source": "seed",
+      "year_published": 1996,
+      "page_count": 404
     },
     {
       "title": "The Filmmaker's Handbook",
@@ -36271,6 +40018,22 @@
       "page_count": 455
     },
     {
+      "title": "The Fourth Estate",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9781138193185",
+      "isbn_10": "1138193186",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1996,
+      "page_count": 560
+    },
+    {
       "title": "The Fourth Protocol",
       "authors": [
         "Frederick Forsyth"
@@ -36554,6 +40317,21 @@
       "page_count": 255
     },
     {
+      "title": "The Ghost Writer",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9787148563543",
+      "isbn_10": "7148563542",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1979,
+      "page_count": 180
+    },
+    {
       "title": "The Gift",
       "authors": [
         "Vladimir Nabokov"
@@ -36598,6 +40376,22 @@
       "source": "seed",
       "year_published": 2018,
       "page_count": 300
+    },
+    {
+      "title": "The Girl in the Spider's Web",
+      "authors": [
+        "David Lagercrantz"
+      ],
+      "isbn_13": "9784284148436",
+      "isbn_10": "4284148435",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "sv",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 416
     },
     {
       "title": "The Girl on the Boat",
@@ -36649,6 +40443,22 @@
       "source": "seed"
     },
     {
+      "title": "The Girl Who Lived Twice",
+      "authors": [
+        "David Lagercrantz"
+      ],
+      "isbn_13": "9784220578150",
+      "isbn_10": "4220578153",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "sv",
+      "source": "seed",
+      "year_published": 2019,
+      "page_count": 400
+    },
+    {
       "title": "The Girl Who Played with Fire",
       "authors": [
         "Stieg Larsson"
@@ -36663,6 +40473,22 @@
       "language": "sv",
       "page_count": 503,
       "source": "seed"
+    },
+    {
+      "title": "The Girl Who Takes an Eye for an Eye",
+      "authors": [
+        "David Lagercrantz"
+      ],
+      "isbn_13": "9787254309448",
+      "isbn_10": "7254309441",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "sv",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 416
     },
     {
       "title": "The Girl with the Dragon Tattoo",
@@ -37089,6 +40915,22 @@
       "page_count": 112
     },
     {
+      "title": "The Gospel According to Judas",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9785082519343",
+      "isbn_10": "5082519344",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2007,
+      "page_count": 96
+    },
+    {
       "title": "The Government Inspector",
       "authors": [
         "Nikolai Gogol"
@@ -37139,6 +40981,21 @@
       "source": "seed"
     },
     {
+      "title": "The Gravedigger's Daughter",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9780426482260",
+      "isbn_10": "0426482263",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2007,
+      "page_count": 582
+    },
+    {
       "title": "The Graveyard Book",
       "authors": [
         "Neil Gaiman"
@@ -37168,6 +41025,21 @@
       "source": "seed",
       "year_published": 2018,
       "page_count": 432
+    },
+    {
+      "title": "The Great American Novel",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9783358451625",
+      "isbn_10": "3358451623",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1973,
+      "page_count": 382
     },
     {
       "title": "The Great Bridge",
@@ -37398,6 +41270,22 @@
       "page_count": 511
     },
     {
+      "title": "The Halloween Tree",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "isbn_13": "9782755535259",
+      "isbn_10": "2755535253",
+      "genres": [
+        "Fantasy",
+        "Children's"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1972,
+      "page_count": 145
+    },
+    {
       "title": "The Hammer of God",
       "authors": [
         "Arthur C. Clarke"
@@ -37476,6 +41364,21 @@
       "source": "seed",
       "year_published": 2014,
       "page_count": 304
+    },
+    {
+      "title": "The Hard Way",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9784524011315",
+      "isbn_10": "4524011315",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2006,
+      "page_count": 376
     },
     {
       "title": "The Hate U Give",
@@ -38082,6 +41985,21 @@
       "source": "seed"
     },
     {
+      "title": "The Humbling",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9781521211175",
+      "isbn_10": "1521211175",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 140
+    },
+    {
       "title": "The Hunchback of Notre-Dame",
       "authors": [
         "Victor Hugo"
@@ -38096,6 +42014,21 @@
       "source": "seed",
       "year_published": 1831,
       "page_count": 508
+    },
+    {
+      "title": "The Hundred Secret Senses",
+      "authors": [
+        "Amy Tan"
+      ],
+      "isbn_13": "9780459022617",
+      "isbn_10": "045902261X",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1995,
+      "page_count": 358
     },
     {
       "title": "The Hundred Thousand Kingdoms",
@@ -38690,6 +42623,22 @@
       "source": "seed"
     },
     {
+      "title": "The Island of the Day Before",
+      "authors": [
+        "Umberto Eco"
+      ],
+      "isbn_13": "9780836112030",
+      "isbn_10": "0836112032",
+      "genres": [
+        "Literary Fiction",
+        "Mystery"
+      ],
+      "language": "it",
+      "source": "seed",
+      "year_published": 1994,
+      "page_count": 515
+    },
+    {
       "title": "The It Girl",
       "authors": [
         "Ruth Ware"
@@ -38751,6 +42700,21 @@
       "source": "seed",
       "year_published": 2021,
       "page_count": 224
+    },
+    {
+      "title": "The Joy Luck Club",
+      "authors": [
+        "Amy Tan"
+      ],
+      "isbn_13": "9784585693499",
+      "isbn_10": "4585693491",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1989,
+      "page_count": 288
     },
     {
       "title": "The Joy of x",
@@ -38952,6 +42916,21 @@
       "source": "seed",
       "year_published": 2018,
       "page_count": 336
+    },
+    {
+      "title": "The Kitchen God's Wife",
+      "authors": [
+        "Amy Tan"
+      ],
+      "isbn_13": "9780551865549",
+      "isbn_10": "0551865547",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1991,
+      "page_count": 415
     },
     {
       "title": "The Kite Runner",
@@ -39443,6 +43422,22 @@
       "source": "seed",
       "year_published": 2009,
       "page_count": 612
+    },
+    {
+      "title": "The Leopard Hunts in Darkness",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9785755211741",
+      "isbn_10": "5755211744",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1984,
+      "page_count": 448
     },
     {
       "title": "The Letters of Vincent van Gogh",
@@ -40218,6 +44213,22 @@
       "page_count": 549
     },
     {
+      "title": "The Man from Beijing",
+      "authors": [
+        "Henning Mankell"
+      ],
+      "isbn_13": "9782531591295",
+      "isbn_10": "253159129X",
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "sv",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 400
+    },
+    {
       "title": "The Man in the Brown Suit",
       "authors": [
         "Agatha Christie"
@@ -40315,6 +44326,22 @@
       "page_count": 233
     },
     {
+      "title": "The Man Who Smiled",
+      "authors": [
+        "Henning Mankell"
+      ],
+      "isbn_13": "9782900920114",
+      "isbn_10": "2900920116",
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "sv",
+      "source": "seed",
+      "year_published": 1994,
+      "page_count": 309
+    },
+    {
       "title": "The Man with the Golden Gun",
       "authors": [
         "Ian Fleming"
@@ -40329,6 +44356,21 @@
       "source": "seed",
       "year_published": 1965,
       "page_count": 183
+    },
+    {
+      "title": "The Man Without a Shadow",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9788013435026",
+      "isbn_10": "8013435024",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2016,
+      "page_count": 384
     },
     {
       "title": "The Man-Eater of Malgudi",
@@ -40609,6 +44651,22 @@
       "page_count": 133
     },
     {
+      "title": "The Mediterranean Caper",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9780503381578",
+      "isbn_10": "0503381578",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1973,
+      "page_count": 287
+    },
+    {
       "title": "The Memory of Love",
       "authors": [
         "Aminatta Forna"
@@ -40671,6 +44729,21 @@
       "language": "de",
       "page_count": 201,
       "source": "seed"
+    },
+    {
+      "title": "The Midnight Line",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9781364504762",
+      "isbn_10": "1364504766",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 368
     },
     {
       "title": "The Mill on the Floss",
@@ -41087,6 +45160,22 @@
       "source": "seed"
     },
     {
+      "title": "The Mysterious Flame of Queen Loana",
+      "authors": [
+        "Umberto Eco"
+      ],
+      "isbn_13": "9782247414055",
+      "isbn_10": "2247414052",
+      "genres": [
+        "Literary Fiction",
+        "Mystery"
+      ],
+      "language": "it",
+      "source": "seed",
+      "year_published": 2004,
+      "page_count": 469
+    },
+    {
       "title": "The Mystery Guest",
       "authors": [
         "Nita Prose"
@@ -41404,6 +45493,22 @@
       "source": "seed"
     },
     {
+      "title": "The Nonexistent Knight",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "isbn_13": "9781711234793",
+      "isbn_10": "1711234796",
+      "genres": [
+        "Literary Fiction",
+        "Fantasy"
+      ],
+      "language": "it",
+      "source": "seed",
+      "year_published": 1959,
+      "page_count": 122
+    },
+    {
       "title": "The Notebook",
       "authors": [
         "Nicholas Sparks"
@@ -41418,6 +45523,21 @@
       "source": "seed",
       "year_published": 1996,
       "page_count": 214
+    },
+    {
+      "title": "The Number of the Beast",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9783247211750",
+      "isbn_10": "3247211756",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1980,
+      "page_count": 511
     },
     {
       "title": "The Oath of the Vayuputras",
@@ -42029,6 +46149,21 @@
       "page_count": 672
     },
     {
+      "title": "The Path to the Nest of Spiders",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "isbn_13": "9783042581164",
+      "isbn_10": "3042581160",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "it",
+      "source": "seed",
+      "year_published": 1947,
+      "page_count": 150
+    },
+    {
       "title": "The Pearl",
       "authors": [
         "John Steinbeck"
@@ -42205,6 +46340,22 @@
       "page_count": 256
     },
     {
+      "title": "The Pharaoh's Secret",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9784006307028",
+      "isbn_10": "4006307020",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 416
+    },
+    {
       "title": "The Piano Lesson",
       "authors": [
         "August Wilson"
@@ -42251,6 +46402,22 @@
       "language": "en",
       "page_count": 254,
       "source": "seed"
+    },
+    {
+      "title": "The Pilgrimage",
+      "authors": [
+        "Paulo Coelho"
+      ],
+      "isbn_13": "9782521861636",
+      "isbn_10": "2521861634",
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "pt",
+      "source": "seed",
+      "year_published": 1987,
+      "page_count": 250
     },
     {
       "title": "The Pillars of the Earth",
@@ -42319,6 +46486,22 @@
       "page_count": 270
     },
     {
+      "title": "The Plot Against America",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9788223905418",
+      "isbn_10": "8223905418",
+      "genres": [
+        "Literary Fiction",
+        "Alternative History"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2004,
+      "page_count": 391
+    },
+    {
       "title": "The Pluto Files",
       "authors": [
         "Neil deGrasse Tyson"
@@ -42363,6 +46546,21 @@
       "language": "en",
       "page_count": 546,
       "source": "seed"
+    },
+    {
+      "title": "The Poorhouse Fair",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9783500551456",
+      "isbn_10": "3500551459",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1959,
+      "page_count": 185
     },
     {
       "title": "The Poppy War",
@@ -42607,6 +46805,22 @@
       "page_count": 167
     },
     {
+      "title": "The Prodigal Daughter",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9788352113203",
+      "isbn_10": "8352113208",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1982,
+      "page_count": 463
+    },
+    {
       "title": "The Professor and the Madman",
       "authors": [
         "Simon Winchester"
@@ -42622,6 +46836,21 @@
       "source": "seed",
       "year_published": 1998,
       "page_count": 242
+    },
+    {
+      "title": "The Professor of Desire",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9788201903290",
+      "isbn_10": "8201903293",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1977,
+      "page_count": 263
     },
     {
       "title": "The Promise",
@@ -42698,6 +46927,37 @@
       "source": "seed",
       "year_published": 1901,
       "page_count": 310
+    },
+    {
+      "title": "The Puppet Masters",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9780014255313",
+      "isbn_10": "0014255316",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1951,
+      "page_count": 219
+    },
+    {
+      "title": "The Quest",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9782613017583",
+      "isbn_10": "2613017589",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2007,
+      "page_count": 544
     },
     {
       "title": "The Quiet American",
@@ -43031,6 +47291,22 @@
       "language": "en",
       "page_count": 250,
       "source": "seed"
+    },
+    {
+      "title": "The Return of the Dancing Master",
+      "authors": [
+        "Henning Mankell"
+      ],
+      "isbn_13": "9781937673970",
+      "isbn_10": "1937673979",
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "sv",
+      "source": "seed",
+      "year_published": 2000,
+      "page_count": 409
     },
     {
       "title": "The Return of the King",
@@ -43368,6 +47644,21 @@
       "page_count": 435
     },
     {
+      "title": "The Rolling Stones",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9788800135313",
+      "isbn_10": "8800135315",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1952,
+      "page_count": 276
+    },
+    {
       "title": "The Roman Triumph",
       "authors": [
         "Mary Beard"
@@ -43506,6 +47797,22 @@
       "source": "seed",
       "year_published": 2021,
       "page_count": 400
+    },
+    {
+      "title": "The Sandman: Overture",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "isbn_13": "9783356390209",
+      "isbn_10": "3356390201",
+      "genres": [
+        "Graphic Novel",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 224
     },
     {
       "title": "The Sandman: Preludes & Nocturnes",
@@ -43749,6 +48056,21 @@
       "page_count": 863
     },
     {
+      "title": "The Secret",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9788012265013",
+      "isbn_10": "801226501X",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2023,
+      "page_count": 304
+    },
+    {
       "title": "The Secret Adversary",
       "authors": [
         "Agatha Christie"
@@ -43924,6 +48246,21 @@
       "page_count": 112
     },
     {
+      "title": "The Sentinel",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9784361280813",
+      "isbn_10": "4361280819",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2020,
+      "page_count": 336
+    },
+    {
       "title": "The Septembers of Shiraz",
       "authors": [
         "Dalia Sofer"
@@ -43987,6 +48324,22 @@
       "source": "seed",
       "year_published": 2017,
       "page_count": 389
+    },
+    {
+      "title": "The Seventh Scroll",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9785004585210",
+      "isbn_10": "5004585210",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1995,
+      "page_count": 486
     },
     {
       "title": "The Shadow of the Wind",
@@ -44262,6 +48615,22 @@
       "source": "seed"
     },
     {
+      "title": "The Silver Dream",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "isbn_13": "9782416872662",
+      "isbn_10": "2416872664",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 260
+    },
+    {
       "title": "The Simulacra",
       "authors": [
         "Philip K. Dick"
@@ -44275,6 +48644,21 @@
       "source": "seed",
       "year_published": 1964,
       "page_count": 192
+    },
+    {
+      "title": "The Sins of the Father",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9785267045254",
+      "isbn_10": "526704525X",
+      "genres": [
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2012,
+      "page_count": 416
     },
     {
       "title": "The Sirens of Titan",
@@ -44586,6 +48970,37 @@
       "page_count": 276
     },
     {
+      "title": "The Sound of Thunder",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9780414822566",
+      "isbn_10": "0414822560",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1966,
+      "page_count": 420
+    },
+    {
+      "title": "The Source of Self-Regard",
+      "authors": [
+        "Toni Morrison"
+      ],
+      "isbn_13": "9785348507237",
+      "isbn_10": "5348507237",
+      "genres": [
+        "Essays"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2019,
+      "page_count": 354
+    },
+    {
       "title": "The Space Between Worlds",
       "authors": [
         "Micaiah Johnson"
@@ -44645,6 +49060,21 @@
       "source": "seed",
       "year_published": 2020,
       "page_count": 546
+    },
+    {
+      "title": "The Spy",
+      "authors": [
+        "Paulo Coelho"
+      ],
+      "isbn_13": "9785881413545",
+      "isbn_10": "5881413547",
+      "genres": [
+        "Historical Fiction"
+      ],
+      "language": "pt",
+      "source": "seed",
+      "year_published": 2016,
+      "page_count": 202
     },
     {
       "title": "The Spy Who Came in from the Cold",
@@ -44710,6 +49140,21 @@
       "source": "seed",
       "year_published": 1978,
       "page_count": 1153
+    },
+    {
+      "title": "The Star Beast",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9785473642131",
+      "isbn_10": "5473642136",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1954,
+      "page_count": 282
     },
     {
       "title": "The Stars Are Legion",
@@ -44804,6 +49249,22 @@
       "source": "seed",
       "year_published": 2014,
       "page_count": 260
+    },
+    {
+      "title": "The Storm",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9788321652023",
+      "isbn_10": "8321652026",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2012,
+      "page_count": 400
     },
     {
       "title": "The Story of a New Name",
@@ -45043,6 +49504,22 @@
       "source": "seed",
       "year_published": 2017,
       "page_count": 256
+    },
+    {
+      "title": "The Sunbird",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9781305553439",
+      "isbn_10": "1305553438",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1972,
+      "page_count": 495
     },
     {
       "title": "The Sundial",
@@ -45332,6 +49809,22 @@
       "page_count": 510
     },
     {
+      "title": "The Tent",
+      "authors": [
+        "Margaret Atwood"
+      ],
+      "isbn_13": "9783300673617",
+      "isbn_10": "3300673615",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2006,
+      "page_count": 163
+    },
+    {
       "title": "The Terminal Man",
       "authors": [
         "Michael Crichton"
@@ -45619,6 +50112,22 @@
       "page_count": 369
     },
     {
+      "title": "The Tiger's Prey",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9788037383440",
+      "isbn_10": "803738344X",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 400
+    },
+    {
       "title": "The Time Machine",
       "authors": [
         "H.G. Wells"
@@ -45762,6 +50271,22 @@
       "page_count": 104
     },
     {
+      "title": "The Toynbee Convector",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "isbn_13": "9789466272237",
+      "isbn_10": "9466272233",
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1988,
+      "page_count": 286
+    },
+    {
       "title": "The Tradition",
       "authors": [
         "Jericho Brown"
@@ -45839,6 +50364,22 @@
       "source": "seed"
     },
     {
+      "title": "The Triumph of the Sun",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9782253919490",
+      "isbn_10": "2253919497",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2005,
+      "page_count": 512
+    },
+    {
       "title": "The Troop",
       "authors": [
         "Nick Cutter"
@@ -45868,6 +50409,22 @@
       "source": "seed",
       "year_published": 2020,
       "page_count": 512
+    },
+    {
+      "title": "The Troubled Man",
+      "authors": [
+        "Henning Mankell"
+      ],
+      "isbn_13": "9785620320080",
+      "isbn_10": "5620320081",
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "sv",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 384
     },
     {
       "title": "The True Love Experiment",
@@ -46172,6 +50729,21 @@
       "page_count": 372
     },
     {
+      "title": "The Uses of Literature",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "isbn_13": "9781451204636",
+      "isbn_10": "1451204639",
+      "genres": [
+        "Literary Criticism"
+      ],
+      "language": "it",
+      "source": "seed",
+      "year_published": 1986,
+      "page_count": 294
+    },
+    {
       "title": "The Vaccine Race",
       "authors": [
         "Meredith Wadman"
@@ -46187,6 +50759,37 @@
       "source": "seed",
       "year_published": 2017,
       "page_count": 480
+    },
+    {
+      "title": "The Valkyries",
+      "authors": [
+        "Paulo Coelho"
+      ],
+      "isbn_13": "9784184633186",
+      "isbn_10": "4184633188",
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "pt",
+      "source": "seed",
+      "year_published": 1992,
+      "page_count": 218
+    },
+    {
+      "title": "The Valley of Amazement",
+      "authors": [
+        "Amy Tan"
+      ],
+      "isbn_13": "9782148313105",
+      "isbn_10": "214831310X",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 589
     },
     {
       "title": "The Vanishing Half",
@@ -46267,6 +50870,22 @@
       "source": "seed",
       "year_published": 1969,
       "page_count": 22
+    },
+    {
+      "title": "The View from the Cheap Seats",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "isbn_13": "9780137631445",
+      "isbn_10": "0137631448",
+      "genres": [
+        "Non-Fiction",
+        "Essays"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2016,
+      "page_count": 544
     },
     {
       "title": "The Village",
@@ -46765,6 +51384,22 @@
       "page_count": 160
     },
     {
+      "title": "The White Lioness",
+      "authors": [
+        "Henning Mankell"
+      ],
+      "isbn_13": "9786627053575",
+      "isbn_10": "6627053578",
+      "genres": [
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "sv",
+      "source": "seed",
+      "year_published": 1993,
+      "page_count": 444
+    },
+    {
       "title": "The White Tiger",
       "authors": [
         "Aravind Adiga"
@@ -46780,6 +51415,21 @@
       "source": "seed",
       "year_published": 2008,
       "page_count": 304
+    },
+    {
+      "title": "The Widows of Eastwick",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9785755726375",
+      "isbn_10": "575572637X",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 308
     },
     {
       "title": "The Wife Between Us",
@@ -46894,6 +51544,22 @@
       "page_count": 361
     },
     {
+      "title": "The Winner Stands Alone",
+      "authors": [
+        "Paulo Coelho"
+      ],
+      "isbn_13": "9788905550189",
+      "isbn_10": "8905550185",
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "pt",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 375
+    },
+    {
       "title": "The Winners",
       "authors": [
         "Fredrik Backman"
@@ -47004,6 +51670,22 @@
       "page_count": 448
     },
     {
+      "title": "The Witch of Portobello",
+      "authors": [
+        "Paulo Coelho"
+      ],
+      "isbn_13": "9785505279182",
+      "isbn_10": "550527918X",
+      "genres": [
+        "Literary Fiction",
+        "Philosophy"
+      ],
+      "language": "pt",
+      "source": "seed",
+      "year_published": 2006,
+      "page_count": 305
+    },
+    {
       "title": "The Witcher: The Last Wish",
       "authors": [
         "Andrzej Sapkowski"
@@ -47037,6 +51719,21 @@
       "page_count": 208
     },
     {
+      "title": "The Witches of Eastwick",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9780081884126",
+      "isbn_10": "0081884125",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1984,
+      "page_count": 307
+    },
+    {
       "title": "The Witness",
       "authors": [
         "Nora Roberts"
@@ -47067,6 +51764,21 @@
       "source": "seed",
       "year_published": 2021,
       "page_count": 240
+    },
+    {
+      "title": "The Wolves in the Walls",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "isbn_13": "9789302723909",
+      "isbn_10": "9302723909",
+      "genres": [
+        "Children's"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2003,
+      "page_count": 64
     },
     {
       "title": "The Woman in Black",
@@ -47500,6 +52212,21 @@
       "source": "seed"
     },
     {
+      "title": "them",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9780812016406",
+      "isbn_10": "0812016408",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1969,
+      "page_count": 508
+    },
+    {
       "title": "They Came to Baghdad",
       "authors": [
         "Agatha Christie"
@@ -47612,6 +52339,21 @@
       "page_count": 566
     },
     {
+      "title": "This Craft of Verse",
+      "authors": [
+        "Jorge Luis Borges"
+      ],
+      "isbn_13": "9780950445823",
+      "isbn_10": "0950445827",
+      "genres": [
+        "Essays"
+      ],
+      "language": "es",
+      "source": "seed",
+      "year_published": 2000,
+      "page_count": 154
+    },
+    {
       "title": "This Is How You Lose Her",
       "authors": [
         "Junot Díaz"
@@ -47690,6 +52432,37 @@
       "source": "seed",
       "year_published": 1920,
       "page_count": 305
+    },
+    {
+      "title": "This Was a Man",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9780955037528",
+      "isbn_10": "0955037522",
+      "genres": [
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2016,
+      "page_count": 496
+    },
+    {
+      "title": "Those in Peril",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9788997335558",
+      "isbn_10": "8997335553",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2011,
+      "page_count": 384
     },
     {
       "title": "Those Who Leave and Those Who Stay",
@@ -47880,6 +52653,21 @@
       "source": "seed"
     },
     {
+      "title": "Time Enough for Love",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9785176301335",
+      "isbn_10": "5176301334",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1973,
+      "page_count": 605
+    },
+    {
       "title": "Time Is a Mother",
       "authors": [
         "Ocean Vuong"
@@ -48005,6 +52793,21 @@
       "page_count": 720
     },
     {
+      "title": "To Sail Beyond the Sunset",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9783501405215",
+      "isbn_10": "3501405219",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1987,
+      "page_count": 416
+    },
+    {
       "title": "To Sir Phillip, with Love",
       "authors": [
         "Julia Quinn"
@@ -48118,6 +52921,22 @@
       "page_count": 401
     },
     {
+      "title": "Too Far to Go",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9785530253324",
+      "isbn_10": "5530253326",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1979,
+      "page_count": 246
+    },
+    {
       "title": "Tortilla Flat",
       "authors": [
         "John Steinbeck"
@@ -48149,6 +52968,21 @@
       "source": "seed",
       "year_published": 1988,
       "page_count": 210
+    },
+    {
+      "title": "Toward the End of Time",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9785010122614",
+      "isbn_10": "5010122618",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1997,
+      "page_count": 334
     },
     {
       "title": "Towers of Midnight",
@@ -48327,6 +53161,22 @@
       "page_count": 99
     },
     {
+      "title": "Treasure",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9789240502284",
+      "isbn_10": "9240502289",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1988,
+      "page_count": 539
+    },
+    {
       "title": "Treasure Island",
       "authors": [
         "Robert Louis Stevenson"
@@ -48341,6 +53191,22 @@
       "source": "seed",
       "year_published": 1883,
       "page_count": 292
+    },
+    {
+      "title": "Treasure of Khan",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9786477783455",
+      "isbn_10": "6477783452",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2006,
+      "page_count": 531
     },
     {
       "title": "Tremor",
@@ -48403,6 +53269,22 @@
       "page_count": 303
     },
     {
+      "title": "Trigger Warning",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "isbn_13": "9781595804662",
+      "isbn_10": "1595804668",
+      "genres": [
+        "Fantasy",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 310
+    },
+    {
       "title": "Triple",
       "authors": [
         "Ken Follett"
@@ -48432,6 +53314,22 @@
       "source": "seed",
       "year_published": 1999,
       "page_count": 458
+    },
+    {
+      "title": "Trojan Odyssey",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9781231819746",
+      "isbn_10": "123181974X",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2003,
+      "page_count": 484
     },
     {
       "title": "Truly Madly Guilty",
@@ -48497,6 +53395,22 @@
       "page_count": 416
     },
     {
+      "title": "Trust Me",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9789434131757",
+      "isbn_10": "9434131758",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1987,
+      "page_count": 302
+    },
+    {
       "title": "Truth of the Divine",
       "authors": [
         "Lindsay Ellis"
@@ -48526,6 +53440,37 @@
       "source": "seed",
       "year_published": 1975,
       "page_count": 139
+    },
+    {
+      "title": "Tunnel in the Sky",
+      "authors": [
+        "Robert A. Heinlein"
+      ],
+      "isbn_13": "9783370001594",
+      "isbn_10": "3370001594",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1955,
+      "page_count": 262
+    },
+    {
+      "title": "Turn a Blind Eye",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "isbn_13": "9789204002324",
+      "isbn_10": "9204002328",
+      "genres": [
+        "Thriller",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2021,
+      "page_count": 384
     },
     {
       "title": "Turtles All the Way Down",
@@ -48912,6 +53857,22 @@
       "source": "seed",
       "year_published": 2009,
       "page_count": 1074
+    },
+    {
+      "title": "Under the Jaguar Sun",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "isbn_13": "9782314393443",
+      "isbn_10": "2314393449",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "it",
+      "source": "seed",
+      "year_published": 1986,
+      "page_count": 86
     },
     {
       "title": "Under the Sea-Wind",
@@ -49301,6 +54262,38 @@
       "page_count": 296
     },
     {
+      "title": "V.",
+      "authors": [
+        "Thomas Pynchon"
+      ],
+      "isbn_13": "9784919391978",
+      "isbn_10": "4919391978",
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1963,
+      "page_count": 492
+    },
+    {
+      "title": "Valhalla Rising",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9785302047342",
+      "isbn_10": "5302047349",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 531
+    },
+    {
       "title": "VALIS",
       "authors": [
         "Philip K. Dick"
@@ -49475,6 +54468,22 @@
       "page_count": 364
     },
     {
+      "title": "Vicious Circle",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9780586140154",
+      "isbn_10": "0586140158",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 400
+    },
+    {
       "title": "Victory City",
       "authors": [
         "Salman Rushdie"
@@ -49490,6 +54499,37 @@
       "source": "seed",
       "year_published": 2023,
       "page_count": 352
+    },
+    {
+      "title": "Villages",
+      "authors": [
+        "John Updike"
+      ],
+      "isbn_13": "9789050202985",
+      "isbn_10": "9050202985",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2004,
+      "page_count": 321
+    },
+    {
+      "title": "Vineland",
+      "authors": [
+        "Thomas Pynchon"
+      ],
+      "isbn_13": "9782350024080",
+      "isbn_10": "2350024083",
+      "genres": [
+        "Literary Fiction",
+        "Postmodern"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1990,
+      "page_count": 385
     },
     {
       "title": "Violets Are Blue",
@@ -49538,6 +54578,22 @@
       "source": "seed",
       "year_published": 1991,
       "page_count": 396
+    },
+    {
+      "title": "Vixen 03",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9783431544428",
+      "isbn_10": "3431544428",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1978,
+      "page_count": 344
     },
     {
       "title": "Voyager",
@@ -49718,6 +54774,22 @@
       "source": "seed"
     },
     {
+      "title": "War Cry",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9784220022110",
+      "isbn_10": "4220022112",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 448
+    },
+    {
       "title": "War of Lanka",
       "authors": [
         "Amish Tripathi"
@@ -49747,6 +54819,22 @@
       "language": "en",
       "page_count": 592,
       "source": "seed"
+    },
+    {
+      "title": "Warlock",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9782043077829",
+      "isbn_10": "2043077821",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 530
     },
     {
       "title": "Watchers",
@@ -49893,6 +54981,37 @@
       "page_count": 64
     },
     {
+      "title": "We Were the Mulvaneys",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9783370350593",
+      "isbn_10": "3370350599",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1996,
+      "page_count": 454
+    },
+    {
+      "title": "We'll Always Have Paris",
+      "authors": [
+        "Ray Bradbury"
+      ],
+      "isbn_13": "9783416582742",
+      "isbn_10": "3416582748",
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 226
+    },
+    {
       "title": "Weapons of Math Destruction",
       "authors": [
         "Cathy O'Neil"
@@ -49985,6 +55104,21 @@
       "source": "seed",
       "year_published": 1988,
       "page_count": 256
+    },
+    {
+      "title": "What I Lived For",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9785255620555",
+      "isbn_10": "5255620556",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1994,
+      "page_count": 608
     },
     {
       "title": "What I Talk About When I Talk About Running",
@@ -50132,6 +55266,37 @@
       "page_count": 104
     },
     {
+      "title": "When She Was Good",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9787628982413",
+      "isbn_10": "7628982417",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1967,
+      "page_count": 306
+    },
+    {
+      "title": "When the Lion Feeds",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9780832120626",
+      "isbn_10": "0832120626",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1964,
+      "page_count": 468
+    },
+    {
       "title": "When the Shooting Stops",
       "authors": [
         "Ralph Rosenblum",
@@ -50180,6 +55345,21 @@
       "source": "seed",
       "year_published": 2018,
       "page_count": 368
+    },
+    {
+      "title": "Where the Past Begins",
+      "authors": [
+        "Amy Tan"
+      ],
+      "isbn_13": "9782627443200",
+      "isbn_10": "2627443208",
+      "genres": [
+        "Memoir"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 336
     },
     {
       "title": "Where the Wild Things Are",
@@ -50455,6 +55635,22 @@
       "page_count": 315
     },
     {
+      "title": "Wild Justice",
+      "authors": [
+        "Wilbur Smith"
+      ],
+      "isbn_13": "9783645039628",
+      "isbn_10": "3645039627",
+      "genres": [
+        "Adventure",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1979,
+      "page_count": 383
+    },
+    {
       "title": "Wild Seed",
       "authors": [
         "Octavia E. Butler"
@@ -50468,6 +55664,22 @@
       "source": "seed",
       "year_published": 1980,
       "page_count": 280
+    },
+    {
+      "title": "Wilderness Tips",
+      "authors": [
+        "Margaret Atwood"
+      ],
+      "isbn_13": "9781694334015",
+      "isbn_10": "1694334015",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1991,
+      "page_count": 227
     },
     {
       "title": "Will",
@@ -50741,6 +55953,21 @@
       "page_count": 347
     },
     {
+      "title": "Wonderland",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9787955805041",
+      "isbn_10": "7955805046",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1971,
+      "page_count": 512
+    },
+    {
       "title": "Wool",
       "authors": [
         "Hugh Howey"
@@ -50803,6 +56030,21 @@
       "source": "seed",
       "year_published": 2011,
       "page_count": 245
+    },
+    {
+      "title": "Worth Dying For",
+      "authors": [
+        "Lee Child"
+      ],
+      "isbn_13": "9785349042416",
+      "isbn_10": "5349042416",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2010,
+      "page_count": 374
     },
     {
       "title": "Writing and Difference",
@@ -50996,6 +56238,21 @@
       "page_count": 400
     },
     {
+      "title": "You Must Remember This",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9785459356595",
+      "isbn_10": "5459356598",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1987,
+      "page_count": 436
+    },
+    {
       "title": "You Only Live Twice",
       "authors": [
         "Ian Fleming"
@@ -51092,6 +56349,22 @@
       "page_count": 540
     },
     {
+      "title": "Zero Hour",
+      "authors": [
+        "Clive Cussler"
+      ],
+      "isbn_13": "9781061231138",
+      "isbn_10": "1061231135",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 400
+    },
+    {
       "title": "Zero K",
       "authors": [
         "Don DeLillo"
@@ -51122,6 +56395,22 @@
       "source": "seed",
       "year_published": 2014,
       "page_count": 195
+    },
+    {
+      "title": "Zero-Sum",
+      "authors": [
+        "Joyce Carol Oates"
+      ],
+      "isbn_13": "9786100424397",
+      "isbn_10": "6100424398",
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2024,
+      "page_count": 384
     },
     {
       "title": "Zero: The Biography of a Dangerous Idea",
@@ -51171,6 +56460,21 @@
       "source": "seed",
       "year_published": 1988,
       "page_count": 448
+    },
+    {
+      "title": "Zuckerman Unbound",
+      "authors": [
+        "Philip Roth"
+      ],
+      "isbn_13": "9788055476803",
+      "isbn_10": "8055476802",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1981,
+      "page_count": 225
     }
   ]
 }

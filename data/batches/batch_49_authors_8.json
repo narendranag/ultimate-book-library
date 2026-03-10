@@ -1,0 +1,1568 @@
+[
+  {
+    "title": "The Aleph",
+    "authors": [
+      "Jorge Luis Borges"
+    ],
+    "isbn_13": "9786804582966",
+    "isbn_10": "6804582969",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1949,
+    "page_count": 199
+  },
+  {
+    "title": "Labyrinths",
+    "authors": [
+      "Jorge Luis Borges"
+    ],
+    "isbn_13": "9780213711016",
+    "isbn_10": "021371101X",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 240
+  },
+  {
+    "title": "The Book of Sand",
+    "authors": [
+      "Jorge Luis Borges"
+    ],
+    "isbn_13": "9781945510519",
+    "isbn_10": "194551051X",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 128
+  },
+  {
+    "title": "Doctor Brodie's Report",
+    "authors": [
+      "Jorge Luis Borges"
+    ],
+    "isbn_13": "9780146851926",
+    "isbn_10": "0146851927",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1970,
+    "page_count": 128
+  },
+  {
+    "title": "A Universal History of Infamy",
+    "authors": [
+      "Jorge Luis Borges"
+    ],
+    "isbn_13": "9780287315448",
+    "isbn_10": "0287315444",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1935,
+    "page_count": 158
+  },
+  {
+    "title": "The Book of Imaginary Beings",
+    "authors": [
+      "Jorge Luis Borges"
+    ],
+    "isbn_13": "9784452692297",
+    "isbn_10": "445269229X",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1957,
+    "page_count": 237
+  },
+  {
+    "title": "Other Inquisitions",
+    "authors": [
+      "Jorge Luis Borges"
+    ],
+    "isbn_13": "9785947332438",
+    "isbn_10": "5947332434",
+    "genres": [
+      "Essays"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1952,
+    "page_count": 205
+  },
+  {
+    "title": "Seven Nights",
+    "authors": [
+      "Jorge Luis Borges"
+    ],
+    "isbn_13": "9784606150093",
+    "isbn_10": "4606150092",
+    "genres": [
+      "Essays"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 137
+  },
+  {
+    "title": "This Craft of Verse",
+    "authors": [
+      "Jorge Luis Borges"
+    ],
+    "isbn_13": "9780950445823",
+    "isbn_10": "0950445827",
+    "genres": [
+      "Essays"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 154
+  },
+  {
+    "title": "Borges on Writing",
+    "authors": [
+      "Jorge Luis Borges"
+    ],
+    "isbn_13": "9788614122349",
+    "isbn_10": "8614122349",
+    "genres": [
+      "Essays"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 175
+  },
+  {
+    "title": "Faceless Killers",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9780205449569",
+    "isbn_10": "0205449565",
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 312
+  },
+  {
+    "title": "The Dogs of Riga",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9782383236566",
+    "isbn_10": "238323656X",
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 326
+  },
+  {
+    "title": "The White Lioness",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9786627053575",
+    "isbn_10": "6627053578",
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 444
+  },
+  {
+    "title": "The Man Who Smiled",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9782900920114",
+    "isbn_10": "2900920116",
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 309
+  },
+  {
+    "title": "Sidetracked",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9783191931216",
+    "isbn_10": "319193121X",
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 404
+  },
+  {
+    "title": "The Fifth Woman",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9782760806320",
+    "isbn_10": "2760806324",
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 404
+  },
+  {
+    "title": "One Step Behind",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9785427178129",
+    "isbn_10": "5427178120",
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 404
+  },
+  {
+    "title": "Firewall",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9787446065466",
+    "isbn_10": "744606546X",
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 452
+  },
+  {
+    "title": "Before the Frost",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9787714203002",
+    "isbn_10": "7714203005",
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 370
+  },
+  {
+    "title": "The Troubled Man",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9785620320080",
+    "isbn_10": "5620320081",
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 384
+  },
+  {
+    "title": "The Return of the Dancing Master",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9781937673970",
+    "isbn_10": "1937673979",
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 409
+  },
+  {
+    "title": "Kennedy's Brain",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9782215135357",
+    "isbn_10": "2215135352",
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 386
+  },
+  {
+    "title": "The Man from Beijing",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9782531591295",
+    "isbn_10": "253159129X",
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 400
+  },
+  {
+    "title": "Italian Shoes",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9783711608550",
+    "isbn_10": "3711608558",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 263
+  },
+  {
+    "title": "Depths",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9788328591806",
+    "isbn_10": "8328591804",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 257
+  },
+  {
+    "title": "After the Fire",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9782414314140",
+    "isbn_10": "2414314141",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 310
+  },
+  {
+    "title": "Daniel",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9786594554310",
+    "isbn_10": "659455431X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 348
+  },
+  {
+    "title": "Chronicler of the Winds",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9789831531273",
+    "isbn_10": "9831531272",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 224
+  },
+  {
+    "title": "The Eye of the Leopard",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9788324048212",
+    "isbn_10": "8324048219",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 352
+  },
+  {
+    "title": "Tea-Bag",
+    "authors": [
+      "Henning Mankell"
+    ],
+    "isbn_13": "9780252684449",
+    "isbn_10": "0252684443",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 327
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "authors": [
+      "Stieg Larsson"
+    ],
+    "isbn_13": "9789880700934",
+    "isbn_10": "9880700937",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 465
+  },
+  {
+    "title": "The Girl Who Played with Fire",
+    "authors": [
+      "Stieg Larsson"
+    ],
+    "isbn_13": "9787884249497",
+    "isbn_10": "7884249499",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 503
+  },
+  {
+    "title": "The Girl Who Kicked the Hornets' Nest",
+    "authors": [
+      "Stieg Larsson"
+    ],
+    "isbn_13": "9784112236434",
+    "isbn_10": "4112236433",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 563
+  },
+  {
+    "title": "The Girl in the Spider's Web",
+    "authors": [
+      "David Lagercrantz"
+    ],
+    "isbn_13": "9784284148436",
+    "isbn_10": "4284148435",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 416
+  },
+  {
+    "title": "The Girl Who Takes an Eye for an Eye",
+    "authors": [
+      "David Lagercrantz"
+    ],
+    "isbn_13": "9787254309448",
+    "isbn_10": "7254309441",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 416
+  },
+  {
+    "title": "The Girl Who Lived Twice",
+    "authors": [
+      "David Lagercrantz"
+    ],
+    "isbn_13": "9784220578150",
+    "isbn_10": "4220578153",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 400
+  },
+  {
+    "title": "The Name of the Rose",
+    "authors": [
+      "Umberto Eco"
+    ],
+    "isbn_13": "9784245697058",
+    "isbn_10": "4245697059",
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 536
+  },
+  {
+    "title": "Foucault's Pendulum",
+    "authors": [
+      "Umberto Eco"
+    ],
+    "isbn_13": "9789314516902",
+    "isbn_10": "9314516903",
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 641
+  },
+  {
+    "title": "The Island of the Day Before",
+    "authors": [
+      "Umberto Eco"
+    ],
+    "isbn_13": "9780836112030",
+    "isbn_10": "0836112032",
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 515
+  },
+  {
+    "title": "Baudolino",
+    "authors": [
+      "Umberto Eco"
+    ],
+    "isbn_13": "9781159025830",
+    "isbn_10": "1159025835",
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 522
+  },
+  {
+    "title": "The Mysterious Flame of Queen Loana",
+    "authors": [
+      "Umberto Eco"
+    ],
+    "isbn_13": "9782247414055",
+    "isbn_10": "2247414052",
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 469
+  },
+  {
+    "title": "The Prague Cemetery",
+    "authors": [
+      "Umberto Eco"
+    ],
+    "isbn_13": "9789194723926",
+    "isbn_10": "9194723923",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 464
+  },
+  {
+    "title": "Numero Zero",
+    "authors": [
+      "Umberto Eco"
+    ],
+    "isbn_13": "9782344991640",
+    "isbn_10": "2344991646",
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 191
+  },
+  {
+    "title": "The Path to the Nest of Spiders",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9783042581164",
+    "isbn_10": "3042581160",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1947,
+    "page_count": 150
+  },
+  {
+    "title": "The Cloven Viscount",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9782486450517",
+    "isbn_10": "2486450513",
+    "genres": [
+      "Literary Fiction",
+      "Fantasy"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1952,
+    "page_count": 105
+  },
+  {
+    "title": "The Baron in the Trees",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9787332211205",
+    "isbn_10": "7332211203",
+    "genres": [
+      "Literary Fiction",
+      "Fantasy"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1957,
+    "page_count": 217
+  },
+  {
+    "title": "The Nonexistent Knight",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9781711234793",
+    "isbn_10": "1711234796",
+    "genres": [
+      "Literary Fiction",
+      "Fantasy"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 122
+  },
+  {
+    "title": "Cosmicomics",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9789057154560",
+    "isbn_10": "9057154560",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 153
+  },
+  {
+    "title": "t zero",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9785427945400",
+    "isbn_10": "5427945407",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1967,
+    "page_count": 157
+  },
+  {
+    "title": "If on a winter's night a traveler",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9786948192731",
+    "isbn_10": "6948192734",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 260
+  },
+  {
+    "title": "Invisible Cities",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9785416527341",
+    "isbn_10": "541652734X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 165
+  },
+  {
+    "title": "Mr Palomar",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9781745459520",
+    "isbn_10": "1745459529",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 126
+  },
+  {
+    "title": "Marcovaldo",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9783901892134",
+    "isbn_10": "3901892133",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 121
+  },
+  {
+    "title": "The Complete Cosmicomics",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9781140515081",
+    "isbn_10": "114051508X",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 400
+  },
+  {
+    "title": "Under the Jaguar Sun",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9782314393443",
+    "isbn_10": "2314393449",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 86
+  },
+  {
+    "title": "Numbers in the Dark",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9782370743411",
+    "isbn_10": "2370743417",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 275
+  },
+  {
+    "title": "Difficult Loves",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9789032144463",
+    "isbn_10": "9032144464",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1970,
+    "page_count": 262
+  },
+  {
+    "title": "Italian Folktales",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9782176295985",
+    "isbn_10": "2176295986",
+    "genres": [
+      "Folklore"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1956,
+    "page_count": 763
+  },
+  {
+    "title": "The Uses of Literature",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9781451204636",
+    "isbn_10": "1451204639",
+    "genres": [
+      "Literary Criticism"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 294
+  },
+  {
+    "title": "Six Memos for the Next Millennium",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9784681103434",
+    "isbn_10": "4681103438",
+    "genres": [
+      "Literary Criticism"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 124
+  },
+  {
+    "title": "The Alchemist",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9786042193191",
+    "isbn_10": "6042193198",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 197
+  },
+  {
+    "title": "The Pilgrimage",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9782521861636",
+    "isbn_10": "2521861634",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 250
+  },
+  {
+    "title": "Brida",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9783294106238",
+    "isbn_10": "3294106238",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 249
+  },
+  {
+    "title": "The Valkyries",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9784184633186",
+    "isbn_10": "4184633188",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 218
+  },
+  {
+    "title": "By the River Piedra I Sat Down and Wept",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9783275467211",
+    "isbn_10": "3275467212",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 186
+  },
+  {
+    "title": "The Fifth Mountain",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9784711255416",
+    "isbn_10": "4711255419",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 245
+  },
+  {
+    "title": "Maktub",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9782043731035",
+    "isbn_10": "2043731033",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 128
+  },
+  {
+    "title": "Veronika Decides to Die",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9783456139029",
+    "isbn_10": "3456139020",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 210
+  },
+  {
+    "title": "The Devil and Miss Prym",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9781005392949",
+    "isbn_10": "1005392943",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 205
+  },
+  {
+    "title": "Eleven Minutes",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9783619005901",
+    "isbn_10": "3619005907",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 315
+  },
+  {
+    "title": "The Zahir",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9787043114307",
+    "isbn_10": "7043114306",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 314
+  },
+  {
+    "title": "The Witch of Portobello",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9785505279182",
+    "isbn_10": "550527918X",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 305
+  },
+  {
+    "title": "The Winner Stands Alone",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9788905550189",
+    "isbn_10": "8905550185",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 375
+  },
+  {
+    "title": "Aleph",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9785023157238",
+    "isbn_10": "5023157237",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 315
+  },
+  {
+    "title": "Manuscript Found in Accra",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9781610449205",
+    "isbn_10": "1610449207",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 197
+  },
+  {
+    "title": "Adultery",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9780051033356",
+    "isbn_10": "0051033356",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 260
+  },
+  {
+    "title": "The Spy",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9785881413545",
+    "isbn_10": "5881413547",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 202
+  },
+  {
+    "title": "Hippie",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9784440453008",
+    "isbn_10": "4440453007",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 256
+  },
+  {
+    "title": "The Archer",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9788129115133",
+    "isbn_10": "8129115131",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 160
+  },
+  {
+    "title": "The Kite Runner",
+    "authors": [
+      "Khaled Hosseini"
+    ],
+    "isbn_13": "9788011266455",
+    "isbn_10": "8011266454",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 371
+  },
+  {
+    "title": "A Thousand Splendid Suns",
+    "authors": [
+      "Khaled Hosseini"
+    ],
+    "isbn_13": "9785319137302",
+    "isbn_10": "5319137303",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 372
+  },
+  {
+    "title": "And the Mountains Echoed",
+    "authors": [
+      "Khaled Hosseini"
+    ],
+    "isbn_13": "9783483125026",
+    "isbn_10": "3483125027",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 404
+  },
+  {
+    "title": "Sea Prayer",
+    "authors": [
+      "Khaled Hosseini"
+    ],
+    "isbn_13": "9789875302426",
+    "isbn_10": "9875302422",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 48
+  },
+  {
+    "title": "The Joy Luck Club",
+    "authors": [
+      "Amy Tan"
+    ],
+    "isbn_13": "9784585693499",
+    "isbn_10": "4585693491",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 288
+  },
+  {
+    "title": "The Kitchen God's Wife",
+    "authors": [
+      "Amy Tan"
+    ],
+    "isbn_13": "9780551865549",
+    "isbn_10": "0551865547",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 415
+  },
+  {
+    "title": "The Hundred Secret Senses",
+    "authors": [
+      "Amy Tan"
+    ],
+    "isbn_13": "9780459022617",
+    "isbn_10": "045902261X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 358
+  },
+  {
+    "title": "The Bonesetter's Daughter",
+    "authors": [
+      "Amy Tan"
+    ],
+    "isbn_13": "9780191951954",
+    "isbn_10": "0191951951",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 353
+  },
+  {
+    "title": "Saving Fish from Drowning",
+    "authors": [
+      "Amy Tan"
+    ],
+    "isbn_13": "9784725450944",
+    "isbn_10": "4725450944",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 474
+  },
+  {
+    "title": "The Valley of Amazement",
+    "authors": [
+      "Amy Tan"
+    ],
+    "isbn_13": "9782148313105",
+    "isbn_10": "214831310X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 589
+  },
+  {
+    "title": "The Backyard Bird Chronicles",
+    "authors": [
+      "Amy Tan"
+    ],
+    "isbn_13": "9784815522490",
+    "isbn_10": "4815522499",
+    "genres": [
+      "Non-Fiction",
+      "Nature"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 256
+  },
+  {
+    "title": "Where the Past Begins",
+    "authors": [
+      "Amy Tan"
+    ],
+    "isbn_13": "9782627443200",
+    "isbn_10": "2627443208",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 336
+  },
+  {
+    "title": "The Bluest Eye",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9788119245253",
+    "isbn_10": "8119245253",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1970,
+    "page_count": 206
+  },
+  {
+    "title": "Sula",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9783836528702",
+    "isbn_10": "3836528703",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 174
+  },
+  {
+    "title": "Song of Solomon",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9782146227275",
+    "isbn_10": "2146227273",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 337
+  },
+  {
+    "title": "Tar Baby",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9787229160906",
+    "isbn_10": "7229160901",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 305
+  },
+  {
+    "title": "Beloved",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9782002543402",
+    "isbn_10": "2002543402",
+    "genres": [
+      "Literary Fiction",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 324
+  },
+  {
+    "title": "Jazz",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9786306322541",
+    "isbn_10": "630632254X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 229
+  },
+  {
+    "title": "Paradise",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9786332352246",
+    "isbn_10": "6332352248",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 318
+  },
+  {
+    "title": "Love",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9785014748117",
+    "isbn_10": "5014748112",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 202
+  },
+  {
+    "title": "A Mercy",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9782953861518",
+    "isbn_10": "2953861513",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 167
+  }
+]
