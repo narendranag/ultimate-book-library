@@ -425,6 +425,21 @@
       "page_count": 286
     },
     {
+      "title": "2312",
+      "year": 2012,
+      "isbn_13": "9789365405002",
+      "isbn_10": "9365405002",
+      "pages": 561,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "2666",
       "authors": [
         "Roberto Bolano"
@@ -1208,6 +1223,21 @@
       "source": "seed"
     },
     {
+      "title": "A Confusion of Princes",
+      "year": 2012,
+      "isbn_13": "9787109501409",
+      "isbn_10": "7109501401",
+      "pages": 337,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Garth Nix"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Conjuring of Light",
       "year": 2017,
       "isbn_13": "9789250240831",
@@ -1947,6 +1977,21 @@
       "source": "seed"
     },
     {
+      "title": "A Far Cry from Kensington",
+      "year": 1988,
+      "isbn_13": "9788405929423",
+      "isbn_10": "8405929423",
+      "pages": 189,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Farewell to Arms",
       "authors": [
         "Ernest Hemingway"
@@ -2282,6 +2327,22 @@
       "page_count": 247
     },
     {
+      "title": "A Grand Man",
+      "year": 1954,
+      "isbn_13": "9780166087800",
+      "isbn_10": "0166087804",
+      "pages": 320,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Graveyard for Lunatics",
       "authors": [
         "Ray Bradbury"
@@ -2536,6 +2597,22 @@
       "description": "",
       "authors": [
         "V.S. Naipaul"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "A House with Good Bones",
+      "year": 2023,
+      "isbn_13": "9789150220537",
+      "isbn_10": "9150220536",
+      "pages": 256,
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "T. Kingfisher"
       ],
       "source": "seed"
     },
@@ -3235,6 +3312,22 @@
       "page_count": 177
     },
     {
+      "title": "A More Perfect Union",
+      "year": 1988,
+      "isbn_13": "9781943755035",
+      "isbn_10": "1943755036",
+      "pages": 309,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Most Wanted Man",
       "year": 2008,
       "isbn_13": "9786922558751",
@@ -3308,6 +3401,21 @@
       "language": "en",
       "authors": [
         "John le Carré"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "A Natural Curiosity",
+      "year": 1989,
+      "isbn_13": "9785861772235",
+      "isbn_10": "586177223X",
+      "pages": 320,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Margaret Drabble"
       ],
       "source": "seed"
     },
@@ -4076,6 +4184,22 @@
       "source": "seed"
     },
     {
+      "title": "A Serpent's Tooth",
+      "year": 2013,
+      "isbn_13": "9785448271441",
+      "isbn_10": "5448271443",
+      "pages": 320,
+      "genres": [
+        "Mystery",
+        "Western"
+      ],
+      "language": "en",
+      "authors": [
+        "Craig Johnson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Severed Head",
       "year": 1961,
       "isbn_13": "9782124316618",
@@ -4248,6 +4372,21 @@
       "source": "seed",
       "year_published": 2022,
       "page_count": 240
+    },
+    {
+      "title": "A Song of Stone",
+      "year": 1997,
+      "isbn_13": "9784132103419",
+      "isbn_10": "4132103419",
+      "pages": 279,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Iain Banks"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Spark of Light",
@@ -4469,6 +4608,21 @@
       "source": "seed",
       "year_published": 2024,
       "page_count": 1200
+    },
+    {
+      "title": "A Summer Bird-Cage",
+      "year": 1963,
+      "isbn_13": "9781819413427",
+      "isbn_10": "1819413421",
+      "pages": 208,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Margaret Drabble"
+      ],
+      "source": "seed"
     },
     {
       "title": "A Swiftly Tilting Planet",
@@ -4785,6 +4939,21 @@
       "language": "en",
       "authors": [
         "Debbie Macomber"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "A Turn in the South",
+      "year": 1989,
+      "isbn_13": "9782021374704",
+      "isbn_10": "2021374701",
+      "pages": 307,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "V.S. Naipaul"
       ],
       "source": "seed"
     },
@@ -5214,6 +5383,21 @@
       "language": "sa",
       "authors": [
         "Kalidasa"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Abhorsen",
+      "year": 2003,
+      "isbn_13": "9782814409095",
+      "isbn_10": "2814409098",
+      "pages": 358,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Garth Nix"
       ],
       "source": "seed"
     },
@@ -5794,6 +5978,21 @@
       "page_count": 416
     },
     {
+      "title": "After the Fall",
+      "year": 1964,
+      "isbn_13": "9782259672566",
+      "isbn_10": "2259672565",
+      "pages": 113,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Arthur Miller"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "After the Fire",
       "year": 2017,
       "isbn_13": "9782414314140",
@@ -6358,6 +6557,21 @@
       "language": "en",
       "authors": [
         "Alan Paton"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Aiding and Abetting",
+      "year": 2000,
+      "isbn_13": "9785650693444",
+      "isbn_10": "5650693444",
+      "pages": 166,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
       ],
       "source": "seed"
     },
@@ -7050,6 +7264,21 @@
       "source": "seed",
       "year_published": 1993,
       "page_count": 435
+    },
+    {
+      "title": "Alphabet of Thorn",
+      "year": 2004,
+      "isbn_13": "9782523236210",
+      "isbn_10": "2523236217",
+      "pages": 314,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patricia McKillip"
+      ],
+      "source": "seed"
     },
     {
       "title": "Altered States",
@@ -7793,6 +8022,22 @@
       "page_count": 282
     },
     {
+      "title": "An Obvious Fact",
+      "year": 2016,
+      "isbn_13": "9782353642168",
+      "isbn_10": "2353642160",
+      "pages": 320,
+      "genres": [
+        "Mystery",
+        "Western"
+      ],
+      "language": "en",
+      "authors": [
+        "Craig Johnson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "An Offer from a Gentleman",
       "authors": [
         "Julia Quinn"
@@ -7837,6 +8082,22 @@
       "source": "seed",
       "year_published": 2019,
       "page_count": 446
+    },
+    {
+      "title": "An Ordinary Person's Guide to Empire",
+      "year": 2004,
+      "isbn_13": "9786502562444",
+      "isbn_10": "6502562449",
+      "pages": 159,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Arundhati Roy"
+      ],
+      "source": "seed"
     },
     {
       "title": "An Uncertain Glory",
@@ -8281,6 +8542,21 @@
       "page_count": 397
     },
     {
+      "title": "Angel Mage",
+      "year": 2019,
+      "isbn_13": "9784080000488",
+      "isbn_10": "4080000480",
+      "pages": 560,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Garth Nix"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Angela's Ashes",
       "authors": [
         "Frank McCourt"
@@ -8582,6 +8858,22 @@
       "source": "seed"
     },
     {
+      "title": "Another Man's Moccasins",
+      "year": 2008,
+      "isbn_13": "9786055133153",
+      "isbn_10": "6055133155",
+      "pages": 290,
+      "genres": [
+        "Mystery",
+        "Western"
+      ],
+      "language": "en",
+      "authors": [
+        "Craig Johnson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Another View",
       "year": 1968,
       "isbn_13": "9782841835775",
@@ -8643,6 +8935,21 @@
       "source": "seed",
       "year_published": 2002,
       "page_count": 288
+    },
+    {
+      "title": "Antarctica",
+      "year": 1997,
+      "isbn_13": "9785119272920",
+      "isbn_10": "5119272927",
+      "pages": 511,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
+      ],
+      "source": "seed"
     },
     {
       "title": "Anthills of the Savannah",
@@ -8749,6 +9056,22 @@
       "language": "en",
       "authors": [
         "Debbie Macomber"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Any Other Name",
+      "year": 2014,
+      "isbn_13": "9783584270540",
+      "isbn_10": "3584270546",
+      "pages": 336,
+      "genres": [
+        "Mystery",
+        "Western"
+      ],
+      "language": "en",
+      "authors": [
+        "Craig Johnson"
       ],
       "source": "seed"
     },
@@ -9290,6 +9613,22 @@
     },
     {
       "title": "As the Crow Flies",
+      "year": 2012,
+      "isbn_13": "9785534815238",
+      "isbn_10": "5534815231",
+      "pages": 320,
+      "genres": [
+        "Mystery",
+        "Western"
+      ],
+      "language": "en",
+      "authors": [
+        "Craig Johnson"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "As the Crow Flies",
       "authors": [
         "Jeffrey Archer"
       ],
@@ -9351,6 +9690,21 @@
       "language": "en",
       "authors": [
         "David Weber"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Ashes to Ashes",
+      "year": 1996,
+      "isbn_13": "9782024432364",
+      "isbn_10": "2024432360",
+      "pages": 85,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Harold Pinter"
       ],
       "source": "seed"
     },
@@ -9831,6 +10185,21 @@
       "description": "",
       "authors": [
         "Carlos Fuentes"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Aurora",
+      "year": 2015,
+      "isbn_13": "9781370974320",
+      "isbn_10": "1370974322",
+      "pages": 466,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
       ],
       "source": "seed"
     },
@@ -11184,6 +11553,21 @@
       "page_count": 790
     },
     {
+      "title": "Behemoth: B-Max",
+      "year": 2004,
+      "isbn_13": "9788532770356",
+      "isbn_10": "8532770356",
+      "pages": 307,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Peter Watts"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Behind the Beautiful Forevers",
       "authors": [
         "Katherine Boo"
@@ -11212,6 +11596,22 @@
       "language": "en",
       "authors": [
         "Kate Atkinson"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Behold the Man",
+      "year": 1969,
+      "isbn_13": "9783019069213",
+      "isbn_10": "301906921X",
+      "pages": 143,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Michael Moorcock"
       ],
       "source": "seed"
     },
@@ -11775,6 +12175,21 @@
       "source": "seed"
     },
     {
+      "title": "Beyond Belief",
+      "year": 1998,
+      "isbn_13": "9783963424434",
+      "isbn_10": "3963424436",
+      "pages": 408,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "V.S. Naipaul"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Beyond Black",
       "year": 2005,
       "isbn_13": "9787452011761",
@@ -12151,6 +12566,22 @@
       "language": "en",
       "authors": [
         "Wilbur Smith"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Birds of Prey",
+      "year": 2001,
+      "isbn_13": "9781182862426",
+      "isbn_10": "1182862421",
+      "pages": 400,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
       ],
       "source": "seed"
     },
@@ -13507,6 +13938,22 @@
       "source": "seed"
     },
     {
+      "title": "Bloodline",
+      "year": 2009,
+      "isbn_13": "9784148689150",
+      "isbn_10": "4148689159",
+      "pages": 400,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Mark Billingham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Bloodstream",
       "authors": [
         "Tess Gerritsen"
@@ -13667,6 +14114,21 @@
       "language": "en",
       "authors": [
         "Wilbur Smith"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Blue Mars",
+      "year": 1996,
+      "isbn_13": "9787341777013",
+      "isbn_10": "7341777011",
+      "pages": 609,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
       ],
       "source": "seed"
     },
@@ -14551,6 +15013,22 @@
       "page_count": 260
     },
     {
+      "title": "Breach of Duty",
+      "year": 1999,
+      "isbn_13": "9780782555530",
+      "isbn_10": "0782555536",
+      "pages": 400,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Break No Bones",
       "year": 2006,
       "isbn_13": "9781516030057",
@@ -14800,6 +15278,23 @@
       "language": "en",
       "authors": [
         "Ali Hazelwood"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Bride of Pendorric",
+      "year": 1963,
+      "isbn_13": "9785550395875",
+      "isbn_10": "5550395873",
+      "pages": 320,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
       ],
       "source": "seed"
     },
@@ -15056,6 +15551,21 @@
       "source": "seed",
       "year_published": 2010,
       "page_count": 384
+    },
+    {
+      "title": "Broken Glass",
+      "year": 1994,
+      "isbn_13": "9783809054993",
+      "isbn_10": "3809054999",
+      "pages": 77,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Arthur Miller"
+      ],
+      "source": "seed"
     },
     {
       "title": "Broken Ground",
@@ -15423,6 +15933,22 @@
       "language": "en",
       "authors": [
         "Nadine Gordimer"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Buried",
+      "year": 2006,
+      "isbn_13": "9785437558294",
+      "isbn_10": "5437558296",
+      "pages": 464,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Mark Billingham"
       ],
       "source": "seed"
     },
@@ -16009,6 +16535,21 @@
       "page_count": 546
     },
     {
+      "title": "Canal Dreams",
+      "year": 1989,
+      "isbn_13": "9787396558414",
+      "isbn_10": "7396558414",
+      "pages": 262,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Iain Banks"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Cancer Ward",
       "authors": [
         "Aleksandr Solzhenitsyn"
@@ -16138,6 +16679,22 @@
       "page_count": 208
     },
     {
+      "title": "Capitalism: A Ghost Story",
+      "year": 2014,
+      "isbn_13": "9786002126900",
+      "isbn_10": "6002126909",
+      "pages": 128,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Arundhati Roy"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Captain Pantoja and the Special Service",
       "year": 1973,
       "isbn_13": "9786358116327",
@@ -16199,6 +16756,21 @@
       "language": "en",
       "authors": [
         "Johanna Lindsey"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Captives of the Flame",
+      "year": 1963,
+      "isbn_13": "9789412544241",
+      "isbn_10": "9412544248",
+      "pages": 189,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Samuel R. Delany"
       ],
       "source": "seed"
     },
@@ -16779,6 +17351,21 @@
       "source": "seed",
       "year_published": 1996,
       "page_count": 357
+    },
+    {
+      "title": "Celebration",
+      "year": 1999,
+      "isbn_13": "9786509691420",
+      "isbn_10": "6509691425",
+      "pages": 60,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Harold Pinter"
+      ],
+      "source": "seed"
     },
     {
       "title": "Celestial Navigation",
@@ -18143,6 +18730,21 @@
       "source": "seed"
     },
     {
+      "title": "City of a Thousand Suns",
+      "year": 1965,
+      "isbn_13": "9786306092024",
+      "isbn_10": "630609202X",
+      "pages": 153,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Samuel R. Delany"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "City of Bones",
       "authors": [
         "Michael Connelly"
@@ -18332,6 +18934,21 @@
       "source": "seed",
       "year_published": 1964,
       "page_count": 253
+    },
+    {
+      "title": "Clariel",
+      "year": 2014,
+      "isbn_13": "9783001949929",
+      "isbn_10": "3001949922",
+      "pages": 389,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Garth Nix"
+      ],
+      "source": "seed"
     },
     {
       "title": "Clarissa Oakes",
@@ -18953,6 +19570,22 @@
       "page_count": 386
     },
     {
+      "title": "Colour Blind",
+      "year": 1953,
+      "isbn_13": "9784698642513",
+      "isbn_10": "4698642516",
+      "pages": 384,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Colour Scheme",
       "year": 1943,
       "isbn_13": "9785117276210",
@@ -19226,6 +19859,22 @@
       "source": "seed"
     },
     {
+      "title": "Company",
+      "year": 1980,
+      "isbn_13": "9781323944554",
+      "isbn_10": "1323944552",
+      "pages": 89,
+      "genres": [
+        "Drama",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Samuel Beckett"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Compilers: Principles, Techniques, and Tools",
       "authors": [
         "Alfred V. Aho"
@@ -19255,6 +19904,21 @@
       "source": "seed",
       "year_published": 2002,
       "page_count": 269
+    },
+    {
+      "title": "Complicity",
+      "year": 1993,
+      "isbn_13": "9789710502011",
+      "isbn_10": "9710502013",
+      "pages": 313,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Iain Banks"
+      ],
+      "source": "seed"
     },
     {
       "title": "Computer Networks",
@@ -19530,6 +20194,22 @@
       "source": "seed",
       "year_published": 1998,
       "page_count": 367
+    },
+    {
+      "title": "Consilience",
+      "year": 1998,
+      "isbn_13": "9784117434330",
+      "isbn_10": "4117434330",
+      "pages": 332,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Edward O. Wilson"
+      ],
+      "source": "seed"
     },
     {
       "title": "Conspirator",
@@ -20638,6 +21318,22 @@
       "page_count": 372
     },
     {
+      "title": "Cry Baby",
+      "year": 2021,
+      "isbn_13": "9784470757510",
+      "isbn_10": "4470757512",
+      "pages": 416,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Mark Billingham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Cry Wolf",
       "year": 1976,
       "isbn_13": "9781318110711",
@@ -21041,6 +21737,22 @@
       "source": "seed"
     },
     {
+      "title": "Damage Control",
+      "year": 2008,
+      "isbn_13": "9786501333328",
+      "isbn_10": "6501333325",
+      "pages": 384,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Damnation Alley",
       "year": 1969,
       "isbn_13": "9783357521251",
@@ -21100,6 +21812,22 @@
       "language": "en",
       "authors": [
         "Tony Hillerman"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Dance of the Happy Shades",
+      "year": 1968,
+      "isbn_13": "9781497514300",
+      "isbn_10": "1497514307",
+      "pages": 224,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Alice Munro"
       ],
       "source": "seed"
     },
@@ -21262,6 +21990,21 @@
       "source": "seed"
     },
     {
+      "title": "Dark Horse",
+      "year": 2022,
+      "isbn_13": "9782458972078",
+      "isbn_10": "245897207X",
+      "pages": 416,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Gregg Hurwitz"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Dark Matter",
       "authors": [
         "Blake Crouch"
@@ -21409,6 +22152,22 @@
       "page_count": 276
     },
     {
+      "title": "Dark Waters",
+      "year": 2020,
+      "isbn_13": "9782860112383",
+      "isbn_10": "2860112388",
+      "pages": 224,
+      "genres": [
+        "Fantasy",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Katherine Arden"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Darkest Fear",
       "year": 2000,
       "isbn_13": "9783392100909",
@@ -21520,6 +22279,22 @@
       "description": "",
       "authors": [
         "Isabel Allende"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Daughter of the Morning Star",
+      "year": 2021,
+      "isbn_13": "9787352106567",
+      "isbn_10": "735210656X",
+      "pages": 304,
+      "genres": [
+        "Mystery",
+        "Western"
+      ],
+      "language": "en",
+      "authors": [
+        "Craig Johnson"
       ],
       "source": "seed"
     },
@@ -21710,6 +22485,21 @@
       "source": "seed",
       "year_published": 2009,
       "page_count": 188
+    },
+    {
+      "title": "Dead Air",
+      "year": 2002,
+      "isbn_13": "9780027547276",
+      "isbn_10": "0027547279",
+      "pages": 404,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Iain Banks"
+      ],
+      "source": "seed"
     },
     {
       "title": "Dead Astronauts",
@@ -22001,6 +22791,22 @@
       "source": "seed"
     },
     {
+      "title": "Dead to Rights",
+      "year": 1996,
+      "isbn_13": "9782744503238",
+      "isbn_10": "274450323X",
+      "pages": 384,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Dead Tomorrow",
       "year": 2009,
       "isbn_13": "9784173543649",
@@ -22013,6 +22819,22 @@
       "language": "en",
       "authors": [
         "Peter James"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Dead Voices",
+      "year": 2019,
+      "isbn_13": "9783324140157",
+      "isbn_10": "3324140158",
+      "pages": 224,
+      "genres": [
+        "Fantasy",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Katherine Arden"
       ],
       "source": "seed"
     },
@@ -22045,6 +22867,22 @@
       "language": "en",
       "authors": [
         "Ngaio Marsh"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Dead Wrong",
+      "year": 2006,
+      "isbn_13": "9786962025596",
+      "isbn_10": "6962025592",
+      "pages": 400,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
       ],
       "source": "seed"
     },
@@ -22245,6 +23083,22 @@
       "source": "seed",
       "year_published": 2006,
       "page_count": 276
+    },
+    {
+      "title": "Dear Life",
+      "year": 2012,
+      "isbn_13": "9782045663549",
+      "isbn_10": "2045663541",
+      "pages": 319,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Alice Munro"
+      ],
+      "source": "seed"
     },
     {
       "title": "Dear Mr. Henshaw",
@@ -22564,6 +23418,22 @@
       "source": "seed",
       "year_published": 1985,
       "page_count": 279
+    },
+    {
+      "title": "Death Message",
+      "year": 2007,
+      "isbn_13": "9781330004807",
+      "isbn_10": "1330004802",
+      "pages": 400,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Mark Billingham"
+      ],
+      "source": "seed"
     },
     {
       "title": "Death of a Blue Movie Star",
@@ -23015,6 +23885,22 @@
       "source": "seed"
     },
     {
+      "title": "Death Without Company",
+      "year": 2006,
+      "isbn_13": "9787515939063",
+      "isbn_10": "7515939060",
+      "pages": 272,
+      "genres": [
+        "Mystery",
+        "Western"
+      ],
+      "language": "en",
+      "authors": [
+        "Craig Johnson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Death's End",
       "authors": [
         "Liu Cixin"
@@ -23461,6 +24347,22 @@
       "page_count": 177
     },
     {
+      "title": "Depth of Winter",
+      "year": 2018,
+      "isbn_13": "9785501113763",
+      "isbn_10": "5501113764",
+      "pages": 288,
+      "genres": [
+        "Mystery",
+        "Western"
+      ],
+      "language": "en",
+      "authors": [
+        "Craig Johnson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Depths",
       "year": 2004,
       "isbn_13": "9788328591806",
@@ -23505,6 +24407,22 @@
       "language": "en",
       "authors": [
         "Zane Grey"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Desert Heat",
+      "year": 1993,
+      "isbn_13": "9782484248512",
+      "isbn_10": "2484248519",
+      "pages": 336,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
       ],
       "source": "seed"
     },
@@ -23788,6 +24706,22 @@
       "language": "en",
       "authors": [
         "Sharon Kay Penman"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Devil's Claw",
+      "year": 2000,
+      "isbn_13": "9780090253104",
+      "isbn_10": "0090253103",
+      "pages": 384,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
       ],
       "source": "seed"
     },
@@ -24261,6 +25195,22 @@
       ],
       "language": "en",
       "page_count": 220,
+      "source": "seed"
+    },
+    {
+      "title": "Dismissed with Prejudice",
+      "year": 1989,
+      "isbn_13": "9784594656508",
+      "isbn_10": "459465650X",
+      "pages": 306,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
+      ],
       "source": "seed"
     },
     {
@@ -25558,6 +26508,21 @@
       "source": "seed"
     },
     {
+      "title": "Drowned Wednesday",
+      "year": 2005,
+      "isbn_13": "9780441303137",
+      "isbn_10": "0441303134",
+      "pages": 384,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Garth Nix"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Drums of Autumn",
       "authors": [
         "Diana Gabaldon"
@@ -25602,6 +26567,22 @@
       "description": "",
       "authors": [
         "Augusten Burroughs"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Dry Bones",
+      "year": 2015,
+      "isbn_13": "9789440414424",
+      "isbn_10": "944041442X",
+      "pages": 308,
+      "genres": [
+        "Mystery",
+        "Western"
+      ],
+      "language": "en",
+      "authors": [
+        "Craig Johnson"
       ],
       "source": "seed"
     },
@@ -26452,6 +27433,22 @@
       "source": "seed"
     },
     {
+      "title": "Einstein",
+      "year": 2007,
+      "isbn_13": "9784090306518",
+      "isbn_10": "4090306516",
+      "pages": 675,
+      "genres": [
+        "Non-Fiction",
+        "Biography"
+      ],
+      "language": "en",
+      "authors": [
+        "Walter Isaacson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Einstein: His Life and Universe",
       "authors": [
         "Walter Isaacson"
@@ -26732,6 +27729,22 @@
       "source": "seed",
       "year_published": 2023,
       "page_count": 688
+    },
+    {
+      "title": "Elric of Melniboné",
+      "year": 1972,
+      "isbn_13": "9783965224650",
+      "isbn_10": "3965224657",
+      "pages": 181,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Michael Moorcock"
+      ],
+      "source": "seed"
     },
     {
       "title": "Elysium Fire",
@@ -27020,6 +28033,22 @@
       "source": "seed",
       "year_published": 1984,
       "page_count": 351
+    },
+    {
+      "title": "Empty Smiles",
+      "year": 2023,
+      "isbn_13": "9781613521113",
+      "isbn_10": "161352111X",
+      "pages": 224,
+      "genres": [
+        "Fantasy",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Katherine Arden"
+      ],
+      "source": "seed"
     },
     {
       "title": "Enchanters' End Game",
@@ -27467,6 +28496,21 @@
       "language": "en",
       "authors": [
         "Elmore Leonard"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Espedair Street",
+      "year": 1987,
+      "isbn_13": "9789124119379",
+      "isbn_10": "9124119374",
+      "pages": 249,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Iain Banks"
       ],
       "source": "seed"
     },
@@ -28170,6 +29214,22 @@
       "page_count": 231
     },
     {
+      "title": "Exit Wounds",
+      "year": 2003,
+      "isbn_13": "9785645733148",
+      "isbn_10": "5645733149",
+      "pages": 384,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Exodus from the Long Sun",
       "year": 1996,
       "isbn_13": "9787561262504",
@@ -28441,6 +29501,22 @@
       ],
       "language": "en",
       "page_count": 194,
+      "source": "seed"
+    },
+    {
+      "title": "Failure to Appear",
+      "year": 1993,
+      "isbn_13": "9789427554228",
+      "isbn_10": "9427554228",
+      "pages": 336,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
+      ],
       "source": "seed"
     },
     {
@@ -28853,6 +29929,22 @@
       "language": "en",
       "authors": [
         "Susan Elizabeth Phillips"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Fanny McBride",
+      "year": 1959,
+      "isbn_13": "9789138224120",
+      "isbn_10": "9138224124",
+      "pages": 352,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
       ],
       "source": "seed"
     },
@@ -29427,6 +30519,22 @@
       "source": "seed"
     },
     {
+      "title": "Fenwick Houses",
+      "year": 1960,
+      "isbn_13": "9780404530457",
+      "isbn_10": "040453045X",
+      "pages": 320,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Fer-de-Lance",
       "year": 1934,
       "isbn_13": "9780204648772",
@@ -29667,6 +30775,21 @@
       "source": "seed"
     },
     {
+      "title": "Fifty Degrees Below",
+      "year": 2005,
+      "isbn_13": "9780003221534",
+      "isbn_10": "0003221532",
+      "pages": 405,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Fighting Caravans",
       "year": 1929,
       "isbn_13": "9785232316204",
@@ -29826,6 +30949,21 @@
       "language": "en",
       "authors": [
         "Janet Evanovich"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Finishing the Picture",
+      "year": 2004,
+      "isbn_13": "9786055255282",
+      "isbn_10": "6055255285",
+      "pages": 72,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Arthur Miller"
       ],
       "source": "seed"
     },
@@ -31346,6 +32484,21 @@
       "source": "seed"
     },
     {
+      "title": "Forty Signs of Rain",
+      "year": 2004,
+      "isbn_13": "9782155412358",
+      "isbn_10": "2155412356",
+      "pages": 358,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Forward the Foundation",
       "authors": [
         "Isaac Asimov"
@@ -31962,6 +33115,22 @@
       "page_count": 357
     },
     {
+      "title": "Friend of My Youth",
+      "year": 1990,
+      "isbn_13": "9781345481143",
+      "isbn_10": "1345481147",
+      "pages": 273,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Alice Munro"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Friend of the Devil",
       "year": 2007,
       "isbn_13": "9784565364838",
@@ -32202,6 +33371,22 @@
       "source": "seed",
       "year_published": 2000,
       "page_count": 738
+    },
+    {
+      "title": "From the Dead",
+      "year": 2010,
+      "isbn_13": "9784612563405",
+      "isbn_10": "4612563402",
+      "pages": 432,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Mark Billingham"
+      ],
+      "source": "seed"
     },
     {
       "title": "From the Diary of a Snail",
@@ -32588,6 +33773,21 @@
       "page_count": 420
     },
     {
+      "title": "Galileo's Dream",
+      "year": 2009,
+      "isbn_13": "9783445212344",
+      "isbn_10": "344521234X",
+      "pages": 532,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Gallant",
       "year": 2022,
       "isbn_13": "9785287277314",
@@ -32962,6 +34162,22 @@
       "language": "en",
       "authors": [
         "Poul Anderson"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Genesis",
+      "year": 2019,
+      "isbn_13": "9784045543296",
+      "isbn_10": "4045543296",
+      "pages": 153,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Edward O. Wilson"
       ],
       "source": "seed"
     },
@@ -33648,6 +34864,22 @@
       "source": "seed"
     },
     {
+      "title": "Gloriana",
+      "year": 1978,
+      "isbn_13": "9784323233291",
+      "isbn_10": "4323233292",
+      "pages": 367,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Michael Moorcock"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Glory",
       "authors": [
         "NoViolet Bulawayo"
@@ -34049,6 +35281,21 @@
       "source": "seed"
     },
     {
+      "title": "Goldenhand",
+      "year": 2016,
+      "isbn_13": "9789045014852",
+      "isbn_10": "9045014853",
+      "pages": 393,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Garth Nix"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Goldfinger",
       "authors": [
         "Ian Fleming"
@@ -34160,6 +35407,22 @@
       "description": "",
       "authors": [
         "Dennis Lehane"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Good as Dead",
+      "year": 2012,
+      "isbn_13": "9783322203915",
+      "isbn_10": "3322203918",
+      "pages": 432,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Mark Billingham"
       ],
       "source": "seed"
     },
@@ -34570,6 +35833,21 @@
       "page_count": 176
     },
     {
+      "title": "Green Mars",
+      "year": 1993,
+      "isbn_13": "9781301309146",
+      "isbn_10": "130130914X",
+      "pages": 535,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Green River, Running Red",
       "year": 2004,
       "isbn_13": "9787034296951",
@@ -34645,6 +35923,21 @@
       "language": "en",
       "authors": [
         "Faye Kellerman"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Grim Tuesday",
+      "year": 2004,
+      "isbn_13": "9781370489800",
+      "isbn_10": "1370489808",
+      "pages": 320,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Garth Nix"
       ],
       "source": "seed"
     },
@@ -35149,6 +36442,22 @@
       "source": "seed"
     },
     {
+      "title": "Half-Earth",
+      "year": 2016,
+      "isbn_13": "9781501912238",
+      "isbn_10": "1501912239",
+      "pages": 259,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Edward O. Wilson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Halfway House",
       "year": 1936,
       "isbn_13": "9785507425730",
@@ -35306,6 +36615,22 @@
       "source": "seed",
       "year_published": 1951,
       "page_count": 218
+    },
+    {
+      "title": "Hannah Massey",
+      "year": 1964,
+      "isbn_13": "9780183598358",
+      "isbn_10": "0183598350",
+      "pages": 288,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
     },
     {
       "title": "Hannah's List",
@@ -35625,6 +36950,21 @@
       "page_count": 224
     },
     {
+      "title": "Harpist in the Wind",
+      "year": 1979,
+      "isbn_13": "9789390600144",
+      "isbn_10": "9390600145",
+      "pages": 256,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patricia McKillip"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Harry Potter and the Chamber of Secrets",
       "authors": [
         "J.K. Rowling"
@@ -35830,6 +37170,22 @@
       "language": "en",
       "authors": [
         "Gary Paulsen"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Hateship, Friendship, Courtship, Loveship, Marriage",
+      "year": 2001,
+      "isbn_13": "9784202554134",
+      "isbn_10": "4202554139",
+      "pages": 323,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Alice Munro"
       ],
       "source": "seed"
     },
@@ -36384,6 +37740,21 @@
       "source": "seed"
     },
     {
+      "title": "Heir of Sea and Fire",
+      "year": 1977,
+      "isbn_13": "9780520445505",
+      "isbn_10": "0520445508",
+      "pages": 224,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patricia McKillip"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Heirs of the Blade",
       "year": 2011,
       "isbn_13": "9784349644514",
@@ -36435,6 +37806,22 @@
       "page_count": 240
     },
     {
+      "title": "Hell and Back",
+      "year": 2022,
+      "isbn_13": "9784671203748",
+      "isbn_10": "4671203741",
+      "pages": 320,
+      "genres": [
+        "Mystery",
+        "Western"
+      ],
+      "language": "en",
+      "authors": [
+        "Craig Johnson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Hell Bent",
       "authors": [
         "Leigh Bardugo"
@@ -36467,6 +37854,22 @@
       "page_count": 301
     },
     {
+      "title": "Hell Is Empty",
+      "year": 2011,
+      "isbn_13": "9781724235336",
+      "isbn_10": "1724235333",
+      "pages": 312,
+      "genres": [
+        "Mystery",
+        "Western"
+      ],
+      "language": "en",
+      "authors": [
+        "Craig Johnson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Hell's Corner",
       "authors": [
         "David Baldacci"
@@ -36480,6 +37883,21 @@
       "source": "seed",
       "year_published": 2010,
       "page_count": 416
+    },
+    {
+      "title": "Hellbent",
+      "year": 2018,
+      "isbn_13": "9782954313306",
+      "isbn_10": "2954313304",
+      "pages": 416,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Gregg Hurwitz"
+      ],
+      "source": "seed"
     },
     {
       "title": "Hellburner",
@@ -38119,6 +39537,22 @@
       "source": "seed"
     },
     {
+      "title": "How It Is",
+      "year": 1961,
+      "isbn_13": "9782721714343",
+      "isbn_10": "272171434X",
+      "pages": 147,
+      "genres": [
+        "Drama",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Samuel Beckett"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "How Music Works",
       "authors": [
         "David Byrne"
@@ -39270,6 +40704,21 @@
       "source": "seed"
     },
     {
+      "title": "Icehenge",
+      "year": 1984,
+      "isbn_13": "9782514911133",
+      "isbn_10": "2514911138",
+      "pages": 262,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Iceland's Bell",
       "year": 1943,
       "isbn_13": "9785548422071",
@@ -39640,6 +41089,22 @@
       "source": "seed"
     },
     {
+      "title": "Ill Seen Ill Said",
+      "year": 1981,
+      "isbn_13": "9785664399370",
+      "isbn_10": "5664399375",
+      "pages": 59,
+      "genres": [
+        "Drama",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Samuel Beckett"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Illness as Metaphor",
       "year": 1978,
       "isbn_13": "9782310252539",
@@ -39792,6 +41257,22 @@
       "language": "en",
       "authors": [
         "Connie Willis"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Improbable Cause",
+      "year": 1988,
+      "isbn_13": "9785544468233",
+      "isbn_10": "5544468230",
+      "pages": 309,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
       ],
       "source": "seed"
     },
@@ -40119,6 +41600,22 @@
       "page_count": 247
     },
     {
+      "title": "In Other Words",
+      "year": 2015,
+      "isbn_13": "9781007533500",
+      "isbn_10": "100753350X",
+      "pages": 233,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jhumpa Lahiri"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "In Our Time",
       "year": 1925,
       "isbn_13": "9786271409445",
@@ -40420,6 +41917,21 @@
       "language": "en",
       "authors": [
         "Rachel Cusk"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "In the Forests of Serre",
+      "year": 2003,
+      "isbn_13": "9782051225403",
+      "isbn_10": "2051225400",
+      "pages": 295,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patricia McKillip"
       ],
       "source": "seed"
     },
@@ -40731,6 +42243,21 @@
       "page_count": 304
     },
     {
+      "title": "Incident at Vichy",
+      "year": 1964,
+      "isbn_13": "9785812300364",
+      "isbn_10": "5812300367",
+      "pages": 70,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Arthur Miller"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Incidents at the Shrine",
       "year": 1986,
       "isbn_13": "9782120460162",
@@ -40877,6 +42404,21 @@
       "source": "seed",
       "year_published": 2000,
       "page_count": 576
+    },
+    {
+      "title": "India: A Million Mutinies Now",
+      "year": 1990,
+      "isbn_13": "9780031347381",
+      "isbn_10": "0031347381",
+      "pages": 521,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "V.S. Naipaul"
+      ],
+      "source": "seed"
     },
     {
       "title": "India: A Wounded Civilization",
@@ -41146,6 +42688,22 @@
       "description": "",
       "authors": [
         "Alastair Reynolds"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Injustice for All",
+      "year": 1986,
+      "isbn_13": "9785042938078",
+      "isbn_10": "5042938072",
+      "pages": 339,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
       ],
       "source": "seed"
     },
@@ -41465,6 +43023,21 @@
       "language": "is",
       "authors": [
         "Arnaldur Indriðason"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Into the Fire",
+      "year": 2020,
+      "isbn_13": "9784652489215",
+      "isbn_10": "4652489213",
+      "pages": 416,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Gregg Hurwitz"
       ],
       "source": "seed"
     },
@@ -42591,6 +44164,21 @@
       "source": "seed"
     },
     {
+      "title": "Jerusalem the Golden",
+      "year": 1967,
+      "isbn_13": "9781252038317",
+      "isbn_10": "1252038318",
+      "pages": 208,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Margaret Drabble"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Jewels",
       "authors": [
         "Danielle Steel"
@@ -43036,6 +44624,22 @@
       "source": "seed"
     },
     {
+      "title": "Junkyard Dogs",
+      "year": 2010,
+      "isbn_13": "9782495402910",
+      "isbn_10": "2495402914",
+      "pages": 306,
+      "genres": [
+        "Mystery",
+        "Western"
+      ],
+      "language": "en",
+      "authors": [
+        "Craig Johnson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Jupiter",
       "year": 2001,
       "isbn_13": "9780527121532",
@@ -43247,6 +44851,22 @@
       "source": "seed"
     },
     {
+      "title": "Justice Denied",
+      "year": 2007,
+      "isbn_13": "9784332549437",
+      "isbn_10": "4332549430",
+      "pages": 384,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "K Is for Killer",
       "year": 1994,
       "isbn_13": "9785423444457",
@@ -43407,6 +45027,38 @@
       "source": "seed",
       "year_published": 2002,
       "page_count": 305
+    },
+    {
+      "title": "Kate Hannigan",
+      "year": 1950,
+      "isbn_13": "9783330704053",
+      "isbn_10": "3330704056",
+      "pages": 320,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Katie Mulholland",
+      "year": 1967,
+      "isbn_13": "9788109420547",
+      "isbn_10": "8109420540",
+      "pages": 416,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
     },
     {
       "title": "Keep Quiet",
@@ -43794,6 +45446,22 @@
       "page_count": 163
     },
     {
+      "title": "Kindness Goes Unpunished",
+      "year": 2007,
+      "isbn_13": "9781836085447",
+      "isbn_10": "1836085448",
+      "pages": 288,
+      "genres": [
+        "Mystery",
+        "Western"
+      ],
+      "language": "en",
+      "authors": [
+        "Craig Johnson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Kindred",
       "authors": [
         "Octavia E. Butler"
@@ -43969,6 +45637,21 @@
       "source": "seed"
     },
     {
+      "title": "Kingfisher",
+      "year": 2016,
+      "isbn_13": "9785813351280",
+      "isbn_10": "5813351280",
+      "pages": 320,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patricia McKillip"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Kintu",
       "authors": [
         "Jennifer Nansubuga Makumbi"
@@ -43983,6 +45666,23 @@
       "source": "seed",
       "year_published": 2014,
       "page_count": 390
+    },
+    {
+      "title": "Kirkland Revels",
+      "year": 1962,
+      "isbn_13": "9784270661321",
+      "isbn_10": "427066132X",
+      "pages": 372,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
+      ],
+      "source": "seed"
     },
     {
       "title": "Kiss an Angel",
@@ -44639,6 +46339,21 @@
       "source": "seed"
     },
     {
+      "title": "Lady Friday",
+      "year": 2007,
+      "isbn_13": "9781544750187",
+      "isbn_10": "1544750183",
+      "pages": 320,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Garth Nix"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Lady Killer",
       "year": 2008,
       "isbn_13": "9781511256346",
@@ -44746,6 +46461,22 @@
       "language": "en",
       "authors": [
         "Simon Winchester"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Land of Wolves",
+      "year": 2019,
+      "isbn_13": "9780634001925",
+      "isbn_10": "0634001929",
+      "pages": 320,
+      "genres": [
+        "Mystery",
+        "Western"
+      ],
+      "language": "en",
+      "authors": [
+        "Craig Johnson"
       ],
       "source": "seed"
     },
@@ -45154,6 +46885,22 @@
       "source": "seed"
     },
     {
+      "title": "Lazybones",
+      "year": 2003,
+      "isbn_13": "9788364089459",
+      "isbn_10": "8364089456",
+      "pages": 432,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Mark Billingham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Leadership",
       "authors": [
         "Doris Kearns Goodwin"
@@ -45168,6 +46915,23 @@
       "source": "seed",
       "year_published": 2018,
       "page_count": 473
+    },
+    {
+      "title": "Leadership in Turbulent Times",
+      "year": 2018,
+      "isbn_13": "9780110000596",
+      "isbn_10": "0110000596",
+      "pages": 473,
+      "genres": [
+        "Non-Fiction",
+        "Biography",
+        "History"
+      ],
+      "language": "en",
+      "authors": [
+        "Doris Kearns Goodwin"
+      ],
+      "source": "seed"
     },
     {
       "title": "Leaf Storm",
@@ -46227,6 +47991,22 @@
       "source": "seed"
     },
     {
+      "title": "Lifeless",
+      "year": 2005,
+      "isbn_13": "9789400449367",
+      "isbn_10": "9400449367",
+      "pages": 432,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Mark Billingham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Lifespan",
       "authors": [
         "David Sinclair"
@@ -46400,6 +48180,21 @@
       "source": "seed"
     },
     {
+      "title": "Lirael",
+      "year": 2001,
+      "isbn_13": "9786752000581",
+      "isbn_10": "675200058X",
+      "pages": 487,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Garth Nix"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Lisey's Story",
       "authors": [
         "Stephen King"
@@ -46447,6 +48242,22 @@
       "source": "seed",
       "year_published": 2010,
       "page_count": 364
+    },
+    {
+      "title": "Listening to Grasshoppers",
+      "year": 2009,
+      "isbn_13": "9782731784800",
+      "isbn_10": "2731784805",
+      "pages": 256,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Arundhati Roy"
+      ],
+      "source": "seed"
     },
     {
       "title": "Listening Woman",
@@ -46658,6 +48469,22 @@
       "source": "seed"
     },
     {
+      "title": "Lives of Girls and Women",
+      "year": 1971,
+      "isbn_13": "9780107524227",
+      "isbn_10": "0107524223",
+      "pages": 277,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Alice Munro"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Livid",
       "authors": [
         "Patricia Cornwell"
@@ -46787,6 +48614,21 @@
       "page_count": 352
     },
     {
+      "title": "Loitering with Intent",
+      "year": 1981,
+      "isbn_13": "9780011433097",
+      "isbn_10": "0011433097",
+      "pages": 217,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Lolita",
       "authors": [
         "Vladimir Nabokov"
@@ -46892,6 +48734,21 @@
       "language": "en",
       "authors": [
         "Jodi Picoult"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Lone Wolf",
+      "year": 2024,
+      "isbn_13": "9782581238416",
+      "isbn_10": "2581238410",
+      "pages": 416,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Gregg Hurwitz"
       ],
       "source": "seed"
     },
@@ -47066,6 +48923,22 @@
       "source": "seed",
       "year_published": 2022,
       "page_count": 384
+    },
+    {
+      "title": "Long Time Gone",
+      "year": 2005,
+      "isbn_13": "9785772796436",
+      "isbn_10": "5772796434",
+      "pages": 384,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
+      ],
+      "source": "seed"
     },
     {
       "title": "Long Walk to Freedom",
@@ -47325,6 +49198,23 @@
       "source": "seed"
     },
     {
+      "title": "Lord of the Far Island",
+      "year": 1975,
+      "isbn_13": "9783504557812",
+      "isbn_10": "3504557813",
+      "pages": 383,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Lord of the Flies",
       "authors": [
         "William Golding"
@@ -47339,6 +49229,21 @@
       "source": "seed",
       "year_published": 1954,
       "page_count": 224
+    },
+    {
+      "title": "Lord Sunday",
+      "year": 2010,
+      "isbn_13": "9782122107539",
+      "isbn_10": "2122107534",
+      "pages": 320,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Garth Nix"
+      ],
+      "source": "seed"
     },
     {
       "title": "Lords and Ladies",
@@ -47582,6 +49487,22 @@
       "source": "seed"
     },
     {
+      "title": "Love Like Blood",
+      "year": 2017,
+      "isbn_13": "9780381721244",
+      "isbn_10": "0381721243",
+      "pages": 432,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Mark Billingham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Love Medicine",
       "year": 1984,
       "isbn_13": "9785168532518",
@@ -47817,6 +49738,39 @@
       "language": "en",
       "authors": [
         "Michael Robotham"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Lying in Wait",
+      "year": 1994,
+      "isbn_13": "9781140377412",
+      "isbn_10": "1140377413",
+      "pages": 368,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Lyndon Johnson and the American Dream",
+      "year": 1976,
+      "isbn_13": "9780715144077",
+      "isbn_10": "0715144078",
+      "pages": 432,
+      "genres": [
+        "Non-Fiction",
+        "Biography",
+        "History"
+      ],
+      "language": "en",
+      "authors": [
+        "Doris Kearns Goodwin"
       ],
       "source": "seed"
     },
@@ -49433,6 +51387,21 @@
       "source": "seed"
     },
     {
+      "title": "Memento Mori",
+      "year": 1959,
+      "isbn_13": "9789328452364",
+      "isbn_10": "9328452363",
+      "pages": 224,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Memnoch the Devil",
       "authors": [
         "Anne Rice"
@@ -49749,6 +51718,23 @@
       "description": "",
       "authors": [
         "Ernest Hemingway"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Menfreya in the Morning",
+      "year": 1966,
+      "isbn_13": "9787063738460",
+      "isbn_10": "706373846X",
+      "pages": 340,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
       ],
       "source": "seed"
     },
@@ -50483,6 +52469,22 @@
       "page_count": 218
     },
     {
+      "title": "Minor in Possession",
+      "year": 1990,
+      "isbn_13": "9786701577041",
+      "isbn_10": "6701577040",
+      "pages": 320,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Mio, My Son",
       "authors": [
         "Astrid Lindgren"
@@ -50830,6 +52832,23 @@
       "language": "en",
       "authors": [
         "Lloyd Jones"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Mistress of Mellyn",
+      "year": 1960,
+      "isbn_13": "9784341436339",
+      "isbn_10": "4341436338",
+      "pages": 338,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
       ],
       "source": "seed"
     },
@@ -51233,6 +53252,21 @@
       "source": "seed"
     },
     {
+      "title": "Moonlight",
+      "year": 1993,
+      "isbn_13": "9781030060066",
+      "isbn_10": "103006006X",
+      "pages": 80,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Harold Pinter"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Moonlight Becomes You",
       "authors": [
         "Mary Higgins Clark"
@@ -51620,6 +53654,21 @@
       "source": "seed"
     },
     {
+      "title": "Mountain Language",
+      "year": 1988,
+      "isbn_13": "9786307155742",
+      "isbn_10": "6307155747",
+      "pages": 32,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Harold Pinter"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Mountains Beyond Mountains",
       "authors": [
         "Tracy Kidder"
@@ -51838,6 +53887,21 @@
       "language": "en",
       "authors": [
         "Elmore Leonard"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Mr. Peters' Connections",
+      "year": 1998,
+      "isbn_13": "9785927094004",
+      "isbn_10": "5927094004",
+      "pages": 80,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Arthur Miller"
       ],
       "source": "seed"
     },
@@ -52114,6 +54178,22 @@
       "source": "seed"
     },
     {
+      "title": "Murphy",
+      "year": 1938,
+      "isbn_13": "9784969810610",
+      "isbn_10": "4969810618",
+      "pages": 268,
+      "genres": [
+        "Drama",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Samuel Beckett"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Music for Chameleons",
       "year": 1980,
       "isbn_13": "9788522610556",
@@ -52328,6 +54408,23 @@
       "source": "seed",
       "year_published": 1974,
       "page_count": 183
+    },
+    {
+      "title": "My Enemy the Queen",
+      "year": 1978,
+      "isbn_13": "9785871905678",
+      "isbn_10": "5871905675",
+      "pages": 337,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
+      ],
+      "source": "seed"
     },
     {
       "title": "My Experiments with Truth",
@@ -52569,6 +54666,22 @@
       "language": "en",
       "authors": [
         "Bertrand Russell"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "My Seditious Heart",
+      "year": 2019,
+      "isbn_13": "9782852675254",
+      "isbn_10": "2852675250",
+      "pages": 1051,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Arundhati Roy"
       ],
       "source": "seed"
     },
@@ -52825,6 +54938,22 @@
       "language": "en",
       "authors": [
         "John Sandford"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Name Withheld",
+      "year": 1995,
+      "isbn_13": "9783927082106",
+      "isbn_10": "3927082107",
+      "pages": 368,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
       ],
       "source": "seed"
     },
@@ -53213,6 +55342,22 @@
       "source": "seed"
     },
     {
+      "title": "Nettle & Bone",
+      "year": 2022,
+      "isbn_13": "9787209484138",
+      "isbn_10": "7209484139",
+      "pages": 245,
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "T. Kingfisher"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Network Effect",
       "year": 2020,
       "isbn_13": "9782380414301",
@@ -53433,6 +55578,21 @@
       "source": "seed"
     },
     {
+      "title": "New York 2140",
+      "year": 2017,
+      "isbn_13": "9782554128782",
+      "isbn_10": "2554128789",
+      "pages": 613,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "News of a Kidnapping",
       "authors": [
         "Gabriel García Márquez"
@@ -53478,6 +55638,22 @@
       "source": "seed",
       "year_published": 2022,
       "page_count": 368
+    },
+    {
+      "title": "Next to Last Stand",
+      "year": 2020,
+      "isbn_13": "9787480185892",
+      "isbn_10": "7480185893",
+      "pages": 304,
+      "genres": [
+        "Mystery",
+        "Western"
+      ],
+      "language": "en",
+      "authors": [
+        "Craig Johnson"
+      ],
+      "source": "seed"
     },
     {
       "title": "Next to Nature, Art",
@@ -54965,6 +57141,21 @@
       "source": "seed"
     },
     {
+      "title": "Not to Disturb",
+      "year": 1971,
+      "isbn_13": "9782001315239",
+      "isbn_10": "2001315235",
+      "pages": 144,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Notes from a Small Island",
       "authors": [
         "Bill Bryson"
@@ -55476,6 +57667,21 @@
       "source": "seed"
     },
     {
+      "title": "Od Magic",
+      "year": 2005,
+      "isbn_13": "9781714119783",
+      "isbn_10": "1714119786",
+      "pages": 315,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patricia McKillip"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Odd and the Frost Giants",
       "authors": [
         "Neil Gaiman"
@@ -55777,6 +57983,21 @@
       "source": "seed"
     },
     {
+      "title": "Old Times",
+      "year": 1970,
+      "isbn_13": "9785747024939",
+      "isbn_10": "5747024930",
+      "pages": 75,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Harold Pinter"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Oleander Girl",
       "authors": [
         "Chitra Banerjee Divakaruni"
@@ -55853,6 +58074,21 @@
       "language": "en",
       "authors": [
         "Dan Simmons"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Ombria in Shadow",
+      "year": 2002,
+      "isbn_13": "9781359607010",
+      "isbn_10": "1359607018",
+      "pages": 298,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patricia McKillip"
       ],
       "source": "seed"
     },
@@ -56061,6 +58297,22 @@
       "source": "seed"
     },
     {
+      "title": "On Human Nature",
+      "year": 1978,
+      "isbn_13": "9781861020314",
+      "isbn_10": "1861020314",
+      "pages": 260,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Edward O. Wilson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "On Liberty",
       "authors": [
         "John Stuart Mill"
@@ -56204,6 +58456,23 @@
       "source": "seed",
       "year_published": 2015,
       "page_count": 397
+    },
+    {
+      "title": "On the Night of the Seventh Moon",
+      "year": 1972,
+      "isbn_13": "9785321186664",
+      "isbn_10": "5321186662",
+      "pages": 340,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
+      ],
+      "source": "seed"
     },
     {
       "title": "On the Origin of Species",
@@ -56544,6 +58813,21 @@
       "language": "en",
       "authors": [
         "Janet Evanovich"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "One for the Road",
+      "year": 1984,
+      "isbn_13": "9785173335517",
+      "isbn_10": "5173335518",
+      "pages": 48,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Harold Pinter"
       ],
       "source": "seed"
     },
@@ -57003,6 +59287,22 @@
       "source": "seed"
     },
     {
+      "title": "Open Secrets",
+      "year": 1994,
+      "isbn_13": "9781045030450",
+      "isbn_10": "1045030454",
+      "pages": 293,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Alice Munro"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Opening Night",
       "year": 1951,
       "isbn_13": "9784056222395",
@@ -57206,6 +59506,36 @@
       "description": "",
       "authors": [
         "Virginia Woolf"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Orphan X",
+      "year": 2016,
+      "isbn_13": "9784743059471",
+      "isbn_10": "4743059471",
+      "pages": 384,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Gregg Hurwitz"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Orpheus Descending",
+      "year": 1957,
+      "isbn_13": "9781351344241",
+      "isbn_10": "1351344249",
+      "pages": 112,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Tennessee Williams"
       ],
       "source": "seed"
     },
@@ -57645,6 +59975,21 @@
       "source": "seed"
     },
     {
+      "title": "Out of the Dark",
+      "year": 2019,
+      "isbn_13": "9788010143528",
+      "isbn_10": "8010143522",
+      "pages": 416,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Gregg Hurwitz"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Out of the Shelter",
       "year": 1970,
       "isbn_13": "9787542110237",
@@ -57739,6 +60084,22 @@
       "source": "seed",
       "year_published": 1991,
       "page_count": 850
+    },
+    {
+      "title": "Outlaw Mountain",
+      "year": 1999,
+      "isbn_13": "9781830227300",
+      "isbn_10": "1830227300",
+      "pages": 384,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
+      ],
+      "source": "seed"
     },
     {
       "title": "Outliers",
@@ -57950,6 +60311,21 @@
       "source": "seed"
     },
     {
+      "title": "Pacific Edge",
+      "year": 1990,
+      "isbn_13": "9782931119679",
+      "isbn_10": "2931119672",
+      "pages": 325,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Pacific Vortex!",
       "year": 1983,
       "isbn_13": "9784551403459",
@@ -58026,6 +60402,54 @@
       "language": "en",
       "authors": [
         "Lois McMaster Bujold"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Paladin's Grace",
+      "year": 2020,
+      "isbn_13": "9783800503513",
+      "isbn_10": "3800503517",
+      "pages": 465,
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "T. Kingfisher"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Paladin's Hope",
+      "year": 2022,
+      "isbn_13": "9783731010012",
+      "isbn_10": "373101001X",
+      "pages": 462,
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "T. Kingfisher"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Paladin's Strength",
+      "year": 2021,
+      "isbn_13": "9782504186800",
+      "isbn_10": "2504186800",
+      "pages": 440,
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "T. Kingfisher"
       ],
       "source": "seed"
     },
@@ -58367,6 +60791,22 @@
       "source": "seed"
     },
     {
+      "title": "Paradise Lost",
+      "year": 2001,
+      "isbn_13": "9783032147592",
+      "isbn_10": "3032147591",
+      "pages": 384,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Paradise News",
       "year": 1991,
       "isbn_13": "9787608459744",
@@ -58488,6 +60928,22 @@
       "language": "en",
       "authors": [
         "Linwood Barclay"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Partner in Crime",
+      "year": 2002,
+      "isbn_13": "9789757214250",
+      "isbn_10": "9757214255",
+      "pages": 432,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
       ],
       "source": "seed"
     },
@@ -58784,6 +61240,22 @@
       "language": "en",
       "authors": [
         "David Eddings"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Payment in Kind",
+      "year": 1991,
+      "isbn_13": "9784462885412",
+      "isbn_10": "4462885417",
+      "pages": 308,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
       ],
       "source": "seed"
     },
@@ -61198,6 +63670,21 @@
       "source": "seed"
     },
     {
+      "title": "Prodigal Son",
+      "year": 2021,
+      "isbn_13": "9782637034344",
+      "isbn_10": "2637034348",
+      "pages": 416,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Gregg Hurwitz"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Prodigal Summer",
       "year": 2000,
       "isbn_13": "9785254211051",
@@ -62428,6 +64915,22 @@
       "source": "seed"
     },
     {
+      "title": "Rationality",
+      "year": 2021,
+      "isbn_13": "9786604455002",
+      "isbn_10": "6604455002",
+      "pages": 432,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Steven Pinker"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Ratner's Star",
       "authors": [
         "Don DeLillo"
@@ -62442,6 +64945,22 @@
       "source": "seed",
       "year_published": 1976,
       "page_count": 438
+    },
+    {
+      "title": "Rattlesnake Crossing",
+      "year": 1998,
+      "isbn_13": "9785838506573",
+      "isbn_10": "583850657X",
+      "pages": 368,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
+      ],
+      "source": "seed"
     },
     {
       "title": "Ravelstein",
@@ -62539,6 +65058,21 @@
       ],
       "language": "en",
       "page_count": 374,
+      "source": "seed"
+    },
+    {
+      "title": "Reality and Dreams",
+      "year": 1996,
+      "isbn_13": "9782750220921",
+      "isbn_10": "2750220920",
+      "pages": 171,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
+      ],
       "source": "seed"
     },
     {
@@ -62813,6 +65347,21 @@
       ],
       "language": "en",
       "page_count": 224,
+      "source": "seed"
+    },
+    {
+      "title": "Red Mars",
+      "year": 1992,
+      "isbn_13": "9780357033975",
+      "isbn_10": "0357033978",
+      "pages": 572,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
+      ],
       "source": "seed"
     },
     {
@@ -63310,6 +65859,21 @@
       "source": "seed",
       "year_published": 1899,
       "page_count": 563
+    },
+    {
+      "title": "Resurrection Blues",
+      "year": 2002,
+      "isbn_13": "9787555958611",
+      "isbn_10": "7555958612",
+      "pages": 96,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Arthur Miller"
+      ],
+      "source": "seed"
     },
     {
       "title": "Resurrection Men",
@@ -64134,6 +66698,21 @@
       "page_count": 224
     },
     {
+      "title": "Robinson",
+      "year": 1958,
+      "isbn_13": "9785582870746",
+      "isbn_10": "558287074X",
+      "pages": 176,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Robinson Crusoe",
       "year": 1719,
       "isbn_13": "9780408071154",
@@ -64258,6 +66837,22 @@
       "page_count": 384
     },
     {
+      "title": "Roman Stories",
+      "year": 2023,
+      "isbn_13": "9782100643325",
+      "isbn_10": "2100643320",
+      "pages": 224,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jhumpa Lahiri"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Romance of the Three Kingdoms",
       "year": 1522,
       "isbn_13": "9782854522006",
@@ -64320,6 +66915,22 @@
       "source": "seed",
       "year_published": 1981,
       "page_count": 176
+    },
+    {
+      "title": "Rooney",
+      "year": 1957,
+      "isbn_13": "9781451873580",
+      "isbn_10": "145187358X",
+      "pages": 288,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
     },
     {
       "title": "Rose Daughter",
@@ -64676,6 +67287,22 @@
       "source": "seed"
     },
     {
+      "title": "Runaway",
+      "year": 2004,
+      "isbn_13": "9787020969722",
+      "isbn_10": "7020969720",
+      "pages": 335,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Alice Munro"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Runaway Horses",
       "authors": [
         "Yukio Mishima"
@@ -64907,6 +67534,21 @@
       "source": "seed",
       "year_published": 1995,
       "page_count": 451
+    },
+    {
+      "title": "Sabriel",
+      "year": 1995,
+      "isbn_13": "9785985265545",
+      "isbn_10": "5985265547",
+      "pages": 491,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Garth Nix"
+      ],
+      "source": "seed"
     },
     {
       "title": "Sabrina",
@@ -65975,6 +68617,22 @@
       "source": "seed"
     },
     {
+      "title": "Scaredy Cat",
+      "year": 2002,
+      "isbn_13": "9787352471351",
+      "isbn_10": "7352471352",
+      "pages": 400,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Mark Billingham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Scarlet Feather",
       "year": 2000,
       "isbn_13": "9784605600391",
@@ -66501,6 +69159,23 @@
       "source": "seed",
       "year_published": 2014,
       "page_count": 336
+    },
+    {
+      "title": "Secret for a Nightingale",
+      "year": 1986,
+      "isbn_13": "9789420843626",
+      "isbn_10": "9420843622",
+      "pages": 374,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
+      ],
+      "source": "seed"
     },
     {
       "title": "Secret Prey",
@@ -67143,6 +69818,21 @@
       "source": "seed"
     },
     {
+      "title": "Shade's Children",
+      "year": 1997,
+      "isbn_13": "9784635433334",
+      "isbn_10": "463543333X",
+      "pages": 310,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Garth Nix"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Shadow and Bone",
       "authors": [
         "Leigh Bardugo"
@@ -67506,6 +70196,21 @@
       "language": "en",
       "authors": [
         "Tim Winton"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Shaman",
+      "year": 2013,
+      "isbn_13": "9783606411937",
+      "isbn_10": "3606411935",
+      "pages": 455,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
       ],
       "source": "seed"
     },
@@ -68231,6 +70936,22 @@
       "page_count": 1152
     },
     {
+      "title": "Shoot Don't Shoot",
+      "year": 1995,
+      "isbn_13": "9783012547268",
+      "isbn_10": "3012547265",
+      "pages": 368,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Shout at the Devil",
       "year": 1968,
       "isbn_13": "9780412483059",
@@ -68891,6 +71612,21 @@
       "source": "seed"
     },
     {
+      "title": "Sir Thursday",
+      "year": 2006,
+      "isbn_13": "9785164228392",
+      "isbn_10": "5164228397",
+      "pages": 368,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Garth Nix"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Sister of My Heart",
       "authors": [
         "Chitra Banerjee Divakaruni"
@@ -69086,6 +71822,21 @@
       "source": "seed"
     },
     {
+      "title": "Sixty Days and Counting",
+      "year": 2007,
+      "isbn_13": "9783384355140",
+      "isbn_10": "3384355143",
+      "pages": 401,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Sizzling Sixteen",
       "year": 2010,
       "isbn_13": "9785053571929",
@@ -69099,6 +71850,22 @@
       "language": "en",
       "authors": [
         "Janet Evanovich"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Skeleton Canyon",
+      "year": 1997,
+      "isbn_13": "9782542444474",
+      "isbn_10": "254244447X",
+      "pages": 352,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
       ],
       "source": "seed"
     },
@@ -69378,6 +72145,38 @@
       "source": "seed"
     },
     {
+      "title": "Sleepyhead",
+      "year": 2001,
+      "isbn_13": "9785855609547",
+      "isbn_10": "5855609546",
+      "pages": 375,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Mark Billingham"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Slinky Jane",
+      "year": 1959,
+      "isbn_13": "9784445230307",
+      "isbn_10": "4445230303",
+      "pages": 288,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Slouching Towards Bethlehem",
       "authors": [
         "Joan Didion"
@@ -69455,6 +72254,21 @@
       "description": "",
       "authors": [
         "Milan Kundera"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Small Craft Warnings",
+      "year": 1972,
+      "isbn_13": "9784789113953",
+      "isbn_10": "4789113954",
+      "pages": 116,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Tennessee Williams"
       ],
       "source": "seed"
     },
@@ -69539,6 +72353,22 @@
       "language": "en",
       "authors": [
         "Ann Rule"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Small Spaces",
+      "year": 2018,
+      "isbn_13": "9785609641045",
+      "isbn_10": "5609641044",
+      "pages": 218,
+      "genres": [
+        "Fantasy",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Katherine Arden"
       ],
       "source": "seed"
     },
@@ -69680,6 +72510,23 @@
       "language": "ru",
       "authors": [
         "Ivan Turgenev"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Smoke and Ashes",
+      "year": 2023,
+      "isbn_13": "9785930256239",
+      "isbn_10": "5930256238",
+      "pages": 368,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Amitav Ghosh"
       ],
       "source": "seed"
     },
@@ -69907,6 +72754,22 @@
       "source": "seed"
     },
     {
+      "title": "Sociobiology",
+      "year": 1975,
+      "isbn_13": "9781985715172",
+      "isbn_10": "198571517X",
+      "pages": 697,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Edward O. Wilson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Sodom and Gomorrah",
       "year": 1921,
       "isbn_13": "9782131491506",
@@ -70062,6 +72925,21 @@
       "language": "en",
       "authors": [
         "Joyce Carol Oates"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Solstice Wood",
+      "year": 2006,
+      "isbn_13": "9789077244043",
+      "isbn_10": "9077244049",
+      "pages": 254,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patricia McKillip"
       ],
       "source": "seed"
     },
@@ -70224,6 +73102,22 @@
       "source": "seed"
     },
     {
+      "title": "Something I've Been Meaning to Tell You",
+      "year": 1974,
+      "isbn_13": "9789446472404",
+      "isbn_10": "9446472404",
+      "pages": 245,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Alice Munro"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Something Like an Autobiography",
       "authors": [
         "Akira Kurosawa"
@@ -70239,6 +73133,21 @@
       "source": "seed",
       "year_published": 1982,
       "page_count": 205
+    },
+    {
+      "title": "Something Rich and Strange",
+      "year": 1994,
+      "isbn_13": "9786938943558",
+      "isbn_10": "6938943552",
+      "pages": 181,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patricia McKillip"
+      ],
+      "source": "seed"
     },
     {
       "title": "Something Wicked This Way Comes",
@@ -70301,6 +73210,21 @@
       "language": "en",
       "authors": [
         "Lois Lowry"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Song for the Basilisk",
+      "year": 1998,
+      "isbn_13": "9783243075523",
+      "isbn_10": "324307552X",
+      "pages": 314,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patricia McKillip"
       ],
       "source": "seed"
     },
@@ -72002,6 +74926,21 @@
       "source": "seed"
     },
     {
+      "title": "Stonemouth",
+      "year": 2012,
+      "isbn_13": "9785261030515",
+      "isbn_10": "5261030511",
+      "pages": 358,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Iain Banks"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Stony the Road",
       "authors": [
         "Henry Louis Gates Jr."
@@ -72140,6 +75079,22 @@
       "language": "en",
       "authors": [
         "C.J. Box"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Stormbringer",
+      "year": 1965,
+      "isbn_13": "9786552370402",
+      "isbn_10": "6552370404",
+      "pages": 224,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Michael Moorcock"
       ],
       "source": "seed"
     },
@@ -72557,6 +75512,21 @@
       "source": "seed"
     },
     {
+      "title": "Suddenly Last Summer",
+      "year": 1958,
+      "isbn_13": "9783770390304",
+      "isbn_10": "3770390301",
+      "pages": 90,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Tennessee Williams"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Suffer the Little Children",
       "year": 2007,
       "isbn_13": "9785499284544",
@@ -72646,6 +75616,21 @@
       "language": "en",
       "authors": [
         "Thomas Aquinas"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Summer and Smoke",
+      "year": 1948,
+      "isbn_13": "9783181645420",
+      "isbn_10": "3181645424",
+      "pages": 114,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Tennessee Williams"
       ],
       "source": "seed"
     },
@@ -72920,6 +75905,21 @@
       "page_count": 352
     },
     {
+      "title": "Superior Saturday",
+      "year": 2008,
+      "isbn_13": "9780405345166",
+      "isbn_10": "0405345161",
+      "pages": 304,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Garth Nix"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Supernova Era",
       "authors": [
         "Liu Cixin"
@@ -73158,6 +76158,21 @@
       "source": "seed"
     },
     {
+      "title": "Sweet Bird of Youth",
+      "year": 1959,
+      "isbn_13": "9782163381080",
+      "isbn_10": "2163381080",
+      "pages": 114,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Tennessee Williams"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Sweet Memories",
       "year": 1984,
       "isbn_13": "9788494122583",
@@ -73303,6 +76318,22 @@
       "source": "seed"
     },
     {
+      "title": "Swordheart",
+      "year": 2018,
+      "isbn_13": "9780508231854",
+      "isbn_10": "0508231851",
+      "pages": 326,
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "T. Kingfisher"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Sycamore Row",
       "authors": [
         "John Grisham"
@@ -73331,6 +76362,21 @@
       "source": "seed",
       "year_published": 2008,
       "page_count": 384
+    },
+    {
+      "title": "Symposium",
+      "year": 1990,
+      "isbn_13": "9787732569364",
+      "isbn_10": "7732569362",
+      "pages": 184,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
+      ],
+      "source": "seed"
     },
     {
       "title": "Sync",
@@ -73552,6 +76598,22 @@
       "source": "seed",
       "year_published": 1948,
       "page_count": 240
+    },
+    {
+      "title": "Taking the Fifth",
+      "year": 1987,
+      "isbn_13": "9783633413317",
+      "isbn_10": "3633413315",
+      "pages": 324,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
+      ],
+      "source": "seed"
     },
     {
       "title": "Tales from Earthsea",
@@ -74239,6 +77301,21 @@
       "source": "seed"
     },
     {
+      "title": "Terciel & Elinor",
+      "year": 2021,
+      "isbn_13": "9781645937869",
+      "isbn_10": "1645937860",
+      "pages": 432,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Garth Nix"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Term Limits",
       "year": 1997,
       "isbn_13": "9781004296569",
@@ -74332,6 +77409,21 @@
       "description": "",
       "authors": [
         "Carlos Fuentes"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Territorial Rights",
+      "year": 1979,
+      "isbn_13": "9784432004485",
+      "isbn_10": "4432004484",
+      "pages": 246,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
       ],
       "source": "seed"
     },
@@ -74663,6 +77755,21 @@
       "source": "seed",
       "year_published": 2010,
       "page_count": 304
+    },
+    {
+      "title": "The Abbess of Crewe",
+      "year": 1974,
+      "isbn_13": "9788337730968",
+      "isbn_10": "8337730961",
+      "pages": 116,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
+      ],
+      "source": "seed"
     },
     {
       "title": "The ABC Murders",
@@ -75223,6 +78330,22 @@
       "page_count": 199
     },
     {
+      "title": "The Algebra of Infinite Justice",
+      "year": 2002,
+      "isbn_13": "9784833326247",
+      "isbn_10": "4833326243",
+      "pages": 304,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Arundhati Roy"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Algebraist",
       "year": 2004,
       "isbn_13": "9780500343500",
@@ -75377,6 +78500,21 @@
       "language": "en",
       "authors": [
         "Robert Ludlum"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The American Clock",
+      "year": 1980,
+      "isbn_13": "9781300206897",
+      "isbn_10": "1300206895",
+      "pages": 96,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Arthur Miller"
       ],
       "source": "seed"
     },
@@ -75697,6 +78835,22 @@
       "source": "seed",
       "year_published": 1990,
       "page_count": 732
+    },
+    {
+      "title": "The Ants",
+      "year": 1990,
+      "isbn_13": "9786114306030",
+      "isbn_10": "611430603X",
+      "pages": 732,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Edward O. Wilson"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Anxious Generation",
@@ -76332,6 +79486,21 @@
       "page_count": 173
     },
     {
+      "title": "The Bachelors",
+      "year": 1960,
+      "isbn_13": "9785862502800",
+      "isbn_10": "5862502804",
+      "pages": 224,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Backyard Bird Chronicles",
       "authors": [
         "Amy Tan"
@@ -76411,6 +79580,21 @@
       "page_count": 64
     },
     {
+      "title": "The Ballad of Beta-2",
+      "year": 1965,
+      "isbn_13": "9784552550350",
+      "isbn_10": "4552550354",
+      "pages": 120,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Samuel R. Delany"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Ballad of Black Tom",
       "authors": [
         "Victor LaValle"
@@ -76424,6 +79608,21 @@
       "source": "seed",
       "year_published": 2016,
       "page_count": 149
+    },
+    {
+      "title": "The Ballad of Peckham Rye",
+      "year": 1960,
+      "isbn_13": "9781520352404",
+      "isbn_10": "1520352402",
+      "pages": 160,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Ballad of Songbirds and Snakes",
@@ -76486,6 +79685,37 @@
       "description": "",
       "authors": [
         "Brandon Sanderson"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Bane of the Black Sword",
+      "year": 1977,
+      "isbn_13": "9784053052094",
+      "isbn_10": "4053052099",
+      "pages": 190,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Michael Moorcock"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Bards of Bone Plain",
+      "year": 2010,
+      "isbn_13": "9783586591421",
+      "isbn_10": "3586591421",
+      "pages": 336,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patricia McKillip"
       ],
       "source": "seed"
     },
@@ -76680,6 +79910,22 @@
       "source": "seed"
     },
     {
+      "title": "The Bear and the Nightingale",
+      "year": 2017,
+      "isbn_13": "9781230487854",
+      "isbn_10": "1230487852",
+      "pages": 323,
+      "genres": [
+        "Fantasy",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Katherine Arden"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Bear and the Serpent",
       "year": 2017,
       "isbn_13": "9781334114366",
@@ -76850,6 +80096,21 @@
       "language": "en",
       "authors": [
         "Iris Murdoch"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Bell at Sealey Head",
+      "year": 2008,
+      "isbn_13": "9783634625535",
+      "isbn_10": "3634625533",
+      "pages": 262,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patricia McKillip"
       ],
       "source": "seed"
     },
@@ -77552,6 +80813,22 @@
       "source": "seed"
     },
     {
+      "title": "The Blind Miller",
+      "year": 1963,
+      "isbn_13": "9789193325251",
+      "isbn_10": "9193325253",
+      "pages": 288,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Blind Owl",
       "authors": [
         "Sadegh Hedayat"
@@ -78015,6 +81292,22 @@
       "source": "seed",
       "year_published": 2006,
       "page_count": 828
+    },
+    {
+      "title": "The Bones Beneath",
+      "year": 2014,
+      "isbn_13": "9780529020611",
+      "isbn_10": "0529020610",
+      "pages": 416,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Mark Billingham"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Bonesetter's Daughter",
@@ -78618,6 +81911,21 @@
       "source": "seed"
     },
     {
+      "title": "The Bridge",
+      "year": 1986,
+      "isbn_13": "9782429305621",
+      "isbn_10": "2429305628",
+      "pages": 288,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Iain Banks"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Bridges of Madison County",
       "authors": [
         "Robert James Waller"
@@ -78780,6 +82088,22 @@
       "source": "seed"
     },
     {
+      "title": "The Brothel in Rosenstrasse",
+      "year": 1982,
+      "isbn_13": "9785431715068",
+      "isbn_10": "5431715069",
+      "pages": 176,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Michael Moorcock"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Brothers Karamazov",
       "authors": [
         "Fyodor Dostoevsky"
@@ -78923,6 +82247,22 @@
       "page_count": 317
     },
     {
+      "title": "The Burning Girl",
+      "year": 2004,
+      "isbn_13": "9780744891485",
+      "isbn_10": "0744891486",
+      "pages": 400,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Mark Billingham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Burning God",
       "authors": [
         "R.F. Kuang"
@@ -79049,6 +82389,21 @@
       "language": "en",
       "authors": [
         "Faye Kellerman"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Business",
+      "year": 1999,
+      "isbn_13": "9782307053439",
+      "isbn_10": "2307053438",
+      "pages": 394,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Iain Banks"
       ],
       "source": "seed"
     },
@@ -80120,6 +83475,21 @@
       "source": "seed"
     },
     {
+      "title": "The Changeling Sea",
+      "year": 1988,
+      "isbn_13": "9788237856522",
+      "isbn_10": "8237856521",
+      "pages": 137,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patricia McKillip"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Character of Physical Law",
       "authors": [
         "Richard Feynman"
@@ -80897,6 +84267,22 @@
       "source": "seed"
     },
     {
+      "title": "The Cold Dish",
+      "year": 2005,
+      "isbn_13": "9782208172536",
+      "isbn_10": "220817253X",
+      "pages": 375,
+      "genres": [
+        "Mystery",
+        "Western"
+      ],
+      "language": "en",
+      "authors": [
+        "Craig Johnson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Cold Moon",
       "year": 2006,
       "isbn_13": "9788461615186",
@@ -81260,6 +84646,21 @@
       "source": "seed"
     },
     {
+      "title": "The Comforters",
+      "year": 1957,
+      "isbn_13": "9780082513735",
+      "isbn_10": "0082513739",
+      "pages": 256,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Coming of the Quantum Cats",
       "year": 1986,
       "isbn_13": "9781414195148",
@@ -81453,6 +84854,22 @@
       "source": "seed",
       "year_published": 1994,
       "page_count": 453
+    },
+    {
+      "title": "The Condition of Muzak",
+      "year": 1977,
+      "isbn_13": "9788782255443",
+      "isbn_10": "8782255441",
+      "pages": 335,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Michael Moorcock"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Confession",
@@ -81852,6 +85269,37 @@
       "source": "seed"
     },
     {
+      "title": "The Creation",
+      "year": 2006,
+      "isbn_13": "9780105672111",
+      "isbn_10": "0105672117",
+      "pages": 175,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Edward O. Wilson"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Creation of the World and Other Business",
+      "year": 1972,
+      "isbn_13": "9782604035695",
+      "isbn_10": "2604035698",
+      "pages": 128,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Arthur Miller"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Crippled God",
       "authors": [
         "Steven Erikson"
@@ -81960,6 +85408,21 @@
       "description": "",
       "authors": [
         "Michael Connelly"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Crow Road",
+      "year": 1992,
+      "isbn_13": "9788481301519",
+      "isbn_10": "8481301516",
+      "pages": 501,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Iain Banks"
       ],
       "source": "seed"
     },
@@ -82204,6 +85667,23 @@
       "source": "seed"
     },
     {
+      "title": "The Curse of the Kings",
+      "year": 1973,
+      "isbn_13": "9781728159058",
+      "isbn_10": "1728159052",
+      "pages": 382,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Cutting Edge",
       "year": 2018,
       "isbn_13": "9783444549854",
@@ -82250,6 +85730,21 @@
       "language": "pl",
       "authors": [
         "Stanisław Lem"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Cygnet and the Firebird",
+      "year": 1993,
+      "isbn_13": "9782034143038",
+      "isbn_10": "2034143036",
+      "pages": 246,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patricia McKillip"
       ],
       "source": "seed"
     },
@@ -82319,6 +85814,21 @@
       "source": "seed"
     },
     {
+      "title": "The Dark Flood Rises",
+      "year": 2016,
+      "isbn_13": "9782370404725",
+      "isbn_10": "2370404723",
+      "pages": 336,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Margaret Drabble"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Dark Forest",
       "authors": [
         "Liu Cixin"
@@ -82332,6 +85842,22 @@
       ],
       "language": "zh",
       "page_count": 512,
+      "source": "seed"
+    },
+    {
+      "title": "The Dark Horse",
+      "year": 2009,
+      "isbn_13": "9787249115139",
+      "isbn_10": "7249115133",
+      "pages": 318,
+      "genres": [
+        "Mystery",
+        "Western"
+      ],
+      "language": "en",
+      "authors": [
+        "Craig Johnson"
+      ],
       "source": "seed"
     },
     {
@@ -82875,6 +86401,23 @@
       "source": "seed"
     },
     {
+      "title": "The Demon Lover",
+      "year": 1982,
+      "isbn_13": "9784125413846",
+      "isbn_10": "4125413848",
+      "pages": 335,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Demon of Unrest",
       "year": 2024,
       "isbn_13": "9781145525245",
@@ -83034,6 +86577,23 @@
       "language": "en",
       "authors": [
         "Erik Larson"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Devil on Horseback",
+      "year": 1977,
+      "isbn_13": "9784743061320",
+      "isbn_10": "4743061325",
+      "pages": 360,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
       ],
       "source": "seed"
     },
@@ -83428,6 +86988,22 @@
       "source": "seed",
       "year_published": 1992,
       "page_count": 424
+    },
+    {
+      "title": "The Diversity of Life",
+      "year": 1992,
+      "isbn_13": "9782370832207",
+      "isbn_10": "2370832204",
+      "pages": 424,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Edward O. Wilson"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Divine Comedy",
@@ -83897,6 +87473,37 @@
       "source": "seed"
     },
     {
+      "title": "The Dreamthief's Daughter",
+      "year": 2001,
+      "isbn_13": "9784323214931",
+      "isbn_10": "4323214935",
+      "pages": 330,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Michael Moorcock"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Driver's Seat",
+      "year": 1970,
+      "isbn_13": "9780330722490",
+      "isbn_10": "0330722499",
+      "pages": 107,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Drop",
       "year": 2011,
       "isbn_13": "9781232220367",
@@ -84011,6 +87618,21 @@
       "page_count": 384
     },
     {
+      "title": "The Dumb Waiter",
+      "year": 1957,
+      "isbn_13": "9789004412248",
+      "isbn_10": "9004412244",
+      "pages": 48,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Harold Pinter"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Dunwich Horror",
       "authors": [
         "H.P. Lovecraft"
@@ -84057,6 +87679,22 @@
       "source": "seed"
     },
     {
+      "title": "The Dwelling Place",
+      "year": 1971,
+      "isbn_13": "9780815542520",
+      "isbn_10": "0815542525",
+      "pages": 352,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Dying Animal",
       "authors": [
         "Philip Roth"
@@ -84084,6 +87722,22 @@
       "language": "en",
       "authors": [
         "Jack Vance"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Dying Hours",
+      "year": 2013,
+      "isbn_13": "9786792730035",
+      "isbn_10": "6792730038",
+      "pages": 432,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Mark Billingham"
       ],
       "source": "seed"
     },
@@ -85528,6 +89182,22 @@
       "page_count": 979
     },
     {
+      "title": "The Fifteen Streets",
+      "year": 1952,
+      "isbn_13": "9787211518296",
+      "isbn_10": "7211518297",
+      "pages": 352,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Fifth Elephant",
       "authors": [
         "Terry Pratchett"
@@ -85817,6 +89487,21 @@
       "source": "seed"
     },
     {
+      "title": "The Finishing School",
+      "year": 2004,
+      "isbn_13": "9787152371943",
+      "isbn_10": "7152371945",
+      "pages": 181,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Fires of Heaven",
       "authors": [
         "Robert Jordan"
@@ -86006,6 +89691,23 @@
       "source": "seed",
       "year_published": 1994,
       "page_count": 563
+    },
+    {
+      "title": "The Fitzgeralds and the Kennedys",
+      "year": 1987,
+      "isbn_13": "9781142286255",
+      "isbn_10": "1142286253",
+      "pages": 932,
+      "genres": [
+        "Non-Fiction",
+        "Biography",
+        "History"
+      ],
+      "language": "en",
+      "authors": [
+        "Doris Kearns Goodwin"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Five Bells and Bladebone",
@@ -86388,6 +90090,21 @@
       "page_count": 416
     },
     {
+      "title": "The Forgotten Beasts of Eld",
+      "year": 1974,
+      "isbn_13": "9780100970984",
+      "isbn_10": "0100970989",
+      "pages": 217,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patricia McKillip"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Fort",
       "authors": [
         "Bernard Cornwell"
@@ -86402,6 +90119,22 @@
       "source": "seed",
       "year_published": 2010,
       "page_count": 464
+    },
+    {
+      "title": "The Fortress of the Pearl",
+      "year": 1989,
+      "isbn_13": "9786430870093",
+      "isbn_10": "6430870091",
+      "pages": 268,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Michael Moorcock"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Fortunate Traveller",
@@ -86611,6 +90344,21 @@
       "source": "seed"
     },
     {
+      "title": "The Freeze-Frame Revolution",
+      "year": 2018,
+      "isbn_13": "9780591512014",
+      "isbn_10": "0591512014",
+      "pages": 192,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Peter Watts"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The French Powder Mystery",
       "year": 1930,
       "isbn_13": "9782636052431",
@@ -86704,6 +90452,22 @@
       "source": "seed",
       "year_published": 2023,
       "page_count": 416
+    },
+    {
+      "title": "The Future of Life",
+      "year": 2002,
+      "isbn_13": "9781585554188",
+      "isbn_10": "1585554182",
+      "pages": 256,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Edward O. Wilson"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Future of the Mind",
@@ -86878,6 +90642,37 @@
       "source": "seed"
     },
     {
+      "title": "The Garment",
+      "year": 1962,
+      "isbn_13": "9788009994940",
+      "isbn_10": "8009994947",
+      "pages": 320,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Garrick Year",
+      "year": 1964,
+      "isbn_13": "9785677355004",
+      "isbn_10": "5677355008",
+      "pages": 208,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Margaret Drabble"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Gate",
       "year": 1910,
       "isbn_13": "9782242255219",
@@ -86952,6 +90747,21 @@
       "language": "en",
       "authors": [
         "Conn Iggulden"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Gates of Ivory",
+      "year": 1991,
+      "isbn_13": "9785065609092",
+      "isbn_10": "5065609093",
+      "pages": 480,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Margaret Drabble"
       ],
       "source": "seed"
     },
@@ -87337,6 +91147,22 @@
       "source": "seed"
     },
     {
+      "title": "The Girl",
+      "year": 1977,
+      "isbn_13": "9780515247251",
+      "isbn_10": "051524725X",
+      "pages": 352,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Girl in Room 105",
       "authors": [
         "Chetan Bhagat"
@@ -87367,6 +91193,22 @@
       "source": "seed",
       "year_published": 2015,
       "page_count": 416
+    },
+    {
+      "title": "The Girl in the Tower",
+      "year": 2018,
+      "isbn_13": "9787261032957",
+      "isbn_10": "7261032955",
+      "pages": 363,
+      "genres": [
+        "Fantasy",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Katherine Arden"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Girl in the Woods",
@@ -87558,6 +91400,21 @@
       "source": "seed",
       "year_published": 2012,
       "page_count": 472
+    },
+    {
+      "title": "The Girls of Slender Means",
+      "year": 1963,
+      "isbn_13": "9786638274211",
+      "isbn_10": "6638274211",
+      "pages": 176,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Given Day",
@@ -87756,6 +91613,22 @@
       "source": "seed"
     },
     {
+      "title": "The Glass Virgin",
+      "year": 1969,
+      "isbn_13": "9782276717301",
+      "isbn_10": "2276717300",
+      "pages": 416,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Goblin Emperor",
       "year": 2014,
       "isbn_13": "9781443860437",
@@ -87907,6 +91780,21 @@
       "language": "en",
       "authors": [
         "Richard Powers"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Gold Coast",
+      "year": 1988,
+      "isbn_13": "9783166240237",
+      "isbn_10": "3166240238",
+      "pages": 389,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
       ],
       "source": "seed"
     },
@@ -89557,6 +93445,21 @@
       "source": "seed"
     },
     {
+      "title": "The High Sierra",
+      "year": 2022,
+      "isbn_13": "9784285451115",
+      "isbn_10": "4285451116",
+      "pages": 560,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The High Window",
       "authors": [
         "Raymond Chandler"
@@ -89777,6 +93680,22 @@
       "language": "en",
       "authors": [
         "Dan Simmons"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Hollow Places",
+      "year": 2020,
+      "isbn_13": "9789406413805",
+      "isbn_10": "9406413802",
+      "pages": 336,
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "T. Kingfisher"
       ],
       "source": "seed"
     },
@@ -90004,6 +93923,21 @@
       "source": "seed"
     },
     {
+      "title": "The Hothouse by the East River",
+      "year": 1973,
+      "isbn_13": "9785850089818",
+      "isbn_10": "5850089810",
+      "pages": 140,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Hound of the Baskervilles",
       "authors": [
         "Arthur Conan Doyle"
@@ -90080,6 +94014,23 @@
       "language": "en",
       "authors": [
         "T.J. Klune"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The House of a Thousand Lanterns",
+      "year": 1974,
+      "isbn_13": "9782479131447",
+      "isbn_10": "2479131440",
+      "pages": 383,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
       ],
       "source": "seed"
     },
@@ -90595,6 +94546,21 @@
       "page_count": 677
     },
     {
+      "title": "The Ice Age",
+      "year": 1977,
+      "isbn_13": "9782640418285",
+      "isbn_10": "2640418282",
+      "pages": 320,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Margaret Drabble"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Ice Child",
       "year": 2013,
       "isbn_13": "9789201953407",
@@ -90623,6 +94589,22 @@
       "language": "sv",
       "authors": [
         "Camilla Läckberg"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Ice Schooner",
+      "year": 1969,
+      "isbn_13": "9788404000826",
+      "isbn_10": "8404000827",
+      "pages": 200,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Michael Moorcock"
       ],
       "source": "seed"
     },
@@ -91051,6 +95033,22 @@
       "page_count": 542
     },
     {
+      "title": "The Insect Societies",
+      "year": 1971,
+      "isbn_13": "9783426005750",
+      "isbn_10": "342600575X",
+      "pages": 548,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Edward O. Wilson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Institute",
       "authors": [
         "Stephen King"
@@ -91225,6 +95223,22 @@
       ],
       "language": "en",
       "page_count": 151,
+      "source": "seed"
+    },
+    {
+      "title": "The Invitation",
+      "year": 1970,
+      "isbn_13": "9783044862353",
+      "isbn_10": "3044862358",
+      "pages": 384,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
       "source": "seed"
     },
     {
@@ -91490,6 +95504,21 @@
       "source": "seed"
     },
     {
+      "title": "The Jewels of Aptor",
+      "year": 1962,
+      "isbn_13": "9780405301490",
+      "isbn_10": "0405301492",
+      "pages": 156,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Samuel R. Delany"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Johnstown Flood",
       "year": 1968,
       "isbn_13": "9781855709133",
@@ -91599,6 +95628,23 @@
       "language": "en",
       "authors": [
         "Robert B. Parker"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Judas Kiss",
+      "year": 1981,
+      "isbn_13": "9781123532234",
+      "isbn_10": "1123532230",
+      "pages": 382,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
       ],
       "source": "seed"
     },
@@ -91763,6 +95809,21 @@
       "page_count": 381
     },
     {
+      "title": "The Keys to the Kingdom: Mister Monday",
+      "year": 2003,
+      "isbn_13": "9784135270422",
+      "isbn_10": "4135270426",
+      "pages": 300,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Garth Nix"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Keys to the Street",
       "year": 1996,
       "isbn_13": "9781403384379",
@@ -91844,6 +95905,22 @@
       "source": "seed"
     },
     {
+      "title": "The Killing Habit",
+      "year": 2018,
+      "isbn_13": "9780178041920",
+      "isbn_10": "0178041920",
+      "pages": 416,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Mark Billingham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Killing Hour",
       "authors": [
         "Lisa Gardner"
@@ -91919,6 +95996,23 @@
       "language": "en",
       "authors": [
         "Ellery Queen"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The King of the Castle",
+      "year": 1967,
+      "isbn_13": "9786638944305",
+      "isbn_10": "6638944307",
+      "pages": 371,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
       ],
       "source": "seed"
     },
@@ -92304,6 +96398,23 @@
       "source": "seed"
     },
     {
+      "title": "The Landower Legacy",
+      "year": 1984,
+      "isbn_13": "9787307383319",
+      "isbn_10": "7307383317",
+      "pages": 384,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Landscapes Within",
       "year": 1981,
       "isbn_13": "9784434925450",
@@ -92511,6 +96622,22 @@
       "source": "seed",
       "year_published": 1995,
       "page_count": 410
+    },
+    {
+      "title": "The Last Dance",
+      "year": 2023,
+      "isbn_13": "9780312087029",
+      "isbn_10": "0312087020",
+      "pages": 416,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Mark Billingham"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Last Days of Ptolemy Grey",
@@ -92781,6 +96908,21 @@
       "source": "seed",
       "year_published": 2009,
       "page_count": 381
+    },
+    {
+      "title": "The Last Orphan",
+      "year": 2023,
+      "isbn_13": "9789607272591",
+      "isbn_10": "9607272596",
+      "pages": 416,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Gregg Hurwitz"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Last Patriot",
@@ -93150,6 +97292,21 @@
       "source": "seed"
     },
     {
+      "title": "The Left-Handed Booksellers of London",
+      "year": 2020,
+      "isbn_13": "9783031400254",
+      "isbn_10": "3031400252",
+      "pages": 400,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Garth Nix"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Legacy",
       "year": 1992,
       "isbn_13": "9787329991912",
@@ -93180,6 +97337,23 @@
       "source": "seed",
       "year_published": 1995,
       "page_count": 216
+    },
+    {
+      "title": "The Legend of the Seventh Virgin",
+      "year": 1965,
+      "isbn_13": "9783275591251",
+      "isbn_10": "3275591253",
+      "pages": 383,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Leopard",
@@ -93990,6 +98164,22 @@
       "source": "seed"
     },
     {
+      "title": "The Long Corridor",
+      "year": 1965,
+      "isbn_13": "9780205707294",
+      "isbn_10": "0205707294",
+      "pages": 320,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Long Dark Tea-Time of the Soul",
       "year": 1988,
       "isbn_13": "9783463737102",
@@ -94147,6 +98337,22 @@
       "page_count": 399
     },
     {
+      "title": "The Longmire Defense",
+      "year": 2023,
+      "isbn_13": "9784101101606",
+      "isbn_10": "4101101607",
+      "pages": 320,
+      "genres": [
+        "Mystery",
+        "Western"
+      ],
+      "language": "en",
+      "authors": [
+        "Craig Johnson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Looking Glass War",
       "year": 1965,
       "isbn_13": "9785125720026",
@@ -94159,6 +98365,22 @@
       "language": "en",
       "authors": [
         "John le Carré"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Lord and Mary Ann",
+      "year": 1956,
+      "isbn_13": "9788314131269",
+      "isbn_10": "831413126X",
+      "pages": 256,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
       ],
       "source": "seed"
     },
@@ -94387,6 +98609,22 @@
       "language": "en",
       "authors": [
         "Ali Hazelwood"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Love of a Good Woman",
+      "year": 1998,
+      "isbn_13": "9784339105612",
+      "isbn_10": "4339105612",
+      "pages": 339,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Alice Munro"
       ],
       "source": "seed"
     },
@@ -94770,6 +99008,54 @@
       "page_count": 530
     },
     {
+      "title": "The Mallen Girl",
+      "year": 1973,
+      "isbn_13": "9787765279445",
+      "isbn_10": "7765279440",
+      "pages": 352,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Mallen Litter",
+      "year": 1974,
+      "isbn_13": "9782605056965",
+      "isbn_10": "260505696X",
+      "pages": 352,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Mallen Streak",
+      "year": 1973,
+      "isbn_13": "9782121237268",
+      "isbn_10": "2121237264",
+      "pages": 320,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Maltese Falcon",
       "authors": [
         "Dashiell Hammett"
@@ -95111,6 +99397,21 @@
       "page_count": 184
     },
     {
+      "title": "The Mandelbaum Gate",
+      "year": 1965,
+      "isbn_13": "9781446185537",
+      "isbn_10": "1446185539",
+      "pages": 369,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Mansion",
       "year": 1959,
       "isbn_13": "9783489301059",
@@ -95302,6 +99603,23 @@
       ],
       "language": "en",
       "page_count": 222,
+      "source": "seed"
+    },
+    {
+      "title": "The Mask of the Enchantress",
+      "year": 1980,
+      "isbn_13": "9787098052395",
+      "isbn_10": "7098052395",
+      "pages": 384,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
+      ],
       "source": "seed"
     },
     {
@@ -95595,6 +99913,22 @@
       "source": "seed"
     },
     {
+      "title": "The Meaning of Human Existence",
+      "year": 2014,
+      "isbn_13": "9780562255353",
+      "isbn_10": "0562255357",
+      "pages": 207,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Edward O. Wilson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Meaning of It All",
       "authors": [
         "Richard P. Feynman"
@@ -95705,6 +100039,21 @@
       "page_count": 448
     },
     {
+      "title": "The Memory of Whiteness",
+      "year": 1985,
+      "isbn_13": "9780478140279",
+      "isbn_10": "0478140277",
+      "pages": 351,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Memory Police",
       "authors": [
         "Yoko Ogawa"
@@ -95734,6 +100083,22 @@
       "description": "",
       "authors": [
         "Yōko Ogawa"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Menagerie",
+      "year": 1958,
+      "isbn_13": "9780439501323",
+      "isbn_10": "0439501325",
+      "pages": 352,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
       ],
       "source": "seed"
     },
@@ -95852,6 +100217,21 @@
       "source": "seed"
     },
     {
+      "title": "The Middle Ground",
+      "year": 1980,
+      "isbn_13": "9784536499521",
+      "isbn_10": "4536499520",
+      "pages": 288,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Margaret Drabble"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Midnight Library",
       "year": 2020,
       "isbn_13": "9785351573397",
@@ -95899,6 +100279,21 @@
       "source": "seed"
     },
     {
+      "title": "The Milk Train Doesn't Stop Here Anymore",
+      "year": 1963,
+      "isbn_13": "9780358403128",
+      "isbn_10": "0358403121",
+      "pages": 119,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Tennessee Williams"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Mill on the Floss",
       "authors": [
         "George Eliot"
@@ -95913,6 +100308,21 @@
       "source": "seed",
       "year_published": 1860,
       "page_count": 548
+    },
+    {
+      "title": "The Millstone",
+      "year": 1965,
+      "isbn_13": "9786330113115",
+      "isbn_10": "6330113117",
+      "pages": 192,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Margaret Drabble"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Mime Order",
@@ -95976,6 +100386,21 @@
       "source": "seed",
       "year_published": 2016,
       "page_count": 320
+    },
+    {
+      "title": "The Ministry for the Future",
+      "year": 2020,
+      "isbn_13": "9788674114452",
+      "isbn_10": "8674114453",
+      "pages": 563,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Ministry of Fear",
@@ -96247,6 +100672,22 @@
       "source": "seed"
     },
     {
+      "title": "The Moons of Jupiter",
+      "year": 1982,
+      "isbn_13": "9784093203906",
+      "isbn_10": "4093203908",
+      "pages": 233,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Alice Munro"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Moonstone",
       "authors": [
         "Wilkie Collins"
@@ -96374,6 +100815,21 @@
       "page_count": 275
     },
     {
+      "title": "The Motion of Light in Water",
+      "year": 1988,
+      "isbn_13": "9785442480320",
+      "isbn_10": "5442480320",
+      "pages": 544,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Samuel R. Delany"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Motorcycle Diaries",
       "authors": [
         "Che Guevara"
@@ -96467,6 +100923,22 @@
       "source": "seed",
       "year_published": 1930,
       "page_count": 288
+    },
+    {
+      "title": "The Murder Book",
+      "year": 2022,
+      "isbn_13": "9780175534463",
+      "isbn_10": "0175534469",
+      "pages": 416,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Mark Billingham"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Murder of Roger Ackroyd",
@@ -97013,6 +101485,21 @@
       "source": "seed"
     },
     {
+      "title": "The Needle's Eye",
+      "year": 1972,
+      "isbn_13": "9785215328002",
+      "isbn_10": "5215328006",
+      "pages": 384,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Margaret Drabble"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Negotiator",
       "year": 1989,
       "isbn_13": "9788020319111",
@@ -97236,6 +101723,22 @@
       "source": "seed"
     },
     {
+      "title": "The Nice Bloke",
+      "year": 1969,
+      "isbn_13": "9788583245483",
+      "isbn_10": "8583245484",
+      "pages": 384,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Nick Adams Stories",
       "year": 1972,
       "isbn_13": "9781291215014",
@@ -97347,6 +101850,21 @@
       "language": "en",
       "authors": [
         "John le Carré"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Night of the Iguana",
+      "year": 1961,
+      "isbn_13": "9782108741122",
+      "isbn_10": "2108741124",
+      "pages": 128,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Tennessee Williams"
       ],
       "source": "seed"
     },
@@ -97477,6 +101995,21 @@
       "source": "seed",
       "year_published": 1996,
       "page_count": 214
+    },
+    {
+      "title": "The Nowhere Man",
+      "year": 2017,
+      "isbn_13": "9780099598695",
+      "isbn_10": "0099598693",
+      "pages": 384,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Gregg Hurwitz"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Number of the Beast",
@@ -97965,6 +102498,21 @@
       "source": "seed",
       "year_published": 2020,
       "page_count": 300
+    },
+    {
+      "title": "The Only Problem",
+      "year": 1984,
+      "isbn_13": "9787228159536",
+      "isbn_10": "7228159536",
+      "pages": 179,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Only Story",
@@ -98943,6 +103491,21 @@
       "page_count": 384
     },
     {
+      "title": "The Peppered Moth",
+      "year": 2000,
+      "isbn_13": "9789125193729",
+      "isbn_10": "9125193727",
+      "pages": 384,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Margaret Drabble"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Peregrine",
       "authors": [
         "J.A. Baker"
@@ -99881,6 +104444,21 @@
       "page_count": 259
     },
     {
+      "title": "The Price",
+      "year": 1968,
+      "isbn_13": "9783151710837",
+      "isbn_10": "3151710839",
+      "pages": 116,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Arthur Miller"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Pride of Chanur",
       "year": 1981,
       "isbn_13": "9781300382317",
@@ -99893,6 +104471,38 @@
       "language": "en",
       "authors": [
         "C.J. Cherryh"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Pride of the Peacock",
+      "year": 1976,
+      "isbn_13": "9782377180561",
+      "isbn_10": "2377180565",
+      "pages": 397,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Prime of Miss Jean Brodie",
+      "year": 1961,
+      "isbn_13": "9787222660014",
+      "isbn_10": "722266001X",
+      "pages": 128,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
       ],
       "source": "seed"
     },
@@ -100141,6 +104751,22 @@
       "page_count": 263
     },
     {
+      "title": "The Progress of Love",
+      "year": 1986,
+      "isbn_13": "9788034253302",
+      "isbn_10": "8034253303",
+      "pages": 309,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Alice Munro"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Prometheus Deception",
       "year": 2000,
       "isbn_13": "9782388557253",
@@ -100249,6 +104875,21 @@
       "page_count": 310
     },
     {
+      "title": "The Public Image",
+      "year": 1968,
+      "isbn_13": "9788214438185",
+      "isbn_10": "8214438184",
+      "pages": 128,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Puppet Masters",
       "authors": [
         "Robert A. Heinlein"
@@ -100264,6 +104905,21 @@
       "page_count": 219
     },
     {
+      "title": "The Pure Gold Baby",
+      "year": 2013,
+      "isbn_13": "9783971217509",
+      "isbn_10": "3971217503",
+      "pages": 304,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Margaret Drabble"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Purity of Vengeance",
       "year": 2010,
       "isbn_13": "9781120549389",
@@ -100276,6 +104932,21 @@
       "language": "da",
       "authors": [
         "Jussi Adler-Olsen"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Quarry",
+      "year": 2013,
+      "isbn_13": "9787024424128",
+      "isbn_10": "7024424126",
+      "pages": 339,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Iain Banks"
       ],
       "source": "seed"
     },
@@ -100311,6 +104982,23 @@
       "source": "seed",
       "year_published": 1988,
       "page_count": 448
+    },
+    {
+      "title": "The Queen's Confession",
+      "year": 1968,
+      "isbn_13": "9784208014649",
+      "isbn_10": "4208014647",
+      "pages": 448,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Queen's Fool",
@@ -100423,6 +105111,21 @@
       "description": "",
       "authors": [
         "John Grisham"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Radiant Way",
+      "year": 1987,
+      "isbn_13": "9783785022238",
+      "isbn_10": "3785022232",
+      "pages": 400,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Margaret Drabble"
       ],
       "source": "seed"
     },
@@ -100682,6 +105385,21 @@
       "source": "seed"
     },
     {
+      "title": "The Realms of Gold",
+      "year": 1975,
+      "isbn_13": "9789060412510",
+      "isbn_10": "9060412515",
+      "pages": 384,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Margaret Drabble"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Rebel",
       "authors": [
         "Albert Camus"
@@ -100839,6 +105557,21 @@
       "language": "en",
       "authors": [
         "Philippa Gregory"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Red Queen",
+      "year": 2004,
+      "isbn_13": "9781895910810",
+      "isbn_10": "189591081X",
+      "pages": 288,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Margaret Drabble"
       ],
       "source": "seed"
     },
@@ -101263,6 +105996,22 @@
       "page_count": 403
     },
     {
+      "title": "The Revenge of the Rose",
+      "year": 1991,
+      "isbn_13": "9785063836421",
+      "isbn_10": "5063836422",
+      "pages": 226,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Michael Moorcock"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Reversal",
       "authors": [
         "Michael Connelly"
@@ -101324,6 +106073,36 @@
       "source": "seed",
       "year_published": 1903,
       "page_count": 342
+    },
+    {
+      "title": "The Riddle-Master of Hed",
+      "year": 1976,
+      "isbn_13": "9789242806533",
+      "isbn_10": "9242806535",
+      "pages": 228,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patricia McKillip"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Ride Down Mt. Morgan",
+      "year": 1991,
+      "isbn_13": "9781061415361",
+      "isbn_10": "1061415363",
+      "pages": 108,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Arthur Miller"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Riders",
@@ -101757,6 +106536,23 @@
       "page_count": 295
     },
     {
+      "title": "The Road to Paradise Island",
+      "year": 1985,
+      "isbn_13": "9786456402247",
+      "isbn_10": "6456402244",
+      "pages": 384,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Road to Reality",
       "authors": [
         "Roger Penrose"
@@ -101928,6 +106724,21 @@
       "page_count": 353
     },
     {
+      "title": "The Rose Tattoo",
+      "year": 1951,
+      "isbn_13": "9785174404342",
+      "isbn_10": "5174404342",
+      "pages": 138,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Tennessee Williams"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Rosie Project",
       "authors": [
         "Graeme Simsion"
@@ -101956,6 +106767,22 @@
       "description": "",
       "authors": [
         "Louise Erdrich"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Round Tower",
+      "year": 1968,
+      "isbn_13": "9785343006278",
+      "isbn_10": "5343006279",
+      "pages": 448,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
       ],
       "source": "seed"
     },
@@ -102144,6 +106971,22 @@
       "language": "en",
       "authors": [
         "Joyce Carol Oates"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Sailor on the Seas of Fate",
+      "year": 1976,
+      "isbn_13": "9783473321773",
+      "isbn_10": "3473321771",
+      "pages": 192,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Michael Moorcock"
       ],
       "source": "seed"
     },
@@ -102579,6 +107422,21 @@
       "page_count": 286
     },
     {
+      "title": "The Sea Lady",
+      "year": 2006,
+      "isbn_13": "9780801844362",
+      "isbn_10": "0801844368",
+      "pages": 352,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Margaret Drabble"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Sea of Adventure",
       "year": 1948,
       "isbn_13": "9789253361755",
@@ -102980,6 +107838,23 @@
       "source": "seed"
     },
     {
+      "title": "The Secret Woman",
+      "year": 1970,
+      "isbn_13": "9781715021214",
+      "isbn_10": "1715021216",
+      "pages": 307,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Secrets She Keeps",
       "year": 2017,
       "isbn_13": "9780354462433",
@@ -103055,6 +107930,22 @@
       "language": "en",
       "authors": [
         "Julian Barnes"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Sense of Style",
+      "year": 2014,
+      "isbn_13": "9786123189204",
+      "isbn_10": "6123189207",
+      "pages": 359,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Steven Pinker"
       ],
       "source": "seed"
     },
@@ -103186,6 +108077,21 @@
       "source": "seed"
     },
     {
+      "title": "The Seven Sisters",
+      "year": 2002,
+      "isbn_13": "9784770022158",
+      "isbn_10": "4770022153",
+      "pages": 310,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Margaret Drabble"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Seventh Day",
       "year": 2013,
       "isbn_13": "9781534232518",
@@ -103295,6 +108201,23 @@
       "language": "da",
       "authors": [
         "Jussi Adler-Olsen"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Shadow of the Lynx",
+      "year": 1971,
+      "isbn_13": "9781993443210",
+      "isbn_10": "1993443216",
+      "pages": 381,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
       ],
       "source": "seed"
     },
@@ -103648,6 +108571,23 @@
       "language": "en",
       "authors": [
         "Enid Blyton"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Shivering Sands",
+      "year": 1969,
+      "isbn_13": "9782442331546",
+      "isbn_10": "2442331548",
+      "pages": 352,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
       ],
       "source": "seed"
     },
@@ -104006,6 +108946,23 @@
       "page_count": 636
     },
     {
+      "title": "The Silk Vendetta",
+      "year": 1987,
+      "isbn_13": "9781083013262",
+      "isbn_10": "1083013269",
+      "pages": 384,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Silkworm",
       "authors": [
         "Robert Galbraith"
@@ -104275,6 +109232,22 @@
       "source": "seed"
     },
     {
+      "title": "The Skrayling Tree",
+      "year": 2003,
+      "isbn_13": "9780395848104",
+      "isbn_10": "0395848106",
+      "pages": 288,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Michael Moorcock"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Skull Beneath the Skin",
       "year": 1982,
       "isbn_13": "9782604448549",
@@ -104304,6 +109277,22 @@
       "description": "",
       "authors": [
         "Jeffery Deaver"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Sleeping Sorceress",
+      "year": 1971,
+      "isbn_13": "9783312604203",
+      "isbn_10": "3312604205",
+      "pages": 144,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Michael Moorcock"
       ],
       "source": "seed"
     },
@@ -104450,6 +109439,22 @@
       "source": "seed",
       "year_published": 2011,
       "page_count": 424
+    },
+    {
+      "title": "The Social Conquest of Earth",
+      "year": 2012,
+      "isbn_13": "9782591212932",
+      "isbn_10": "2591212934",
+      "pages": 330,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Edward O. Wilson"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Social Contract",
@@ -104625,6 +109630,21 @@
       "language": "en",
       "authors": [
         "Gene Wolfe"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Sorceress and the Cygnet",
+      "year": 1991,
+      "isbn_13": "9788004233624",
+      "isbn_10": "8004233624",
+      "pages": 236,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patricia McKillip"
       ],
       "source": "seed"
     },
@@ -104959,6 +109979,23 @@
       "source": "seed"
     },
     {
+      "title": "The Spring of the Tiger",
+      "year": 1979,
+      "isbn_13": "9788900205367",
+      "isbn_10": "8900205365",
+      "pages": 390,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Spy",
       "authors": [
         "Paulo Coelho"
@@ -105260,6 +110297,21 @@
       "description": "",
       "authors": [
         "Jeffery Deaver"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Steep Approach to Garbadale",
+      "year": 2007,
+      "isbn_13": "9784225141229",
+      "isbn_10": "4225141226",
+      "pages": 392,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Iain Banks"
       ],
       "source": "seed"
     },
@@ -105747,6 +110799,22 @@
       "page_count": 264
     },
     {
+      "title": "The Stuff of Thought",
+      "year": 2007,
+      "isbn_13": "9784393671047",
+      "isbn_10": "4393671041",
+      "pages": 499,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Steven Pinker"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Subtle Art of Not Giving a F*ck",
       "year": 2016,
       "isbn_13": "9785120445061",
@@ -106176,6 +111244,21 @@
       "language": "en",
       "authors": [
         "John le Carré"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Takeover",
+      "year": 1976,
+      "isbn_13": "9782251828497",
+      "isbn_10": "2251828497",
+      "pages": 266,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Muriel Spark"
       ],
       "source": "seed"
     },
@@ -107163,6 +112246,22 @@
       "page_count": 369
     },
     {
+      "title": "The Tide of Life",
+      "year": 1976,
+      "isbn_13": "9784236695254",
+      "isbn_10": "423669525X",
+      "pages": 416,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Tiger and the Wolf",
       "year": 2016,
       "isbn_13": "9785535751795",
@@ -107255,6 +112354,23 @@
       "description": "",
       "authors": [
         "Mario Vargas Llosa"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Time of the Hunter's Moon",
+      "year": 1983,
+      "isbn_13": "9781120654502",
+      "isbn_10": "1120654506",
+      "pages": 384,
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Victoria Holt"
       ],
       "source": "seed"
     },
@@ -107414,6 +112530,36 @@
       "source": "seed",
       "year_published": 1928,
       "page_count": 104
+    },
+    {
+      "title": "The Tower at Stony Wood",
+      "year": 2000,
+      "isbn_13": "9785581585153",
+      "isbn_10": "5581585155",
+      "pages": 273,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patricia McKillip"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Towers of Toron",
+      "year": 1964,
+      "isbn_13": "9785611103234",
+      "isbn_10": "5611103236",
+      "pages": 140,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Samuel R. Delany"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Town",
@@ -107811,6 +112957,22 @@
       "source": "seed"
     },
     {
+      "title": "The Twisted Ones",
+      "year": 2019,
+      "isbn_13": "9781340300197",
+      "isbn_10": "1340300199",
+      "pages": 385,
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "T. Kingfisher"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Twits",
       "year": 1980,
       "isbn_13": "9784061130418",
@@ -107872,6 +113034,22 @@
       "language": "en",
       "authors": [
         "Zane Grey"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Unbaited Trap",
+      "year": 1966,
+      "isbn_13": "9783792939031",
+      "isbn_10": "3792939034",
+      "pages": 320,
+      "genres": [
+        "Romance",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Catherine Cookson"
       ],
       "source": "seed"
     },
@@ -108469,6 +113647,22 @@
       "source": "seed"
     },
     {
+      "title": "The View from Castle Rock",
+      "year": 2006,
+      "isbn_13": "9782431228093",
+      "isbn_10": "2431228095",
+      "pages": 349,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Alice Munro"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The View from the Cheap Seats",
       "authors": [
         "Neil Gaiman"
@@ -108812,6 +114006,22 @@
       "source": "seed"
     },
     {
+      "title": "The War Amongst the Angels",
+      "year": 1996,
+      "isbn_13": "9787742232289",
+      "isbn_10": "7742232285",
+      "pages": 329,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Michael Moorcock"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The War of Art",
       "authors": [
         "Steven Pressfield"
@@ -108878,6 +114088,39 @@
       "source": "seed"
     },
     {
+      "title": "The Warburgs",
+      "year": 1993,
+      "isbn_13": "9781092338233",
+      "isbn_10": "1092338238",
+      "pages": 820,
+      "genres": [
+        "Non-Fiction",
+        "Biography",
+        "History"
+      ],
+      "language": "en",
+      "authors": [
+        "Ron Chernow"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Warhound and the World's Pain",
+      "year": 1981,
+      "isbn_13": "9781564311474",
+      "isbn_10": "1564311478",
+      "pages": 248,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Michael Moorcock"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Warmth of Other Suns",
       "authors": [
         "Isabel Wilkerson"
@@ -108907,6 +114150,21 @@
       "language": "en",
       "authors": [
         "Lois McMaster Bujold"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Wasp Factory",
+      "year": 1984,
+      "isbn_13": "9782148119738",
+      "isbn_10": "2148119734",
+      "pages": 184,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Iain Banks"
       ],
       "source": "seed"
     },
@@ -109001,6 +114259,21 @@
       "language": "en",
       "authors": [
         "John Irving"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Waterfall",
+      "year": 1969,
+      "isbn_13": "9784628167253",
+      "isbn_10": "4628167254",
+      "pages": 256,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Margaret Drabble"
       ],
       "source": "seed"
     },
@@ -109148,6 +114421,22 @@
       "page_count": 271
     },
     {
+      "title": "The Weird of the White Wolf",
+      "year": 1977,
+      "isbn_13": "9785659385609",
+      "isbn_10": "5659385606",
+      "pages": 199,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Michael Moorcock"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Well of Ascension",
       "authors": [
         "Brandon Sanderson"
@@ -109175,6 +114464,22 @@
       "language": "en",
       "authors": [
         "Clifford D. Simak"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Western Star",
+      "year": 2017,
+      "isbn_13": "9783208565748",
+      "isbn_10": "3208565744",
+      "pages": 320,
+      "genres": [
+        "Mystery",
+        "Western"
+      ],
+      "language": "en",
+      "authors": [
+        "Craig Johnson"
       ],
       "source": "seed"
     },
@@ -109421,6 +114726,22 @@
       "source": "seed"
     },
     {
+      "title": "The White Wolf's Son",
+      "year": 2005,
+      "isbn_13": "9788442525343",
+      "isbn_10": "8442525348",
+      "pages": 352,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Michael Moorcock"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Whole Truth",
       "authors": [
         "David Baldacci"
@@ -109562,6 +114883,21 @@
       "source": "seed",
       "year_published": 2007,
       "page_count": 340
+    },
+    {
+      "title": "The Wild Shore",
+      "year": 1984,
+      "isbn_13": "9782593115385",
+      "isbn_10": "2593115385",
+      "pages": 365,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Will to Power",
@@ -109787,6 +115123,22 @@
       "page_count": 311
     },
     {
+      "title": "The Winter of the Witch",
+      "year": 2019,
+      "isbn_13": "9784686667177",
+      "isbn_10": "4686667173",
+      "pages": 371,
+      "genres": [
+        "Fantasy",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Katherine Arden"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Wire in the Blood",
       "year": 1997,
       "isbn_13": "9785836191276",
@@ -109894,6 +115246,21 @@
       "language": "en",
       "authors": [
         "Tana French"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Witch of Exmoor",
+      "year": 1996,
+      "isbn_13": "9782096342356",
+      "isbn_10": "2096342351",
+      "pages": 288,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Margaret Drabble"
       ],
       "source": "seed"
     },
@@ -110642,6 +116009,21 @@
       "source": "seed"
     },
     {
+      "title": "The Years of Rice and Salt",
+      "year": 2002,
+      "isbn_13": "9784663523939",
+      "isbn_10": "4663523936",
+      "pages": 763,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kim Stanley Robinson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Years of the City",
       "year": 1984,
       "isbn_13": "9781245017473",
@@ -110813,6 +116195,22 @@
       ],
       "language": "en",
       "page_count": 219,
+      "source": "seed"
+    },
+    {
+      "title": "Their Little Secret",
+      "year": 2019,
+      "isbn_13": "9789441688039",
+      "isbn_10": "9441688034",
+      "pages": 416,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Mark Billingham"
+      ],
       "source": "seed"
     },
     {
@@ -111405,6 +116803,22 @@
       "page_count": 496
     },
     {
+      "title": "Thornhedge",
+      "year": 2023,
+      "isbn_13": "9782548263321",
+      "isbn_10": "2548263320",
+      "pages": 119,
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "T. Kingfisher"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Those in Peril",
       "year": 2011,
       "isbn_13": "9788997335558",
@@ -111737,6 +117151,21 @@
       "source": "seed"
     },
     {
+      "title": "Through the Valley of the Nest of Spiders",
+      "year": 2012,
+      "isbn_13": "9781325274567",
+      "isbn_10": "1325274562",
+      "pages": 804,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Samuel R. Delany"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Throy",
       "year": 1992,
       "isbn_13": "9784951110605",
@@ -112007,6 +117436,22 @@
       "source": "seed"
     },
     {
+      "title": "Time of Death",
+      "year": 2015,
+      "isbn_13": "9787822211227",
+      "isbn_10": "7822211225",
+      "pages": 432,
+      "genres": [
+        "Crime Fiction",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "Mark Billingham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Time Out of Joint",
       "authors": [
         "Philip K. Dick"
@@ -112195,6 +117640,23 @@
       ],
       "language": "en",
       "description": "",
+      "authors": [
+        "Ron Chernow"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Titan: The Life of John D. Rockefeller, Sr.",
+      "year": 1998,
+      "isbn_13": "9782270125522",
+      "isbn_10": "2270125526",
+      "pages": 774,
+      "genres": [
+        "Non-Fiction",
+        "Biography",
+        "History"
+      ],
+      "language": "en",
       "authors": [
         "Ron Chernow"
       ],
@@ -112570,6 +118032,22 @@
       "source": "seed"
     },
     {
+      "title": "Tombstone Courage",
+      "year": 1994,
+      "isbn_13": "9785736134359",
+      "isbn_10": "5736134354",
+      "pages": 340,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Tomie",
       "authors": [
         "Junji Ito"
@@ -112757,6 +118235,22 @@
       "language": "en",
       "authors": [
         "Rex Stout"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Too Much Happiness",
+      "year": 2009,
+      "isbn_13": "9781434203557",
+      "isbn_10": "1434203554",
+      "pages": 303,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Alice Munro"
       ],
       "source": "seed"
     },
@@ -113193,6 +118687,21 @@
       "page_count": 260
     },
     {
+      "title": "Transition",
+      "year": 2009,
+      "isbn_13": "9780279020206",
+      "isbn_10": "027902020X",
+      "pages": 437,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Iain Banks"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Translation State",
       "authors": [
         "Ann Leckie"
@@ -113415,6 +118924,22 @@
       "source": "seed"
     },
     {
+      "title": "Trial by Fury",
+      "year": 1986,
+      "isbn_13": "9780422122511",
+      "isbn_10": "0422122518",
+      "pages": 308,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Trial by Silence",
       "year": 2019,
       "isbn_13": "9781513513706",
@@ -113570,6 +119095,21 @@
       "language": "en",
       "authors": [
         "Laurence Sterne"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Triton",
+      "year": 1976,
+      "isbn_13": "9789212046471",
+      "isbn_10": "9212046472",
+      "pages": 369,
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Samuel R. Delany"
       ],
       "source": "seed"
     },
@@ -115345,6 +120885,22 @@
       "source": "seed"
     },
     {
+      "title": "Until Proven Guilty",
+      "year": 1985,
+      "isbn_13": "9786608424004",
+      "isbn_10": "6608424000",
+      "pages": 341,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Until the End of Time",
       "authors": [
         "Brian Greene"
@@ -116101,6 +121657,21 @@
       "source": "seed"
     },
     {
+      "title": "Vieux Carré",
+      "year": 1977,
+      "isbn_13": "9785452249344",
+      "isbn_10": "5452249345",
+      "pages": 116,
+      "genres": [
+        "Drama"
+      ],
+      "language": "en",
+      "authors": [
+        "Tennessee Williams"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Vile Bodies",
       "year": 1930,
       "isbn_13": "9781401286132",
@@ -116554,6 +122125,23 @@
       "page_count": 784
     },
     {
+      "title": "Wait Till Next Year",
+      "year": 1997,
+      "isbn_13": "9783621766524",
+      "isbn_10": "3621766522",
+      "pages": 261,
+      "genres": [
+        "Non-Fiction",
+        "Biography",
+        "History"
+      ],
+      "language": "en",
+      "authors": [
+        "Doris Kearns Goodwin"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Waiting",
       "year": 1999,
       "isbn_13": "9782356460295",
@@ -116711,6 +122299,21 @@
       "language": "en",
       "authors": [
         "Walter Mosley"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Walking on Glass",
+      "year": 1985,
+      "isbn_13": "9788031443591",
+      "isbn_10": "8031443592",
+      "pages": 230,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Iain Banks"
       ],
       "source": "seed"
     },
@@ -117194,6 +122797,23 @@
       "source": "seed"
     },
     {
+      "title": "Washington",
+      "year": 2010,
+      "isbn_13": "9784531310562",
+      "isbn_10": "4531310561",
+      "pages": 904,
+      "genres": [
+        "Non-Fiction",
+        "Biography",
+        "History"
+      ],
+      "language": "en",
+      "authors": [
+        "Ron Chernow"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Washington: A Life",
       "year": 2010,
       "isbn_13": "9785463311276",
@@ -117288,6 +122908,22 @@
       "language": "zh",
       "authors": [
         "Shi Nai'an"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Watt",
+      "year": 1953,
+      "isbn_13": "9780443535048",
+      "isbn_10": "0443535048",
+      "pages": 255,
+      "genres": [
+        "Drama",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Samuel Beckett"
       ],
       "source": "seed"
     },
@@ -117911,6 +123547,22 @@
       "language": "en",
       "authors": [
         "Karl Marlantes"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "What Moves the Dead",
+      "year": 2022,
+      "isbn_13": "9782011573636",
+      "isbn_10": "2011573634",
+      "pages": 176,
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "T. Kingfisher"
       ],
       "source": "seed"
     },
@@ -118563,6 +124215,21 @@
       "page_count": 496
     },
     {
+      "title": "Whit",
+      "year": 1995,
+      "isbn_13": "9784646252313",
+      "isbn_10": "4646252314",
+      "pages": 451,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Iain Banks"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "White Butterfly",
       "year": 1992,
       "isbn_13": "9783844230536",
@@ -118766,6 +124433,22 @@
       "language": "en",
       "authors": [
         "Maeve Binchy"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Who Do You Think You Are?",
+      "year": 1978,
+      "isbn_13": "9784935330838",
+      "isbn_10": "4935330831",
+      "pages": 223,
+      "genres": [
+        "Literary Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Alice Munro"
       ],
       "source": "seed"
     },
@@ -119459,6 +125142,21 @@
       "source": "seed"
     },
     {
+      "title": "Winter Rose",
+      "year": 1996,
+      "isbn_13": "9789975889032",
+      "isbn_10": "9975889037",
+      "pages": 266,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Patricia McKillip"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Winter Solstice",
       "year": 2000,
       "isbn_13": "9783860437605",
@@ -119655,6 +125353,22 @@
       "language": "en",
       "authors": [
         "Joyce Carol Oates"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Without Due Process",
+      "year": 1992,
+      "isbn_13": "9783160531614",
+      "isbn_10": "3160531612",
+      "pages": 336,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "J.A. Jance"
       ],
       "source": "seed"
     },
@@ -119992,6 +125706,22 @@
       "source": "seed"
     },
     {
+      "title": "Words and Rules",
+      "year": 1999,
+      "isbn_13": "9780950317953",
+      "isbn_10": "0950317950",
+      "pages": 348,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Steven Pinker"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Words of Radiance",
       "authors": [
         "Brandon Sanderson"
@@ -120120,6 +125850,22 @@
       "source": "seed",
       "year_published": 2011,
       "page_count": 245
+    },
+    {
+      "title": "Worstward Ho",
+      "year": 1983,
+      "isbn_13": "9787869030935",
+      "isbn_10": "7869030934",
+      "pages": 47,
+      "genres": [
+        "Drama",
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Samuel Beckett"
+      ],
+      "source": "seed"
     },
     {
       "title": "Worth Dying For",

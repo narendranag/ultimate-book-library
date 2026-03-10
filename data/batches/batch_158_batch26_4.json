@@ -1,0 +1,884 @@
+[
+  {
+    "title": "Sweet Bird of Youth",
+    "author": "Tennessee Williams",
+    "year": 1959,
+    "isbn_13": "9782163381080",
+    "isbn_10": "2163381080",
+    "pages": 114,
+    "genres": [
+      "Drama"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Night of the Iguana",
+    "author": "Tennessee Williams",
+    "year": 1961,
+    "isbn_13": "9782108741122",
+    "isbn_10": "2108741124",
+    "pages": 128,
+    "genres": [
+      "Drama"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Milk Train Doesn't Stop Here Anymore",
+    "author": "Tennessee Williams",
+    "year": 1963,
+    "isbn_13": "9780358403128",
+    "isbn_10": "0358403121",
+    "pages": 119,
+    "genres": [
+      "Drama"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Small Craft Warnings",
+    "author": "Tennessee Williams",
+    "year": 1972,
+    "isbn_13": "9784789113953",
+    "isbn_10": "4789113954",
+    "pages": 116,
+    "genres": [
+      "Drama"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Vieux Carr\u00e9",
+    "author": "Tennessee Williams",
+    "year": 1977,
+    "isbn_13": "9785452249344",
+    "isbn_10": "5452249345",
+    "pages": 116,
+    "genres": [
+      "Drama"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "After the Fall",
+    "author": "Arthur Miller",
+    "year": 1964,
+    "isbn_13": "9782259672566",
+    "isbn_10": "2259672565",
+    "pages": 113,
+    "genres": [
+      "Drama"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Incident at Vichy",
+    "author": "Arthur Miller",
+    "year": 1964,
+    "isbn_13": "9785812300364",
+    "isbn_10": "5812300367",
+    "pages": 70,
+    "genres": [
+      "Drama"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Price",
+    "author": "Arthur Miller",
+    "year": 1968,
+    "isbn_13": "9783151710837",
+    "isbn_10": "3151710839",
+    "pages": 116,
+    "genres": [
+      "Drama"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Creation of the World and Other Business",
+    "author": "Arthur Miller",
+    "year": 1972,
+    "isbn_13": "9782604035695",
+    "isbn_10": "2604035698",
+    "pages": 128,
+    "genres": [
+      "Drama"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The American Clock",
+    "author": "Arthur Miller",
+    "year": 1980,
+    "isbn_13": "9781300206897",
+    "isbn_10": "1300206895",
+    "pages": 96,
+    "genres": [
+      "Drama"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Ride Down Mt. Morgan",
+    "author": "Arthur Miller",
+    "year": 1991,
+    "isbn_13": "9781061415361",
+    "isbn_10": "1061415363",
+    "pages": 108,
+    "genres": [
+      "Drama"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Broken Glass",
+    "author": "Arthur Miller",
+    "year": 1994,
+    "isbn_13": "9783809054993",
+    "isbn_10": "3809054999",
+    "pages": 77,
+    "genres": [
+      "Drama"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Mr. Peters' Connections",
+    "author": "Arthur Miller",
+    "year": 1998,
+    "isbn_13": "9785927094004",
+    "isbn_10": "5927094004",
+    "pages": 80,
+    "genres": [
+      "Drama"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Resurrection Blues",
+    "author": "Arthur Miller",
+    "year": 2002,
+    "isbn_13": "9787555958611",
+    "isbn_10": "7555958612",
+    "pages": 96,
+    "genres": [
+      "Drama"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Finishing the Picture",
+    "author": "Arthur Miller",
+    "year": 2004,
+    "isbn_13": "9786055255282",
+    "isbn_10": "6055255285",
+    "pages": 72,
+    "genres": [
+      "Drama"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Kate Hannigan",
+    "author": "Catherine Cookson",
+    "year": 1950,
+    "isbn_13": "9783330704053",
+    "isbn_10": "3330704056",
+    "pages": 320,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Fifteen Streets",
+    "author": "Catherine Cookson",
+    "year": 1952,
+    "isbn_13": "9787211518296",
+    "isbn_10": "7211518297",
+    "pages": 352,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Colour Blind",
+    "author": "Catherine Cookson",
+    "year": 1953,
+    "isbn_13": "9784698642513",
+    "isbn_10": "4698642516",
+    "pages": 384,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Grand Man",
+    "author": "Catherine Cookson",
+    "year": 1954,
+    "isbn_13": "9780166087800",
+    "isbn_10": "0166087804",
+    "pages": 320,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Lord and Mary Ann",
+    "author": "Catherine Cookson",
+    "year": 1956,
+    "isbn_13": "9788314131269",
+    "isbn_10": "831413126X",
+    "pages": 256,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Rooney",
+    "author": "Catherine Cookson",
+    "year": 1957,
+    "isbn_13": "9781451873580",
+    "isbn_10": "145187358X",
+    "pages": 288,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Menagerie",
+    "author": "Catherine Cookson",
+    "year": 1958,
+    "isbn_13": "9780439501323",
+    "isbn_10": "0439501325",
+    "pages": 352,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Slinky Jane",
+    "author": "Catherine Cookson",
+    "year": 1959,
+    "isbn_13": "9784445230307",
+    "isbn_10": "4445230303",
+    "pages": 288,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Fanny McBride",
+    "author": "Catherine Cookson",
+    "year": 1959,
+    "isbn_13": "9789138224120",
+    "isbn_10": "9138224124",
+    "pages": 352,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Fenwick Houses",
+    "author": "Catherine Cookson",
+    "year": 1960,
+    "isbn_13": "9780404530457",
+    "isbn_10": "040453045X",
+    "pages": 320,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Garment",
+    "author": "Catherine Cookson",
+    "year": 1962,
+    "isbn_13": "9788009994940",
+    "isbn_10": "8009994947",
+    "pages": 320,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Blind Miller",
+    "author": "Catherine Cookson",
+    "year": 1963,
+    "isbn_13": "9789193325251",
+    "isbn_10": "9193325253",
+    "pages": 288,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Hannah Massey",
+    "author": "Catherine Cookson",
+    "year": 1964,
+    "isbn_13": "9780183598358",
+    "isbn_10": "0183598350",
+    "pages": 288,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Long Corridor",
+    "author": "Catherine Cookson",
+    "year": 1965,
+    "isbn_13": "9780205707294",
+    "isbn_10": "0205707294",
+    "pages": 320,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Unbaited Trap",
+    "author": "Catherine Cookson",
+    "year": 1966,
+    "isbn_13": "9783792939031",
+    "isbn_10": "3792939034",
+    "pages": 320,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Katie Mulholland",
+    "author": "Catherine Cookson",
+    "year": 1967,
+    "isbn_13": "9788109420547",
+    "isbn_10": "8109420540",
+    "pages": 416,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Round Tower",
+    "author": "Catherine Cookson",
+    "year": 1968,
+    "isbn_13": "9785343006278",
+    "isbn_10": "5343006279",
+    "pages": 448,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Nice Bloke",
+    "author": "Catherine Cookson",
+    "year": 1969,
+    "isbn_13": "9788583245483",
+    "isbn_10": "8583245484",
+    "pages": 384,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Glass Virgin",
+    "author": "Catherine Cookson",
+    "year": 1969,
+    "isbn_13": "9782276717301",
+    "isbn_10": "2276717300",
+    "pages": 416,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Invitation",
+    "author": "Catherine Cookson",
+    "year": 1970,
+    "isbn_13": "9783044862353",
+    "isbn_10": "3044862358",
+    "pages": 384,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Dwelling Place",
+    "author": "Catherine Cookson",
+    "year": 1971,
+    "isbn_13": "9780815542520",
+    "isbn_10": "0815542525",
+    "pages": 352,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Mallen Streak",
+    "author": "Catherine Cookson",
+    "year": 1973,
+    "isbn_13": "9782121237268",
+    "isbn_10": "2121237264",
+    "pages": 320,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Mallen Girl",
+    "author": "Catherine Cookson",
+    "year": 1973,
+    "isbn_13": "9787765279445",
+    "isbn_10": "7765279440",
+    "pages": 352,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Mallen Litter",
+    "author": "Catherine Cookson",
+    "year": 1974,
+    "isbn_13": "9782605056965",
+    "isbn_10": "260505696X",
+    "pages": 352,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Tide of Life",
+    "author": "Catherine Cookson",
+    "year": 1976,
+    "isbn_13": "9784236695254",
+    "isbn_10": "423669525X",
+    "pages": 416,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Girl",
+    "author": "Catherine Cookson",
+    "year": 1977,
+    "isbn_13": "9780515247251",
+    "isbn_10": "051524725X",
+    "pages": 352,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Mistress of Mellyn",
+    "author": "Victoria Holt",
+    "year": 1960,
+    "isbn_13": "9784341436339",
+    "isbn_10": "4341436338",
+    "pages": 338,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Kirkland Revels",
+    "author": "Victoria Holt",
+    "year": 1962,
+    "isbn_13": "9784270661321",
+    "isbn_10": "427066132X",
+    "pages": 372,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bride of Pendorric",
+    "author": "Victoria Holt",
+    "year": 1963,
+    "isbn_13": "9785550395875",
+    "isbn_10": "5550395873",
+    "pages": 320,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Legend of the Seventh Virgin",
+    "author": "Victoria Holt",
+    "year": 1965,
+    "isbn_13": "9783275591251",
+    "isbn_10": "3275591253",
+    "pages": 383,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Menfreya in the Morning",
+    "author": "Victoria Holt",
+    "year": 1966,
+    "isbn_13": "9787063738460",
+    "isbn_10": "706373846X",
+    "pages": 340,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The King of the Castle",
+    "author": "Victoria Holt",
+    "year": 1967,
+    "isbn_13": "9786638944305",
+    "isbn_10": "6638944307",
+    "pages": 371,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Queen's Confession",
+    "author": "Victoria Holt",
+    "year": 1968,
+    "isbn_13": "9784208014649",
+    "isbn_10": "4208014647",
+    "pages": 448,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Shivering Sands",
+    "author": "Victoria Holt",
+    "year": 1969,
+    "isbn_13": "9782442331546",
+    "isbn_10": "2442331548",
+    "pages": 352,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Secret Woman",
+    "author": "Victoria Holt",
+    "year": 1970,
+    "isbn_13": "9781715021214",
+    "isbn_10": "1715021216",
+    "pages": 307,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Shadow of the Lynx",
+    "author": "Victoria Holt",
+    "year": 1971,
+    "isbn_13": "9781993443210",
+    "isbn_10": "1993443216",
+    "pages": 381,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "On the Night of the Seventh Moon",
+    "author": "Victoria Holt",
+    "year": 1972,
+    "isbn_13": "9785321186664",
+    "isbn_10": "5321186662",
+    "pages": 340,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Curse of the Kings",
+    "author": "Victoria Holt",
+    "year": 1973,
+    "isbn_13": "9781728159058",
+    "isbn_10": "1728159052",
+    "pages": 382,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The House of a Thousand Lanterns",
+    "author": "Victoria Holt",
+    "year": 1974,
+    "isbn_13": "9782479131447",
+    "isbn_10": "2479131440",
+    "pages": 383,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Lord of the Far Island",
+    "author": "Victoria Holt",
+    "year": 1975,
+    "isbn_13": "9783504557812",
+    "isbn_10": "3504557813",
+    "pages": 383,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Pride of the Peacock",
+    "author": "Victoria Holt",
+    "year": 1976,
+    "isbn_13": "9782377180561",
+    "isbn_10": "2377180565",
+    "pages": 397,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Devil on Horseback",
+    "author": "Victoria Holt",
+    "year": 1977,
+    "isbn_13": "9784743061320",
+    "isbn_10": "4743061325",
+    "pages": 360,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "My Enemy the Queen",
+    "author": "Victoria Holt",
+    "year": 1978,
+    "isbn_13": "9785871905678",
+    "isbn_10": "5871905675",
+    "pages": 337,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Spring of the Tiger",
+    "author": "Victoria Holt",
+    "year": 1979,
+    "isbn_13": "9788900205367",
+    "isbn_10": "8900205365",
+    "pages": 390,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Mask of the Enchantress",
+    "author": "Victoria Holt",
+    "year": 1980,
+    "isbn_13": "9787098052395",
+    "isbn_10": "7098052395",
+    "pages": 384,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Judas Kiss",
+    "author": "Victoria Holt",
+    "year": 1981,
+    "isbn_13": "9781123532234",
+    "isbn_10": "1123532230",
+    "pages": 382,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Demon Lover",
+    "author": "Victoria Holt",
+    "year": 1982,
+    "isbn_13": "9784125413846",
+    "isbn_10": "4125413848",
+    "pages": 335,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Time of the Hunter's Moon",
+    "author": "Victoria Holt",
+    "year": 1983,
+    "isbn_13": "9781120654502",
+    "isbn_10": "1120654506",
+    "pages": 384,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Landower Legacy",
+    "author": "Victoria Holt",
+    "year": 1984,
+    "isbn_13": "9787307383319",
+    "isbn_10": "7307383317",
+    "pages": 384,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Road to Paradise Island",
+    "author": "Victoria Holt",
+    "year": 1985,
+    "isbn_13": "9786456402247",
+    "isbn_10": "6456402244",
+    "pages": 384,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Secret for a Nightingale",
+    "author": "Victoria Holt",
+    "year": 1986,
+    "isbn_13": "9789420843626",
+    "isbn_10": "9420843622",
+    "pages": 374,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Silk Vendetta",
+    "author": "Victoria Holt",
+    "year": 1987,
+    "isbn_13": "9781083013262",
+    "isbn_10": "1083013269",
+    "pages": 384,
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  }
+]
