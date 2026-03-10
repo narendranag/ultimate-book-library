@@ -1,0 +1,1007 @@
+[
+  {
+    "title": "Everything I Never Told You",
+    "author": "Celeste Ng",
+    "year": 2014,
+    "isbn_13": "9786033532145",
+    "isbn_10": "6033532144",
+    "pages": 292,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Little Fires Everywhere",
+    "author": "Celeste Ng",
+    "year": 2017,
+    "isbn_13": "9785527307351",
+    "isbn_10": "5527307355",
+    "pages": 338,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Our Missing Hearts",
+    "author": "Celeste Ng",
+    "year": 2022,
+    "isbn_13": "9785244106497",
+    "isbn_10": "5244106491",
+    "pages": 336,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Dead Fathers Club",
+    "author": "Matt Haig",
+    "year": 2006,
+    "isbn_13": "9787883425175",
+    "isbn_10": "7883425171",
+    "pages": 327,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Possession of Mr Cave",
+    "author": "Matt Haig",
+    "year": 2008,
+    "isbn_13": "9786614375543",
+    "isbn_10": "6614375544",
+    "pages": 244,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Radleys",
+    "author": "Matt Haig",
+    "year": 2010,
+    "isbn_13": "9787459500251",
+    "isbn_10": "7459500252",
+    "pages": 326,
+    "genres": [
+      "Literary Fiction",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Humans",
+    "author": "Matt Haig",
+    "year": 2013,
+    "isbn_13": "9783145382361",
+    "isbn_10": "3145382366",
+    "pages": 305,
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "How to Stop Time",
+    "author": "Matt Haig",
+    "year": 2017,
+    "isbn_13": "9780564595242",
+    "isbn_10": "056459524X",
+    "pages": 326,
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "year": 2020,
+    "isbn_13": "9785351573397",
+    "isbn_10": "5351573398",
+    "pages": 288,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Life Impossible",
+    "author": "Matt Haig",
+    "year": 2024,
+    "isbn_13": "9786615466110",
+    "isbn_10": "6615466119",
+    "pages": 384,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Reasons to Stay Alive",
+    "author": "Matt Haig",
+    "year": 2015,
+    "isbn_13": "9783248007505",
+    "isbn_10": "3248007503",
+    "pages": 264,
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Notes on a Nervous Planet",
+    "author": "Matt Haig",
+    "year": 2018,
+    "isbn_13": "9785265551535",
+    "isbn_10": "5265551530",
+    "pages": 310,
+    "genres": [
+      "Literary Fiction",
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Comfort Book",
+    "author": "Matt Haig",
+    "year": 2021,
+    "isbn_13": "9781327323294",
+    "isbn_10": "1327323291",
+    "pages": 272,
+    "genres": [
+      "Literary Fiction",
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Man Called Ove",
+    "author": "Fredrik Backman",
+    "year": 2012,
+    "isbn_13": "9780189765242",
+    "isbn_10": "0189765240",
+    "pages": 337,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "My Grandmother Asked Me to Tell You She's Sorry",
+    "author": "Fredrik Backman",
+    "year": 2013,
+    "isbn_13": "9784406122122",
+    "isbn_10": "4406122126",
+    "pages": 372,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Britt-Marie Was Here",
+    "author": "Fredrik Backman",
+    "year": 2014,
+    "isbn_13": "9780117032156",
+    "isbn_10": "0117032153",
+    "pages": 324,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Beartown",
+    "author": "Fredrik Backman",
+    "year": 2016,
+    "isbn_13": "9787385110074",
+    "isbn_10": "7385110071",
+    "pages": 418,
+    "genres": [
+      "Literary Fiction",
+      "Humor",
+      "Sports"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Us Against You",
+    "author": "Fredrik Backman",
+    "year": 2017,
+    "isbn_13": "9789899580510",
+    "isbn_10": "989958051X",
+    "pages": 432,
+    "genres": [
+      "Literary Fiction",
+      "Humor",
+      "Sports"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Anxious People",
+    "author": "Fredrik Backman",
+    "year": 2019,
+    "isbn_13": "9789442054857",
+    "isbn_10": "9442054855",
+    "pages": 341,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Winners",
+    "author": "Fredrik Backman",
+    "year": 2022,
+    "isbn_13": "9787891811137",
+    "isbn_10": "7891811131",
+    "pages": 672,
+    "genres": [
+      "Literary Fiction",
+      "Humor",
+      "Sports"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Deal of a Lifetime",
+    "author": "Fredrik Backman",
+    "year": 2017,
+    "isbn_13": "9780162232945",
+    "isbn_10": "0162232949",
+    "pages": 64,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "And Every Morning the Way Home Gets Longer and Longer",
+    "author": "Fredrik Backman",
+    "year": 2015,
+    "isbn_13": "9784920933914",
+    "isbn_10": "4920933915",
+    "pages": 96,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "year": 2018,
+    "isbn_13": "9786349521475",
+    "isbn_10": "634952147X",
+    "pages": 368,
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Vicious",
+    "author": "V.E. Schwab",
+    "year": 2013,
+    "isbn_13": "9782506222520",
+    "isbn_10": "2506222522",
+    "pages": 364,
+    "genres": [
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Vengeful",
+    "author": "V.E. Schwab",
+    "year": 2018,
+    "isbn_13": "9784571637773",
+    "isbn_10": "4571637779",
+    "pages": 400,
+    "genres": [
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Darker Shade of Magic",
+    "author": "V.E. Schwab",
+    "year": 2015,
+    "isbn_13": "9780109285133",
+    "isbn_10": "010928513X",
+    "pages": 400,
+    "genres": [
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Gathering of Shadows",
+    "author": "V.E. Schwab",
+    "year": 2016,
+    "isbn_13": "9784232754092",
+    "isbn_10": "423275409X",
+    "pages": 512,
+    "genres": [
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Conjuring of Light",
+    "author": "V.E. Schwab",
+    "year": 2017,
+    "isbn_13": "9789250240831",
+    "isbn_10": "9250240831",
+    "pages": 624,
+    "genres": [
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Invisible Life of Addie LaRue",
+    "author": "V.E. Schwab",
+    "year": 2020,
+    "isbn_13": "9781501646720",
+    "isbn_10": "1501646722",
+    "pages": 444,
+    "genres": [
+      "Fantasy",
+      "Science Fiction",
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Gallant",
+    "author": "V.E. Schwab",
+    "year": 2022,
+    "isbn_13": "9785287277314",
+    "isbn_10": "5287277313",
+    "pages": 352,
+    "genres": [
+      "Fantasy",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Fragile Threads of Power",
+    "author": "V.E. Schwab",
+    "year": 2023,
+    "isbn_13": "9785532465237",
+    "isbn_10": "553246523X",
+    "pages": 576,
+    "genres": [
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "year": 2011,
+    "isbn_13": "9788912432126",
+    "isbn_10": "8912432126",
+    "pages": 352,
+    "genres": [
+      "Literary Fiction",
+      "Fantasy",
+      "Historical Fiction",
+      "Mythology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "year": 2018,
+    "isbn_13": "9781341705021",
+    "isbn_10": "134170502X",
+    "pages": 393,
+    "genres": [
+      "Literary Fiction",
+      "Fantasy",
+      "Historical Fiction",
+      "Mythology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "year": 2011,
+    "isbn_13": "9786542621491",
+    "isbn_10": "6542621490",
+    "pages": 387,
+    "genres": [
+      "Fantasy",
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Starless Sea",
+    "author": "Erin Morgenstern",
+    "year": 2019,
+    "isbn_13": "9783974596113",
+    "isbn_10": "3974596112",
+    "pages": 498,
+    "genres": [
+      "Fantasy",
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "His Majesty's Dragon",
+    "author": "Naomi Novik",
+    "year": 2006,
+    "isbn_13": "9781991235626",
+    "isbn_10": "1991235628",
+    "pages": 353,
+    "genres": [
+      "Fantasy",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Throne of Jade",
+    "author": "Naomi Novik",
+    "year": 2006,
+    "isbn_13": "9787826543096",
+    "isbn_10": "7826543095",
+    "pages": 398,
+    "genres": [
+      "Fantasy",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Black Powder War",
+    "author": "Naomi Novik",
+    "year": 2006,
+    "isbn_13": "9781573722162",
+    "isbn_10": "1573722169",
+    "pages": 365,
+    "genres": [
+      "Fantasy",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Empire of Ivory",
+    "author": "Naomi Novik",
+    "year": 2007,
+    "isbn_13": "9782557421170",
+    "isbn_10": "2557421170",
+    "pages": 404,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Victory of Eagles",
+    "author": "Naomi Novik",
+    "year": 2008,
+    "isbn_13": "9783353775252",
+    "isbn_10": "3353775250",
+    "pages": 352,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Tongues of Serpents",
+    "author": "Naomi Novik",
+    "year": 2010,
+    "isbn_13": "9782100712007",
+    "isbn_10": "2100712007",
+    "pages": 361,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Crucible of Gold",
+    "author": "Naomi Novik",
+    "year": 2012,
+    "isbn_13": "9780533006847",
+    "isbn_10": "0533006843",
+    "pages": 300,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Blood of Tyrants",
+    "author": "Naomi Novik",
+    "year": 2013,
+    "isbn_13": "9788285156858",
+    "isbn_10": "8285156850",
+    "pages": 364,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "League of Dragons",
+    "author": "Naomi Novik",
+    "year": 2016,
+    "isbn_13": "9784204155315",
+    "isbn_10": "4204155315",
+    "pages": 384,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Uprooted",
+    "author": "Naomi Novik",
+    "year": 2015,
+    "isbn_13": "9783193842299",
+    "isbn_10": "3193842291",
+    "pages": 435,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Spinning Silver",
+    "author": "Naomi Novik",
+    "year": 2018,
+    "isbn_13": "9785294360511",
+    "isbn_10": "5294360512",
+    "pages": 466,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Deadly Education",
+    "author": "Naomi Novik",
+    "year": 2020,
+    "isbn_13": "9784185097222",
+    "isbn_10": "4185097220",
+    "pages": 336,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Last Graduate",
+    "author": "Naomi Novik",
+    "year": 2021,
+    "isbn_13": "9780059334318",
+    "isbn_10": "0059334319",
+    "pages": 388,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Golden Enclaves",
+    "author": "Naomi Novik",
+    "year": 2022,
+    "isbn_13": "9782713235993",
+    "isbn_10": "2713235996",
+    "pages": 404,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The House in the Cerulean Sea",
+    "author": "T.J. Klune",
+    "year": 2020,
+    "isbn_13": "9780042742250",
+    "isbn_10": "0042742250",
+    "pages": 398,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Under the Whispering Door",
+    "author": "T.J. Klune",
+    "year": 2021,
+    "isbn_13": "9780410121571",
+    "isbn_10": "0410121575",
+    "pages": 352,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "In the Lives of Puppets",
+    "author": "T.J. Klune",
+    "year": 2023,
+    "isbn_13": "9785459305623",
+    "isbn_10": "5459305627",
+    "pages": 432,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Somewhere Beyond the Sea",
+    "author": "T.J. Klune",
+    "year": 2024,
+    "isbn_13": "9785540157469",
+    "isbn_10": "5540157461",
+    "pages": 400,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Poppy War",
+    "author": "R.F. Kuang",
+    "year": 2018,
+    "isbn_13": "9781554728534",
+    "isbn_10": "1554728538",
+    "pages": 527,
+    "genres": [
+      "Fantasy",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Dragon Republic",
+    "author": "R.F. Kuang",
+    "year": 2019,
+    "isbn_13": "9782255871277",
+    "isbn_10": "2255871270",
+    "pages": 658,
+    "genres": [
+      "Fantasy",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Burning God",
+    "author": "R.F. Kuang",
+    "year": 2020,
+    "isbn_13": "9783722913315",
+    "isbn_10": "3722913317",
+    "pages": 622,
+    "genres": [
+      "Fantasy",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Babel",
+    "author": "R.F. Kuang",
+    "year": 2022,
+    "isbn_13": "9783822529959",
+    "isbn_10": "3822529953",
+    "pages": 560,
+    "genres": [
+      "Fantasy",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Yellowface",
+    "author": "R.F. Kuang",
+    "year": 2023,
+    "isbn_13": "9785254326359",
+    "isbn_10": "5254326359",
+    "pages": 323,
+    "genres": [
+      "Fantasy",
+      "Historical Fiction",
+      "Literary Fiction",
+      "Satire"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Legends & Lattes",
+    "author": "Travis Baldree",
+    "year": 2022,
+    "isbn_13": "9783342305842",
+    "isbn_10": "3342305848",
+    "pages": 296,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bookshops & Bonedust",
+    "author": "Travis Baldree",
+    "year": 2023,
+    "isbn_13": "9787219706633",
+    "isbn_10": "7219706637",
+    "pages": 352,
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Throne of Glass",
+    "author": "Sarah J. Maas",
+    "year": 2012,
+    "isbn_13": "9781530571314",
+    "isbn_10": "1530571315",
+    "pages": 404,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Crown of Midnight",
+    "author": "Sarah J. Maas",
+    "year": 2013,
+    "isbn_13": "9788003183333",
+    "isbn_10": "8003183339",
+    "pages": 418,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Heir of Fire",
+    "author": "Sarah J. Maas",
+    "year": 2014,
+    "isbn_13": "9783252223502",
+    "isbn_10": "3252223508",
+    "pages": 565,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Queen of Shadows",
+    "author": "Sarah J. Maas",
+    "year": 2015,
+    "isbn_13": "9781137333513",
+    "isbn_10": "1137333510",
+    "pages": 645,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Empire of Storms",
+    "author": "Sarah J. Maas",
+    "year": 2016,
+    "isbn_13": "9782143212205",
+    "isbn_10": "2143212203",
+    "pages": 693,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Tower of Dawn",
+    "author": "Sarah J. Maas",
+    "year": 2017,
+    "isbn_13": "9783922304753",
+    "isbn_10": "3922304758",
+    "pages": 660,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Kingdom of Ash",
+    "author": "Sarah J. Maas",
+    "year": 2018,
+    "isbn_13": "9784000809696",
+    "isbn_10": "4000809696",
+    "pages": 980,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Court of Thorns and Roses",
+    "author": "Sarah J. Maas",
+    "year": 2015,
+    "isbn_13": "9780521826556",
+    "isbn_10": "052182655X",
+    "pages": 419,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Court of Mist and Fury",
+    "author": "Sarah J. Maas",
+    "year": 2016,
+    "isbn_13": "9780414047402",
+    "isbn_10": "0414047400",
+    "pages": 624,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Court of Wings and Ruin",
+    "author": "Sarah J. Maas",
+    "year": 2017,
+    "isbn_13": "9782123007029",
+    "isbn_10": "212300702X",
+    "pages": 699,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Court of Frost and Starlight",
+    "author": "Sarah J. Maas",
+    "year": 2018,
+    "isbn_13": "9784311420009",
+    "isbn_10": "4311420006",
+    "pages": 229,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Court of Silver Flames",
+    "author": "Sarah J. Maas",
+    "year": 2021,
+    "isbn_13": "9781342930422",
+    "isbn_10": "1342930423",
+    "pages": 757,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "House of Earth and Blood",
+    "author": "Sarah J. Maas",
+    "year": 2020,
+    "isbn_13": "9781277337242",
+    "isbn_10": "127733724X",
+    "pages": 803,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "House of Sky and Breath",
+    "author": "Sarah J. Maas",
+    "year": 2022,
+    "isbn_13": "9785542412429",
+    "isbn_10": "5542412427",
+    "pages": 768,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "House of Flame and Shadow",
+    "author": "Sarah J. Maas",
+    "year": 2024,
+    "isbn_13": "9780991722532",
+    "isbn_10": "099172253X",
+    "pages": 821,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Fourth Wing",
+    "author": "Rebecca Yarros",
+    "year": 2023,
+    "isbn_13": "9786255462022",
+    "isbn_10": "625546202X",
+    "pages": 498,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Iron Flame",
+    "author": "Rebecca Yarros",
+    "year": 2023,
+    "isbn_13": "9782717127140",
+    "isbn_10": "2717127148",
+    "pages": 623,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Onyx Storm",
+    "author": "Rebecca Yarros",
+    "year": 2025,
+    "isbn_13": "9789404202258",
+    "isbn_10": "9404202253",
+    "pages": 550,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  }
+]
