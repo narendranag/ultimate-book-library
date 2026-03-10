@@ -1,0 +1,349 @@
+[
+  {
+    "title": "Started Early, Took My Dog",
+    "author": "Kate Atkinson",
+    "year": 2010,
+    "isbn_13": "9786241405965",
+    "isbn_10": "6241405962",
+    "pages": 371,
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Life After Life",
+    "author": "Kate Atkinson",
+    "year": 2013,
+    "isbn_13": "9783212894612",
+    "isbn_10": "3212894611",
+    "pages": 529,
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A God in Ruins",
+    "author": "Kate Atkinson",
+    "year": 2015,
+    "isbn_13": "9780282040475",
+    "isbn_10": "028204047X",
+    "pages": 400,
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Transcription",
+    "author": "Kate Atkinson",
+    "year": 2018,
+    "isbn_13": "9782423654435",
+    "isbn_10": "2423654431",
+    "pages": 352,
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Big Sky",
+    "author": "Kate Atkinson",
+    "year": 2019,
+    "isbn_13": "9781528604949",
+    "isbn_10": "1528604945",
+    "pages": 400,
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Shrines of Gaiety",
+    "author": "Kate Atkinson",
+    "year": 2022,
+    "isbn_13": "9785126567095",
+    "isbn_10": "5126567093",
+    "pages": 432,
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Normal Rules Don't Apply",
+    "author": "Kate Atkinson",
+    "year": 2023,
+    "isbn_13": "9786632326718",
+    "isbn_10": "6632326717",
+    "pages": 192,
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Picturegoers",
+    "author": "David Lodge",
+    "year": 1960,
+    "isbn_13": "9780854880737",
+    "isbn_10": "0854880732",
+    "pages": 256,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ginger, You're Barmy",
+    "author": "David Lodge",
+    "year": 1962,
+    "isbn_13": "9781582579320",
+    "isbn_10": "1582579325",
+    "pages": 224,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The British Museum Is Falling Down",
+    "author": "David Lodge",
+    "year": 1965,
+    "isbn_13": "9781481273046",
+    "isbn_10": "1481273048",
+    "pages": 192,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Out of the Shelter",
+    "author": "David Lodge",
+    "year": 1970,
+    "isbn_13": "9787542110237",
+    "isbn_10": "7542110238",
+    "pages": 288,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Changing Places",
+    "author": "David Lodge",
+    "year": 1975,
+    "isbn_13": "9782531802254",
+    "isbn_10": "2531802253",
+    "pages": 251,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "How Far Can You Go?",
+    "author": "David Lodge",
+    "year": 1980,
+    "isbn_13": "9787071870930",
+    "isbn_10": "7071870937",
+    "pages": 244,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Small World",
+    "author": "David Lodge",
+    "year": 1984,
+    "isbn_13": "9789036617123",
+    "isbn_10": "9036617121",
+    "pages": 339,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Nice Work",
+    "author": "David Lodge",
+    "year": 1988,
+    "isbn_13": "9787635737655",
+    "isbn_10": "763573765X",
+    "pages": 277,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Paradise News",
+    "author": "David Lodge",
+    "year": 1991,
+    "isbn_13": "9787608459744",
+    "isbn_10": "7608459748",
+    "pages": 293,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Therapy",
+    "author": "David Lodge",
+    "year": 1995,
+    "isbn_13": "9781814506148",
+    "isbn_10": "1814506147",
+    "pages": 321,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Home Truths",
+    "author": "David Lodge",
+    "year": 1999,
+    "isbn_13": "9782601378207",
+    "isbn_10": "2601378207",
+    "pages": 344,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Thinks...",
+    "author": "David Lodge",
+    "year": 2001,
+    "isbn_13": "9784835993003",
+    "isbn_10": "4835993007",
+    "pages": 341,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Author, Author",
+    "author": "David Lodge",
+    "year": 2004,
+    "isbn_13": "9783691122688",
+    "isbn_10": "3691122681",
+    "pages": 389,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Deaf Sentence",
+    "author": "David Lodge",
+    "year": 2008,
+    "isbn_13": "9782502821307",
+    "isbn_10": "2502821307",
+    "pages": 294,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Man of Parts",
+    "author": "David Lodge",
+    "year": 2011,
+    "isbn_13": "9783539492126",
+    "isbn_10": "3539492124",
+    "pages": 544,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Quite a Good Time to Be Born",
+    "author": "David Lodge",
+    "year": 2015,
+    "isbn_13": "9787286220018",
+    "isbn_10": "7286220019",
+    "pages": 342,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Diving Pool",
+    "author": "Yoko Ogawa",
+    "year": 1990,
+    "isbn_13": "9786535549054",
+    "isbn_10": "6535549057",
+    "pages": 171,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja"
+  },
+  {
+    "title": "Hotel Iris",
+    "author": "Yoko Ogawa",
+    "year": 1996,
+    "isbn_13": "9785298735315",
+    "isbn_10": "5298735319",
+    "pages": 179,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja"
+  },
+  {
+    "title": "Revenge",
+    "author": "Yoko Ogawa",
+    "year": 1998,
+    "isbn_13": "9783593883168",
+    "isbn_10": "3593883168",
+    "pages": 166,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja"
+  },
+  {
+    "title": "The Museum of Silence",
+    "author": "Yoko Ogawa",
+    "year": 2000,
+    "isbn_13": "9785533215046",
+    "isbn_10": "5533215049",
+    "pages": 312,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja"
+  }
+]

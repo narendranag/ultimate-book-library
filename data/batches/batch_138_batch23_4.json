@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Knowing What We Know",
+    "author": "Simon Winchester",
+    "year": 2023,
+    "isbn_13": "9780595955350",
+    "isbn_10": "0595955356",
+    "pages": 496,
+    "genres": [
+      "Non-Fiction",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Eiger Dreams",
+    "author": "Jon Krakauer",
+    "year": 1990,
+    "isbn_13": "9782248723514",
+    "isbn_10": "2248723519",
+    "pages": 186,
+    "genres": [
+      "Non-Fiction",
+      "Adventure"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Three Cups of Deceit",
+    "author": "Jon Krakauer",
+    "year": 2011,
+    "isbn_13": "9787572135040",
+    "isbn_10": "7572135043",
+    "pages": 96,
+    "genres": [
+      "Non-Fiction",
+      "Adventure"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Missoula",
+    "author": "Jon Krakauer",
+    "year": 2015,
+    "isbn_13": "9781502030740",
+    "isbn_10": "1502030743",
+    "pages": 367,
+    "genres": [
+      "Non-Fiction",
+      "Adventure"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bloodlands",
+    "author": "Timothy Snyder",
+    "year": 2010,
+    "isbn_13": "9785200933525",
+    "isbn_10": "5200933523",
+    "pages": 524,
+    "genres": [
+      "Non-Fiction",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Black Earth",
+    "author": "Timothy Snyder",
+    "year": 2015,
+    "isbn_13": "9787661117360",
+    "isbn_10": "7661117368",
+    "pages": 462,
+    "genres": [
+      "Non-Fiction",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "On Tyranny",
+    "author": "Timothy Snyder",
+    "year": 2017,
+    "isbn_13": "9785065522568",
+    "isbn_10": "506552256X",
+    "pages": 128,
+    "genres": [
+      "Non-Fiction",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Road to Unfreedom",
+    "author": "Timothy Snyder",
+    "year": 2018,
+    "isbn_13": "9787415634235",
+    "isbn_10": "7415634238",
+    "pages": 359,
+    "genres": [
+      "Non-Fiction",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Our Malady",
+    "author": "Timothy Snyder",
+    "year": 2020,
+    "isbn_13": "9785201628857",
+    "isbn_10": "5201628850",
+    "pages": 196,
+    "genres": [
+      "Non-Fiction",
+      "History"
+    ],
+    "language": "en"
+  }
+]
