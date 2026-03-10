@@ -1,0 +1,1135 @@
+[
+  {
+    "title": "The History of the Peloponnesian War",
+    "authors": [
+      "Thucydides"
+    ],
+    "isbn_13": "9783414842305",
+    "isbn_10": "3414842300",
+    "genres": [
+      "History",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": -411,
+    "page_count": 648
+  },
+  {
+    "title": "The Histories",
+    "authors": [
+      "Herodotus"
+    ],
+    "isbn_13": "9780131416918",
+    "isbn_10": "013141691X",
+    "genres": [
+      "History",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": -440,
+    "page_count": 716
+  },
+  {
+    "title": "The Decline and Fall of the Roman Empire",
+    "authors": [
+      "Edward Gibbon"
+    ],
+    "isbn_13": "9783452083104",
+    "isbn_10": "3452083101",
+    "genres": [
+      "History",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1776,
+    "page_count": 3824
+  },
+  {
+    "title": "A People's History of the United States",
+    "authors": [
+      "Howard Zinn"
+    ],
+    "isbn_13": "9786107832249",
+    "isbn_10": "6107832246",
+    "genres": [
+      "History",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 729
+  },
+  {
+    "title": "Guns, Germs, and Steel",
+    "authors": [
+      "Jared Diamond"
+    ],
+    "isbn_13": "9788904735143",
+    "isbn_10": "8904735149",
+    "genres": [
+      "History",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 480
+  },
+  {
+    "title": "The Silk Roads",
+    "authors": [
+      "Peter Frankopan"
+    ],
+    "isbn_13": "9783605005946",
+    "isbn_10": "3605005942",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 636
+  },
+  {
+    "title": "The New Silk Roads",
+    "authors": [
+      "Peter Frankopan"
+    ],
+    "isbn_13": "9784270437322",
+    "isbn_10": "4270437324",
+    "genres": [
+      "History",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 336
+  },
+  {
+    "title": "The Earth Transformed",
+    "authors": [
+      "Peter Frankopan"
+    ],
+    "isbn_13": "9781273252310",
+    "isbn_10": "1273252314",
+    "genres": [
+      "History",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 704
+  },
+  {
+    "title": "SPQR",
+    "authors": [
+      "Mary Beard"
+    ],
+    "isbn_13": "9787038242152",
+    "isbn_10": "7038242156",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 608
+  },
+  {
+    "title": "Pompeii",
+    "authors": [
+      "Mary Beard"
+    ],
+    "isbn_13": "9784442532954",
+    "isbn_10": "4442532958",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 360
+  },
+  {
+    "title": "Women & Power",
+    "authors": [
+      "Mary Beard"
+    ],
+    "isbn_13": "9780924443541",
+    "isbn_10": "0924443545",
+    "genres": [
+      "History",
+      "Feminism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 115
+  },
+  {
+    "title": "The Roman Triumph",
+    "authors": [
+      "Mary Beard"
+    ],
+    "isbn_13": "9784225225394",
+    "isbn_10": "4225225399",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 434
+  },
+  {
+    "title": "Twelve Caesars",
+    "authors": [
+      "Mary Beard"
+    ],
+    "isbn_13": "9781238936897",
+    "isbn_10": "123893689X",
+    "genres": [
+      "History",
+      "Art"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 416
+  },
+  {
+    "title": "The Rise and Fall of the Third Reich",
+    "authors": [
+      "William L. Shirer"
+    ],
+    "isbn_13": "9781014128331",
+    "isbn_10": "1014128331",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1960,
+    "page_count": 1249
+  },
+  {
+    "title": "Berlin Diary",
+    "authors": [
+      "William L. Shirer"
+    ],
+    "isbn_13": "9783109437946",
+    "isbn_10": "3109437945",
+    "genres": [
+      "History",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1941,
+    "page_count": 605
+  },
+  {
+    "title": "The Second World War",
+    "authors": [
+      "Antony Beevor"
+    ],
+    "isbn_13": "9783689323097",
+    "isbn_10": "3689323096",
+    "genres": [
+      "History",
+      "War"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 863
+  },
+  {
+    "title": "Stalingrad",
+    "authors": [
+      "Antony Beevor"
+    ],
+    "isbn_13": "9781821353056",
+    "isbn_10": "1821353056",
+    "genres": [
+      "History",
+      "War"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 493
+  },
+  {
+    "title": "D-Day",
+    "authors": [
+      "Antony Beevor"
+    ],
+    "isbn_13": "9783014141525",
+    "isbn_10": "3014141526",
+    "genres": [
+      "History",
+      "War"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 591
+  },
+  {
+    "title": "The Fall of Berlin 1945",
+    "authors": [
+      "Antony Beevor"
+    ],
+    "isbn_13": "9789846120981",
+    "isbn_10": "9846120982",
+    "genres": [
+      "History",
+      "War"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 489
+  },
+  {
+    "title": "Arnhem",
+    "authors": [
+      "Antony Beevor"
+    ],
+    "isbn_13": "9784077903020",
+    "isbn_10": "4077903025",
+    "genres": [
+      "History",
+      "War"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 480
+  },
+  {
+    "title": "The Battle of the Bulge",
+    "authors": [
+      "Antony Beevor"
+    ],
+    "isbn_13": "9782088293833",
+    "isbn_10": "2088293833",
+    "genres": [
+      "History",
+      "War"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 451
+  },
+  {
+    "title": "Crete 1941",
+    "authors": [
+      "Antony Beevor"
+    ],
+    "isbn_13": "9780907072546",
+    "isbn_10": "0907072542",
+    "genres": [
+      "History",
+      "War"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 432
+  },
+  {
+    "title": "Russia: Revolution and Civil War",
+    "authors": [
+      "Antony Beevor"
+    ],
+    "isbn_13": "9787855427008",
+    "isbn_10": "7855427007",
+    "genres": [
+      "History",
+      "War"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 560
+  },
+  {
+    "title": "Band of Brothers",
+    "authors": [
+      "Stephen E. Ambrose"
+    ],
+    "isbn_13": "9785553815127",
+    "isbn_10": "5553815126",
+    "genres": [
+      "History",
+      "War"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 333
+  },
+  {
+    "title": "D-Day: June 6, 1944",
+    "authors": [
+      "Stephen E. Ambrose"
+    ],
+    "isbn_13": "9788235071514",
+    "isbn_10": "8235071517",
+    "genres": [
+      "History",
+      "War"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 655
+  },
+  {
+    "title": "Citizen Soldiers",
+    "authors": [
+      "Stephen E. Ambrose"
+    ],
+    "isbn_13": "9785754000452",
+    "isbn_10": "5754000456",
+    "genres": [
+      "History",
+      "War"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 512
+  },
+  {
+    "title": "Undaunted Courage",
+    "authors": [
+      "Stephen E. Ambrose"
+    ],
+    "isbn_13": "9784659472524",
+    "isbn_10": "4659472523",
+    "genres": [
+      "History",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 521
+  },
+  {
+    "title": "The Splendid and the Vile",
+    "authors": [
+      "Erik Larson"
+    ],
+    "isbn_13": "9789827323226",
+    "isbn_10": "9827323229",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 546
+  },
+  {
+    "title": "The Devil in the White City",
+    "authors": [
+      "Erik Larson"
+    ],
+    "isbn_13": "9781324119425",
+    "isbn_10": "132411942X",
+    "genres": [
+      "History",
+      "True Crime"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 447
+  },
+  {
+    "title": "Dead Wake",
+    "authors": [
+      "Erik Larson"
+    ],
+    "isbn_13": "9785094058540",
+    "isbn_10": "5094058541",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 430
+  },
+  {
+    "title": "In the Garden of Beasts",
+    "authors": [
+      "Erik Larson"
+    ],
+    "isbn_13": "9784162553949",
+    "isbn_10": "4162553947",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 448
+  },
+  {
+    "title": "Isaac's Storm",
+    "authors": [
+      "Erik Larson"
+    ],
+    "isbn_13": "9782070535347",
+    "isbn_10": "2070535347",
+    "genres": [
+      "History",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 324
+  },
+  {
+    "title": "Thunderstruck",
+    "authors": [
+      "Erik Larson"
+    ],
+    "isbn_13": "9785041295745",
+    "isbn_10": "5041295743",
+    "genres": [
+      "History",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 463
+  },
+  {
+    "title": "The Demon of Unrest",
+    "authors": [
+      "Erik Larson"
+    ],
+    "isbn_13": "9781145525245",
+    "isbn_10": "1145525245",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 544
+  },
+  {
+    "title": "Genghis Khan and the Making of the Modern World",
+    "authors": [
+      "Jack Weatherford"
+    ],
+    "isbn_13": "9789971341633",
+    "isbn_10": "9971341638",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 312
+  },
+  {
+    "title": "1776",
+    "authors": [
+      "David McCullough"
+    ],
+    "isbn_13": "9785317270940",
+    "isbn_10": "5317270944",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 386
+  },
+  {
+    "title": "John Adams",
+    "authors": [
+      "David McCullough"
+    ],
+    "isbn_13": "9785251289305",
+    "isbn_10": "5251289308",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 751
+  },
+  {
+    "title": "Truman",
+    "authors": [
+      "David McCullough"
+    ],
+    "isbn_13": "9781068506741",
+    "isbn_10": "1068506741",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 992
+  },
+  {
+    "title": "The Wright Brothers",
+    "authors": [
+      "David McCullough"
+    ],
+    "isbn_13": "9780515033410",
+    "isbn_10": "0515033413",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 320
+  },
+  {
+    "title": "The Path Between the Seas",
+    "authors": [
+      "David McCullough"
+    ],
+    "isbn_13": "9780143967910",
+    "isbn_10": "0143967916",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 698
+  },
+  {
+    "title": "The Great Bridge",
+    "authors": [
+      "David McCullough"
+    ],
+    "isbn_13": "9780836613551",
+    "isbn_10": "0836613554",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 636
+  },
+  {
+    "title": "Team of Rivals",
+    "authors": [
+      "Doris Kearns Goodwin"
+    ],
+    "isbn_13": "9788437742243",
+    "isbn_10": "8437742242",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 916
+  },
+  {
+    "title": "Leadership",
+    "authors": [
+      "Doris Kearns Goodwin"
+    ],
+    "isbn_13": "9782492933752",
+    "isbn_10": "249293375X",
+    "genres": [
+      "History",
+      "Biography"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 473
+  },
+  {
+    "title": "No Ordinary Time",
+    "authors": [
+      "Doris Kearns Goodwin"
+    ],
+    "isbn_13": "9780493312101",
+    "isbn_10": "0493312102",
+    "genres": [
+      "History",
+      "Biography"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 759
+  },
+  {
+    "title": "The Bully Pulpit",
+    "authors": [
+      "Doris Kearns Goodwin"
+    ],
+    "isbn_13": "9780099029229",
+    "isbn_10": "0099029227",
+    "genres": [
+      "History",
+      "Biography"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 910
+  },
+  {
+    "title": "An Unfinished Love Story",
+    "authors": [
+      "Doris Kearns Goodwin"
+    ],
+    "isbn_13": "9784063342734",
+    "isbn_10": "4063342735",
+    "genres": [
+      "History",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 448
+  },
+  {
+    "title": "A Distant Mirror",
+    "authors": [
+      "Barbara Tuchman"
+    ],
+    "isbn_13": "9788311053748",
+    "isbn_10": "831105374X",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1978,
+    "page_count": 677
+  },
+  {
+    "title": "The Guns of August",
+    "authors": [
+      "Barbara Tuchman"
+    ],
+    "isbn_13": "9782145851037",
+    "isbn_10": "2145851038",
+    "genres": [
+      "History",
+      "War"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 511
+  },
+  {
+    "title": "The Proud Tower",
+    "authors": [
+      "Barbara Tuchman"
+    ],
+    "isbn_13": "9785872681410",
+    "isbn_10": "5872681410",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1966,
+    "page_count": 528
+  },
+  {
+    "title": "The March of Folly",
+    "authors": [
+      "Barbara Tuchman"
+    ],
+    "isbn_13": "9785672930435",
+    "isbn_10": "5672930433",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 447
+  },
+  {
+    "title": "Stillwell and the American Experience in China",
+    "authors": [
+      "Barbara Tuchman"
+    ],
+    "isbn_13": "9782244446400",
+    "isbn_10": "2244446409",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1971,
+    "page_count": 621
+  },
+  {
+    "title": "The Color of Law",
+    "authors": [
+      "Richard Rothstein"
+    ],
+    "isbn_13": "9780246395337",
+    "isbn_10": "0246395338",
+    "genres": [
+      "History",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 368
+  },
+  {
+    "title": "Stamped from the Beginning",
+    "authors": [
+      "Ibram X. Kendi"
+    ],
+    "isbn_13": "9782934247461",
+    "isbn_10": "2934247465",
+    "genres": [
+      "History",
+      "Race"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 592
+  },
+  {
+    "title": "How to Be an Antiracist",
+    "authors": [
+      "Ibram X. Kendi"
+    ],
+    "isbn_13": "9788437581552",
+    "isbn_10": "8437581559",
+    "genres": [
+      "Non-Fiction",
+      "Race"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 320
+  },
+  {
+    "title": "An Indigenous Peoples' History of the United States",
+    "authors": [
+      "Roxanne Dunbar-Ortiz"
+    ],
+    "isbn_13": "9780499834485",
+    "isbn_10": "0499834488",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 296
+  },
+  {
+    "title": "The Anarchy",
+    "authors": [
+      "William Dalrymple"
+    ],
+    "isbn_13": "9783529713514",
+    "isbn_10": "3529713511",
+    "genres": [
+      "History",
+      "Indian Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 522
+  },
+  {
+    "title": "Return of a King",
+    "authors": [
+      "William Dalrymple"
+    ],
+    "isbn_13": "9781502659743",
+    "isbn_10": "1502659743",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 560
+  },
+  {
+    "title": "The Last Mughal",
+    "authors": [
+      "William Dalrymple"
+    ],
+    "isbn_13": "9788709043436",
+    "isbn_10": "8709043438",
+    "genres": [
+      "History",
+      "Indian Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 578
+  },
+  {
+    "title": "White Mughals",
+    "authors": [
+      "William Dalrymple"
+    ],
+    "isbn_13": "9781512324204",
+    "isbn_10": "1512324205",
+    "genres": [
+      "History",
+      "Indian Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 580
+  },
+  {
+    "title": "City of Djinns",
+    "authors": [
+      "William Dalrymple"
+    ],
+    "isbn_13": "9784937414185",
+    "isbn_10": "4937414186",
+    "genres": [
+      "History",
+      "Travel",
+      "Indian Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 340
+  },
+  {
+    "title": "In Xanadu",
+    "authors": [
+      "William Dalrymple"
+    ],
+    "isbn_13": "9785986505107",
+    "isbn_10": "5986505107",
+    "genres": [
+      "Travel",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 315
+  },
+  {
+    "title": "From the Holy Mountain",
+    "authors": [
+      "William Dalrymple"
+    ],
+    "isbn_13": "9784144148040",
+    "isbn_10": "4144148041",
+    "genres": [
+      "Travel",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 483
+  },
+  {
+    "title": "Nine Lives",
+    "authors": [
+      "William Dalrymple"
+    ],
+    "isbn_13": "9784502311345",
+    "isbn_10": "4502311340",
+    "genres": [
+      "Non-Fiction",
+      "Indian Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 284
+  },
+  {
+    "title": "The Golden Road",
+    "authors": [
+      "William Dalrymple"
+    ],
+    "isbn_13": "9784220944900",
+    "isbn_10": "4220944907",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 496
+  },
+  {
+    "title": "Midnight's Furies",
+    "authors": [
+      "Nisid Hajari"
+    ],
+    "isbn_13": "9788306945829",
+    "isbn_10": "8306945824",
+    "genres": [
+      "History",
+      "Indian Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 328
+  },
+  {
+    "title": "India After Gandhi",
+    "authors": [
+      "Ramachandra Guha"
+    ],
+    "isbn_13": "9787119384825",
+    "isbn_10": "7119384821",
+    "genres": [
+      "History",
+      "Indian Fiction",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 900
+  },
+  {
+    "title": "Gandhi Before India",
+    "authors": [
+      "Ramachandra Guha"
+    ],
+    "isbn_13": "9781413374032",
+    "isbn_10": "1413374034",
+    "genres": [
+      "Biography",
+      "Indian Fiction",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 672
+  },
+  {
+    "title": "Gandhi: The Years That Changed the World",
+    "authors": [
+      "Ramachandra Guha"
+    ],
+    "isbn_13": "9784118938974",
+    "isbn_10": "4118938979",
+    "genres": [
+      "Biography",
+      "Indian Fiction",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 1104
+  },
+  {
+    "title": "India: A History",
+    "authors": [
+      "John Keay"
+    ],
+    "isbn_13": "9788506651544",
+    "isbn_10": "8506651549",
+    "genres": [
+      "History",
+      "Indian Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 576
+  },
+  {
+    "title": "Midnight at the Pera Palace",
+    "authors": [
+      "Charles King"
+    ],
+    "isbn_13": "9783142214160",
+    "isbn_10": "314221416X",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 464
+  },
+  {
+    "title": "The Invention of Yesterday",
+    "authors": [
+      "Tamim Ansary"
+    ],
+    "isbn_13": "9784488758622",
+    "isbn_10": "4488758622",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 416
+  },
+  {
+    "title": "Destiny Disrupted",
+    "authors": [
+      "Tamim Ansary"
+    ],
+    "isbn_13": "9787638583624",
+    "isbn_10": "7638583620",
+    "genres": [
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 416
+  }
+]

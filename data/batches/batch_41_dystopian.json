@@ -1,0 +1,1104 @@
+[
+  {
+    "title": "1984",
+    "authors": [
+      "George Orwell"
+    ],
+    "isbn_13": "9783203410319",
+    "isbn_10": "3203410311",
+    "genres": [
+      "Dystopian",
+      "Classics",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1949,
+    "page_count": 328
+  },
+  {
+    "title": "Animal Farm",
+    "authors": [
+      "George Orwell"
+    ],
+    "isbn_13": "9787950520352",
+    "isbn_10": "7950520353",
+    "genres": [
+      "Dystopian",
+      "Classics",
+      "Satire"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1945,
+    "page_count": 112
+  },
+  {
+    "title": "Brave New World",
+    "authors": [
+      "Aldous Huxley"
+    ],
+    "isbn_13": "9781133832508",
+    "isbn_10": "1133832504",
+    "genres": [
+      "Dystopian",
+      "Classics",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1932,
+    "page_count": 311
+  },
+  {
+    "title": "Island",
+    "authors": [
+      "Aldous Huxley"
+    ],
+    "isbn_13": "9780631253877",
+    "isbn_10": "0631253874",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 335
+  },
+  {
+    "title": "Brave New World Revisited",
+    "authors": [
+      "Aldous Huxley"
+    ],
+    "isbn_13": "9783525722787",
+    "isbn_10": "3525722788",
+    "genres": [
+      "Non-Fiction",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1958,
+    "page_count": 123
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9780032020979",
+    "isbn_10": "003202097X",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 311
+  },
+  {
+    "title": "The Testaments",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9782975057906",
+    "isbn_10": "2975057903",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 419
+  },
+  {
+    "title": "Oryx and Crake",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9782486343734",
+    "isbn_10": "2486343733",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 374
+  },
+  {
+    "title": "The Year of the Flood",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9787642765504",
+    "isbn_10": "7642765509",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 431
+  },
+  {
+    "title": "MaddAddam",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9781888911275",
+    "isbn_10": "1888911271",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 394
+  },
+  {
+    "title": "The Blind Assassin",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9785194080724",
+    "isbn_10": "5194080727",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 521
+  },
+  {
+    "title": "Alias Grace",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9784486962007",
+    "isbn_10": "4486962001",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 470
+  },
+  {
+    "title": "Cat's Eye",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9785019533107",
+    "isbn_10": "5019533106",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 421
+  },
+  {
+    "title": "The Robber Bride",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9786747254814",
+    "isbn_10": "6747254813",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 528
+  },
+  {
+    "title": "Surfacing",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9783150530016",
+    "isbn_10": "3150530016",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 224
+  },
+  {
+    "title": "The Edible Woman",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9782305406275",
+    "isbn_10": "2305406274",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 281
+  },
+  {
+    "title": "Hag-Seed",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9783851114430",
+    "isbn_10": "3851114434",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 295
+  },
+  {
+    "title": "Stone Mattress",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9783040096066",
+    "isbn_10": "3040096060",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 256
+  },
+  {
+    "title": "Dearly",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9785080722653",
+    "isbn_10": "5080722657",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 128
+  },
+  {
+    "title": "The Heart Goes Last",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9782197041844",
+    "isbn_10": "2197041843",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 316
+  },
+  {
+    "title": "We",
+    "authors": [
+      "Yevgeny Zamyatin"
+    ],
+    "isbn_13": "9781055854008",
+    "isbn_10": "1055854002",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1924,
+    "page_count": 225
+  },
+  {
+    "title": "The Iron Heel",
+    "authors": [
+      "Jack London"
+    ],
+    "isbn_13": "9780504920028",
+    "isbn_10": "0504920022",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1908,
+    "page_count": 354
+  },
+  {
+    "title": "It Can't Happen Here",
+    "authors": [
+      "Sinclair Lewis"
+    ],
+    "isbn_13": "9782284535843",
+    "isbn_10": "2284535844",
+    "genres": [
+      "Dystopian"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1935,
+    "page_count": 382
+  },
+  {
+    "title": "The Road",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9787626010873",
+    "isbn_10": "7626010876",
+    "genres": [
+      "Dystopian",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 287
+  },
+  {
+    "title": "Blood Meridian",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9786452426537",
+    "isbn_10": "6452426532",
+    "genres": [
+      "Literary Fiction",
+      "Western"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 337
+  },
+  {
+    "title": "No Country for Old Men",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9786145885139",
+    "isbn_10": "6145885130",
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 309
+  },
+  {
+    "title": "All the Pretty Horses",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9781429227247",
+    "isbn_10": "1429227249",
+    "genres": [
+      "Literary Fiction",
+      "Western"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 302
+  },
+  {
+    "title": "The Crossing",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9789269573203",
+    "isbn_10": "9269573206",
+    "genres": [
+      "Literary Fiction",
+      "Western"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 426
+  },
+  {
+    "title": "Cities of the Plain",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9783412084547",
+    "isbn_10": "3412084549",
+    "genres": [
+      "Literary Fiction",
+      "Western"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 291
+  },
+  {
+    "title": "Suttree",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9783562240411",
+    "isbn_10": "3562240414",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 471
+  },
+  {
+    "title": "Child of God",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9780470281239",
+    "isbn_10": "0470281235",
+    "genres": [
+      "Literary Fiction",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 197
+  },
+  {
+    "title": "Outer Dark",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9788027957378",
+    "isbn_10": "8027957370",
+    "genres": [
+      "Literary Fiction",
+      "Gothic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1968,
+    "page_count": 242
+  },
+  {
+    "title": "The Orchard Keeper",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9783104096308",
+    "isbn_10": "3104096309",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 246
+  },
+  {
+    "title": "The Passenger",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9781293313541",
+    "isbn_10": "1293313548",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 383
+  },
+  {
+    "title": "Stella Maris",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn_13": "9780206832018",
+    "isbn_10": "020683201X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 190
+  },
+  {
+    "title": "Station Eleven",
+    "authors": [
+      "Emily St. John Mandel"
+    ],
+    "isbn_13": "9781107800571",
+    "isbn_10": "1107800579",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 333
+  },
+  {
+    "title": "The Glass Hotel",
+    "authors": [
+      "Emily St. John Mandel"
+    ],
+    "isbn_13": "9782507111205",
+    "isbn_10": "2507111208",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 302
+  },
+  {
+    "title": "Sea of Tranquility",
+    "authors": [
+      "Emily St. John Mandel"
+    ],
+    "isbn_13": "9787269362568",
+    "isbn_10": "7269362564",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 255
+  },
+  {
+    "title": "The Liar's Dictionary",
+    "authors": [
+      "Eley Williams"
+    ],
+    "isbn_13": "9783120153450",
+    "isbn_10": "3120153451",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 274
+  },
+  {
+    "title": "Never Let Me Go",
+    "authors": [
+      "Kazuo Ishiguro"
+    ],
+    "isbn_13": "9783713940238",
+    "isbn_10": "3713940231",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 288
+  },
+  {
+    "title": "The Children of Men",
+    "authors": [
+      "P.D. James"
+    ],
+    "isbn_13": "9783823460114",
+    "isbn_10": "3823460110",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 241
+  },
+  {
+    "title": "A Clockwork Orange",
+    "authors": [
+      "Anthony Burgess"
+    ],
+    "isbn_13": "9789036989329",
+    "isbn_10": "9036989329",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 192
+  },
+  {
+    "title": "The Drowned World",
+    "authors": [
+      "J.G. Ballard"
+    ],
+    "isbn_13": "9780081943854",
+    "isbn_10": "0081943857",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 175
+  },
+  {
+    "title": "High-Rise",
+    "authors": [
+      "J.G. Ballard"
+    ],
+    "isbn_13": "9781103920907",
+    "isbn_10": "1103920901",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 256
+  },
+  {
+    "title": "Crash",
+    "authors": [
+      "J.G. Ballard"
+    ],
+    "isbn_13": "9784855611031",
+    "isbn_10": "4855611034",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 224
+  },
+  {
+    "title": "Empire of the Sun",
+    "authors": [
+      "J.G. Ballard"
+    ],
+    "isbn_13": "9784107070456",
+    "isbn_10": "410707045X",
+    "genres": [
+      "Literary Fiction",
+      "War Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 351
+  },
+  {
+    "title": "The Crystal World",
+    "authors": [
+      "J.G. Ballard"
+    ],
+    "isbn_13": "9788005341045",
+    "isbn_10": "8005341040",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1966,
+    "page_count": 192
+  },
+  {
+    "title": "Super-Cannes",
+    "authors": [
+      "J.G. Ballard"
+    ],
+    "isbn_13": "9785440253216",
+    "isbn_10": "5440253211",
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 393
+  },
+  {
+    "title": "Parable of the Sower",
+    "authors": [
+      "Octavia E. Butler"
+    ],
+    "isbn_13": "9781391541204",
+    "isbn_10": "1391541200",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 345
+  },
+  {
+    "title": "Parable of the Talents",
+    "authors": [
+      "Octavia E. Butler"
+    ],
+    "isbn_13": "9788572013406",
+    "isbn_10": "8572013407",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 365
+  },
+  {
+    "title": "Kindred",
+    "authors": [
+      "Octavia E. Butler"
+    ],
+    "isbn_13": "9787125558944",
+    "isbn_10": "7125558941",
+    "genres": [
+      "Science Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 264
+  },
+  {
+    "title": "Dawn",
+    "authors": [
+      "Octavia E. Butler"
+    ],
+    "isbn_13": "9784068246044",
+    "isbn_10": "4068246041",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 248
+  },
+  {
+    "title": "Adulthood Rites",
+    "authors": [
+      "Octavia E. Butler"
+    ],
+    "isbn_13": "9784005142767",
+    "isbn_10": "4005142761",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 277
+  },
+  {
+    "title": "Imago",
+    "authors": [
+      "Octavia E. Butler"
+    ],
+    "isbn_13": "9788455781569",
+    "isbn_10": "8455781564",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 264
+  },
+  {
+    "title": "Fledgling",
+    "authors": [
+      "Octavia E. Butler"
+    ],
+    "isbn_13": "9789392290374",
+    "isbn_10": "9392290373",
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 310
+  },
+  {
+    "title": "Wild Seed",
+    "authors": [
+      "Octavia E. Butler"
+    ],
+    "isbn_13": "9786555453096",
+    "isbn_10": "6555453095",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 280
+  },
+  {
+    "title": "Mind of My Mind",
+    "authors": [
+      "Octavia E. Butler"
+    ],
+    "isbn_13": "9784640300959",
+    "isbn_10": "4640300956",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 224
+  },
+  {
+    "title": "The Passage",
+    "authors": [
+      "Justin Cronin"
+    ],
+    "isbn_13": "9785359332170",
+    "isbn_10": "5359332174",
+    "genres": [
+      "Dystopian",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 766
+  },
+  {
+    "title": "The Twelve",
+    "authors": [
+      "Justin Cronin"
+    ],
+    "isbn_13": "9783352416378",
+    "isbn_10": "3352416370",
+    "genres": [
+      "Dystopian",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 568
+  },
+  {
+    "title": "The City of Mirrors",
+    "authors": [
+      "Justin Cronin"
+    ],
+    "isbn_13": "9780721667249",
+    "isbn_10": "0721667244",
+    "genres": [
+      "Dystopian",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 598
+  },
+  {
+    "title": "Wool",
+    "authors": [
+      "Hugh Howey"
+    ],
+    "isbn_13": "9781039608429",
+    "isbn_10": "1039608426",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 509
+  },
+  {
+    "title": "Shift",
+    "authors": [
+      "Hugh Howey"
+    ],
+    "isbn_13": "9781520716343",
+    "isbn_10": "1520716346",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 542
+  },
+  {
+    "title": "Dust",
+    "authors": [
+      "Hugh Howey"
+    ],
+    "isbn_13": "9781816670304",
+    "isbn_10": "1816670308",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 471
+  },
+  {
+    "title": "The Power",
+    "authors": [
+      "Naomi Alderman"
+    ],
+    "isbn_13": "9785239532553",
+    "isbn_10": "5239532559",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 341
+  },
+  {
+    "title": "The Future",
+    "authors": [
+      "Naomi Alderman"
+    ],
+    "isbn_13": "9782342974430",
+    "isbn_10": "2342974434",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 416
+  },
+  {
+    "title": "Oryx and Crake",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn_13": "9782486343734",
+    "isbn_10": "2486343733",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 374
+  },
+  {
+    "title": "The Water Knife",
+    "authors": [
+      "Paolo Bacigalupi"
+    ],
+    "isbn_13": "9784457278267",
+    "isbn_10": "4457278262",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 371
+  },
+  {
+    "title": "The Windup Girl",
+    "authors": [
+      "Paolo Bacigalupi"
+    ],
+    "isbn_13": "9787447452104",
+    "isbn_10": "7447452106",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 361
+  },
+  {
+    "title": "Ship Breaker",
+    "authors": [
+      "Paolo Bacigalupi"
+    ],
+    "isbn_13": "9786068141923",
+    "isbn_10": "6068141926",
+    "genres": [
+      "Dystopian",
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 326
+  },
+  {
+    "title": "The Doubt Factory",
+    "authors": [
+      "Paolo Bacigalupi"
+    ],
+    "isbn_13": "9782541039107",
+    "isbn_10": "2541039107",
+    "genres": [
+      "Dystopian",
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 484
+  }
+]

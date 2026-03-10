@@ -1,0 +1,772 @@
+[
+  {
+    "title": "The Body Keeps the Score",
+    "authors": [
+      "Bessel van der Kolk"
+    ],
+    "isbn_13": "9785428017953",
+    "isbn_10": "5428017953",
+    "genres": [
+      "Health",
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 464
+  },
+  {
+    "title": "When Breath Becomes Air",
+    "authors": [
+      "Paul Kalanithi"
+    ],
+    "isbn_13": "9783142034430",
+    "isbn_10": "3142034439",
+    "genres": [
+      "Memoir",
+      "Medicine"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 228
+  },
+  {
+    "title": "Being Mortal",
+    "authors": [
+      "Atul Gawande"
+    ],
+    "isbn_13": "9788390212708",
+    "isbn_10": "8390212706",
+    "genres": [
+      "Medicine",
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 282
+  },
+  {
+    "title": "The Checklist Manifesto",
+    "authors": [
+      "Atul Gawande"
+    ],
+    "isbn_13": "9786152041108",
+    "isbn_10": "6152041104",
+    "genres": [
+      "Medicine",
+      "Business"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 209
+  },
+  {
+    "title": "Complications",
+    "authors": [
+      "Atul Gawande"
+    ],
+    "isbn_13": "9785801446790",
+    "isbn_10": "5801446796",
+    "genres": [
+      "Medicine",
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 269
+  },
+  {
+    "title": "Better",
+    "authors": [
+      "Atul Gawande"
+    ],
+    "isbn_13": "9789625890654",
+    "isbn_10": "9625890653",
+    "genres": [
+      "Medicine",
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 273
+  },
+  {
+    "title": "The Emperor of All Maladies",
+    "authors": [
+      "Siddhartha Mukherjee"
+    ],
+    "isbn_13": "9781535245487",
+    "isbn_10": "1535245484",
+    "genres": [
+      "Medicine",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 571
+  },
+  {
+    "title": "The Laws of Medicine",
+    "authors": [
+      "Siddhartha Mukherjee"
+    ],
+    "isbn_13": "9786006591216",
+    "isbn_10": "6006591219",
+    "genres": [
+      "Medicine"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 96
+  },
+  {
+    "title": "Do No Harm",
+    "authors": [
+      "Henry Marsh"
+    ],
+    "isbn_13": "9785079517055",
+    "isbn_10": "5079517050",
+    "genres": [
+      "Medicine",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 292
+  },
+  {
+    "title": "Admissions",
+    "authors": [
+      "Henry Marsh"
+    ],
+    "isbn_13": "9789560434234",
+    "isbn_10": "9560434233",
+    "genres": [
+      "Medicine",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 240
+  },
+  {
+    "title": "And Finally",
+    "authors": [
+      "Henry Marsh"
+    ],
+    "isbn_13": "9783044456514",
+    "isbn_10": "3044456517",
+    "genres": [
+      "Medicine",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 304
+  },
+  {
+    "title": "The Spirit Catches You and You Fall Down",
+    "authors": [
+      "Anne Fadiman"
+    ],
+    "isbn_13": "9784111454341",
+    "isbn_10": "4111454348",
+    "genres": [
+      "Medicine",
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 341
+  },
+  {
+    "title": "Mountains Beyond Mountains",
+    "authors": [
+      "Tracy Kidder"
+    ],
+    "isbn_13": "9788324096701",
+    "isbn_10": "8324096701",
+    "genres": [
+      "Medicine",
+      "Biography"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 317
+  },
+  {
+    "title": "The Hot Zone",
+    "authors": [
+      "Richard Preston"
+    ],
+    "isbn_13": "9783001143426",
+    "isbn_10": "3001143428",
+    "genres": [
+      "Science",
+      "Medicine"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 300
+  },
+  {
+    "title": "The Coming Plague",
+    "authors": [
+      "Laurie Garrett"
+    ],
+    "isbn_13": "9789763389348",
+    "isbn_10": "9763389348",
+    "genres": [
+      "Science",
+      "Medicine"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 750
+  },
+  {
+    "title": "Spillover",
+    "authors": [
+      "David Quammen"
+    ],
+    "isbn_13": "9783368444426",
+    "isbn_10": "3368444425",
+    "genres": [
+      "Science",
+      "Medicine"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 587
+  },
+  {
+    "title": "The Great Influenza",
+    "authors": [
+      "John M. Barry"
+    ],
+    "isbn_13": "9787503308109",
+    "isbn_10": "7503308109",
+    "genres": [
+      "History",
+      "Medicine"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 546
+  },
+  {
+    "title": "Stiff",
+    "authors": [
+      "Mary Roach"
+    ],
+    "isbn_13": "9788631861382",
+    "isbn_10": "8631861383",
+    "genres": [
+      "Science",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 303
+  },
+  {
+    "title": "Gulp",
+    "authors": [
+      "Mary Roach"
+    ],
+    "isbn_13": "9788371500398",
+    "isbn_10": "8371500394",
+    "genres": [
+      "Science",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 348
+  },
+  {
+    "title": "Bonk",
+    "authors": [
+      "Mary Roach"
+    ],
+    "isbn_13": "9783736650855",
+    "isbn_10": "373665085X",
+    "genres": [
+      "Science",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 319
+  },
+  {
+    "title": "Packing for Mars",
+    "authors": [
+      "Mary Roach"
+    ],
+    "isbn_13": "9780433304111",
+    "isbn_10": "0433304111",
+    "genres": [
+      "Science",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 334
+  },
+  {
+    "title": "Spook",
+    "authors": [
+      "Mary Roach"
+    ],
+    "isbn_13": "9784892841637",
+    "isbn_10": "4892841633",
+    "genres": [
+      "Science",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 311
+  },
+  {
+    "title": "Grunt",
+    "authors": [
+      "Mary Roach"
+    ],
+    "isbn_13": "9785200823123",
+    "isbn_10": "5200823129",
+    "genres": [
+      "Science",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 285
+  },
+  {
+    "title": "Fuzz",
+    "authors": [
+      "Mary Roach"
+    ],
+    "isbn_13": "9786109818258",
+    "isbn_10": "6109818259",
+    "genres": [
+      "Science",
+      "Nature",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 322
+  },
+  {
+    "title": "Why We Sleep",
+    "authors": [
+      "Matthew Walker"
+    ],
+    "isbn_13": "9780199308255",
+    "isbn_10": "019930825X",
+    "genres": [
+      "Science",
+      "Health"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 368
+  },
+  {
+    "title": "Breath",
+    "authors": [
+      "James Nestor"
+    ],
+    "isbn_13": "9781859222478",
+    "isbn_10": "1859222471",
+    "genres": [
+      "Science",
+      "Health"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 304
+  },
+  {
+    "title": "Lifespan",
+    "authors": [
+      "David Sinclair"
+    ],
+    "isbn_13": "9786826651459",
+    "isbn_10": "6826651459",
+    "genres": [
+      "Science",
+      "Health"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 432
+  },
+  {
+    "title": "The Circadian Code",
+    "authors": [
+      "Satchin Panda"
+    ],
+    "isbn_13": "9781130043952",
+    "isbn_10": "1130043959",
+    "genres": [
+      "Science",
+      "Health"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 304
+  },
+  {
+    "title": "Outlive",
+    "authors": [
+      "Peter Attia"
+    ],
+    "isbn_13": "9785225131739",
+    "isbn_10": "5225131735",
+    "genres": [
+      "Health",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 496
+  },
+  {
+    "title": "The Obesity Code",
+    "authors": [
+      "Jason Fung"
+    ],
+    "isbn_13": "9784404148520",
+    "isbn_10": "4404148526",
+    "genres": [
+      "Health",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 328
+  },
+  {
+    "title": "How Not to Die",
+    "authors": [
+      "Michael Greger"
+    ],
+    "isbn_13": "9781851072460",
+    "isbn_10": "1851072462",
+    "genres": [
+      "Health",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 576
+  },
+  {
+    "title": "In Defense of Food",
+    "authors": [
+      "Michael Pollan"
+    ],
+    "isbn_13": "9789700995496",
+    "isbn_10": "9700995496",
+    "genres": [
+      "Health",
+      "Food"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 256
+  },
+  {
+    "title": "The China Study",
+    "authors": [
+      "T. Colin Campbell"
+    ],
+    "isbn_13": "9785075245341",
+    "isbn_10": "507524534X",
+    "genres": [
+      "Health",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 417
+  },
+  {
+    "title": "Gut",
+    "authors": [
+      "Giulia Enders"
+    ],
+    "isbn_13": "9785082852426",
+    "isbn_10": "5082852426",
+    "genres": [
+      "Science",
+      "Health"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 288
+  },
+  {
+    "title": "The Man Who Mistook His Wife for a Hat",
+    "authors": [
+      "Oliver Sacks"
+    ],
+    "isbn_13": "9782310784795",
+    "isbn_10": "2310784796",
+    "genres": [
+      "Medicine",
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 233
+  },
+  {
+    "title": "Awakenings",
+    "authors": [
+      "Oliver Sacks"
+    ],
+    "isbn_13": "9786301743235",
+    "isbn_10": "6301743237",
+    "genres": [
+      "Medicine",
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 408
+  },
+  {
+    "title": "The Mind-Gut Connection",
+    "authors": [
+      "Emeran Mayer"
+    ],
+    "isbn_13": "9789241923491",
+    "isbn_10": "9241923490",
+    "genres": [
+      "Science",
+      "Health"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 320
+  },
+  {
+    "title": "An Elegant Defense",
+    "authors": [
+      "Matt Richtel"
+    ],
+    "isbn_13": "9785109567180",
+    "isbn_10": "5109567182",
+    "genres": [
+      "Science",
+      "Medicine"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 416
+  },
+  {
+    "title": "The Vaccine Race",
+    "authors": [
+      "Meredith Wadman"
+    ],
+    "isbn_13": "9787432561071",
+    "isbn_10": "7432561079",
+    "genres": [
+      "Science",
+      "Medicine",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 480
+  },
+  {
+    "title": "Smoke Gets in Your Eyes",
+    "authors": [
+      "Caitlin Doughty"
+    ],
+    "isbn_13": "9781430392231",
+    "isbn_10": "1430392231",
+    "genres": [
+      "Memoir",
+      "Death"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 254
+  },
+  {
+    "title": "From Here to Eternity",
+    "authors": [
+      "Caitlin Doughty"
+    ],
+    "isbn_13": "9783157524308",
+    "isbn_10": "3157524305",
+    "genres": [
+      "Non-Fiction",
+      "Death",
+      "Travel"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 240
+  },
+  {
+    "title": "Will My Cat Eat My Eyeballs?",
+    "authors": [
+      "Caitlin Doughty"
+    ],
+    "isbn_13": "9784103399551",
+    "isbn_10": "4103399554",
+    "genres": [
+      "Science",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 224
+  },
+  {
+    "title": "Exercised",
+    "authors": [
+      "Daniel Lieberman"
+    ],
+    "isbn_13": "9789672370406",
+    "isbn_10": "9672370407",
+    "genres": [
+      "Science",
+      "Health"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 464
+  },
+  {
+    "title": "The Story of the Human Body",
+    "authors": [
+      "Daniel Lieberman"
+    ],
+    "isbn_13": "9788371315251",
+    "isbn_10": "8371315252",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 460
+  },
+  {
+    "title": "Immune",
+    "authors": [
+      "Philipp Dettmer"
+    ],
+    "isbn_13": "9781454542230",
+    "isbn_10": "1454542233",
+    "genres": [
+      "Science",
+      "Health"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 368
+  },
+  {
+    "title": "Dopamine Nation",
+    "authors": [
+      "Anna Lembke"
+    ],
+    "isbn_13": "9785596010268",
+    "isbn_10": "559601026X",
+    "genres": [
+      "Health",
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 304
+  },
+  {
+    "title": "The Comfort Crisis",
+    "authors": [
+      "Michael Easter"
+    ],
+    "isbn_13": "9783842300828",
+    "isbn_10": "3842300824",
+    "genres": [
+      "Health",
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 288
+  },
+  {
+    "title": "Ultra-Processed People",
+    "authors": [
+      "Chris van Tulleken"
+    ],
+    "isbn_13": "9785537590644",
+    "isbn_10": "5537590646",
+    "genres": [
+      "Health",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 384
+  }
+]

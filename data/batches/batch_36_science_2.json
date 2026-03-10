@@ -1,0 +1,1375 @@
+[
+  {
+    "title": "A Brief History of Time",
+    "authors": [
+      "Stephen Hawking"
+    ],
+    "isbn_13": "9786343705505",
+    "isbn_10": "6343705503",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 212
+  },
+  {
+    "title": "The Universe in a Nutshell",
+    "authors": [
+      "Stephen Hawking"
+    ],
+    "isbn_13": "9781743130834",
+    "isbn_10": "174313083X",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 216
+  },
+  {
+    "title": "Brief Answers to the Big Questions",
+    "authors": [
+      "Stephen Hawking"
+    ],
+    "isbn_13": "9784153019539",
+    "isbn_10": "4153019534",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 232
+  },
+  {
+    "title": "The Grand Design",
+    "authors": [
+      "Stephen Hawking"
+    ],
+    "isbn_13": "9785830413244",
+    "isbn_10": "5830413248",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 208
+  },
+  {
+    "title": "Black Holes and Baby Universes",
+    "authors": [
+      "Stephen Hawking"
+    ],
+    "isbn_13": "9780061950810",
+    "isbn_10": "0061950815",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 182
+  },
+  {
+    "title": "The Theory of Everything",
+    "authors": [
+      "Stephen Hawking"
+    ],
+    "isbn_13": "9781390172737",
+    "isbn_10": "1390172732",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 176
+  },
+  {
+    "title": "The Elegant Universe",
+    "authors": [
+      "Brian Greene"
+    ],
+    "isbn_13": "9782660427939",
+    "isbn_10": "2660427933",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 448
+  },
+  {
+    "title": "The Fabric of the Cosmos",
+    "authors": [
+      "Brian Greene"
+    ],
+    "isbn_13": "9783093342325",
+    "isbn_10": "3093342325",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 569
+  },
+  {
+    "title": "The Hidden Reality",
+    "authors": [
+      "Brian Greene"
+    ],
+    "isbn_13": "9781952333248",
+    "isbn_10": "1952333245",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 370
+  },
+  {
+    "title": "Until the End of Time",
+    "authors": [
+      "Brian Greene"
+    ],
+    "isbn_13": "9783381302048",
+    "isbn_10": "3381302043",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 448
+  },
+  {
+    "title": "Cosmos",
+    "authors": [
+      "Carl Sagan"
+    ],
+    "isbn_13": "9784332562221",
+    "isbn_10": "4332562224",
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 396
+  },
+  {
+    "title": "Pale Blue Dot",
+    "authors": [
+      "Carl Sagan"
+    ],
+    "isbn_13": "9787597857286",
+    "isbn_10": "7597857284",
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 429
+  },
+  {
+    "title": "The Demon-Haunted World",
+    "authors": [
+      "Carl Sagan"
+    ],
+    "isbn_13": "9781053325081",
+    "isbn_10": "1053325088",
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 457
+  },
+  {
+    "title": "Contact",
+    "authors": [
+      "Carl Sagan"
+    ],
+    "isbn_13": "9786259912400",
+    "isbn_10": "6259912404",
+    "genres": [
+      "Science Fiction",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 432
+  },
+  {
+    "title": "Billions & Billions",
+    "authors": [
+      "Carl Sagan"
+    ],
+    "isbn_13": "9786878331606",
+    "isbn_10": "6878331609",
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 296
+  },
+  {
+    "title": "The Selfish Gene",
+    "authors": [
+      "Richard Dawkins"
+    ],
+    "isbn_13": "9784452500943",
+    "isbn_10": "4452500943",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1976,
+    "page_count": 360
+  },
+  {
+    "title": "The Blind Watchmaker",
+    "authors": [
+      "Richard Dawkins"
+    ],
+    "isbn_13": "9786311336274",
+    "isbn_10": "6311336278",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 332
+  },
+  {
+    "title": "The Extended Phenotype",
+    "authors": [
+      "Richard Dawkins"
+    ],
+    "isbn_13": "9786542250417",
+    "isbn_10": "6542250417",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 307
+  },
+  {
+    "title": "Climbing Mount Improbable",
+    "authors": [
+      "Richard Dawkins"
+    ],
+    "isbn_13": "9781380890245",
+    "isbn_10": "1380890241",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 340
+  },
+  {
+    "title": "River Out of Eden",
+    "authors": [
+      "Richard Dawkins"
+    ],
+    "isbn_13": "9787004443002",
+    "isbn_10": "7004443000",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 172
+  },
+  {
+    "title": "Unweaving the Rainbow",
+    "authors": [
+      "Richard Dawkins"
+    ],
+    "isbn_13": "9781727831559",
+    "isbn_10": "1727831551",
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 336
+  },
+  {
+    "title": "The Ancestor's Tale",
+    "authors": [
+      "Richard Dawkins"
+    ],
+    "isbn_13": "9784412509108",
+    "isbn_10": "4412509109",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 528
+  },
+  {
+    "title": "The Greatest Show on Earth",
+    "authors": [
+      "Richard Dawkins"
+    ],
+    "isbn_13": "9784346302677",
+    "isbn_10": "434630267X",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 470
+  },
+  {
+    "title": "The God Delusion",
+    "authors": [
+      "Richard Dawkins"
+    ],
+    "isbn_13": "9788333173684",
+    "isbn_10": "8333173683",
+    "genres": [
+      "Science",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 374
+  },
+  {
+    "title": "An Astronaut's Guide to Life on Earth",
+    "authors": [
+      "Chris Hadfield"
+    ],
+    "isbn_13": "9780326592427",
+    "isbn_10": "0326592423",
+    "genres": [
+      "Memoir",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 304
+  },
+  {
+    "title": "Astrophysics for People in a Hurry",
+    "authors": [
+      "Neil deGrasse Tyson"
+    ],
+    "isbn_13": "9782331806728",
+    "isbn_10": "2331806721",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 222
+  },
+  {
+    "title": "The Pluto Files",
+    "authors": [
+      "Neil deGrasse Tyson"
+    ],
+    "isbn_13": "9782222639534",
+    "isbn_10": "2222639530",
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 194
+  },
+  {
+    "title": "Death by Black Hole",
+    "authors": [
+      "Neil deGrasse Tyson"
+    ],
+    "isbn_13": "9785966345310",
+    "isbn_10": "5966345317",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 384
+  },
+  {
+    "title": "Welcome to the Universe",
+    "authors": [
+      "Neil deGrasse Tyson"
+    ],
+    "isbn_13": "9785489263542",
+    "isbn_10": "5489263547",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 470
+  },
+  {
+    "title": "Starry Messenger",
+    "authors": [
+      "Neil deGrasse Tyson"
+    ],
+    "isbn_13": "9784524525171",
+    "isbn_10": "4524525173",
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 288
+  },
+  {
+    "title": "The Origin of Species",
+    "authors": [
+      "Charles Darwin"
+    ],
+    "isbn_13": "9782530527516",
+    "isbn_10": "2530527512",
+    "genres": [
+      "Science",
+      "Biology",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1859,
+    "page_count": 502
+  },
+  {
+    "title": "The Voyage of the Beagle",
+    "authors": [
+      "Charles Darwin"
+    ],
+    "isbn_13": "9787014242671",
+    "isbn_10": "7014242679",
+    "genres": [
+      "Science",
+      "Travel"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1839,
+    "page_count": 496
+  },
+  {
+    "title": "The Double Helix",
+    "authors": [
+      "James Watson"
+    ],
+    "isbn_13": "9783422000230",
+    "isbn_10": "3422000232",
+    "genres": [
+      "Science",
+      "Biology",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1968,
+    "page_count": 226
+  },
+  {
+    "title": "The Immortal Life of Henrietta Lacks",
+    "authors": [
+      "Rebecca Skloot"
+    ],
+    "isbn_13": "9784025338539",
+    "isbn_10": "402533853X",
+    "genres": [
+      "Science",
+      "Biography"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 381
+  },
+  {
+    "title": "The Gene",
+    "authors": [
+      "Siddhartha Mukherjee"
+    ],
+    "isbn_13": "9786236927441",
+    "isbn_10": "6236927448",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 608
+  },
+  {
+    "title": "The Emperor of All Maladies",
+    "authors": [
+      "Siddhartha Mukherjee"
+    ],
+    "isbn_13": "9781535245487",
+    "isbn_10": "1535245484",
+    "genres": [
+      "Science",
+      "Medicine",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 571
+  },
+  {
+    "title": "The Song of the Cell",
+    "authors": [
+      "Siddhartha Mukherjee"
+    ],
+    "isbn_13": "9788511892475",
+    "isbn_10": "8511892478",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 496
+  },
+  {
+    "title": "Your Inner Fish",
+    "authors": [
+      "Neil Shubin"
+    ],
+    "isbn_13": "9781347635858",
+    "isbn_10": "1347635858",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 229
+  },
+  {
+    "title": "The Universe Within",
+    "authors": [
+      "Neil Shubin"
+    ],
+    "isbn_13": "9780324364217",
+    "isbn_10": "0324364210",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 225
+  },
+  {
+    "title": "Some Assembly Required",
+    "authors": [
+      "Neil Shubin"
+    ],
+    "isbn_13": "9788514115823",
+    "isbn_10": "8514115820",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 288
+  },
+  {
+    "title": "Behave",
+    "authors": [
+      "Robert Sapolsky"
+    ],
+    "isbn_13": "9781927510087",
+    "isbn_10": "1927510082",
+    "genres": [
+      "Science",
+      "Biology",
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 790
+  },
+  {
+    "title": "Why Zebras Don't Get Ulcers",
+    "authors": [
+      "Robert Sapolsky"
+    ],
+    "isbn_13": "9780335402045",
+    "isbn_10": "0335402046",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 368
+  },
+  {
+    "title": "A Primate's Memoir",
+    "authors": [
+      "Robert Sapolsky"
+    ],
+    "isbn_13": "9781484221587",
+    "isbn_10": "1484221583",
+    "genres": [
+      "Science",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 304
+  },
+  {
+    "title": "Determined",
+    "authors": [
+      "Robert Sapolsky"
+    ],
+    "isbn_13": "9789951336451",
+    "isbn_10": "9951336450",
+    "genres": [
+      "Science",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 528
+  },
+  {
+    "title": "The Selfish Gene",
+    "authors": [
+      "Richard Dawkins"
+    ],
+    "isbn_13": "9784452500943",
+    "isbn_10": "4452500943",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1976,
+    "page_count": 360
+  },
+  {
+    "title": "Genome",
+    "authors": [
+      "Matt Ridley"
+    ],
+    "isbn_13": "9783789043802",
+    "isbn_10": "378904380X",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 344
+  },
+  {
+    "title": "The Red Queen",
+    "authors": [
+      "Matt Ridley"
+    ],
+    "isbn_13": "9782355292040",
+    "isbn_10": "2355292043",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 405
+  },
+  {
+    "title": "Nature via Nurture",
+    "authors": [
+      "Matt Ridley"
+    ],
+    "isbn_13": "9781544952161",
+    "isbn_10": "1544952163",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 328
+  },
+  {
+    "title": "The Rational Optimist",
+    "authors": [
+      "Matt Ridley"
+    ],
+    "isbn_13": "9784847553301",
+    "isbn_10": "4847553306",
+    "genres": [
+      "Science",
+      "Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 448
+  },
+  {
+    "title": "How Innovation Works",
+    "authors": [
+      "Matt Ridley"
+    ],
+    "isbn_13": "9782756462110",
+    "isbn_10": "275646211X",
+    "genres": [
+      "Science",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 416
+  },
+  {
+    "title": "Sapiens",
+    "authors": [
+      "Yuval Noah Harari"
+    ],
+    "isbn_13": "9780711390065",
+    "isbn_10": "0711390061",
+    "genres": [
+      "Science",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 443
+  },
+  {
+    "title": "The Periodic Table",
+    "authors": [
+      "Primo Levi"
+    ],
+    "isbn_13": "9780938591733",
+    "isbn_10": "0938591738",
+    "genres": [
+      "Science",
+      "Memoir"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 233
+  },
+  {
+    "title": "Relativity",
+    "authors": [
+      "Albert Einstein"
+    ],
+    "isbn_13": "9783482153334",
+    "isbn_10": "3482153337",
+    "genres": [
+      "Science",
+      "Physics",
+      "Classics"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1916,
+    "page_count": 168
+  },
+  {
+    "title": "The Feynman Lectures on Physics",
+    "authors": [
+      "Richard P. Feynman"
+    ],
+    "isbn_13": "9780594261469",
+    "isbn_10": "0594261465",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1964,
+    "page_count": 1552
+  },
+  {
+    "title": "The Character of Physical Law",
+    "authors": [
+      "Richard P. Feynman"
+    ],
+    "isbn_13": "9788200598329",
+    "isbn_10": "8200598322",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 173
+  },
+  {
+    "title": "What Is Life?",
+    "authors": [
+      "Erwin Schrödinger"
+    ],
+    "isbn_13": "9783498222994",
+    "isbn_10": "3498222996",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1944,
+    "page_count": 194
+  },
+  {
+    "title": "A Short History of Nearly Everything",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9786443092079",
+    "isbn_10": "6443092074",
+    "genres": [
+      "Science",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 544
+  },
+  {
+    "title": "The Body",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9782192520832",
+    "isbn_10": "2192520832",
+    "genres": [
+      "Science",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 464
+  },
+  {
+    "title": "At Home",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9785435202137",
+    "isbn_10": "5435202132",
+    "genres": [
+      "Non-Fiction",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 528
+  },
+  {
+    "title": "In a Sunburned Country",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9788252312003",
+    "isbn_10": "8252312004",
+    "genres": [
+      "Travel",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 335
+  },
+  {
+    "title": "Notes from a Small Island",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9787007042356",
+    "isbn_10": "700704235X",
+    "genres": [
+      "Travel",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 324
+  },
+  {
+    "title": "I'm a Stranger Here Myself",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9783104035239",
+    "isbn_10": "3104035237",
+    "genres": [
+      "Humor",
+      "Travel"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 304
+  },
+  {
+    "title": "The Lost Continent",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9780215337030",
+    "isbn_10": "0215337034",
+    "genres": [
+      "Travel",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 299
+  },
+  {
+    "title": "Neither Here nor There",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9785234530790",
+    "isbn_10": "5234530795",
+    "genres": [
+      "Travel",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 254
+  },
+  {
+    "title": "Walk in the Woods",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9787220440205",
+    "isbn_10": "7220440200",
+    "genres": [
+      "Travel",
+      "Nature"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 276
+  },
+  {
+    "title": "One Summer: America, 1927",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9785935621209",
+    "isbn_10": "5935621207",
+    "genres": [
+      "History",
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 528
+  },
+  {
+    "title": "Made in America",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9782413035558",
+    "isbn_10": "2413035559",
+    "genres": [
+      "Non-Fiction",
+      "Language"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 417
+  },
+  {
+    "title": "The Mother Tongue",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9789330455520",
+    "isbn_10": "9330455522",
+    "genres": [
+      "Non-Fiction",
+      "Language"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 270
+  },
+  {
+    "title": "Shakespeare",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9780488409731",
+    "isbn_10": "048840973X",
+    "genres": [
+      "Biography"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 196
+  },
+  {
+    "title": "Seven Brief Lessons on Physics",
+    "authors": [
+      "Carlo Rovelli"
+    ],
+    "isbn_13": "9787343450273",
+    "isbn_10": "7343450271",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 86
+  },
+  {
+    "title": "Reality Is Not What It Seems",
+    "authors": [
+      "Carlo Rovelli"
+    ],
+    "isbn_13": "9787230120005",
+    "isbn_10": "7230120004",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 255
+  },
+  {
+    "title": "The Order of Time",
+    "authors": [
+      "Carlo Rovelli"
+    ],
+    "isbn_13": "9782322508556",
+    "isbn_10": "2322508551",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 224
+  },
+  {
+    "title": "Helgoland",
+    "authors": [
+      "Carlo Rovelli"
+    ],
+    "isbn_13": "9781871192919",
+    "isbn_10": "1871192919",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 237
+  },
+  {
+    "title": "White Holes",
+    "authors": [
+      "Carlo Rovelli"
+    ],
+    "isbn_13": "9785416271244",
+    "isbn_10": "5416271248",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 176
+  },
+  {
+    "title": "Parallel Worlds",
+    "authors": [
+      "Michio Kaku"
+    ],
+    "isbn_13": "9782334636193",
+    "isbn_10": "2334636193",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 428
+  },
+  {
+    "title": "The Future of the Mind",
+    "authors": [
+      "Michio Kaku"
+    ],
+    "isbn_13": "9782101052386",
+    "isbn_10": "2101052385",
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 400
+  },
+  {
+    "title": "Physics of the Impossible",
+    "authors": [
+      "Michio Kaku"
+    ],
+    "isbn_13": "9789533032290",
+    "isbn_10": "9533032294",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 329
+  },
+  {
+    "title": "Physics of the Future",
+    "authors": [
+      "Michio Kaku"
+    ],
+    "isbn_13": "9782447881220",
+    "isbn_10": "2447881223",
+    "genres": [
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 432
+  },
+  {
+    "title": "The God Equation",
+    "authors": [
+      "Michio Kaku"
+    ],
+    "isbn_13": "9786264212243",
+    "isbn_10": "6264212245",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 240
+  },
+  {
+    "title": "Quantum Supremacy",
+    "authors": [
+      "Michio Kaku"
+    ],
+    "isbn_13": "9780688354398",
+    "isbn_10": "0688354394",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 352
+  },
+  {
+    "title": "The Pleasure of Finding Things Out",
+    "authors": [
+      "Richard P. Feynman"
+    ],
+    "isbn_13": "9784318079484",
+    "isbn_10": "4318079481",
+    "genres": [
+      "Science",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 270
+  },
+  {
+    "title": "The Meaning of It All",
+    "authors": [
+      "Richard P. Feynman"
+    ],
+    "isbn_13": "9781763832527",
+    "isbn_10": "176383252X",
+    "genres": [
+      "Science",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 133
+  },
+  {
+    "title": "The Emperor's New Mind",
+    "authors": [
+      "Roger Penrose"
+    ],
+    "isbn_13": "9782887474341",
+    "isbn_10": "2887474340",
+    "genres": [
+      "Science",
+      "Mathematics",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 602
+  },
+  {
+    "title": "The Road to Reality",
+    "authors": [
+      "Roger Penrose"
+    ],
+    "isbn_13": "9780977445950",
+    "isbn_10": "097744595X",
+    "genres": [
+      "Science",
+      "Physics",
+      "Mathematics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 1099
+  },
+  {
+    "title": "Cycles of Time",
+    "authors": [
+      "Roger Penrose"
+    ],
+    "isbn_13": "9786755495575",
+    "isbn_10": "6755495573",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 288
+  },
+  {
+    "title": "Fashion, Faith, and Fantasy",
+    "authors": [
+      "Roger Penrose"
+    ],
+    "isbn_13": "9785542612539",
+    "isbn_10": "5542612539",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 501
+  }
+]

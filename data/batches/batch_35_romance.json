@@ -1,0 +1,1396 @@
+[
+  {
+    "title": "Pride and Prejudice",
+    "authors": [
+      "Jane Austen"
+    ],
+    "isbn_13": "9782159146471",
+    "isbn_10": "2159146471",
+    "genres": [
+      "Romance",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1813,
+    "page_count": 432
+  },
+  {
+    "title": "Outlander",
+    "authors": [
+      "Diana Gabaldon"
+    ],
+    "isbn_13": "9783566142650",
+    "isbn_10": "3566142654",
+    "genres": [
+      "Romance",
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 627
+  },
+  {
+    "title": "Dragonfly in Amber",
+    "authors": [
+      "Diana Gabaldon"
+    ],
+    "isbn_13": "9781140692621",
+    "isbn_10": "1140692623",
+    "genres": [
+      "Romance",
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 743
+  },
+  {
+    "title": "Voyager",
+    "authors": [
+      "Diana Gabaldon"
+    ],
+    "isbn_13": "9781745090747",
+    "isbn_10": "1745090746",
+    "genres": [
+      "Romance",
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 870
+  },
+  {
+    "title": "Drums of Autumn",
+    "authors": [
+      "Diana Gabaldon"
+    ],
+    "isbn_13": "9780016375927",
+    "isbn_10": "0016375920",
+    "genres": [
+      "Romance",
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 880
+  },
+  {
+    "title": "The Fiery Cross",
+    "authors": [
+      "Diana Gabaldon"
+    ],
+    "isbn_13": "9787325161050",
+    "isbn_10": "7325161050",
+    "genres": [
+      "Romance",
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 979
+  },
+  {
+    "title": "A Breath of Snow and Ashes",
+    "authors": [
+      "Diana Gabaldon"
+    ],
+    "isbn_13": "9780888135063",
+    "isbn_10": "0888135068",
+    "genres": [
+      "Romance",
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 980
+  },
+  {
+    "title": "An Echo in the Bone",
+    "authors": [
+      "Diana Gabaldon"
+    ],
+    "isbn_13": "9784086402347",
+    "isbn_10": "4086402343",
+    "genres": [
+      "Romance",
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 820
+  },
+  {
+    "title": "Written in My Own Heart's Blood",
+    "authors": [
+      "Diana Gabaldon"
+    ],
+    "isbn_13": "9787611750395",
+    "isbn_10": "7611750399",
+    "genres": [
+      "Romance",
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 825
+  },
+  {
+    "title": "Go Tell the Bees That I Am Gone",
+    "authors": [
+      "Diana Gabaldon"
+    ],
+    "isbn_13": "9783089525190",
+    "isbn_10": "3089525194",
+    "genres": [
+      "Romance",
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 896
+  },
+  {
+    "title": "The Notebook",
+    "authors": [
+      "Nicholas Sparks"
+    ],
+    "isbn_13": "9784880069609",
+    "isbn_10": "4880069604",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 214
+  },
+  {
+    "title": "A Walk to Remember",
+    "authors": [
+      "Nicholas Sparks"
+    ],
+    "isbn_13": "9783102580823",
+    "isbn_10": "3102580823",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 240
+  },
+  {
+    "title": "Message in a Bottle",
+    "authors": [
+      "Nicholas Sparks"
+    ],
+    "isbn_13": "9783186728227",
+    "isbn_10": "3186728223",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 339
+  },
+  {
+    "title": "The Longest Ride",
+    "authors": [
+      "Nicholas Sparks"
+    ],
+    "isbn_13": "9789124506315",
+    "isbn_10": "9124506311",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 399
+  },
+  {
+    "title": "Dear John",
+    "authors": [
+      "Nicholas Sparks"
+    ],
+    "isbn_13": "9783341120798",
+    "isbn_10": "3341120793",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 276
+  },
+  {
+    "title": "Safe Haven",
+    "authors": [
+      "Nicholas Sparks"
+    ],
+    "isbn_13": "9783105342312",
+    "isbn_10": "3105342311",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 357
+  },
+  {
+    "title": "The Best of Me",
+    "authors": [
+      "Nicholas Sparks"
+    ],
+    "isbn_13": "9789011002159",
+    "isbn_10": "9011002156",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 291
+  },
+  {
+    "title": "See Me",
+    "authors": [
+      "Nicholas Sparks"
+    ],
+    "isbn_13": "9781589787346",
+    "isbn_10": "158978734X",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 483
+  },
+  {
+    "title": "Every Breath",
+    "authors": [
+      "Nicholas Sparks"
+    ],
+    "isbn_13": "9787239188860",
+    "isbn_10": "7239188868",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 320
+  },
+  {
+    "title": "The Wish",
+    "authors": [
+      "Nicholas Sparks"
+    ],
+    "isbn_13": "9781194941454",
+    "isbn_10": "1194941451",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 384
+  },
+  {
+    "title": "The Thorn Birds",
+    "authors": [
+      "Colleen McCullough"
+    ],
+    "isbn_13": "9787445442152",
+    "isbn_10": "7445442154",
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 692
+  },
+  {
+    "title": "The Bridges of Madison County",
+    "authors": [
+      "Robert James Waller"
+    ],
+    "isbn_13": "9782593044326",
+    "isbn_10": "2593044322",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 171
+  },
+  {
+    "title": "Me Before You",
+    "authors": [
+      "Jojo Moyes"
+    ],
+    "isbn_13": "9785604412176",
+    "isbn_10": "5604412171",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 369
+  },
+  {
+    "title": "After You",
+    "authors": [
+      "Jojo Moyes"
+    ],
+    "isbn_13": "9780494114599",
+    "isbn_10": "0494114592",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 352
+  },
+  {
+    "title": "Still Me",
+    "authors": [
+      "Jojo Moyes"
+    ],
+    "isbn_13": "9784215361446",
+    "isbn_10": "4215361443",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 401
+  },
+  {
+    "title": "The Giver of Stars",
+    "authors": [
+      "Jojo Moyes"
+    ],
+    "isbn_13": "9785371243539",
+    "isbn_10": "5371243534",
+    "genres": [
+      "Historical Fiction",
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 401
+  },
+  {
+    "title": "One Plus One",
+    "authors": [
+      "Jojo Moyes"
+    ],
+    "isbn_13": "9782155743353",
+    "isbn_10": "2155743351",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 368
+  },
+  {
+    "title": "The Girl You Left Behind",
+    "authors": [
+      "Jojo Moyes"
+    ],
+    "isbn_13": "9786114968504",
+    "isbn_10": "6114968506",
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 472
+  },
+  {
+    "title": "Someone Else's Shoes",
+    "authors": [
+      "Jojo Moyes"
+    ],
+    "isbn_13": "9783182430506",
+    "isbn_10": "3182430505",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 400
+  },
+  {
+    "title": "Beach Read",
+    "authors": [
+      "Emily Henry"
+    ],
+    "isbn_13": "9786720492684",
+    "isbn_10": "6720492683",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 361
+  },
+  {
+    "title": "People We Meet on Vacation",
+    "authors": [
+      "Emily Henry"
+    ],
+    "isbn_13": "9789844483637",
+    "isbn_10": "9844483638",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 364
+  },
+  {
+    "title": "Book Lovers",
+    "authors": [
+      "Emily Henry"
+    ],
+    "isbn_13": "9780035534268",
+    "isbn_10": "0035534265",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 373
+  },
+  {
+    "title": "Happy Place",
+    "authors": [
+      "Emily Henry"
+    ],
+    "isbn_13": "9783558037827",
+    "isbn_10": "3558037820",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 400
+  },
+  {
+    "title": "Funny Story",
+    "authors": [
+      "Emily Henry"
+    ],
+    "isbn_13": "9785141221156",
+    "isbn_10": "5141221156",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 395
+  },
+  {
+    "title": "The Hating Game",
+    "authors": [
+      "Sally Thorne"
+    ],
+    "isbn_13": "9781284135596",
+    "isbn_10": "1284135594",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 384
+  },
+  {
+    "title": "Second First Impressions",
+    "authors": [
+      "Sally Thorne"
+    ],
+    "isbn_13": "9788764506587",
+    "isbn_10": "8764506584",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 368
+  },
+  {
+    "title": "The Love Hypothesis",
+    "authors": [
+      "Ali Hazelwood"
+    ],
+    "isbn_13": "9786459986249",
+    "isbn_10": "645998624X",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 384
+  },
+  {
+    "title": "Love on the Brain",
+    "authors": [
+      "Ali Hazelwood"
+    ],
+    "isbn_13": "9787342944506",
+    "isbn_10": "7342944505",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 368
+  },
+  {
+    "title": "Check & Mate",
+    "authors": [
+      "Ali Hazelwood"
+    ],
+    "isbn_13": "9780652696240",
+    "isbn_10": "0652696244",
+    "genres": [
+      "Romance",
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 368
+  },
+  {
+    "title": "Bride",
+    "authors": [
+      "Ali Hazelwood"
+    ],
+    "isbn_13": "9782410007510",
+    "isbn_10": "2410007511",
+    "genres": [
+      "Romance",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 416
+  },
+  {
+    "title": "The Kiss Quotient",
+    "authors": [
+      "Helen Hoang"
+    ],
+    "isbn_13": "9782230916122",
+    "isbn_10": "2230916122",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 336
+  },
+  {
+    "title": "The Bride Test",
+    "authors": [
+      "Helen Hoang"
+    ],
+    "isbn_13": "9788043119408",
+    "isbn_10": "8043119406",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 296
+  },
+  {
+    "title": "Heart Bones",
+    "authors": [
+      "Helen Hoang"
+    ],
+    "isbn_13": "9787759405348",
+    "isbn_10": "7759405340",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 304
+  },
+  {
+    "title": "It Ends with Us",
+    "authors": [
+      "Colleen Hoover"
+    ],
+    "isbn_13": "9785115567051",
+    "isbn_10": "5115567059",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 385
+  },
+  {
+    "title": "It Starts with Us",
+    "authors": [
+      "Colleen Hoover"
+    ],
+    "isbn_13": "9785045125031",
+    "isbn_10": "5045125036",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 336
+  },
+  {
+    "title": "Ugly Love",
+    "authors": [
+      "Colleen Hoover"
+    ],
+    "isbn_13": "9784393849545",
+    "isbn_10": "439384954X",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 322
+  },
+  {
+    "title": "November 9",
+    "authors": [
+      "Colleen Hoover"
+    ],
+    "isbn_13": "9788565506007",
+    "isbn_10": "8565506002",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 310
+  },
+  {
+    "title": "Confess",
+    "authors": [
+      "Colleen Hoover"
+    ],
+    "isbn_13": "9780072279610",
+    "isbn_10": "0072279613",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 306
+  },
+  {
+    "title": "Reminders of Him",
+    "authors": [
+      "Colleen Hoover"
+    ],
+    "isbn_13": "9787231366334",
+    "isbn_10": "7231366333",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 335
+  },
+  {
+    "title": "Heart Bones",
+    "authors": [
+      "Colleen Hoover"
+    ],
+    "isbn_13": "9783612682451",
+    "isbn_10": "3612682458",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 304
+  },
+  {
+    "title": "Layla",
+    "authors": [
+      "Colleen Hoover"
+    ],
+    "isbn_13": "9786230712562",
+    "isbn_10": "6230712563",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 337
+  },
+  {
+    "title": "The Spanish Love Deception",
+    "authors": [
+      "Elena Armas"
+    ],
+    "isbn_13": "9783156009301",
+    "isbn_10": "315600930X",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 448
+  },
+  {
+    "title": "The American Roommate Experiment",
+    "authors": [
+      "Elena Armas"
+    ],
+    "isbn_13": "9786491320117",
+    "isbn_10": "6491320111",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 400
+  },
+  {
+    "title": "The Long Game",
+    "authors": [
+      "Elena Armas"
+    ],
+    "isbn_13": "9788185522036",
+    "isbn_10": "8185522030",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 432
+  },
+  {
+    "title": "Red, White & Royal Blue",
+    "authors": [
+      "Casey McQuiston"
+    ],
+    "isbn_13": "9782540130829",
+    "isbn_10": "2540130828",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 423
+  },
+  {
+    "title": "One Last Stop",
+    "authors": [
+      "Casey McQuiston"
+    ],
+    "isbn_13": "9787454130101",
+    "isbn_10": "7454130100",
+    "genres": [
+      "Romance",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 418
+  },
+  {
+    "title": "I Kissed Shara Wheeler",
+    "authors": [
+      "Casey McQuiston"
+    ],
+    "isbn_13": "9784182650758",
+    "isbn_10": "4182650751",
+    "genres": [
+      "Romance",
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 356
+  },
+  {
+    "title": "The Flatshare",
+    "authors": [
+      "Beth O'Leary"
+    ],
+    "isbn_13": "9780639302164",
+    "isbn_10": "0639302165",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 384
+  },
+  {
+    "title": "The Switch",
+    "authors": [
+      "Beth O'Leary"
+    ],
+    "isbn_13": "9785444013762",
+    "isbn_10": "5444013762",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 368
+  },
+  {
+    "title": "The No-Show",
+    "authors": [
+      "Beth O'Leary"
+    ],
+    "isbn_13": "9780363783673",
+    "isbn_10": "0363783679",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 400
+  },
+  {
+    "title": "The Road Trip",
+    "authors": [
+      "Beth O'Leary"
+    ],
+    "isbn_13": "9782245735282",
+    "isbn_10": "2245735285",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 352
+  },
+  {
+    "title": "In a Holidaze",
+    "authors": [
+      "Christina Lauren"
+    ],
+    "isbn_13": "9785005555717",
+    "isbn_10": "5005555714",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 320
+  },
+  {
+    "title": "The Unhoneymooners",
+    "authors": [
+      "Christina Lauren"
+    ],
+    "isbn_13": "9783603024000",
+    "isbn_10": "3603024001",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 400
+  },
+  {
+    "title": "The Soulmate Equation",
+    "authors": [
+      "Christina Lauren"
+    ],
+    "isbn_13": "9780051880646",
+    "isbn_10": "0051880644",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 352
+  },
+  {
+    "title": "Something Wilder",
+    "authors": [
+      "Christina Lauren"
+    ],
+    "isbn_13": "9782243531510",
+    "isbn_10": "2243531518",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 368
+  },
+  {
+    "title": "The True Love Experiment",
+    "authors": [
+      "Christina Lauren"
+    ],
+    "isbn_13": "9780513655997",
+    "isbn_10": "0513655999",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 384
+  },
+  {
+    "title": "Get a Life, Chloe Brown",
+    "authors": [
+      "Talia Hibbert"
+    ],
+    "isbn_13": "9783513850454",
+    "isbn_10": "351385045X",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 373
+  },
+  {
+    "title": "Take a Hint, Dani Brown",
+    "authors": [
+      "Talia Hibbert"
+    ],
+    "isbn_13": "9783144531241",
+    "isbn_10": "3144531243",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 375
+  },
+  {
+    "title": "Act Your Age, Eve Brown",
+    "authors": [
+      "Talia Hibbert"
+    ],
+    "isbn_13": "9783103491128",
+    "isbn_10": "3103491123",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 368
+  },
+  {
+    "title": "The Duke and I",
+    "authors": [
+      "Julia Quinn"
+    ],
+    "isbn_13": "9787612242707",
+    "isbn_10": "7612242702",
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 384
+  },
+  {
+    "title": "The Viscount Who Loved Me",
+    "authors": [
+      "Julia Quinn"
+    ],
+    "isbn_13": "9782412345030",
+    "isbn_10": "2412345031",
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 372
+  },
+  {
+    "title": "An Offer from a Gentleman",
+    "authors": [
+      "Julia Quinn"
+    ],
+    "isbn_13": "9781845322281",
+    "isbn_10": "1845322282",
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 384
+  },
+  {
+    "title": "Romancing Mister Bridgerton",
+    "authors": [
+      "Julia Quinn"
+    ],
+    "isbn_13": "9780045252541",
+    "isbn_10": "0045252548",
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 370
+  },
+  {
+    "title": "To Sir Phillip, with Love",
+    "authors": [
+      "Julia Quinn"
+    ],
+    "isbn_13": "9782130531661",
+    "isbn_10": "2130531660",
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 352
+  },
+  {
+    "title": "When He Was Wicked",
+    "authors": [
+      "Julia Quinn"
+    ],
+    "isbn_13": "9786320336395",
+    "isbn_10": "6320336390",
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 384
+  },
+  {
+    "title": "It's in His Kiss",
+    "authors": [
+      "Julia Quinn"
+    ],
+    "isbn_13": "9782080535207",
+    "isbn_10": "208053520X",
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 370
+  },
+  {
+    "title": "On the Way to the Wedding",
+    "authors": [
+      "Julia Quinn"
+    ],
+    "isbn_13": "9783177205201",
+    "isbn_10": "3177205205",
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 373
+  },
+  {
+    "title": "Nora Roberts: Vision in White",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9784179621556",
+    "isbn_10": "417962155X",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 336
+  },
+  {
+    "title": "Bed of Roses",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9784582133332",
+    "isbn_10": "4582133339",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 314
+  },
+  {
+    "title": "Savor the Moment",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9789150637885",
+    "isbn_10": "9150637886",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 324
+  },
+  {
+    "title": "Happy Ever After",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9784245824201",
+    "isbn_10": "4245824204",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 290
+  },
+  {
+    "title": "The Witness",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9785615209314",
+    "isbn_10": "5615209313",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 488
+  },
+  {
+    "title": "Year One",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9784511254749",
+    "isbn_10": "4511254745",
+    "genres": [
+      "Romance",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 432
+  },
+  {
+    "title": "Of Blood and Bone",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9782953509991",
+    "isbn_10": "2953509992",
+    "genres": [
+      "Romance",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 464
+  },
+  {
+    "title": "The Rise of Magicks",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9782505239000",
+    "isbn_10": "2505239002",
+    "genres": [
+      "Romance",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 464
+  },
+  {
+    "title": "Hideaway",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9788406150123",
+    "isbn_10": "8406150122",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 448
+  },
+  {
+    "title": "Legacy",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9780161352545",
+    "isbn_10": "0161352545",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 400
+  },
+  {
+    "title": "Nightwork",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9784033338279",
+    "isbn_10": "4033338276",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 464
+  },
+  {
+    "title": "Identity",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9784245215269",
+    "isbn_10": "4245215267",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 480
+  },
+  {
+    "title": "Coming Home",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9784774639437",
+    "isbn_10": "4774639435",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 416
+  }
+]

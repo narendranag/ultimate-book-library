@@ -1,0 +1,999 @@
+[
+  {
+    "title": "Life",
+    "authors": [
+      "Keith Richards"
+    ],
+    "isbn_13": "9781229261243",
+    "isbn_10": "1229261249",
+    "genres": [
+      "Memoir",
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 564
+  },
+  {
+    "title": "Chronicles: Volume One",
+    "authors": [
+      "Bob Dylan"
+    ],
+    "isbn_13": "9789166225434",
+    "isbn_10": "9166225434",
+    "genres": [
+      "Memoir",
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 293
+  },
+  {
+    "title": "Scar Tissue",
+    "authors": [
+      "Anthony Kiedis"
+    ],
+    "isbn_13": "9783404505821",
+    "isbn_10": "3404505824",
+    "genres": [
+      "Memoir",
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 465
+  },
+  {
+    "title": "The Dirt",
+    "authors": [
+      "Mötley Crüe"
+    ],
+    "isbn_13": "9786432234367",
+    "isbn_10": "6432234360",
+    "genres": [
+      "Memoir",
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 431
+  },
+  {
+    "title": "Hunger Makes Me a Modern Girl",
+    "authors": [
+      "Carrie Brownstein"
+    ],
+    "isbn_13": "9786845335118",
+    "isbn_10": "6845335117",
+    "genres": [
+      "Memoir",
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 242
+  },
+  {
+    "title": "Girl in a Band",
+    "authors": [
+      "Kim Gordon"
+    ],
+    "isbn_13": "9784179011814",
+    "isbn_10": "4179011816",
+    "genres": [
+      "Memoir",
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 279
+  },
+  {
+    "title": "Clothes, Clothes, Clothes. Music, Music, Music. Boys, Boys, Boys.",
+    "authors": [
+      "Viv Albertine"
+    ],
+    "isbn_13": "9782553525148",
+    "isbn_10": "2553525141",
+    "genres": [
+      "Memoir",
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 464
+  },
+  {
+    "title": "How Music Works",
+    "authors": [
+      "David Byrne"
+    ],
+    "isbn_13": "9781553053521",
+    "isbn_10": "1553053524",
+    "genres": [
+      "Music",
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 352
+  },
+  {
+    "title": "Year of the Monkey",
+    "authors": [
+      "Patti Smith"
+    ],
+    "isbn_13": "9781351345323",
+    "isbn_10": "135134532X",
+    "genres": [
+      "Memoir",
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 173
+  },
+  {
+    "title": "A Devotion",
+    "authors": [
+      "Patti Smith"
+    ],
+    "isbn_13": "9785417512728",
+    "isbn_10": "5417512729",
+    "genres": [
+      "Memoir",
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 96
+  },
+  {
+    "title": "Decoded",
+    "authors": [
+      "Jay-Z"
+    ],
+    "isbn_13": "9780690470598",
+    "isbn_10": "0690470592",
+    "genres": [
+      "Memoir",
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 336
+  },
+  {
+    "title": "Mo' Meta Blues",
+    "authors": [
+      "Questlove"
+    ],
+    "isbn_13": "9788306663532",
+    "isbn_10": "8306663535",
+    "genres": [
+      "Memoir",
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 280
+  },
+  {
+    "title": "Music Is History",
+    "authors": [
+      "Questlove"
+    ],
+    "isbn_13": "9781463095130",
+    "isbn_10": "1463095139",
+    "genres": [
+      "Music",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 336
+  },
+  {
+    "title": "The Rest Is Noise",
+    "authors": [
+      "Alex Ross"
+    ],
+    "isbn_13": "9789501822526",
+    "isbn_10": "9501822524",
+    "genres": [
+      "Music",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 624
+  },
+  {
+    "title": "Listen to This",
+    "authors": [
+      "Alex Ross"
+    ],
+    "isbn_13": "9786454955141",
+    "isbn_10": "6454955141",
+    "genres": [
+      "Music",
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 384
+  },
+  {
+    "title": "Wagnerism",
+    "authors": [
+      "Alex Ross"
+    ],
+    "isbn_13": "9782082954365",
+    "isbn_10": "2082954366",
+    "genres": [
+      "Music",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 784
+  },
+  {
+    "title": "Musicophilia",
+    "authors": [
+      "Oliver Sacks"
+    ],
+    "isbn_13": "9784554024507",
+    "isbn_10": "4554024504",
+    "genres": [
+      "Music",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 381
+  },
+  {
+    "title": "This Is Your Brain on Music",
+    "authors": [
+      "Daniel Levitin"
+    ],
+    "isbn_13": "9786500881110",
+    "isbn_10": "6500881117",
+    "genres": [
+      "Music",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 322
+  },
+  {
+    "title": "The World in Six Songs",
+    "authors": [
+      "Daniel Levitin"
+    ],
+    "isbn_13": "9783512012310",
+    "isbn_10": "3512012310",
+    "genres": [
+      "Music",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 338
+  },
+  {
+    "title": "Love Is a Mix Tape",
+    "authors": [
+      "Rob Sheffield"
+    ],
+    "isbn_13": "9783616448213",
+    "isbn_10": "3616448212",
+    "genres": [
+      "Memoir",
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 225
+  },
+  {
+    "title": "Dreaming the Beatles",
+    "authors": [
+      "Rob Sheffield"
+    ],
+    "isbn_13": "9785091357639",
+    "isbn_10": "5091357637",
+    "genres": [
+      "Music",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 368
+  },
+  {
+    "title": "Please Kill Me",
+    "authors": [
+      "Legs McNeil"
+    ],
+    "isbn_13": "9788351533354",
+    "isbn_10": "8351533351",
+    "genres": [
+      "Music",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 430
+  },
+  {
+    "title": "Our Band Could Be Your Life",
+    "authors": [
+      "Michael Azerrad"
+    ],
+    "isbn_13": "9788510121415",
+    "isbn_10": "8510121419",
+    "genres": [
+      "Music",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 520
+  },
+  {
+    "title": "33 1/3: Loveless",
+    "authors": [
+      "Mike McGonigal"
+    ],
+    "isbn_13": "9782087737451",
+    "isbn_10": "2087737452",
+    "genres": [
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 144
+  },
+  {
+    "title": "Rip It Up and Start Again",
+    "authors": [
+      "Simon Reynolds"
+    ],
+    "isbn_13": "9781392301210",
+    "isbn_10": "1392301211",
+    "genres": [
+      "Music",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 408
+  },
+  {
+    "title": "Retromania",
+    "authors": [
+      "Simon Reynolds"
+    ],
+    "isbn_13": "9780421254749",
+    "isbn_10": "0421254742",
+    "genres": [
+      "Music",
+      "Culture"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 458
+  },
+  {
+    "title": "Can't Stop Won't Stop",
+    "authors": [
+      "Jeff Chang"
+    ],
+    "isbn_13": "9789092496151",
+    "isbn_10": "9092496154",
+    "genres": [
+      "Music",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 546
+  },
+  {
+    "title": "Born in the U.S.A.",
+    "authors": [
+      "Geoffrey Himes"
+    ],
+    "isbn_13": "9785400649325",
+    "isbn_10": "5400649327",
+    "genres": [
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 144
+  },
+  {
+    "title": "Rebel Rebel",
+    "authors": [
+      "Chris O'Leary"
+    ],
+    "isbn_13": "9785441620062",
+    "isbn_10": "5441620064",
+    "genres": [
+      "Music",
+      "Biography"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 720
+  },
+  {
+    "title": "Easy Riders, Raging Bulls",
+    "authors": [
+      "Peter Biskind"
+    ],
+    "isbn_13": "9785756257052",
+    "isbn_10": "5756257055",
+    "genres": [
+      "Cinema",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 506
+  },
+  {
+    "title": "Down and Dirty Pictures",
+    "authors": [
+      "Peter Biskind"
+    ],
+    "isbn_13": "9782312438269",
+    "isbn_10": "2312438267",
+    "genres": [
+      "Cinema",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 549
+  },
+  {
+    "title": "Adventures in the Screen Trade",
+    "authors": [
+      "William Goldman"
+    ],
+    "isbn_13": "9783034592604",
+    "isbn_10": "3034592604",
+    "genres": [
+      "Cinema",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 418
+  },
+  {
+    "title": "Which Lie Did I Tell?",
+    "authors": [
+      "William Goldman"
+    ],
+    "isbn_13": "9785615459900",
+    "isbn_10": "5615459905",
+    "genres": [
+      "Cinema",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 496
+  },
+  {
+    "title": "Hitchcock/Truffaut",
+    "authors": [
+      "François Truffaut"
+    ],
+    "isbn_13": "9782102005817",
+    "isbn_10": "210200581X",
+    "genres": [
+      "Cinema"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1966,
+    "page_count": 368
+  },
+  {
+    "title": "Sculpting in Time",
+    "authors": [
+      "Andrei Tarkovsky"
+    ],
+    "isbn_13": "9784017949002",
+    "isbn_10": "4017949002",
+    "genres": [
+      "Cinema",
+      "Philosophy"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1967,
+    "page_count": 256
+  },
+  {
+    "title": "Notes on the Cinematographer",
+    "authors": [
+      "Robert Bresson"
+    ],
+    "isbn_13": "9784822443917",
+    "isbn_10": "4822443914",
+    "genres": [
+      "Cinema"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 136
+  },
+  {
+    "title": "Making Movies",
+    "authors": [
+      "Sidney Lumet"
+    ],
+    "isbn_13": "9788164221448",
+    "isbn_10": "8164221449",
+    "genres": [
+      "Cinema",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 224
+  },
+  {
+    "title": "In the Blink of an Eye",
+    "authors": [
+      "Walter Murch"
+    ],
+    "isbn_13": "9786831309291",
+    "isbn_10": "6831309291",
+    "genres": [
+      "Cinema"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 146
+  },
+  {
+    "title": "Rebel Without a Crew",
+    "authors": [
+      "Robert Rodriguez"
+    ],
+    "isbn_13": "9781642452518",
+    "isbn_10": "1642452513",
+    "genres": [
+      "Cinema",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 285
+  },
+  {
+    "title": "A Life in Movies",
+    "authors": [
+      "Michael Powell"
+    ],
+    "isbn_13": "9781880792407",
+    "isbn_10": "1880792400",
+    "genres": [
+      "Cinema",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 723
+  },
+  {
+    "title": "My Last Sigh",
+    "authors": [
+      "Luis Buñuel"
+    ],
+    "isbn_13": "9785450015903",
+    "isbn_10": "5450015909",
+    "genres": [
+      "Cinema",
+      "Memoir"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 256
+  },
+  {
+    "title": "Something Like an Autobiography",
+    "authors": [
+      "Akira Kurosawa"
+    ],
+    "isbn_13": "9784312852281",
+    "isbn_10": "4312852286",
+    "genres": [
+      "Cinema",
+      "Memoir"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 206
+  },
+  {
+    "title": "On Directing Film",
+    "authors": [
+      "David Mamet"
+    ],
+    "isbn_13": "9782203471245",
+    "isbn_10": "2203471247",
+    "genres": [
+      "Cinema"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 107
+  },
+  {
+    "title": "Bambi vs. Godzilla",
+    "authors": [
+      "David Mamet"
+    ],
+    "isbn_13": "9789625955780",
+    "isbn_10": "962595578X",
+    "genres": [
+      "Cinema",
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 250
+  },
+  {
+    "title": "The Story of Film",
+    "authors": [
+      "Mark Cousins"
+    ],
+    "isbn_13": "9781830414373",
+    "isbn_10": "1830414372",
+    "genres": [
+      "Cinema",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 512
+  },
+  {
+    "title": "Pictures at a Revolution",
+    "authors": [
+      "Mark Harris"
+    ],
+    "isbn_13": "9785167813052",
+    "isbn_10": "5167813050",
+    "genres": [
+      "Cinema",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 490
+  },
+  {
+    "title": "Mike Nichols: A Life",
+    "authors": [
+      "Mark Harris"
+    ],
+    "isbn_13": "9782115286487",
+    "isbn_10": "2115286480",
+    "genres": [
+      "Cinema",
+      "Biography"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 688
+  },
+  {
+    "title": "Five Came Back",
+    "authors": [
+      "Mark Harris"
+    ],
+    "isbn_13": "9784249124246",
+    "isbn_10": "424912424X",
+    "genres": [
+      "Cinema",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 512
+  },
+  {
+    "title": "How to Read a Film",
+    "authors": [
+      "James Monaco"
+    ],
+    "isbn_13": "9782445946563",
+    "isbn_10": "2445946565",
+    "genres": [
+      "Cinema"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 672
+  },
+  {
+    "title": "Film Art: An Introduction",
+    "authors": [
+      "David Bordwell"
+    ],
+    "isbn_13": "9780974444352",
+    "isbn_10": "0974444359",
+    "genres": [
+      "Cinema"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 528
+  },
+  {
+    "title": "The Conversations",
+    "authors": [
+      "Michael Ondaatje"
+    ],
+    "isbn_13": "9784185443050",
+    "isbn_10": "4185443056",
+    "genres": [
+      "Cinema"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 352
+  },
+  {
+    "title": "My Week with Marilyn",
+    "authors": [
+      "Colin Clark"
+    ],
+    "isbn_13": "9783519034780",
+    "isbn_10": "3519034786",
+    "genres": [
+      "Cinema",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 224
+  },
+  {
+    "title": "Open",
+    "authors": [
+      "Andre Agassi"
+    ],
+    "isbn_13": "9784424741534",
+    "isbn_10": "4424741532",
+    "genres": [
+      "Memoir",
+      "Sports"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 385
+  },
+  {
+    "title": "Moonwalking with Einstein",
+    "authors": [
+      "Joshua Foer"
+    ],
+    "isbn_13": "9785652331450",
+    "isbn_10": "5652331453",
+    "genres": [
+      "Non-Fiction",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 307
+  },
+  {
+    "title": "The Moviegoer",
+    "authors": [
+      "Walker Percy"
+    ],
+    "isbn_13": "9784005105748",
+    "isbn_10": "4005105742",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1961,
+    "page_count": 242
+  },
+  {
+    "title": "A Visit from the Goon Squad",
+    "authors": [
+      "Jennifer Egan"
+    ],
+    "isbn_13": "9780214466007",
+    "isbn_10": "0214466000",
+    "genres": [
+      "Literary Fiction",
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 340
+  },
+  {
+    "title": "High Fidelity",
+    "authors": [
+      "Nick Hornby"
+    ],
+    "isbn_13": "9782862144047",
+    "isbn_10": "2862144045",
+    "genres": [
+      "Literary Fiction",
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 323
+  },
+  {
+    "title": "Daisy Jones & The Six",
+    "authors": [
+      "Taylor Jenkins Reid"
+    ],
+    "isbn_13": "9787508515335",
+    "isbn_10": "7508515331",
+    "genres": [
+      "Literary Fiction",
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 355
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "authors": [
+      "Taylor Jenkins Reid"
+    ],
+    "isbn_13": "9789624751581",
+    "isbn_10": "9624751587",
+    "genres": [
+      "Literary Fiction",
+      "Cinema"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 389
+  },
+  {
+    "title": "Malibu Rising",
+    "authors": [
+      "Taylor Jenkins Reid"
+    ],
+    "isbn_13": "9782425653108",
+    "isbn_10": "2425653104",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 369
+  },
+  {
+    "title": "Carrie Soto Is Back",
+    "authors": [
+      "Taylor Jenkins Reid"
+    ],
+    "isbn_13": "9785254132820",
+    "isbn_10": "5254132825",
+    "genres": [
+      "Literary Fiction",
+      "Sports"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 364
+  },
+  {
+    "title": "The Final Revival of Opal & Nev",
+    "authors": [
+      "Dawnie Walton"
+    ],
+    "isbn_13": "9785106034258",
+    "isbn_10": "5106034256",
+    "genres": [
+      "Literary Fiction",
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 368
+  },
+  {
+    "title": "Utopia Avenue",
+    "authors": [
+      "David Mitchell"
+    ],
+    "isbn_13": "9786172007252",
+    "isbn_10": "6172007254",
+    "genres": [
+      "Literary Fiction",
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 577
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "title": "In Cold Blood",
+    "authors": [
+      "Truman Capote"
+    ],
+    "isbn_13": "9788713706105",
+    "isbn_10": "8713706101",
+    "genres": [
+      "True Crime",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1966,
+    "page_count": 343
+  },
+  {
+    "title": "The Executioner's Song",
+    "authors": [
+      "Norman Mailer"
+    ],
+    "isbn_13": "9786245929726",
+    "isbn_10": "6245929725",
+    "genres": [
+      "True Crime",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 1050
+  },
+  {
+    "title": "Helter Skelter",
+    "authors": [
+      "Vincent Bugliosi"
+    ],
+    "isbn_13": "9783920269160",
+    "isbn_10": "3920269160",
+    "genres": [
+      "True Crime"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 689
+  },
+  {
+    "title": "Midnight in the Garden of Good and Evil",
+    "authors": [
+      "John Berendt"
+    ],
+    "isbn_13": "9780421241121",
+    "isbn_10": "0421241128",
+    "genres": [
+      "True Crime"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 388
+  },
+  {
+    "title": "I'll Be Gone in the Dark",
+    "authors": [
+      "Michelle McNamara"
+    ],
+    "isbn_13": "9781541401976",
+    "isbn_10": "1541401972",
+    "genres": [
+      "True Crime"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 352
+  },
+  {
+    "title": "American Predator",
+    "authors": [
+      "Maureen Callahan"
+    ],
+    "isbn_13": "9786559832545",
+    "isbn_10": "6559832546",
+    "genres": [
+      "True Crime"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 320
+  },
+  {
+    "title": "The Devil in the White City",
+    "authors": [
+      "Erik Larson"
+    ],
+    "isbn_13": "9781324119425",
+    "isbn_10": "132411942X",
+    "genres": [
+      "True Crime",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 447
+  },
+  {
+    "title": "Say Nothing",
+    "authors": [
+      "Patrick Radden Keefe"
+    ],
+    "isbn_13": "9789449425230",
+    "isbn_10": "944942523X",
+    "genres": [
+      "True Crime",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 464
+  },
+  {
+    "title": "Empire of Pain",
+    "authors": [
+      "Patrick Radden Keefe"
+    ],
+    "isbn_13": "9780312240141",
+    "isbn_10": "0312240147",
+    "genres": [
+      "Non-Fiction",
+      "True Crime"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 535
+  },
+  {
+    "title": "Rogues",
+    "authors": [
+      "Patrick Radden Keefe"
+    ],
+    "isbn_13": "9784405467378",
+    "isbn_10": "4405467374",
+    "genres": [
+      "Non-Fiction",
+      "Journalism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 384
+  },
+  {
+    "title": "The Stranger Beside Me",
+    "authors": [
+      "Ann Rule"
+    ],
+    "isbn_13": "9782373250039",
+    "isbn_10": "2373250039",
+    "genres": [
+      "True Crime"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 537
+  },
+  {
+    "title": "Small Sacrifices",
+    "authors": [
+      "Ann Rule"
+    ],
+    "isbn_13": "9780712125406",
+    "isbn_10": "071212540X",
+    "genres": [
+      "True Crime"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 480
+  },
+  {
+    "title": "If You Tell",
+    "authors": [
+      "Gregg Olsen"
+    ],
+    "isbn_13": "9786181563541",
+    "isbn_10": "6181563547",
+    "genres": [
+      "True Crime"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 384
+  },
+  {
+    "title": "My Dark Vanessa",
+    "authors": [
+      "Kate Elizabeth Russell"
+    ],
+    "isbn_13": "9788015004510",
+    "isbn_10": "8015004519",
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 373
+  },
+  {
+    "title": "American Spy",
+    "authors": [
+      "Lauren Wilkinson"
+    ],
+    "isbn_13": "9781454402039",
+    "isbn_10": "1454402032",
+    "genres": [
+      "Literary Fiction",
+      "Espionage"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 292
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "authors": [
+      "Stieg Larsson"
+    ],
+    "isbn_13": "9789880700934",
+    "isbn_10": "9880700937",
+    "genres": [
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 465
+  },
+  {
+    "title": "The Lincoln Lawyer",
+    "authors": [
+      "Michael Connelly"
+    ],
+    "isbn_13": "9782474703380",
+    "isbn_10": "2474703381",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 404
+  },
+  {
+    "title": "The Brass Verdict",
+    "authors": [
+      "Michael Connelly"
+    ],
+    "isbn_13": "9784599350609",
+    "isbn_10": "4599350605",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 422
+  },
+  {
+    "title": "The Reversal",
+    "authors": [
+      "Michael Connelly"
+    ],
+    "isbn_13": "9780315610217",
+    "isbn_10": "0315610212",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 389
+  },
+  {
+    "title": "The Fifth Witness",
+    "authors": [
+      "Michael Connelly"
+    ],
+    "isbn_13": "9785432485540",
+    "isbn_10": "5432485540",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 389
+  },
+  {
+    "title": "The Gods of Guilt",
+    "authors": [
+      "Michael Connelly"
+    ],
+    "isbn_13": "9787213020445",
+    "isbn_10": "7213020447",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 391
+  },
+  {
+    "title": "The Law of Innocence",
+    "authors": [
+      "Michael Connelly"
+    ],
+    "isbn_13": "9789468363124",
+    "isbn_10": "9468363120",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 400
+  },
+  {
+    "title": "Resurrection Walk",
+    "authors": [
+      "Michael Connelly"
+    ],
+    "isbn_13": "9781041320586",
+    "isbn_10": "1041320582",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 416
+  },
+  {
+    "title": "The Black Echo",
+    "authors": [
+      "Michael Connelly"
+    ],
+    "isbn_13": "9782032672509",
+    "isbn_10": "2032672502",
+    "genres": [
+      "Crime Fiction",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 512
+  },
+  {
+    "title": "The Black Ice",
+    "authors": [
+      "Michael Connelly"
+    ],
+    "isbn_13": "9788310355331",
+    "isbn_10": "8310355335",
+    "genres": [
+      "Crime Fiction",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 432
+  },
+  {
+    "title": "The Concrete Blonde",
+    "authors": [
+      "Michael Connelly"
+    ],
+    "isbn_13": "9783080033021",
+    "isbn_10": "3080033027",
+    "genres": [
+      "Crime Fiction",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 453
+  },
+  {
+    "title": "The Last Coyote",
+    "authors": [
+      "Michael Connelly"
+    ],
+    "isbn_13": "9785457152236",
+    "isbn_10": "5457152235",
+    "genres": [
+      "Crime Fiction",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 410
+  },
+  {
+    "title": "Trunk Music",
+    "authors": [
+      "Michael Connelly"
+    ],
+    "isbn_13": "9786122405732",
+    "isbn_10": "6122405736",
+    "genres": [
+      "Crime Fiction",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 436
+  },
+  {
+    "title": "Angels Flight",
+    "authors": [
+      "Michael Connelly"
+    ],
+    "isbn_13": "9784297065881",
+    "isbn_10": "4297065886",
+    "genres": [
+      "Crime Fiction",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 399
+  },
+  {
+    "title": "A Darkness More Than Night",
+    "authors": [
+      "Michael Connelly"
+    ],
+    "isbn_13": "9789358922868",
+    "isbn_10": "9358922869",
+    "genres": [
+      "Crime Fiction",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 417
+  },
+  {
+    "title": "City of Bones",
+    "authors": [
+      "Michael Connelly"
+    ],
+    "isbn_13": "9783102970884",
+    "isbn_10": "3102970885",
+    "genres": [
+      "Crime Fiction",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 393
+  },
+  {
+    "title": "The Narrows",
+    "authors": [
+      "Michael Connelly"
+    ],
+    "isbn_13": "9782246198857",
+    "isbn_10": "2246198852",
+    "genres": [
+      "Crime Fiction",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 403
+  },
+  {
+    "title": "A Time to Kill",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9785845647078",
+    "isbn_10": "584564707X",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 515
+  },
+  {
+    "title": "The Firm",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9783916371136",
+    "isbn_10": "3916371134",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 421
+  },
+  {
+    "title": "The Pelican Brief",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9783551693525",
+    "isbn_10": "3551693528",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 387
+  },
+  {
+    "title": "The Client",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9788880372301",
+    "isbn_10": "8880372300",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 422
+  },
+  {
+    "title": "The Chamber",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9782146004593",
+    "isbn_10": "2146004592",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 486
+  },
+  {
+    "title": "The Rainmaker",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9781046353503",
+    "isbn_10": "1046353500",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 434
+  },
+  {
+    "title": "The Runaway Jury",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9783291604621",
+    "isbn_10": "3291604628",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 414
+  },
+  {
+    "title": "The Partner",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9783014960539",
+    "isbn_10": "3014960535",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 366
+  },
+  {
+    "title": "The Street Lawyer",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9782992927534",
+    "isbn_10": "2992927538",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 348
+  },
+  {
+    "title": "A Painted House",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9784954920249",
+    "isbn_10": "4954920248",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 388
+  },
+  {
+    "title": "The King of Torts",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9788280949820",
+    "isbn_10": "8280949828",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 372
+  },
+  {
+    "title": "The Innocent Man",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9785737489229",
+    "isbn_10": "5737489221",
+    "genres": [
+      "True Crime"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 360
+  },
+  {
+    "title": "The Appeal",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9786385034267",
+    "isbn_10": "6385034267",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 358
+  },
+  {
+    "title": "The Litigators",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9788231482253",
+    "isbn_10": "8231482253",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 385
+  },
+  {
+    "title": "Sycamore Row",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9784924225190",
+    "isbn_10": "4924225193",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 448
+  },
+  {
+    "title": "The Whistler",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9784503200457",
+    "isbn_10": "4503200453",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 384
+  },
+  {
+    "title": "The Rooster Bar",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9788590364368",
+    "isbn_10": "8590364364",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 353
+  },
+  {
+    "title": "A Time for Mercy",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9784643069815",
+    "isbn_10": "4643069813",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 480
+  },
+  {
+    "title": "The Judge's List",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9781435181106",
+    "isbn_10": "1435181107",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 368
+  },
+  {
+    "title": "Sparring Partners",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9782232532030",
+    "isbn_10": "2232532038",
+    "genres": [
+      "Legal Thriller",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 304
+  },
+  {
+    "title": "The Exchange",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9783042230659",
+    "isbn_10": "3042230651",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 352
+  },
+  {
+    "title": "Camino Ghosts",
+    "authors": [
+      "John Grisham"
+    ],
+    "isbn_13": "9782081004214",
+    "isbn_10": "2081004216",
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 288
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "authors": [
+      "Harper Lee"
+    ],
+    "isbn_13": "9784223440454",
+    "isbn_10": "4223440454",
+    "genres": [
+      "Literary Fiction",
+      "Legal"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1960,
+    "page_count": 281
+  },
+  {
+    "title": "Anatomy of a Murder",
+    "authors": [
+      "Robert Traver"
+    ],
+    "isbn_13": "9785182075411",
+    "isbn_10": "5182075413",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1958,
+    "page_count": 437
+  },
+  {
+    "title": "Presumed Innocent",
+    "authors": [
+      "Scott Turow"
+    ],
+    "isbn_13": "9785840381304",
+    "isbn_10": "5840381306",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 421
+  },
+  {
+    "title": "The Burden of Proof",
+    "authors": [
+      "Scott Turow"
+    ],
+    "isbn_13": "9780832010125",
+    "isbn_10": "083201012X",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 515
+  },
+  {
+    "title": "Reversible Errors",
+    "authors": [
+      "Scott Turow"
+    ],
+    "isbn_13": "9789938710199",
+    "isbn_10": "9938710190",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 435
+  },
+  {
+    "title": "Innocent",
+    "authors": [
+      "Scott Turow"
+    ],
+    "isbn_13": "9789026420856",
+    "isbn_10": "9026420854",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 406
+  },
+  {
+    "title": "The Last Trial",
+    "authors": [
+      "Scott Turow"
+    ],
+    "isbn_13": "9782963173724",
+    "isbn_10": "2963173725",
+    "genres": [
+      "Legal Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 448
+  },
+  {
+    "title": "Just Mercy",
+    "authors": [
+      "Bryan Stevenson"
+    ],
+    "isbn_13": "9780819004864",
+    "isbn_10": "0819004863",
+    "genres": [
+      "Non-Fiction",
+      "Legal",
+      "Race"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 336
+  },
+  {
+    "title": "The New Jim Crow",
+    "authors": [
+      "Michelle Alexander"
+    ],
+    "isbn_13": "9788043143526",
+    "isbn_10": "8043143528",
+    "genres": [
+      "Non-Fiction",
+      "Legal",
+      "Race"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 312
+  },
+  {
+    "title": "Evicted",
+    "authors": [
+      "Matthew Desmond"
+    ],
+    "isbn_13": "9788290523638",
+    "isbn_10": "8290523637",
+    "genres": [
+      "Non-Fiction",
+      "Sociology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 418
+  },
+  {
+    "title": "Catch and Kill",
+    "authors": [
+      "Ronan Farrow"
+    ],
+    "isbn_13": "9784033641409",
+    "isbn_10": "4033641408",
+    "genres": [
+      "Non-Fiction",
+      "Journalism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 448
+  },
+  {
+    "title": "She Said",
+    "authors": [
+      "Jodi Kantor"
+    ],
+    "isbn_13": "9787423842394",
+    "isbn_10": "7423842397",
+    "genres": [
+      "Non-Fiction",
+      "Journalism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 320
+  },
+  {
+    "title": "Bad Blood",
+    "authors": [
+      "John Carreyrou"
+    ],
+    "isbn_13": "9788950132088",
+    "isbn_10": "8950132087",
+    "genres": [
+      "Non-Fiction",
+      "Journalism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 352
+  },
+  {
+    "title": "All the President's Men",
+    "authors": [
+      "Carl Bernstein"
+    ],
+    "isbn_13": "9781356444939",
+    "isbn_10": "1356444938",
+    "genres": [
+      "Non-Fiction",
+      "Journalism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 349
+  },
+  {
+    "title": "The Pentagon Papers",
+    "authors": [
+      "Neil Sheehan"
+    ],
+    "isbn_13": "9781043001452",
+    "isbn_10": "104300145X",
+    "genres": [
+      "Non-Fiction",
+      "Journalism",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1971,
+    "page_count": 677
+  },
+  {
+    "title": "A Bright Shining Lie",
+    "authors": [
+      "Neil Sheehan"
+    ],
+    "isbn_13": "9783959308243",
+    "isbn_10": "3959308248",
+    "genres": [
+      "Non-Fiction",
+      "War",
+      "Journalism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 861
+  },
+  {
+    "title": "Dispatches",
+    "authors": [
+      "Michael Herr"
+    ],
+    "isbn_13": "9783672126247",
+    "isbn_10": "3672126241",
+    "genres": [
+      "Non-Fiction",
+      "War",
+      "Journalism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 260
+  },
+  {
+    "title": "The Forever War",
+    "authors": [
+      "Dexter Filkins"
+    ],
+    "isbn_13": "9787415850512",
+    "isbn_10": "7415850513",
+    "genres": [
+      "Non-Fiction",
+      "War",
+      "Journalism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 368
+  },
+  {
+    "title": "Black Hawk Down",
+    "authors": [
+      "Mark Bowden"
+    ],
+    "isbn_13": "9789705793233",
+    "isbn_10": "9705793239",
+    "genres": [
+      "Non-Fiction",
+      "War",
+      "Journalism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 386
+  },
+  {
+    "title": "Killing Pablo",
+    "authors": [
+      "Mark Bowden"
+    ],
+    "isbn_13": "9787396123070",
+    "isbn_10": "7396123070",
+    "genres": [
+      "Non-Fiction",
+      "True Crime"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 296
+  },
+  {
+    "title": "Hue 1968",
+    "authors": [
+      "Mark Bowden"
+    ],
+    "isbn_13": "9784017735612",
+    "isbn_10": "4017735614",
+    "genres": [
+      "Non-Fiction",
+      "War",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 592
+  },
+  {
+    "title": "The Finish",
+    "authors": [
+      "Mark Bowden"
+    ],
+    "isbn_13": "9784130020800",
+    "isbn_10": "4130020803",
+    "genres": [
+      "Non-Fiction",
+      "War"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 288
+  },
+  {
+    "title": "Worm",
+    "authors": [
+      "Mark Bowden"
+    ],
+    "isbn_13": "9787067563228",
+    "isbn_10": "7067563224",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 245
+  }
+]
