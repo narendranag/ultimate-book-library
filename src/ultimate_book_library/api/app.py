@@ -39,6 +39,19 @@ def create_app(data_path: Path | None = None) -> FastAPI:
     )
 
     app.include_router(_build_router())
+
+    # Mount web frontend and static files
+    try:
+        from fastapi.staticfiles import StaticFiles
+
+        from ultimate_book_library.api.web import router as web_router
+
+        static_dir = Path(__file__).parent / "static"
+        app.mount("/static", StaticFiles(directory=str(static_dir)), name="static")
+        app.include_router(web_router)
+    except ImportError:
+        pass  # Jinja2 not installed, skip web frontend
+
     return app
 
 

@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+
+{% block title %}{{ book.title }} - Ultimate Book Library{% endblock %}
+
+{% block content %}
+<article>
+    <header>
+        <hgroup>
+            <h1>{{ book.title }}</h1>
+            <p>by {{ book.authors | join(", ") }}</p>
+        </hgroup>
+    </header>
+
+    <div class="grid">
+        <div>
+            {% if book.isbn_13 %}
+            <figure>
+                <img src="https://covers.openlibrary.org/b/isbn/{{ book.isbn_13 }}-L.jpg"
+                     alt="Cover of {{ book.title }}"
+                     loading="lazy"
+                     onerror="this.style.display='none'">
+            </figure>
+            {% endif %}
+        </div>
+        <div>
+            <table>
+                {% if book.year_published %}
+                <tr><th>Year</th><td>{{ book.year_published }}</td></tr>
+                {% endif %}
+                {% if book.isbn_13 %}
+                <tr><th>ISBN-13</th><td>{{ book.isbn_13 }}</td></tr>
+                {% endif %}
+                {% if book.isbn_10 %}
+                <tr><th>ISBN-10</th><td>{{ book.isbn_10 }}</td></tr>
+                {% endif %}
+                <tr><th>Language</th><td>{{ book.language }}</td></tr>
+                {% if book.page_count %}
+                <tr><th>Pages</th><td>{{ book.page_count }}</td></tr>
+                {% endif %}
+                {% if book.genres %}
+                <tr>
+                    <th>Genres</th>
+                    <td>
+                        {% for genre in book.genres %}
+                        <span class="genre-tag">{{ genre }}</span>
+                        {% endfor %}
+                    </td>
+                </tr>
+                {% endif %}
+            </table>
+
+            {% if book.description %}
+            <h3>Description</h3>
+            <p>{{ book.description }}</p>
+            {% endif %}
+        </div>
+    </div>
+
+    <footer>
+        <a href="/" role="button" class="outline">Back to library</a>
+    </footer>
+</article>
+{% endblock %}

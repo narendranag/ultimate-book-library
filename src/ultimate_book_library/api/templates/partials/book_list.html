@@ -1,0 +1,27 @@
+{% if books %}
+<div class="book-grid">
+    {% for book in books %}
+    <article>
+        <header>
+            <a href="/book/{{ book.isbn_13 or book.isbn_10 or '' }}">
+                <strong>{{ book.title }}</strong>
+            </a>
+        </header>
+        <p class="book-authors">{{ book.authors | join(", ") }}</p>
+        {% if book.year_published %}
+        <p><small>{{ book.year_published }}</small></p>
+        {% endif %}
+        <p>
+            {% for genre in book.genres[:3] %}
+            <span class="genre-tag">{{ genre }}</span>
+            {% endfor %}
+        </p>
+        {% if book.page_count %}
+        <p><small>{{ book.page_count }} pages</small></p>
+        {% endif %}
+    </article>
+    {% endfor %}
+</div>
+{% else %}
+<p>No books found.</p>
+{% endif %}

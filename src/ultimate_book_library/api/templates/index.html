@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section>
+    <h1>Browse Books</h1>
+
+    <div class="grid">
+        <div>
+            <input type="search"
+                   name="q"
+                   placeholder="Search books..."
+                   hx-get="/search-results"
+                   hx-trigger="input changed delay:300ms, search"
+                   hx-target="#book-results"
+                   hx-include="[name='genre'], [name='language']">
+        </div>
+        <div>
+            <select name="genre"
+                    hx-get="/search-results"
+                    hx-trigger="change"
+                    hx-target="#book-results"
+                    hx-include="[name='q'], [name='language']">
+                <option value="">All Genres</option>
+                {% for genre in genres %}
+                <option value="{{ genre }}">{{ genre }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div>
+            <select name="language"
+                    hx-get="/search-results"
+                    hx-trigger="change"
+                    hx-target="#book-results"
+                    hx-include="[name='q'], [name='genre']">
+                <option value="">All Languages</option>
+                {% for code, name in languages %}
+                <option value="{{ code }}">{{ name }}</option>
+                {% endfor %}
+            </select>
+        </div>
+    </div>
+
+    <p><small>{{ total }} books in the collection</small></p>
+
+    <div id="book-results">
+        {% include "partials/book_list.html" %}
+    </div>
+</section>
+{% endblock %}

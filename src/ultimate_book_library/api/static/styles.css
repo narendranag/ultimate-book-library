@@ -1,0 +1,30 @@
+.book-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+}
+
+.book-grid article {
+    margin-bottom: 0;
+}
+
+.book-authors {
+    color: var(--pico-muted-color);
+    margin-bottom: 0.25rem;
+}
+
+.genre-tag {
+    display: inline-block;
+    padding: 0.1rem 0.4rem;
+    margin: 0.1rem;
+    font-size: 0.75rem;
+    border-radius: 0.25rem;
+    background: var(--pico-primary-background);
+    color: var(--pico-primary-inverse);
+}
+
+footer.container {
+    text-align: center;
+    padding: 2rem 0;
+    color: var(--pico-muted-color);
+}
