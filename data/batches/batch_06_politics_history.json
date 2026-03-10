@@ -1,0 +1,1791 @@
+[
+  {
+    "title": "The Republic",
+    "authors": [
+      "Plato"
+    ],
+    "isbn_13": "9788307882376",
+    "isbn_10": "8307882370",
+    "genres": [
+      "Philosophy",
+      "Political Philosophy",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": -380,
+    "page_count": 416
+  },
+  {
+    "title": "Politics",
+    "authors": [
+      "Aristotle"
+    ],
+    "isbn_13": "9783983345979",
+    "isbn_10": "3983345972",
+    "genres": [
+      "Philosophy",
+      "Political Philosophy",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": -350,
+    "page_count": 340
+  },
+  {
+    "title": "The Prince",
+    "authors": [
+      "Niccolo Machiavelli"
+    ],
+    "isbn_13": "9783138744411",
+    "isbn_10": "3138744419",
+    "genres": [
+      "Political Philosophy",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1532,
+    "page_count": 140
+  },
+  {
+    "title": "Leviathan",
+    "authors": [
+      "Thomas Hobbes"
+    ],
+    "isbn_13": "9786213210405",
+    "isbn_10": "6213210407",
+    "genres": [
+      "Political Philosophy",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1651,
+    "page_count": 736
+  },
+  {
+    "title": "Two Treatises of Government",
+    "authors": [
+      "John Locke"
+    ],
+    "isbn_13": "9781601532008",
+    "isbn_10": "1601532008",
+    "genres": [
+      "Political Philosophy",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1689,
+    "page_count": 464
+  },
+  {
+    "title": "The Social Contract",
+    "authors": [
+      "Jean-Jacques Rousseau"
+    ],
+    "isbn_13": "9789295323278",
+    "isbn_10": "9295323270",
+    "genres": [
+      "Political Philosophy",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1762,
+    "page_count": 168
+  },
+  {
+    "title": "On Liberty",
+    "authors": [
+      "John Stuart Mill"
+    ],
+    "isbn_13": "9782063531585",
+    "isbn_10": "2063531587",
+    "genres": [
+      "Political Philosophy",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1859,
+    "page_count": 128
+  },
+  {
+    "title": "The Communist Manifesto",
+    "authors": [
+      "Karl Marx"
+    ],
+    "isbn_13": "9781281522504",
+    "isbn_10": "1281522503",
+    "genres": [
+      "Political Philosophy",
+      "Classic",
+      "Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1848,
+    "page_count": 96
+  },
+  {
+    "title": "Das Kapital",
+    "authors": [
+      "Karl Marx"
+    ],
+    "isbn_13": "9780533673476",
+    "isbn_10": "053367347X",
+    "genres": [
+      "Political Philosophy",
+      "Economics",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1867,
+    "page_count": 1152
+  },
+  {
+    "title": "The Wealth of Nations",
+    "authors": [
+      "Adam Smith"
+    ],
+    "isbn_13": "9782743853433",
+    "isbn_10": "2743853433",
+    "genres": [
+      "Economics",
+      "Political Philosophy",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1776,
+    "page_count": 1264
+  },
+  {
+    "title": "A Theory of Justice",
+    "authors": [
+      "John Rawls"
+    ],
+    "isbn_13": "9786040273628",
+    "isbn_10": "6040273623",
+    "genres": [
+      "Political Philosophy",
+      "Ethics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1971,
+    "page_count": 607
+  },
+  {
+    "title": "Anarchy, State, and Utopia",
+    "authors": [
+      "Robert Nozick"
+    ],
+    "isbn_13": "9782114805221",
+    "isbn_10": "2114805220",
+    "genres": [
+      "Political Philosophy",
+      "Libertarian"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 367
+  },
+  {
+    "title": "The Origins of Totalitarianism",
+    "authors": [
+      "Hannah Arendt"
+    ],
+    "isbn_13": "9784592100089",
+    "isbn_10": "4592100085",
+    "genres": [
+      "Politics",
+      "History",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 704
+  },
+  {
+    "title": "Eichmann in Jerusalem",
+    "authors": [
+      "Hannah Arendt"
+    ],
+    "isbn_13": "9785744687144",
+    "isbn_10": "5744687149",
+    "genres": [
+      "Politics",
+      "History",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 312
+  },
+  {
+    "title": "The Human Condition",
+    "authors": [
+      "Hannah Arendt"
+    ],
+    "isbn_13": "9783591440226",
+    "isbn_10": "3591440221",
+    "genres": [
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1958,
+    "page_count": 349
+  },
+  {
+    "title": "The Road to Serfdom",
+    "authors": [
+      "Friedrich Hayek"
+    ],
+    "isbn_13": "9789017352920",
+    "isbn_10": "9017352922",
+    "genres": [
+      "Political Philosophy",
+      "Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1944,
+    "page_count": 274
+  },
+  {
+    "title": "Capitalism and Freedom",
+    "authors": [
+      "Milton Friedman"
+    ],
+    "isbn_13": "9780620497763",
+    "isbn_10": "0620497769",
+    "genres": [
+      "Economics",
+      "Political Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 208
+  },
+  {
+    "title": "Manufacturing Consent",
+    "authors": [
+      "Noam Chomsky"
+    ],
+    "isbn_13": "9780724205332",
+    "isbn_10": "0724205330",
+    "genres": [
+      "Politics",
+      "Media",
+      "Propaganda"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 412
+  },
+  {
+    "title": "Understanding Power",
+    "authors": [
+      "Noam Chomsky"
+    ],
+    "isbn_13": "9781007515995",
+    "isbn_10": "1007515996",
+    "genres": [
+      "Politics",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 416
+  },
+  {
+    "title": "Hegemony or Survival",
+    "authors": [
+      "Noam Chomsky"
+    ],
+    "isbn_13": "9787321291652",
+    "isbn_10": "7321291650",
+    "genres": [
+      "Politics",
+      "Foreign Policy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 278
+  },
+  {
+    "title": "The Clash of Civilizations",
+    "authors": [
+      "Samuel Huntington"
+    ],
+    "isbn_13": "9781438924427",
+    "isbn_10": "1438924429",
+    "genres": [
+      "Politics",
+      "International Relations"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 367
+  },
+  {
+    "title": "The End of History and the Last Man",
+    "authors": [
+      "Francis Fukuyama"
+    ],
+    "isbn_13": "9783165241815",
+    "isbn_10": "3165241813",
+    "genres": [
+      "Politics",
+      "Philosophy",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 464
+  },
+  {
+    "title": "Political Order and Political Decay",
+    "authors": [
+      "Francis Fukuyama"
+    ],
+    "isbn_13": "9781320210249",
+    "isbn_10": "1320210244",
+    "genres": [
+      "Politics",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 672
+  },
+  {
+    "title": "The Shock Doctrine",
+    "authors": [
+      "Naomi Klein"
+    ],
+    "isbn_13": "9781242711749",
+    "isbn_10": "1242711740",
+    "genres": [
+      "Politics",
+      "Economics",
+      "Globalization"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 558
+  },
+  {
+    "title": "This Changes Everything",
+    "authors": [
+      "Naomi Klein"
+    ],
+    "isbn_13": "9783420155864",
+    "isbn_10": "3420155867",
+    "genres": [
+      "Politics",
+      "Environment",
+      "Climate"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 566
+  },
+  {
+    "title": "No Logo",
+    "authors": [
+      "Naomi Klein"
+    ],
+    "isbn_13": "9783561042009",
+    "isbn_10": "3561042007",
+    "genres": [
+      "Politics",
+      "Economics",
+      "Branding"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 490
+  },
+  {
+    "title": "Democracy in America",
+    "authors": [
+      "Alexis de Tocqueville"
+    ],
+    "isbn_13": "9781915240903",
+    "isbn_10": "1915240905",
+    "genres": [
+      "Politics",
+      "Classic",
+      "American History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1835,
+    "page_count": 966
+  },
+  {
+    "title": "The Federalist Papers",
+    "authors": [
+      "Alexander Hamilton",
+      "James Madison",
+      "John Jay"
+    ],
+    "isbn_13": "9789539483102",
+    "isbn_10": "9539483107",
+    "genres": [
+      "Politics",
+      "Classic",
+      "American History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1788,
+    "page_count": 672
+  },
+  {
+    "title": "Common Sense",
+    "authors": [
+      "Thomas Paine"
+    ],
+    "isbn_13": "9782658252185",
+    "isbn_10": "2658252188",
+    "genres": [
+      "Politics",
+      "Classic",
+      "American Revolution"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1776,
+    "page_count": 96
+  },
+  {
+    "title": "Rights of Man",
+    "authors": [
+      "Thomas Paine"
+    ],
+    "isbn_13": "9782712314453",
+    "isbn_10": "271231445X",
+    "genres": [
+      "Politics",
+      "Classic",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1791,
+    "page_count": 288
+  },
+  {
+    "title": "The Audacity of Hope",
+    "authors": [
+      "Barack Obama"
+    ],
+    "isbn_13": "9785597075501",
+    "isbn_10": "5597075500",
+    "genres": [
+      "Politics",
+      "Memoir",
+      "American"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 375
+  },
+  {
+    "title": "Dreams from My Father",
+    "authors": [
+      "Barack Obama"
+    ],
+    "isbn_13": "9788154251301",
+    "isbn_10": "8154251302",
+    "genres": [
+      "Politics",
+      "Memoir",
+      "American"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 442
+  },
+  {
+    "title": "A Promised Land",
+    "authors": [
+      "Barack Obama"
+    ],
+    "isbn_13": "9783001940032",
+    "isbn_10": "3001940034",
+    "genres": [
+      "Politics",
+      "Memoir",
+      "American"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 768
+  },
+  {
+    "title": "Long Walk to Freedom",
+    "authors": [
+      "Nelson Mandela"
+    ],
+    "isbn_13": "9784426914301",
+    "isbn_10": "4426914302",
+    "genres": [
+      "Politics",
+      "Memoir",
+      "Biography",
+      "South Africa"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 656
+  },
+  {
+    "title": "The Autobiography of Malcolm X",
+    "authors": [
+      "Malcolm X"
+    ],
+    "isbn_13": "9785333008701",
+    "isbn_10": "5333008701",
+    "genres": [
+      "Politics",
+      "Memoir",
+      "Civil Rights"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 460
+  },
+  {
+    "title": "Letter from Birmingham Jail",
+    "authors": [
+      "Martin Luther King Jr."
+    ],
+    "isbn_13": "9780520268951",
+    "isbn_10": "0520268954",
+    "genres": [
+      "Politics",
+      "Civil Rights",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 32
+  },
+  {
+    "title": "Why We Can't Wait",
+    "authors": [
+      "Martin Luther King Jr."
+    ],
+    "isbn_13": "9788517435201",
+    "isbn_10": "8517435206",
+    "genres": [
+      "Politics",
+      "Civil Rights"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1964,
+    "page_count": 192
+  },
+  {
+    "title": "Pedagogy of the Oppressed",
+    "authors": [
+      "Paulo Freire"
+    ],
+    "isbn_13": "9783115851200",
+    "isbn_10": "3115851200",
+    "genres": [
+      "Politics",
+      "Education",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1968,
+    "page_count": 183
+  },
+  {
+    "title": "Orientalism",
+    "authors": [
+      "Edward Said"
+    ],
+    "isbn_13": "9789524011396",
+    "isbn_10": "9524011395",
+    "genres": [
+      "Politics",
+      "Cultural Studies",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1978,
+    "page_count": 394
+  },
+  {
+    "title": "The Wretched of the Earth",
+    "authors": [
+      "Frantz Fanon"
+    ],
+    "isbn_13": "9782800222158",
+    "isbn_10": "2800222158",
+    "genres": [
+      "Politics",
+      "Colonialism",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1961,
+    "page_count": 316
+  },
+  {
+    "title": "Imagined Communities",
+    "authors": [
+      "Benedict Anderson"
+    ],
+    "isbn_13": "9784805192238",
+    "isbn_10": "4805192232",
+    "genres": [
+      "Politics",
+      "Nationalism",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 256
+  },
+  {
+    "title": "The Open Society and Its Enemies",
+    "authors": [
+      "Karl Popper"
+    ],
+    "isbn_13": "9785344059242",
+    "isbn_10": "5344059248",
+    "genres": [
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1945,
+    "page_count": 824
+  },
+  {
+    "title": "A People's History of the United States",
+    "authors": [
+      "Howard Zinn"
+    ],
+    "isbn_13": "9786107832249",
+    "isbn_10": "6107832246",
+    "genres": [
+      "History",
+      "Politics",
+      "American"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 729
+  },
+  {
+    "title": "The Rise and Fall of the Third Reich",
+    "authors": [
+      "William Shirer"
+    ],
+    "isbn_13": "9782713355417",
+    "isbn_10": "2713355419",
+    "genres": [
+      "History",
+      "World War II"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1960,
+    "page_count": 1245
+  },
+  {
+    "title": "The Guns of August",
+    "authors": [
+      "Barbara Tuchman"
+    ],
+    "isbn_13": "9782145851037",
+    "isbn_10": "2145851038",
+    "genres": [
+      "History",
+      "World War I"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 511
+  },
+  {
+    "title": "A Distant Mirror",
+    "authors": [
+      "Barbara Tuchman"
+    ],
+    "isbn_13": "9788311053748",
+    "isbn_10": "831105374X",
+    "genres": [
+      "History",
+      "Medieval"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1978,
+    "page_count": 677
+  },
+  {
+    "title": "The Decline and Fall of the Roman Empire",
+    "authors": [
+      "Edward Gibbon"
+    ],
+    "isbn_13": "9783452083104",
+    "isbn_10": "3452083101",
+    "genres": [
+      "History",
+      "Classic",
+      "Roman"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1776,
+    "page_count": 3896
+  },
+  {
+    "title": "SPQR",
+    "authors": [
+      "Mary Beard"
+    ],
+    "isbn_13": "9787038242152",
+    "isbn_10": "7038242156",
+    "genres": [
+      "History",
+      "Roman",
+      "Popular History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 606
+  },
+  {
+    "title": "Rubicon",
+    "authors": [
+      "Tom Holland"
+    ],
+    "isbn_13": "9787550508156",
+    "isbn_10": "7550508151",
+    "genres": [
+      "History",
+      "Roman"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 430
+  },
+  {
+    "title": "The Histories",
+    "authors": [
+      "Herodotus"
+    ],
+    "isbn_13": "9780131416918",
+    "isbn_10": "013141691X",
+    "genres": [
+      "History",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": -440,
+    "page_count": 716
+  },
+  {
+    "title": "History of the Peloponnesian War",
+    "authors": [
+      "Thucydides"
+    ],
+    "isbn_13": "9783804423527",
+    "isbn_10": "3804423523",
+    "genres": [
+      "History",
+      "Classic",
+      "Military"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": -431,
+    "page_count": 648
+  },
+  {
+    "title": "The Art of War",
+    "authors": [
+      "Sun Tzu"
+    ],
+    "isbn_13": "9783545305571",
+    "isbn_10": "3545305570",
+    "genres": [
+      "Military",
+      "Strategy",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": -500,
+    "page_count": 273
+  },
+  {
+    "title": "On War",
+    "authors": [
+      "Carl von Clausewitz"
+    ],
+    "isbn_13": "9780080391038",
+    "isbn_10": "0080391036",
+    "genres": [
+      "Military",
+      "Strategy",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1832,
+    "page_count": 732
+  },
+  {
+    "title": "The Second World War",
+    "authors": [
+      "Antony Beevor"
+    ],
+    "isbn_13": "9783689323097",
+    "isbn_10": "3689323096",
+    "genres": [
+      "History",
+      "World War II"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 863
+  },
+  {
+    "title": "Stalingrad",
+    "authors": [
+      "Antony Beevor"
+    ],
+    "isbn_13": "9781821353056",
+    "isbn_10": "1821353056",
+    "genres": [
+      "History",
+      "World War II",
+      "Military"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 493
+  },
+  {
+    "title": "D-Day",
+    "authors": [
+      "Antony Beevor"
+    ],
+    "isbn_13": "9783014141525",
+    "isbn_10": "3014141526",
+    "genres": [
+      "History",
+      "World War II",
+      "Military"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 591
+  },
+  {
+    "title": "The Fall of Berlin 1945",
+    "authors": [
+      "Antony Beevor"
+    ],
+    "isbn_13": "9789846120981",
+    "isbn_10": "9846120982",
+    "genres": [
+      "History",
+      "World War II",
+      "Military"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 489
+  },
+  {
+    "title": "Band of Brothers",
+    "authors": [
+      "Stephen Ambrose"
+    ],
+    "isbn_13": "9789141521643",
+    "isbn_10": "9141521641",
+    "genres": [
+      "History",
+      "World War II",
+      "Military"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 333
+  },
+  {
+    "title": "Postwar",
+    "authors": [
+      "Tony Judt"
+    ],
+    "isbn_13": "9788640407502",
+    "isbn_10": "8640407509",
+    "genres": [
+      "History",
+      "European",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 933
+  },
+  {
+    "title": "The Age of Revolution",
+    "authors": [
+      "Eric Hobsbawm"
+    ],
+    "isbn_13": "9783344538217",
+    "isbn_10": "3344538217",
+    "genres": [
+      "History",
+      "European",
+      "Revolution"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 366
+  },
+  {
+    "title": "The Age of Capital",
+    "authors": [
+      "Eric Hobsbawm"
+    ],
+    "isbn_13": "9781530171255",
+    "isbn_10": "1530171253",
+    "genres": [
+      "History",
+      "European",
+      "Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 354
+  },
+  {
+    "title": "The Age of Empire",
+    "authors": [
+      "Eric Hobsbawm"
+    ],
+    "isbn_13": "9781749015159",
+    "isbn_10": "1749015153",
+    "genres": [
+      "History",
+      "European",
+      "Imperialism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 404
+  },
+  {
+    "title": "The Age of Extremes",
+    "authors": [
+      "Eric Hobsbawm"
+    ],
+    "isbn_13": "9784512130356",
+    "isbn_10": "4512130357",
+    "genres": [
+      "History",
+      "20th Century"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 627
+  },
+  {
+    "title": "Sapiens",
+    "authors": [
+      "Yuval Noah Harari"
+    ],
+    "isbn_13": "9780711390065",
+    "isbn_10": "0711390061",
+    "genres": [
+      "History",
+      "Science",
+      "Anthropology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 443
+  },
+  {
+    "title": "1491",
+    "authors": [
+      "Charles C. Mann"
+    ],
+    "isbn_13": "9784851847748",
+    "isbn_10": "4851847742",
+    "genres": [
+      "History",
+      "Pre-Columbian",
+      "Americas"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 541
+  },
+  {
+    "title": "1493",
+    "authors": [
+      "Charles C. Mann"
+    ],
+    "isbn_13": "9789001033460",
+    "isbn_10": "9001033466",
+    "genres": [
+      "History",
+      "Globalization",
+      "Americas"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 560
+  },
+  {
+    "title": "Salt",
+    "authors": [
+      "Mark Kurlansky"
+    ],
+    "isbn_13": "9781561241750",
+    "isbn_10": "156124175X",
+    "genres": [
+      "History",
+      "Food",
+      "Culture"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 484
+  },
+  {
+    "title": "Cod",
+    "authors": [
+      "Mark Kurlansky"
+    ],
+    "isbn_13": "9783648724019",
+    "isbn_10": "3648724010",
+    "genres": [
+      "History",
+      "Food",
+      "Environment"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 294
+  },
+  {
+    "title": "The Silk Roads",
+    "authors": [
+      "Peter Frankopan"
+    ],
+    "isbn_13": "9783605005946",
+    "isbn_10": "3605005942",
+    "genres": [
+      "History",
+      "Globalization",
+      "Trade"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 636
+  },
+  {
+    "title": "Genghis Khan and the Making of the Modern World",
+    "authors": [
+      "Jack Weatherford"
+    ],
+    "isbn_13": "9789971341633",
+    "isbn_10": "9971341638",
+    "genres": [
+      "History",
+      "Biography",
+      "Mongolia"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 312
+  },
+  {
+    "title": "The Warmth of Other Suns",
+    "authors": [
+      "Isabel Wilkerson"
+    ],
+    "isbn_13": "9784205107566",
+    "isbn_10": "4205107560",
+    "genres": [
+      "History",
+      "African American",
+      "Migration"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 622
+  },
+  {
+    "title": "Caste",
+    "authors": [
+      "Isabel Wilkerson"
+    ],
+    "isbn_13": "9785320442068",
+    "isbn_10": "5320442068",
+    "genres": [
+      "History",
+      "Society",
+      "Race"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 496
+  },
+  {
+    "title": "Stamped from the Beginning",
+    "authors": [
+      "Ibram X. Kendi"
+    ],
+    "isbn_13": "9782934247461",
+    "isbn_10": "2934247465",
+    "genres": [
+      "History",
+      "Race",
+      "American"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 592
+  },
+  {
+    "title": "The New Jim Crow",
+    "authors": [
+      "Michelle Alexander"
+    ],
+    "isbn_13": "9788043143526",
+    "isbn_10": "8043143528",
+    "genres": [
+      "Politics",
+      "Race",
+      "Criminal Justice"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 312
+  },
+  {
+    "title": "Between the World and Me",
+    "authors": [
+      "Ta-Nehisi Coates"
+    ],
+    "isbn_13": "9782244924205",
+    "isbn_10": "2244924203",
+    "genres": [
+      "Politics",
+      "Race",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 152
+  },
+  {
+    "title": "The Color of Law",
+    "authors": [
+      "Richard Rothstein"
+    ],
+    "isbn_13": "9780246395337",
+    "isbn_10": "0246395338",
+    "genres": [
+      "History",
+      "Race",
+      "Housing"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 345
+  },
+  {
+    "title": "Stony the Road",
+    "authors": [
+      "Henry Louis Gates Jr."
+    ],
+    "isbn_13": "9782165602282",
+    "isbn_10": "2165602289",
+    "genres": [
+      "History",
+      "African American",
+      "Reconstruction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 296
+  },
+  {
+    "title": "Meditations",
+    "authors": [
+      "Marcus Aurelius"
+    ],
+    "isbn_13": "9782533628012",
+    "isbn_10": "2533628018",
+    "genres": [
+      "Philosophy",
+      "Stoicism",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 180,
+    "page_count": 256
+  },
+  {
+    "title": "Nicomachean Ethics",
+    "authors": [
+      "Aristotle"
+    ],
+    "isbn_13": "9784351630451",
+    "isbn_10": "4351630450",
+    "genres": [
+      "Philosophy",
+      "Ethics",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": -340,
+    "page_count": 329
+  },
+  {
+    "title": "Beyond Good and Evil",
+    "authors": [
+      "Friedrich Nietzsche"
+    ],
+    "isbn_13": "9786540002520",
+    "isbn_10": "6540002521",
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1886,
+    "page_count": 240
+  },
+  {
+    "title": "Thus Spoke Zarathustra",
+    "authors": [
+      "Friedrich Nietzsche"
+    ],
+    "isbn_13": "9785515512804",
+    "isbn_10": "5515512804",
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1883,
+    "page_count": 352
+  },
+  {
+    "title": "The Gay Science",
+    "authors": [
+      "Friedrich Nietzsche"
+    ],
+    "isbn_13": "9781200012383",
+    "isbn_10": "1200012380",
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1882,
+    "page_count": 396
+  },
+  {
+    "title": "Being and Time",
+    "authors": [
+      "Martin Heidegger"
+    ],
+    "isbn_13": "9785363383946",
+    "isbn_10": "5363383942",
+    "genres": [
+      "Philosophy",
+      "Existentialism",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1927,
+    "page_count": 589
+  },
+  {
+    "title": "Being and Nothingness",
+    "authors": [
+      "Jean-Paul Sartre"
+    ],
+    "isbn_13": "9788317809394",
+    "isbn_10": "8317809390",
+    "genres": [
+      "Philosophy",
+      "Existentialism",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1943,
+    "page_count": 811
+  },
+  {
+    "title": "Phenomenology of Spirit",
+    "authors": [
+      "Georg Wilhelm Friedrich Hegel"
+    ],
+    "isbn_13": "9789505955015",
+    "isbn_10": "9505955014",
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1807,
+    "page_count": 591
+  },
+  {
+    "title": "Critique of Pure Reason",
+    "authors": [
+      "Immanuel Kant"
+    ],
+    "isbn_13": "9787925688568",
+    "isbn_10": "7925688564",
+    "genres": [
+      "Philosophy",
+      "Classic",
+      "Epistemology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1781,
+    "page_count": 856
+  },
+  {
+    "title": "The World as Will and Representation",
+    "authors": [
+      "Arthur Schopenhauer"
+    ],
+    "isbn_13": "9784032053739",
+    "isbn_10": "4032053731",
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1818,
+    "page_count": 534
+  },
+  {
+    "title": "Philosophical Investigations",
+    "authors": [
+      "Ludwig Wittgenstein"
+    ],
+    "isbn_13": "9785645811730",
+    "isbn_10": "5645811739",
+    "genres": [
+      "Philosophy",
+      "Classic",
+      "Language"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1953,
+    "page_count": 250
+  },
+  {
+    "title": "Tractatus Logico-Philosophicus",
+    "authors": [
+      "Ludwig Wittgenstein"
+    ],
+    "isbn_13": "9783549006573",
+    "isbn_10": "3549006578",
+    "genres": [
+      "Philosophy",
+      "Classic",
+      "Logic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1921,
+    "page_count": 75
+  },
+  {
+    "title": "The Second Sex",
+    "authors": [
+      "Simone de Beauvoir"
+    ],
+    "isbn_13": "9788355444403",
+    "isbn_10": "835544440X",
+    "genres": [
+      "Philosophy",
+      "Feminism",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1949,
+    "page_count": 832
+  },
+  {
+    "title": "The Ethics of Ambiguity",
+    "authors": [
+      "Simone de Beauvoir"
+    ],
+    "isbn_13": "9782356696373",
+    "isbn_10": "2356696377",
+    "genres": [
+      "Philosophy",
+      "Existentialism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1947,
+    "page_count": 162
+  },
+  {
+    "title": "A History of Western Philosophy",
+    "authors": [
+      "Bertrand Russell"
+    ],
+    "isbn_13": "9783220641826",
+    "isbn_10": "3220641822",
+    "genres": [
+      "Philosophy",
+      "History",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1945,
+    "page_count": 895
+  },
+  {
+    "title": "The Problems of Philosophy",
+    "authors": [
+      "Bertrand Russell"
+    ],
+    "isbn_13": "9784439952314",
+    "isbn_10": "4439952313",
+    "genres": [
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1912,
+    "page_count": 167
+  },
+  {
+    "title": "The Myth of Sisyphus",
+    "authors": [
+      "Albert Camus"
+    ],
+    "isbn_13": "9780334852711",
+    "isbn_10": "0334852714",
+    "genres": [
+      "Philosophy",
+      "Existentialism",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1942,
+    "page_count": 212
+  },
+  {
+    "title": "The Rebel",
+    "authors": [
+      "Albert Camus"
+    ],
+    "isbn_13": "9781076497352",
+    "isbn_10": "1076497357",
+    "genres": [
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 306
+  },
+  {
+    "title": "Discipline and Punish",
+    "authors": [
+      "Michel Foucault"
+    ],
+    "isbn_13": "9789421522124",
+    "isbn_10": "9421522125",
+    "genres": [
+      "Philosophy",
+      "Sociology",
+      "Power"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 333
+  },
+  {
+    "title": "The History of Sexuality",
+    "authors": [
+      "Michel Foucault"
+    ],
+    "isbn_13": "9780224500432",
+    "isbn_10": "0224500430",
+    "genres": [
+      "Philosophy",
+      "Sociology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1976,
+    "page_count": 168
+  },
+  {
+    "title": "The Order of Things",
+    "authors": [
+      "Michel Foucault"
+    ],
+    "isbn_13": "9784486131120",
+    "isbn_10": "4486131126",
+    "genres": [
+      "Philosophy",
+      "History of Ideas"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1966,
+    "page_count": 422
+  },
+  {
+    "title": "Simulacra and Simulation",
+    "authors": [
+      "Jean Baudrillard"
+    ],
+    "isbn_13": "9782650971442",
+    "isbn_10": "2650971444",
+    "genres": [
+      "Philosophy",
+      "Postmodernism",
+      "Media"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 164
+  },
+  {
+    "title": "Justice",
+    "authors": [
+      "Michael Sandel"
+    ],
+    "isbn_13": "9783131330413",
+    "isbn_10": "3131330414",
+    "genres": [
+      "Philosophy",
+      "Ethics",
+      "Political Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 308
+  },
+  {
+    "title": "The Consolations of Philosophy",
+    "authors": [
+      "Alain de Botton"
+    ],
+    "isbn_13": "9785778580855",
+    "isbn_10": "5778580851",
+    "genres": [
+      "Philosophy",
+      "Popular Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 265
+  },
+  {
+    "title": "Sophie's World",
+    "authors": [
+      "Jostein Gaarder"
+    ],
+    "isbn_13": "9788754290748",
+    "isbn_10": "8754290740",
+    "genres": [
+      "Philosophy",
+      "Fiction",
+      "History of Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 518
+  },
+  {
+    "title": "Zen and the Art of Motorcycle Maintenance",
+    "authors": [
+      "Robert Pirsig"
+    ],
+    "isbn_13": "9787655959266",
+    "isbn_10": "7655959269",
+    "genres": [
+      "Philosophy",
+      "Memoir",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 418
+  },
+  {
+    "title": "The Tao of Pooh",
+    "authors": [
+      "Benjamin Hoff"
+    ],
+    "isbn_13": "9786622977135",
+    "isbn_10": "6622977135",
+    "genres": [
+      "Philosophy",
+      "Taoism",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 158
+  },
+  {
+    "title": "Man's Search for Meaning",
+    "authors": [
+      "Viktor Frankl"
+    ],
+    "isbn_13": "9783700040026",
+    "isbn_10": "3700040024",
+    "genres": [
+      "Philosophy",
+      "Psychology",
+      "Memoir",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1946,
+    "page_count": 184
+  },
+  {
+    "title": "The Art of Living",
+    "authors": [
+      "Epictetus"
+    ],
+    "isbn_13": "9784593700318",
+    "isbn_10": "4593700310",
+    "genres": [
+      "Philosophy",
+      "Stoicism",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 135,
+    "page_count": 128
+  },
+  {
+    "title": "Letters from a Stoic",
+    "authors": [
+      "Seneca"
+    ],
+    "isbn_13": "9782812762918",
+    "isbn_10": "2812762918",
+    "genres": [
+      "Philosophy",
+      "Stoicism",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 65,
+    "page_count": 254
+  }
+]

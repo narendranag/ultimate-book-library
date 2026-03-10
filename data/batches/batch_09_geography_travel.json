@@ -1,0 +1,1039 @@
+[
+  {
+    "title": "Into Thin Air",
+    "authors": [
+      "Jon Krakauer"
+    ],
+    "isbn_13": "9782924533727",
+    "isbn_10": "2924533724",
+    "genres": [
+      "Travel",
+      "Adventure",
+      "Mountaineering",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 332
+  },
+  {
+    "title": "Into the Wild",
+    "authors": [
+      "Jon Krakauer"
+    ],
+    "isbn_13": "9784478615089",
+    "isbn_10": "447861508X",
+    "genres": [
+      "Travel",
+      "Adventure",
+      "Nature",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 224
+  },
+  {
+    "title": "Under the Banner of Heaven",
+    "authors": [
+      "Jon Krakauer"
+    ],
+    "isbn_13": "9783045825180",
+    "isbn_10": "3045825184",
+    "genres": [
+      "Travel",
+      "Religion",
+      "True Crime"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 372
+  },
+  {
+    "title": "The Snow Leopard",
+    "authors": [
+      "Peter Matthiessen"
+    ],
+    "isbn_13": "9785553055400",
+    "isbn_10": "5553055407",
+    "genres": [
+      "Travel",
+      "Nature",
+      "Spiritual",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1978,
+    "page_count": 338
+  },
+  {
+    "title": "In Patagonia",
+    "authors": [
+      "Bruce Chatwin"
+    ],
+    "isbn_13": "9782403462272",
+    "isbn_10": "2403462276",
+    "genres": [
+      "Travel",
+      "Classic",
+      "South America"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 204
+  },
+  {
+    "title": "The Songlines",
+    "authors": [
+      "Bruce Chatwin"
+    ],
+    "isbn_13": "9780642542434",
+    "isbn_10": "0642542430",
+    "genres": [
+      "Travel",
+      "Australia",
+      "Aboriginal"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 293
+  },
+  {
+    "title": "A Walk in the Woods",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9781418141912",
+    "isbn_10": "1418141917",
+    "genres": [
+      "Travel",
+      "Nature",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 276
+  },
+  {
+    "title": "Neither Here nor There",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9785234530790",
+    "isbn_10": "5234530795",
+    "genres": [
+      "Travel",
+      "Europe",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 254
+  },
+  {
+    "title": "Notes from a Small Island",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9787007042356",
+    "isbn_10": "700704235X",
+    "genres": [
+      "Travel",
+      "Britain",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 324
+  },
+  {
+    "title": "The Lost Continent",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9780215337030",
+    "isbn_10": "0215337034",
+    "genres": [
+      "Travel",
+      "America",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 299
+  },
+  {
+    "title": "Desert Solitaire",
+    "authors": [
+      "Edward Abbey"
+    ],
+    "isbn_13": "9784851193081",
+    "isbn_10": "4851193084",
+    "genres": [
+      "Nature",
+      "Environment",
+      "Memoir",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1968,
+    "page_count": 303
+  },
+  {
+    "title": "The Monkey Wrench Gang",
+    "authors": [
+      "Edward Abbey"
+    ],
+    "isbn_13": "9785559500003",
+    "isbn_10": "5559500003",
+    "genres": [
+      "Nature",
+      "Fiction",
+      "Environment"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 387
+  },
+  {
+    "title": "Sand County Almanac",
+    "authors": [
+      "Aldo Leopold"
+    ],
+    "isbn_13": "9781234090098",
+    "isbn_10": "1234090090",
+    "genres": [
+      "Nature",
+      "Conservation",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1949,
+    "page_count": 226
+  },
+  {
+    "title": "Walden",
+    "authors": [
+      "Henry David Thoreau"
+    ],
+    "isbn_13": "9787350654336",
+    "isbn_10": "7350654332",
+    "genres": [
+      "Nature",
+      "Philosophy",
+      "Classic",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1854,
+    "page_count": 352
+  },
+  {
+    "title": "Pilgrim at Tinker Creek",
+    "authors": [
+      "Annie Dillard"
+    ],
+    "isbn_13": "9784505701525",
+    "isbn_10": "4505701522",
+    "genres": [
+      "Nature",
+      "Memoir",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 290
+  },
+  {
+    "title": "Teaching a Stone to Talk",
+    "authors": [
+      "Annie Dillard"
+    ],
+    "isbn_13": "9785535413211",
+    "isbn_10": "5535413216",
+    "genres": [
+      "Nature",
+      "Essays",
+      "Spiritual"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 177
+  },
+  {
+    "title": "The Living Mountain",
+    "authors": [
+      "Nan Shepherd"
+    ],
+    "isbn_13": "9785025111122",
+    "isbn_10": "5025111129",
+    "genres": [
+      "Nature",
+      "Scotland",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 108
+  },
+  {
+    "title": "Braiding Sweetgrass",
+    "authors": [
+      "Robin Wall Kimmerer"
+    ],
+    "isbn_13": "9783209068019",
+    "isbn_10": "3209068011",
+    "genres": [
+      "Nature",
+      "Indigenous",
+      "Science",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 390
+  },
+  {
+    "title": "Gathering Moss",
+    "authors": [
+      "Robin Wall Kimmerer"
+    ],
+    "isbn_13": "9783118489813",
+    "isbn_10": "3118489812",
+    "genres": [
+      "Nature",
+      "Science",
+      "Indigenous"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 176
+  },
+  {
+    "title": "H is for Hawk",
+    "authors": [
+      "Helen Macdonald"
+    ],
+    "isbn_13": "9783345415739",
+    "isbn_10": "3345415739",
+    "genres": [
+      "Nature",
+      "Memoir",
+      "Grief"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 300
+  },
+  {
+    "title": "The Peregrine",
+    "authors": [
+      "J.A. Baker"
+    ],
+    "isbn_13": "9784124930894",
+    "isbn_10": "4124930895",
+    "genres": [
+      "Nature",
+      "Birds",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1967,
+    "page_count": 191
+  },
+  {
+    "title": "Vesper Flights",
+    "authors": [
+      "Helen Macdonald"
+    ],
+    "isbn_13": "9785351337012",
+    "isbn_10": "5351337010",
+    "genres": [
+      "Nature",
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 288
+  },
+  {
+    "title": "The Old Ways",
+    "authors": [
+      "Robert Macfarlane"
+    ],
+    "isbn_13": "9784284549226",
+    "isbn_10": "4284549227",
+    "genres": [
+      "Travel",
+      "Nature",
+      "Walking"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 432
+  },
+  {
+    "title": "The Wild Places",
+    "authors": [
+      "Robert Macfarlane"
+    ],
+    "isbn_13": "9780421089327",
+    "isbn_10": "0421089326",
+    "genres": [
+      "Travel",
+      "Nature",
+      "Britain"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 340
+  },
+  {
+    "title": "Underland",
+    "authors": [
+      "Robert Macfarlane"
+    ],
+    "isbn_13": "9783530802405",
+    "isbn_10": "3530802409",
+    "genres": [
+      "Travel",
+      "Nature",
+      "Underground"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 488
+  },
+  {
+    "title": "The Lost Words",
+    "authors": [
+      "Robert Macfarlane"
+    ],
+    "isbn_13": "9784413071529",
+    "isbn_10": "4413071522",
+    "genres": [
+      "Nature",
+      "Poetry",
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 128
+  },
+  {
+    "title": "Landmarks",
+    "authors": [
+      "Robert Macfarlane"
+    ],
+    "isbn_13": "9782235238328",
+    "isbn_10": "2235238327",
+    "genres": [
+      "Nature",
+      "Language",
+      "Landscape"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 400
+  },
+  {
+    "title": "The Great Railway Bazaar",
+    "authors": [
+      "Paul Theroux"
+    ],
+    "isbn_13": "9781426067822",
+    "isbn_10": "1426067828",
+    "genres": [
+      "Travel",
+      "Asia",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 342
+  },
+  {
+    "title": "The Old Patagonian Express",
+    "authors": [
+      "Paul Theroux"
+    ],
+    "isbn_13": "9788032399217",
+    "isbn_10": "8032399216",
+    "genres": [
+      "Travel",
+      "South America"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 404
+  },
+  {
+    "title": "Dark Star Safari",
+    "authors": [
+      "Paul Theroux"
+    ],
+    "isbn_13": "9783522438506",
+    "isbn_10": "3522438507",
+    "genres": [
+      "Travel",
+      "Africa"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 472
+  },
+  {
+    "title": "The Tao of Travel",
+    "authors": [
+      "Paul Theroux"
+    ],
+    "isbn_13": "9784215534444",
+    "isbn_10": "4215534445",
+    "genres": [
+      "Travel",
+      "Anthology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 285
+  },
+  {
+    "title": "The Motorcycle Diaries",
+    "authors": [
+      "Che Guevara"
+    ],
+    "isbn_13": "9780314203809",
+    "isbn_10": "031420380X",
+    "genres": [
+      "Travel",
+      "Memoir",
+      "South America"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 175
+  },
+  {
+    "title": "Travels with Charley",
+    "authors": [
+      "John Steinbeck"
+    ],
+    "isbn_13": "9787027417233",
+    "isbn_10": "7027417235",
+    "genres": [
+      "Travel",
+      "America",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 288
+  },
+  {
+    "title": "Blue Highways",
+    "authors": [
+      "William Least Heat-Moon"
+    ],
+    "isbn_13": "9789217504631",
+    "isbn_10": "9217504637",
+    "genres": [
+      "Travel",
+      "America",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 421
+  },
+  {
+    "title": "A Year in Provence",
+    "authors": [
+      "Peter Mayle"
+    ],
+    "isbn_13": "9783452900821",
+    "isbn_10": "3452900827",
+    "genres": [
+      "Travel",
+      "France",
+      "Memoir",
+      "Food"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 207
+  },
+  {
+    "title": "Under the Tuscan Sun",
+    "authors": [
+      "Frances Mayes"
+    ],
+    "isbn_13": "9788471710826",
+    "isbn_10": "847171082X",
+    "genres": [
+      "Travel",
+      "Italy",
+      "Memoir",
+      "Food"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 280
+  },
+  {
+    "title": "Arabian Sands",
+    "authors": [
+      "Wilfred Thesiger"
+    ],
+    "isbn_13": "9785123153734",
+    "isbn_10": "512315373X",
+    "genres": [
+      "Travel",
+      "Middle East",
+      "Classic",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 326
+  },
+  {
+    "title": "Seven Pillars of Wisdom",
+    "authors": [
+      "T.E. Lawrence"
+    ],
+    "isbn_13": "9783407743329",
+    "isbn_10": "3407743327",
+    "genres": [
+      "Travel",
+      "Middle East",
+      "Memoir",
+      "Classic",
+      "War"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1926,
+    "page_count": 672
+  },
+  {
+    "title": "The Rings of Saturn",
+    "authors": [
+      "W.G. Sebald"
+    ],
+    "isbn_13": "9783209340016",
+    "isbn_10": "3209340013",
+    "genres": [
+      "Travel",
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 296
+  },
+  {
+    "title": "Austerlitz",
+    "authors": [
+      "W.G. Sebald"
+    ],
+    "isbn_13": "9780832431821",
+    "isbn_10": "0832431826",
+    "genres": [
+      "Travel",
+      "Literary Fiction",
+      "Historical",
+      "Memory"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 298
+  },
+  {
+    "title": "The Road to Oxiana",
+    "authors": [
+      "Robert Byron"
+    ],
+    "isbn_13": "9781420179736",
+    "isbn_10": "142017973X",
+    "genres": [
+      "Travel",
+      "Middle East",
+      "Classic",
+      "Architecture"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1937,
+    "page_count": 295
+  },
+  {
+    "title": "Scrambles Amongst the Alps",
+    "authors": [
+      "Edward Whymper"
+    ],
+    "isbn_13": "9780534553111",
+    "isbn_10": "0534553117",
+    "genres": [
+      "Travel",
+      "Mountaineering",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1871,
+    "page_count": 432
+  },
+  {
+    "title": "Annapurna",
+    "authors": [
+      "Maurice Herzog"
+    ],
+    "isbn_13": "9782724417845",
+    "isbn_10": "2724417844",
+    "genres": [
+      "Travel",
+      "Mountaineering",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 316
+  },
+  {
+    "title": "Touching the Void",
+    "authors": [
+      "Joe Simpson"
+    ],
+    "isbn_13": "9786118834096",
+    "isbn_10": "6118834091",
+    "genres": [
+      "Travel",
+      "Mountaineering",
+      "Survival"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 210
+  },
+  {
+    "title": "Endurance",
+    "authors": [
+      "Alfred Lansing"
+    ],
+    "isbn_13": "9788369122335",
+    "isbn_10": "8369122337",
+    "genres": [
+      "Travel",
+      "Exploration",
+      "Survival",
+      "Antarctica"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 282
+  },
+  {
+    "title": "The Worst Journey in the World",
+    "authors": [
+      "Apsley Cherry-Garrard"
+    ],
+    "isbn_13": "9787703780545",
+    "isbn_10": "7703780545",
+    "genres": [
+      "Travel",
+      "Exploration",
+      "Antarctica",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1922,
+    "page_count": 607
+  },
+  {
+    "title": "In the Heart of the Sea",
+    "authors": [
+      "Nathaniel Philbrick"
+    ],
+    "isbn_13": "9788382632552",
+    "isbn_10": "8382632556",
+    "genres": [
+      "Travel",
+      "Maritime",
+      "History",
+      "Survival"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 302
+  },
+  {
+    "title": "The Lost City of Z",
+    "authors": [
+      "David Grann"
+    ],
+    "isbn_13": "9785790360237",
+    "isbn_10": "5790360238",
+    "genres": [
+      "Travel",
+      "Exploration",
+      "Amazon",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 339
+  },
+  {
+    "title": "Kon-Tiki",
+    "authors": [
+      "Thor Heyerdahl"
+    ],
+    "isbn_13": "9781216271637",
+    "isbn_10": "1216271631",
+    "genres": [
+      "Travel",
+      "Exploration",
+      "Pacific",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1948,
+    "page_count": 233
+  },
+  {
+    "title": "The Geography of Bliss",
+    "authors": [
+      "Eric Weiner"
+    ],
+    "isbn_13": "9783314057724",
+    "isbn_10": "3314057725",
+    "genres": [
+      "Travel",
+      "Happiness",
+      "Culture"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 329
+  },
+  {
+    "title": "Prisoners of Geography",
+    "authors": [
+      "Tim Marshall"
+    ],
+    "isbn_13": "9786722213430",
+    "isbn_10": "6722213439",
+    "genres": [
+      "Geography",
+      "Politics",
+      "Geopolitics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 256
+  },
+  {
+    "title": "The Power of Geography",
+    "authors": [
+      "Tim Marshall"
+    ],
+    "isbn_13": "9783517214412",
+    "isbn_10": "3517214418",
+    "genres": [
+      "Geography",
+      "Politics",
+      "Geopolitics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 320
+  },
+  {
+    "title": "Guns, Germs, and Steel",
+    "authors": [
+      "Jared Diamond"
+    ],
+    "isbn_13": "9788904735143",
+    "isbn_10": "8904735149",
+    "genres": [
+      "Geography",
+      "History",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 480
+  },
+  {
+    "title": "The Revenge of Geography",
+    "authors": [
+      "Robert D. Kaplan"
+    ],
+    "isbn_13": "9789268241530",
+    "isbn_10": "9268241536",
+    "genres": [
+      "Geography",
+      "Geopolitics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 403
+  },
+  {
+    "title": "Monsoon",
+    "authors": [
+      "Robert D. Kaplan"
+    ],
+    "isbn_13": "9785233343230",
+    "isbn_10": "5233343231",
+    "genres": [
+      "Geography",
+      "Geopolitics",
+      "Indian Ocean"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 374
+  },
+  {
+    "title": "The Map of Knowledge",
+    "authors": [
+      "Violet Moller"
+    ],
+    "isbn_13": "9787910991611",
+    "isbn_10": "7910991614",
+    "genres": [
+      "Geography",
+      "History",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 331
+  },
+  {
+    "title": "Map Addict",
+    "authors": [
+      "Mike Parker"
+    ],
+    "isbn_13": "9785858154280",
+    "isbn_10": "585815428X",
+    "genres": [
+      "Geography",
+      "Maps",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 400
+  },
+  {
+    "title": "Atlas Obscura",
+    "authors": [
+      "Joshua Foer",
+      "Dylan Thuras",
+      "Ella Morton"
+    ],
+    "isbn_13": "9783027546331",
+    "isbn_10": "3027546333",
+    "genres": [
+      "Geography",
+      "Travel",
+      "Reference"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 480
+  },
+  {
+    "title": "The Unfinished Land",
+    "authors": [
+      "Greg Grandin"
+    ],
+    "isbn_13": "9784608249153",
+    "isbn_10": "4608249150",
+    "genres": [
+      "Geography",
+      "History",
+      "Americas"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 368
+  },
+  {
+    "title": "The Atlas of the Real World",
+    "authors": [
+      "Daniel Dorling",
+      "Mark Newman",
+      "Anna Barford"
+    ],
+    "isbn_13": "9783070352255",
+    "isbn_10": "3070352251",
+    "genres": [
+      "Geography",
+      "Data Visualization",
+      "Reference"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 400
+  }
+]

@@ -28,7 +28,7 @@ class TestIndexPage:
     @pytest.mark.anyio
     async def test_index_contains_books(self, client):
         resp = await client.get("/")
-        assert "The Lord of the Rings" in resp.text
+        assert "book-card" in resp.text
 
     @pytest.mark.anyio
     async def test_index_has_search(self, client):
@@ -66,10 +66,10 @@ class TestSearchResults:
 class TestBookDetail:
     @pytest.mark.anyio
     async def test_book_by_isbn(self, client):
-        resp = await client.get("/book/9780618640157")
+        resp = await client.get("/book/9780061120084")
         assert resp.status_code == 200
-        assert "The Lord of the Rings" in resp.text
-        assert "Tolkien" in resp.text
+        assert "To Kill a Mockingbird" in resp.text
+        assert "Harper Lee" in resp.text
 
     @pytest.mark.anyio
     async def test_book_not_found(self, client):

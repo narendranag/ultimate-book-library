@@ -1,0 +1,1288 @@
+[
+  {
+    "title": "Outlander",
+    "authors": [
+      "Diana Gabaldon"
+    ],
+    "isbn_13": "9783566142650",
+    "isbn_10": "3566142654",
+    "genres": [
+      "Romance",
+      "Historical",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 850
+  },
+  {
+    "title": "Dragonfly in Amber",
+    "authors": [
+      "Diana Gabaldon"
+    ],
+    "isbn_13": "9781140692621",
+    "isbn_10": "1140692623",
+    "genres": [
+      "Romance",
+      "Historical",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 752
+  },
+  {
+    "title": "Voyager",
+    "authors": [
+      "Diana Gabaldon"
+    ],
+    "isbn_13": "9781745090747",
+    "isbn_10": "1745090746",
+    "genres": [
+      "Romance",
+      "Historical",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 870
+  },
+  {
+    "title": "The Notebook",
+    "authors": [
+      "Nicholas Sparks"
+    ],
+    "isbn_13": "9784880069609",
+    "isbn_10": "4880069604",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 214
+  },
+  {
+    "title": "A Walk to Remember",
+    "authors": [
+      "Nicholas Sparks"
+    ],
+    "isbn_13": "9783102580823",
+    "isbn_10": "3102580823",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 240
+  },
+  {
+    "title": "The Bridges of Madison County",
+    "authors": [
+      "Robert James Waller"
+    ],
+    "isbn_13": "9782593044326",
+    "isbn_10": "2593044322",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 171
+  },
+  {
+    "title": "Me Before You",
+    "authors": [
+      "Jojo Moyes"
+    ],
+    "isbn_13": "9785604412176",
+    "isbn_10": "5604412171",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 369
+  },
+  {
+    "title": "The Rosie Project",
+    "authors": [
+      "Graeme Simsion"
+    ],
+    "isbn_13": "9782925357308",
+    "isbn_10": "292535730X",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 295
+  },
+  {
+    "title": "Eleanor Oliphant Is Completely Fine",
+    "authors": [
+      "Gail Honeyman"
+    ],
+    "isbn_13": "9780874502015",
+    "isbn_10": "0874502012",
+    "genres": [
+      "Literary Fiction",
+      "Contemporary"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 327
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "authors": [
+      "Delia Owens"
+    ],
+    "isbn_13": "9786349521475",
+    "isbn_10": "6349521471",
+    "genres": [
+      "Literary Fiction",
+      "Mystery",
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 368
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "authors": [
+      "Taylor Jenkins Reid"
+    ],
+    "isbn_13": "9789624751581",
+    "isbn_10": "9624751587",
+    "genres": [
+      "Literary Fiction",
+      "Historical",
+      "LGBTQ+"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 389
+  },
+  {
+    "title": "Daisy Jones & The Six",
+    "authors": [
+      "Taylor Jenkins Reid"
+    ],
+    "isbn_13": "9787508515335",
+    "isbn_10": "7508515331",
+    "genres": [
+      "Literary Fiction",
+      "Music",
+      "Historical"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 355
+  },
+  {
+    "title": "Malibu Rising",
+    "authors": [
+      "Taylor Jenkins Reid"
+    ],
+    "isbn_13": "9782425653108",
+    "isbn_10": "2425653104",
+    "genres": [
+      "Literary Fiction",
+      "Historical"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 369
+  },
+  {
+    "title": "Beach Read",
+    "authors": [
+      "Emily Henry"
+    ],
+    "isbn_13": "9786720492684",
+    "isbn_10": "6720492683",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 361
+  },
+  {
+    "title": "People We Meet on Vacation",
+    "authors": [
+      "Emily Henry"
+    ],
+    "isbn_13": "9789844483637",
+    "isbn_10": "9844483638",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 364
+  },
+  {
+    "title": "Book Lovers",
+    "authors": [
+      "Emily Henry"
+    ],
+    "isbn_13": "9780035534268",
+    "isbn_10": "0035534265",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 373
+  },
+  {
+    "title": "Happy Place",
+    "authors": [
+      "Emily Henry"
+    ],
+    "isbn_13": "9783558037827",
+    "isbn_10": "3558037820",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 400
+  },
+  {
+    "title": "The Love Hypothesis",
+    "authors": [
+      "Ali Hazelwood"
+    ],
+    "isbn_13": "9786459986249",
+    "isbn_10": "645998624X",
+    "genres": [
+      "Romance",
+      "Contemporary",
+      "STEM"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 384
+  },
+  {
+    "title": "Red, White & Royal Blue",
+    "authors": [
+      "Casey McQuiston"
+    ],
+    "isbn_13": "9782540130829",
+    "isbn_10": "2540130828",
+    "genres": [
+      "Romance",
+      "LGBTQ+",
+      "Contemporary"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 421
+  },
+  {
+    "title": "One Last Stop",
+    "authors": [
+      "Casey McQuiston"
+    ],
+    "isbn_13": "9787454130101",
+    "isbn_10": "7454130100",
+    "genres": [
+      "Romance",
+      "LGBTQ+",
+      "Contemporary"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 418
+  },
+  {
+    "title": "It Ends with Us",
+    "authors": [
+      "Colleen Hoover"
+    ],
+    "isbn_13": "9785115567051",
+    "isbn_10": "5115567059",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 385
+  },
+  {
+    "title": "Verity",
+    "authors": [
+      "Colleen Hoover"
+    ],
+    "isbn_13": "9782032323630",
+    "isbn_10": "203232363X",
+    "genres": [
+      "Thriller",
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 314
+  },
+  {
+    "title": "Ugly Love",
+    "authors": [
+      "Colleen Hoover"
+    ],
+    "isbn_13": "9784393849545",
+    "isbn_10": "439384954X",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 328
+  },
+  {
+    "title": "The Hating Game",
+    "authors": [
+      "Sally Thorne"
+    ],
+    "isbn_13": "9781284135596",
+    "isbn_10": "1284135594",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 384
+  },
+  {
+    "title": "Pride and Prejudice and Zombies",
+    "authors": [
+      "Seth Grahame-Smith"
+    ],
+    "isbn_13": "9787025833042",
+    "isbn_10": "7025833045",
+    "genres": [
+      "Romance",
+      "Horror",
+      "Parody"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 317
+  },
+  {
+    "title": "Bridget Jones's Diary",
+    "authors": [
+      "Helen Fielding"
+    ],
+    "isbn_13": "9784234717286",
+    "isbn_10": "4234717282",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Contemporary"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 310
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "authors": [
+      "Daniel Kahneman"
+    ],
+    "isbn_13": "9785530221538",
+    "isbn_10": "553022153X",
+    "genres": [
+      "Economics",
+      "Psychology",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 499
+  },
+  {
+    "title": "Freakonomics",
+    "authors": [
+      "Steven Levitt",
+      "Stephen Dubner"
+    ],
+    "isbn_13": "9783251926039",
+    "isbn_10": "3251926039",
+    "genres": [
+      "Economics",
+      "Popular Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 315
+  },
+  {
+    "title": "The Black Swan",
+    "authors": [
+      "Nassim Nicholas Taleb"
+    ],
+    "isbn_13": "9783500413174",
+    "isbn_10": "350041317X",
+    "genres": [
+      "Economics",
+      "Philosophy",
+      "Risk"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 366
+  },
+  {
+    "title": "Antifragile",
+    "authors": [
+      "Nassim Nicholas Taleb"
+    ],
+    "isbn_13": "9786103303309",
+    "isbn_10": "6103303303",
+    "genres": [
+      "Economics",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 519
+  },
+  {
+    "title": "Skin in the Game",
+    "authors": [
+      "Nassim Nicholas Taleb"
+    ],
+    "isbn_13": "9788150159717",
+    "isbn_10": "8150159711",
+    "genres": [
+      "Economics",
+      "Philosophy",
+      "Ethics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 304
+  },
+  {
+    "title": "Capital in the Twenty-First Century",
+    "authors": [
+      "Thomas Piketty"
+    ],
+    "isbn_13": "9783376522475",
+    "isbn_10": "3376522472",
+    "genres": [
+      "Economics",
+      "Inequality",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 685
+  },
+  {
+    "title": "Poor Economics",
+    "authors": [
+      "Abhijit Banerjee",
+      "Esther Duflo"
+    ],
+    "isbn_13": "9785933598268",
+    "isbn_10": "5933598267",
+    "genres": [
+      "Economics",
+      "Development",
+      "Poverty"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 303
+  },
+  {
+    "title": "Good Economics for Hard Times",
+    "authors": [
+      "Abhijit Banerjee",
+      "Esther Duflo"
+    ],
+    "isbn_13": "9781721465118",
+    "isbn_10": "1721465111",
+    "genres": [
+      "Economics",
+      "Policy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 403
+  },
+  {
+    "title": "Misbehaving",
+    "authors": [
+      "Richard Thaler"
+    ],
+    "isbn_13": "9780904011081",
+    "isbn_10": "0904011089",
+    "genres": [
+      "Economics",
+      "Behavioral Economics",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 415
+  },
+  {
+    "title": "Nudge",
+    "authors": [
+      "Richard Thaler",
+      "Cass Sunstein"
+    ],
+    "isbn_13": "9781022265868",
+    "isbn_10": "1022265865",
+    "genres": [
+      "Economics",
+      "Behavioral Economics",
+      "Policy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 312
+  },
+  {
+    "title": "The Wealth of Nations",
+    "authors": [
+      "Adam Smith"
+    ],
+    "isbn_13": "9782743853433",
+    "isbn_10": "2743853433",
+    "genres": [
+      "Economics",
+      "Classic",
+      "Political Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1776,
+    "page_count": 1264
+  },
+  {
+    "title": "Why Nations Fail",
+    "authors": [
+      "Daron Acemoglu",
+      "James Robinson"
+    ],
+    "isbn_13": "9781605074320",
+    "isbn_10": "1605074322",
+    "genres": [
+      "Economics",
+      "Politics",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 529
+  },
+  {
+    "title": "The Bottom Billion",
+    "authors": [
+      "Paul Collier"
+    ],
+    "isbn_13": "9781563453410",
+    "isbn_10": "156345341X",
+    "genres": [
+      "Economics",
+      "Development",
+      "Africa"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 205
+  },
+  {
+    "title": "Dead Aid",
+    "authors": [
+      "Dambisa Moyo"
+    ],
+    "isbn_13": "9783164703703",
+    "isbn_10": "3164703708",
+    "genres": [
+      "Economics",
+      "Africa",
+      "Development"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 188
+  },
+  {
+    "title": "Doughnut Economics",
+    "authors": [
+      "Kate Raworth"
+    ],
+    "isbn_13": "9784324032978",
+    "isbn_10": "4324032971",
+    "genres": [
+      "Economics",
+      "Environment",
+      "Alternative"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 373
+  },
+  {
+    "title": "Debt: The First 5,000 Years",
+    "authors": [
+      "David Graeber"
+    ],
+    "isbn_13": "9782537221042",
+    "isbn_10": "2537221044",
+    "genres": [
+      "Economics",
+      "Anthropology",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 534
+  },
+  {
+    "title": "Bullshit Jobs",
+    "authors": [
+      "David Graeber"
+    ],
+    "isbn_13": "9789845130141",
+    "isbn_10": "9845130143",
+    "genres": [
+      "Economics",
+      "Sociology",
+      "Work"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 368
+  },
+  {
+    "title": "The Great Transformation",
+    "authors": [
+      "Karl Polanyi"
+    ],
+    "isbn_13": "9782203054332",
+    "isbn_10": "2203054336",
+    "genres": [
+      "Economics",
+      "History",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1944,
+    "page_count": 317
+  },
+  {
+    "title": "Small Is Beautiful",
+    "authors": [
+      "E.F. Schumacher"
+    ],
+    "isbn_13": "9789327200119",
+    "isbn_10": "932720011X",
+    "genres": [
+      "Economics",
+      "Environment",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 352
+  },
+  {
+    "title": "23 Things They Don't Tell You About Capitalism",
+    "authors": [
+      "Ha-Joon Chang"
+    ],
+    "isbn_13": "9785340100443",
+    "isbn_10": "5340100448",
+    "genres": [
+      "Economics",
+      "Globalization"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 286
+  },
+  {
+    "title": "Educated",
+    "authors": [
+      "Tara Westover"
+    ],
+    "isbn_13": "9782885622256",
+    "isbn_10": "2885622253",
+    "genres": [
+      "Memoir",
+      "Education",
+      "Family"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 334
+  },
+  {
+    "title": "The Glass Castle",
+    "authors": [
+      "Jeannette Walls"
+    ],
+    "isbn_13": "9786602331032",
+    "isbn_10": "6602331035",
+    "genres": [
+      "Memoir",
+      "Family",
+      "Poverty"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 288
+  },
+  {
+    "title": "Angela's Ashes",
+    "authors": [
+      "Frank McCourt"
+    ],
+    "isbn_13": "9783063413352",
+    "isbn_10": "3063413356",
+    "genres": [
+      "Memoir",
+      "Irish",
+      "Poverty"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 363
+  },
+  {
+    "title": "Born a Crime",
+    "authors": [
+      "Trevor Noah"
+    ],
+    "isbn_13": "9783035201253",
+    "isbn_10": "3035201250",
+    "genres": [
+      "Memoir",
+      "South Africa",
+      "Comedy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 289
+  },
+  {
+    "title": "When Breath Becomes Air",
+    "authors": [
+      "Paul Kalanithi"
+    ],
+    "isbn_13": "9783142034430",
+    "isbn_10": "3142034439",
+    "genres": [
+      "Memoir",
+      "Medicine",
+      "Death"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 228
+  },
+  {
+    "title": "Being Mortal",
+    "authors": [
+      "Atul Gawande"
+    ],
+    "isbn_13": "9788390212708",
+    "isbn_10": "8390212706",
+    "genres": [
+      "Memoir",
+      "Medicine",
+      "Aging"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 282
+  },
+  {
+    "title": "The Immortal Life of Henrietta Lacks",
+    "authors": [
+      "Rebecca Skloot"
+    ],
+    "isbn_13": "9784025338539",
+    "isbn_10": "402533853X",
+    "genres": [
+      "Biography",
+      "Science",
+      "Race"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 381
+  },
+  {
+    "title": "Wild",
+    "authors": [
+      "Cheryl Strayed"
+    ],
+    "isbn_13": "9780274813261",
+    "isbn_10": "0274813262",
+    "genres": [
+      "Memoir",
+      "Travel",
+      "Hiking"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 315
+  },
+  {
+    "title": "Eat, Pray, Love",
+    "authors": [
+      "Elizabeth Gilbert"
+    ],
+    "isbn_13": "9780174172123",
+    "isbn_10": "0174172125",
+    "genres": [
+      "Memoir",
+      "Travel",
+      "Spiritual"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 334
+  },
+  {
+    "title": "The Year of Magical Thinking",
+    "authors": [
+      "Joan Didion"
+    ],
+    "isbn_13": "9782343693514",
+    "isbn_10": "234369351X",
+    "genres": [
+      "Memoir",
+      "Grief",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 227
+  },
+  {
+    "title": "Slouching Towards Bethlehem",
+    "authors": [
+      "Joan Didion"
+    ],
+    "isbn_13": "9783055544637",
+    "isbn_10": "3055544633",
+    "genres": [
+      "Memoir",
+      "Essays",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1968,
+    "page_count": 238
+  },
+  {
+    "title": "The White Album",
+    "authors": [
+      "Joan Didion"
+    ],
+    "isbn_13": "9784177487918",
+    "isbn_10": "4177487910",
+    "genres": [
+      "Memoir",
+      "Essays",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 223
+  },
+  {
+    "title": "I Know Why the Caged Bird Sings",
+    "authors": [
+      "Maya Angelou"
+    ],
+    "isbn_13": "9783358809013",
+    "isbn_10": "3358809013",
+    "genres": [
+      "Memoir",
+      "African American",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 281
+  },
+  {
+    "title": "Night",
+    "authors": [
+      "Elie Wiesel"
+    ],
+    "isbn_13": "9781361593134",
+    "isbn_10": "136159313X",
+    "genres": [
+      "Memoir",
+      "Holocaust",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1956,
+    "page_count": 120
+  },
+  {
+    "title": "Persepolis",
+    "authors": [
+      "Marjane Satrapi"
+    ],
+    "isbn_13": "9780955440526",
+    "isbn_10": "0955440521",
+    "genres": [
+      "Memoir",
+      "Graphic Novel",
+      "Iranian"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 153
+  },
+  {
+    "title": "Fun Home",
+    "authors": [
+      "Alison Bechdel"
+    ],
+    "isbn_13": "9784951265916",
+    "isbn_10": "4951265915",
+    "genres": [
+      "Memoir",
+      "Graphic Novel",
+      "LGBTQ+"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 232
+  },
+  {
+    "title": "Maus",
+    "authors": [
+      "Art Spiegelman"
+    ],
+    "isbn_13": "9785320386393",
+    "isbn_10": "5320386397",
+    "genres": [
+      "Memoir",
+      "Graphic Novel",
+      "Holocaust",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 296
+  },
+  {
+    "title": "Autobiography of a Yogi",
+    "authors": [
+      "Paramahansa Yogananda"
+    ],
+    "isbn_13": "9781315854311",
+    "isbn_10": "1315854317",
+    "genres": [
+      "Memoir",
+      "Spiritual",
+      "Indian",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1946,
+    "page_count": 498
+  },
+  {
+    "title": "The Diary of a Young Girl",
+    "authors": [
+      "Anne Frank"
+    ],
+    "isbn_13": "9782922714500",
+    "isbn_10": "2922714500",
+    "genres": [
+      "Memoir",
+      "Holocaust",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1947,
+    "page_count": 283
+  },
+  {
+    "title": "Open",
+    "authors": [
+      "Andre Agassi"
+    ],
+    "isbn_13": "9784424741534",
+    "isbn_10": "4424741532",
+    "genres": [
+      "Memoir",
+      "Sports",
+      "Tennis"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 388
+  },
+  {
+    "title": "Shoe Dog",
+    "authors": [
+      "Phil Knight"
+    ],
+    "isbn_13": "9787710202436",
+    "isbn_10": "7710202438",
+    "genres": [
+      "Memoir",
+      "Business",
+      "Nike"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 386
+  },
+  {
+    "title": "Becoming",
+    "authors": [
+      "Michelle Obama"
+    ],
+    "isbn_13": "9781666544190",
+    "isbn_10": "1666544191",
+    "genres": [
+      "Memoir",
+      "Politics",
+      "American"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 426
+  },
+  {
+    "title": "My Experiments with Truth",
+    "authors": [
+      "Mahatma Gandhi"
+    ],
+    "isbn_13": "9780402214052",
+    "isbn_10": "0402214056",
+    "genres": [
+      "Memoir",
+      "Indian",
+      "Political",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1927,
+    "page_count": 528
+  },
+  {
+    "title": "Wings of Fire",
+    "authors": [
+      "A.P.J. Abdul Kalam"
+    ],
+    "isbn_13": "9783460485549",
+    "isbn_10": "346048554X",
+    "genres": [
+      "Memoir",
+      "Indian",
+      "Science",
+      "Inspirational"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 180
+  },
+  {
+    "title": "An Autobiography",
+    "authors": [
+      "Jawaharlal Nehru"
+    ],
+    "isbn_13": "9784327205331",
+    "isbn_10": "4327205338",
+    "genres": [
+      "Memoir",
+      "Indian",
+      "Political",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1936,
+    "page_count": 615
+  },
+  {
+    "title": "The Discovery of India",
+    "authors": [
+      "Jawaharlal Nehru"
+    ],
+    "isbn_13": "9784006001100",
+    "isbn_10": "400600110X",
+    "genres": [
+      "History",
+      "Indian",
+      "Political",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1946,
+    "page_count": 582
+  },
+  {
+    "title": "India After Gandhi",
+    "authors": [
+      "Ramachandra Guha"
+    ],
+    "isbn_13": "9787119384825",
+    "isbn_10": "7119384821",
+    "genres": [
+      "History",
+      "Indian",
+      "Political"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 900
+  },
+  {
+    "title": "India: A History",
+    "authors": [
+      "John Keay"
+    ],
+    "isbn_13": "9788506651544",
+    "isbn_10": "8506651549",
+    "genres": [
+      "History",
+      "Indian",
+      "Reference"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 576
+  },
+  {
+    "title": "The Argumentative Indian",
+    "authors": [
+      "Amartya Sen"
+    ],
+    "isbn_13": "9780206911577",
+    "isbn_10": "0206911572",
+    "genres": [
+      "History",
+      "Indian",
+      "Philosophy",
+      "Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 409
+  },
+  {
+    "title": "An Uncertain Glory",
+    "authors": [
+      "Jean Dreze",
+      "Amartya Sen"
+    ],
+    "isbn_13": "9789559328339",
+    "isbn_10": "9559328336",
+    "genres": [
+      "Economics",
+      "Indian",
+      "Development"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 434
+  }
+]

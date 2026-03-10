@@ -1,0 +1,1383 @@
+[
+  {
+    "title": "Hitchcock/Truffaut",
+    "authors": [
+      "Alfred Hitchcock",
+      "Francois Truffaut"
+    ],
+    "isbn_13": "9785355195502",
+    "isbn_10": "5355195504",
+    "genres": [
+      "Cinema",
+      "Interview",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1966,
+    "page_count": 368
+  },
+  {
+    "title": "Easy Riders, Raging Bulls",
+    "authors": [
+      "Peter Biskind"
+    ],
+    "isbn_13": "9785756257052",
+    "isbn_10": "5756257055",
+    "genres": [
+      "Cinema",
+      "History",
+      "New Hollywood"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 506
+  },
+  {
+    "title": "Adventures in the Screen Trade",
+    "authors": [
+      "William Goldman"
+    ],
+    "isbn_13": "9783034592604",
+    "isbn_10": "3034592604",
+    "genres": [
+      "Cinema",
+      "Memoir",
+      "Screenwriting"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 418
+  },
+  {
+    "title": "In the Blink of an Eye",
+    "authors": [
+      "Walter Murch"
+    ],
+    "isbn_13": "9786831309291",
+    "isbn_10": "6831309291",
+    "genres": [
+      "Cinema",
+      "Film Editing",
+      "Craft"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 148
+  },
+  {
+    "title": "Story",
+    "authors": [
+      "Robert McKee"
+    ],
+    "isbn_13": "9782857451532",
+    "isbn_10": "2857451539",
+    "genres": [
+      "Cinema",
+      "Screenwriting",
+      "Craft"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 466
+  },
+  {
+    "title": "Save the Cat!",
+    "authors": [
+      "Blake Snyder"
+    ],
+    "isbn_13": "9785503831375",
+    "isbn_10": "5503831373",
+    "genres": [
+      "Cinema",
+      "Screenwriting",
+      "Craft"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 192
+  },
+  {
+    "title": "Screenplay",
+    "authors": [
+      "Syd Field"
+    ],
+    "isbn_13": "9783128311937",
+    "isbn_10": "3128311935",
+    "genres": [
+      "Cinema",
+      "Screenwriting",
+      "Craft"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 320
+  },
+  {
+    "title": "Making Movies",
+    "authors": [
+      "Sidney Lumet"
+    ],
+    "isbn_13": "9788164221448",
+    "isbn_10": "8164221449",
+    "genres": [
+      "Cinema",
+      "Memoir",
+      "Directing"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 220
+  },
+  {
+    "title": "Rebel Without a Crew",
+    "authors": [
+      "Robert Rodriguez"
+    ],
+    "isbn_13": "9781642452518",
+    "isbn_10": "1642452513",
+    "genres": [
+      "Cinema",
+      "Memoir",
+      "Independent Film"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 285
+  },
+  {
+    "title": "On Directing Film",
+    "authors": [
+      "David Mamet"
+    ],
+    "isbn_13": "9782203471245",
+    "isbn_10": "2203471247",
+    "genres": [
+      "Cinema",
+      "Directing",
+      "Craft"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 107
+  },
+  {
+    "title": "Sculpting in Time",
+    "authors": [
+      "Andrei Tarkovsky"
+    ],
+    "isbn_13": "9784017949002",
+    "isbn_10": "4017949002",
+    "genres": [
+      "Cinema",
+      "Philosophy",
+      "Directing"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 255
+  },
+  {
+    "title": "Something Like an Autobiography",
+    "authors": [
+      "Akira Kurosawa"
+    ],
+    "isbn_13": "9784312852281",
+    "isbn_10": "4312852286",
+    "genres": [
+      "Cinema",
+      "Memoir",
+      "Japanese"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 205
+  },
+  {
+    "title": "My Last Sigh",
+    "authors": [
+      "Luis Bunuel"
+    ],
+    "isbn_13": "9784954632210",
+    "isbn_10": "4954632218",
+    "genres": [
+      "Cinema",
+      "Memoir",
+      "Surrealism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 256
+  },
+  {
+    "title": "A Personal Journey Through American Movies",
+    "authors": [
+      "Martin Scorsese"
+    ],
+    "isbn_13": "9782252159019",
+    "isbn_10": "2252159014",
+    "genres": [
+      "Cinema",
+      "History",
+      "American"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 172
+  },
+  {
+    "title": "The Architecture of Vision",
+    "authors": [
+      "Michelangelo Antonioni"
+    ],
+    "isbn_13": "9784448376972",
+    "isbn_10": "4448376974",
+    "genres": [
+      "Cinema",
+      "Essays",
+      "Italian"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 388
+  },
+  {
+    "title": "Transcendental Style in Film",
+    "authors": [
+      "Paul Schrader"
+    ],
+    "isbn_13": "9784445161137",
+    "isbn_10": "4445161136",
+    "genres": [
+      "Cinema",
+      "Philosophy",
+      "Spirituality"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 194
+  },
+  {
+    "title": "Film Art: An Introduction",
+    "authors": [
+      "David Bordwell",
+      "Kristin Thompson"
+    ],
+    "isbn_13": "9780974444352",
+    "isbn_10": "0974444359",
+    "genres": [
+      "Cinema",
+      "Theory",
+      "Textbook"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 528
+  },
+  {
+    "title": "The Conversations",
+    "authors": [
+      "Michael Ondaatje"
+    ],
+    "isbn_13": "9784185443050",
+    "isbn_10": "4185443056",
+    "genres": [
+      "Cinema",
+      "Film Editing",
+      "Interview"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 339
+  },
+  {
+    "title": "Down and Dirty Pictures",
+    "authors": [
+      "Peter Biskind"
+    ],
+    "isbn_13": "9782312438269",
+    "isbn_10": "2312438267",
+    "genres": [
+      "Cinema",
+      "Independent Film",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 560
+  },
+  {
+    "title": "Pictures at a Revolution",
+    "authors": [
+      "Mark Harris"
+    ],
+    "isbn_13": "9785167813052",
+    "isbn_10": "5167813050",
+    "genres": [
+      "Cinema",
+      "History",
+      "1960s"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 490
+  },
+  {
+    "title": "Notes on the Cinematograph",
+    "authors": [
+      "Robert Bresson"
+    ],
+    "isbn_13": "9780682605342",
+    "isbn_10": "0682605344",
+    "genres": [
+      "Cinema",
+      "Philosophy",
+      "French"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 137
+  },
+  {
+    "title": "A History of the World in 10½ Chapters",
+    "authors": [
+      "Julian Barnes"
+    ],
+    "isbn_13": "9785030493527",
+    "isbn_10": "5030493522",
+    "genres": [
+      "Cinema",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 307
+  },
+  {
+    "title": "When the Shooting Stops",
+    "authors": [
+      "Ralph Rosenblum",
+      "Robert Karen"
+    ],
+    "isbn_13": "9785311442022",
+    "isbn_10": "5311442026",
+    "genres": [
+      "Cinema",
+      "Film Editing"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 308
+  },
+  {
+    "title": "The Filmmaker's Handbook",
+    "authors": [
+      "Steven Ascher",
+      "Edward Pincus"
+    ],
+    "isbn_13": "9780214124334",
+    "isbn_10": "0214124339",
+    "genres": [
+      "Cinema",
+      "Production",
+      "Reference"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 625
+  },
+  {
+    "title": "Cassavetes on Cassavetes",
+    "authors": [
+      "Ray Carney"
+    ],
+    "isbn_13": "9787310752249",
+    "isbn_10": "7310752244",
+    "genres": [
+      "Cinema",
+      "Interview",
+      "Independent Film"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 528
+  },
+  {
+    "title": "The Story of Art",
+    "authors": [
+      "E.H. Gombrich"
+    ],
+    "isbn_13": "9785547712821",
+    "isbn_10": "5547712825",
+    "genres": [
+      "Art",
+      "History",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1950,
+    "page_count": 688
+  },
+  {
+    "title": "Ways of Seeing",
+    "authors": [
+      "John Berger"
+    ],
+    "isbn_13": "9782465142259",
+    "isbn_10": "2465142259",
+    "genres": [
+      "Art",
+      "Criticism",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 166
+  },
+  {
+    "title": "About Looking",
+    "authors": [
+      "John Berger"
+    ],
+    "isbn_13": "9781552422403",
+    "isbn_10": "1552422402",
+    "genres": [
+      "Art",
+      "Criticism",
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 198
+  },
+  {
+    "title": "Art and Illusion",
+    "authors": [
+      "E.H. Gombrich"
+    ],
+    "isbn_13": "9781964258515",
+    "isbn_10": "1964258510",
+    "genres": [
+      "Art",
+      "Psychology",
+      "Perception"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1960,
+    "page_count": 466
+  },
+  {
+    "title": "The Lives of the Artists",
+    "authors": [
+      "Giorgio Vasari"
+    ],
+    "isbn_13": "9783226349481",
+    "isbn_10": "3226349481",
+    "genres": [
+      "Art",
+      "Biography",
+      "Classic",
+      "Renaissance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1550,
+    "page_count": 478
+  },
+  {
+    "title": "Concerning the Spiritual in Art",
+    "authors": [
+      "Wassily Kandinsky"
+    ],
+    "isbn_13": "9782813105080",
+    "isbn_10": "2813105082",
+    "genres": [
+      "Art",
+      "Theory",
+      "Abstract",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1911,
+    "page_count": 104
+  },
+  {
+    "title": "The Shock of the New",
+    "authors": [
+      "Robert Hughes"
+    ],
+    "isbn_13": "9783923118595",
+    "isbn_10": "3923118597",
+    "genres": [
+      "Art",
+      "Modern Art",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 444
+  },
+  {
+    "title": "Nothing If Not Critical",
+    "authors": [
+      "Robert Hughes"
+    ],
+    "isbn_13": "9786153726943",
+    "isbn_10": "6153726941",
+    "genres": [
+      "Art",
+      "Criticism",
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 432
+  },
+  {
+    "title": "The Art Spirit",
+    "authors": [
+      "Robert Henri"
+    ],
+    "isbn_13": "9783501319956",
+    "isbn_10": "3501319959",
+    "genres": [
+      "Art",
+      "Teaching",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1923,
+    "page_count": 277
+  },
+  {
+    "title": "Interaction of Color",
+    "authors": [
+      "Josef Albers"
+    ],
+    "isbn_13": "9788456563614",
+    "isbn_10": "8456563617",
+    "genres": [
+      "Art",
+      "Color Theory",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 208
+  },
+  {
+    "title": "The Art Book",
+    "authors": [
+      "Phaidon Editors"
+    ],
+    "isbn_13": "9781743301203",
+    "isbn_10": "1743301200",
+    "genres": [
+      "Art",
+      "Reference",
+      "Anthology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 592
+  },
+  {
+    "title": "History of Art",
+    "authors": [
+      "H.W. Janson"
+    ],
+    "isbn_13": "9781611015737",
+    "isbn_10": "1611015731",
+    "genres": [
+      "Art",
+      "History",
+      "Textbook"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 960
+  },
+  {
+    "title": "On Photography",
+    "authors": [
+      "Susan Sontag"
+    ],
+    "isbn_13": "9785517531346",
+    "isbn_10": "5517531342",
+    "genres": [
+      "Art",
+      "Photography",
+      "Criticism",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 207
+  },
+  {
+    "title": "Regarding the Pain of Others",
+    "authors": [
+      "Susan Sontag"
+    ],
+    "isbn_13": "9789040086366",
+    "isbn_10": "9040086362",
+    "genres": [
+      "Art",
+      "Photography",
+      "War"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 131
+  },
+  {
+    "title": "Camera Lucida",
+    "authors": [
+      "Roland Barthes"
+    ],
+    "isbn_13": "9783609283517",
+    "isbn_10": "3609283513",
+    "genres": [
+      "Art",
+      "Photography",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 119
+  },
+  {
+    "title": "Just Kids",
+    "authors": [
+      "Patti Smith"
+    ],
+    "isbn_13": "9782007253641",
+    "isbn_10": "200725364X",
+    "genres": [
+      "Art",
+      "Memoir",
+      "Music",
+      "New York"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 278
+  },
+  {
+    "title": "The Letters of Vincent van Gogh",
+    "authors": [
+      "Vincent van Gogh"
+    ],
+    "isbn_13": "9780305515591",
+    "isbn_10": "0305515594",
+    "genres": [
+      "Art",
+      "Letters",
+      "Biography"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1914,
+    "page_count": 512
+  },
+  {
+    "title": "Leonardo da Vinci",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "isbn_13": "9782290111734",
+    "isbn_10": "2290111732",
+    "genres": [
+      "Art",
+      "Biography",
+      "Science",
+      "Renaissance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 599
+  },
+  {
+    "title": "Frida: A Biography",
+    "authors": [
+      "Hayden Herrera"
+    ],
+    "isbn_13": "9784375326095",
+    "isbn_10": "4375326093",
+    "genres": [
+      "Art",
+      "Biography",
+      "Mexican"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 507
+  },
+  {
+    "title": "The Art of Looking Sideways",
+    "authors": [
+      "Alan Fletcher"
+    ],
+    "isbn_13": "9783052133537",
+    "isbn_10": "3052133535",
+    "genres": [
+      "Art",
+      "Design",
+      "Visual Thinking"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 534
+  },
+  {
+    "title": "Steal Like an Artist",
+    "authors": [
+      "Austin Kleon"
+    ],
+    "isbn_13": "9781245733076",
+    "isbn_10": "1245733079",
+    "genres": [
+      "Art",
+      "Creativity",
+      "Self-Help"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 160
+  },
+  {
+    "title": "The War of Art",
+    "authors": [
+      "Steven Pressfield"
+    ],
+    "isbn_13": "9780484220101",
+    "isbn_10": "0484220101",
+    "genres": [
+      "Art",
+      "Creativity",
+      "Self-Help"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 168
+  },
+  {
+    "title": "Art & Fear",
+    "authors": [
+      "David Bayles",
+      "Ted Orland"
+    ],
+    "isbn_13": "9782036614529",
+    "isbn_10": "2036614523",
+    "genres": [
+      "Art",
+      "Creativity",
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 122
+  },
+  {
+    "title": "Color and Light",
+    "authors": [
+      "James Gurney"
+    ],
+    "isbn_13": "9786832525997",
+    "isbn_10": "6832525990",
+    "genres": [
+      "Art",
+      "Painting",
+      "Technique"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 224
+  },
+  {
+    "title": "Understanding Comics",
+    "authors": [
+      "Scott McCloud"
+    ],
+    "isbn_13": "9781384036519",
+    "isbn_10": "1384036512",
+    "genres": [
+      "Art",
+      "Comics",
+      "Theory"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 215
+  },
+  {
+    "title": "How Music Works",
+    "authors": [
+      "David Byrne"
+    ],
+    "isbn_13": "9781553053521",
+    "isbn_10": "1553053524",
+    "genres": [
+      "Music",
+      "Theory",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 352
+  },
+  {
+    "title": "Musicophilia",
+    "authors": [
+      "Oliver Sacks"
+    ],
+    "isbn_13": "9784554024507",
+    "isbn_10": "4554024504",
+    "genres": [
+      "Music",
+      "Neuroscience",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 381
+  },
+  {
+    "title": "This Is Your Brain on Music",
+    "authors": [
+      "Daniel Levitin"
+    ],
+    "isbn_13": "9786500881110",
+    "isbn_10": "6500881117",
+    "genres": [
+      "Music",
+      "Neuroscience",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 322
+  },
+  {
+    "title": "The Rest Is Noise",
+    "authors": [
+      "Alex Ross"
+    ],
+    "isbn_13": "9789501822526",
+    "isbn_10": "9501822524",
+    "genres": [
+      "Music",
+      "History",
+      "Classical"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 624
+  },
+  {
+    "title": "Listen to This",
+    "authors": [
+      "Alex Ross"
+    ],
+    "isbn_13": "9786454955141",
+    "isbn_10": "6454955141",
+    "genres": [
+      "Music",
+      "Criticism",
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 364
+  },
+  {
+    "title": "Beethoven: Anguish and Triumph",
+    "authors": [
+      "Jan Swafford"
+    ],
+    "isbn_13": "9780321142542",
+    "isbn_10": "0321142543",
+    "genres": [
+      "Music",
+      "Biography",
+      "Classical"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 1077
+  },
+  {
+    "title": "Mozart: A Life",
+    "authors": [
+      "Maynard Solomon"
+    ],
+    "isbn_13": "9781503750951",
+    "isbn_10": "1503750957",
+    "genres": [
+      "Music",
+      "Biography",
+      "Classical"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 640
+  },
+  {
+    "title": "The Lives of the Great Composers",
+    "authors": [
+      "Harold Schonberg"
+    ],
+    "isbn_13": "9784610293731",
+    "isbn_10": "4610293730",
+    "genres": [
+      "Music",
+      "Biography",
+      "Classical"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1970,
+    "page_count": 653
+  },
+  {
+    "title": "Revolution in the Head",
+    "authors": [
+      "Ian MacDonald"
+    ],
+    "isbn_13": "9783413713446",
+    "isbn_10": "3413713442",
+    "genres": [
+      "Music",
+      "Beatles",
+      "Rock"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 544
+  },
+  {
+    "title": "Chronicles: Volume One",
+    "authors": [
+      "Bob Dylan"
+    ],
+    "isbn_13": "9789166225434",
+    "isbn_10": "9166225434",
+    "genres": [
+      "Music",
+      "Memoir",
+      "Folk",
+      "Rock"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 293
+  },
+  {
+    "title": "Life",
+    "authors": [
+      "Keith Richards"
+    ],
+    "isbn_13": "9781229261243",
+    "isbn_10": "1229261249",
+    "genres": [
+      "Music",
+      "Memoir",
+      "Rock"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 564
+  },
+  {
+    "title": "Just Kids",
+    "authors": [
+      "Patti Smith"
+    ],
+    "isbn_13": "9782007253641",
+    "isbn_10": "200725364X",
+    "genres": [
+      "Music",
+      "Memoir",
+      "Art",
+      "Punk"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 278
+  },
+  {
+    "title": "M Train",
+    "authors": [
+      "Patti Smith"
+    ],
+    "isbn_13": "9787555002130",
+    "isbn_10": "7555002132",
+    "genres": [
+      "Music",
+      "Memoir",
+      "Literature"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 253
+  },
+  {
+    "title": "Hunger Makes Me a Modern Girl",
+    "authors": [
+      "Carrie Brownstein"
+    ],
+    "isbn_13": "9786845335118",
+    "isbn_10": "6845335117",
+    "genres": [
+      "Music",
+      "Memoir",
+      "Punk"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 244
+  },
+  {
+    "title": "Feel the Noise",
+    "authors": [
+      "Gareth Murphy"
+    ],
+    "isbn_13": "9783846465813",
+    "isbn_10": "384646581X",
+    "genres": [
+      "Music",
+      "History",
+      "Industry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 320
+  },
+  {
+    "title": "Love Is a Mix Tape",
+    "authors": [
+      "Rob Sheffield"
+    ],
+    "isbn_13": "9783616448213",
+    "isbn_10": "3616448212",
+    "genres": [
+      "Music",
+      "Memoir",
+      "Love"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 224
+  },
+  {
+    "title": "Our Band Could Be Your Life",
+    "authors": [
+      "Michael Azerrad"
+    ],
+    "isbn_13": "9788510121415",
+    "isbn_10": "8510121419",
+    "genres": [
+      "Music",
+      "Punk",
+      "Indie",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 485
+  },
+  {
+    "title": "Please Kill Me",
+    "authors": [
+      "Legs McNeil",
+      "Gillian McCain"
+    ],
+    "isbn_13": "9788351533354",
+    "isbn_10": "8351533351",
+    "genres": [
+      "Music",
+      "Punk",
+      "Oral History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 466
+  },
+  {
+    "title": "England's Dreaming",
+    "authors": [
+      "Jon Savage"
+    ],
+    "isbn_13": "9785950284113",
+    "isbn_10": "5950284119",
+    "genres": [
+      "Music",
+      "Punk",
+      "History",
+      "British"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 602
+  },
+  {
+    "title": "The Dirt",
+    "authors": [
+      "Motley Crue"
+    ],
+    "isbn_13": "9781287153900",
+    "isbn_10": "1287153909",
+    "genres": [
+      "Music",
+      "Memoir",
+      "Rock"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 431
+  },
+  {
+    "title": "Hammer of the Gods",
+    "authors": [
+      "Stephen Davis"
+    ],
+    "isbn_13": "9784543555838",
+    "isbn_10": "454355583X",
+    "genres": [
+      "Music",
+      "Biography",
+      "Led Zeppelin"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 368
+  },
+  {
+    "title": "No One Here Gets Out Alive",
+    "authors": [
+      "Jerry Hopkins",
+      "Danny Sugerman"
+    ],
+    "isbn_13": "9785107214086",
+    "isbn_10": "5107214088",
+    "genres": [
+      "Music",
+      "Biography",
+      "The Doors"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 387
+  },
+  {
+    "title": "Can't Stop Won't Stop",
+    "authors": [
+      "Jeff Chang"
+    ],
+    "isbn_13": "9789092496151",
+    "isbn_10": "9092496154",
+    "genres": [
+      "Music",
+      "Hip Hop",
+      "History",
+      "Culture"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 546
+  },
+  {
+    "title": "The Big Payback",
+    "authors": [
+      "Dan Charnas"
+    ],
+    "isbn_13": "9789074472548",
+    "isbn_10": "9074472540",
+    "genres": [
+      "Music",
+      "Hip Hop",
+      "Business",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 672
+  },
+  {
+    "title": "Mo' Meta Blues",
+    "authors": [
+      "Questlove"
+    ],
+    "isbn_13": "9788306663532",
+    "isbn_10": "8306663535",
+    "genres": [
+      "Music",
+      "Memoir",
+      "Hip Hop"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 280
+  },
+  {
+    "title": "Decoded",
+    "authors": [
+      "Jay-Z"
+    ],
+    "isbn_13": "9780690470598",
+    "isbn_10": "0690470592",
+    "genres": [
+      "Music",
+      "Memoir",
+      "Hip Hop"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 336
+  },
+  {
+    "title": "Music in the Western World",
+    "authors": [
+      "Piero Weiss",
+      "Richard Taruskin"
+    ],
+    "isbn_13": "9780831805241",
+    "isbn_10": "0831805242",
+    "genres": [
+      "Music",
+      "History",
+      "Classical",
+      "Anthology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 556
+  },
+  {
+    "title": "Noise: A Flaw in Human Judgment",
+    "authors": [
+      "Daniel Kahneman",
+      "Olivier Sibony",
+      "Cass R. Sunstein"
+    ],
+    "isbn_13": "9787140440354",
+    "isbn_10": "7140440352",
+    "genres": [
+      "Music",
+      "Psychology",
+      "Decision Making"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 464
+  },
+  {
+    "title": "The Music Lesson",
+    "authors": [
+      "Victor Wooten"
+    ],
+    "isbn_13": "9785814724205",
+    "isbn_10": "581472420X",
+    "genres": [
+      "Music",
+      "Fiction",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 286
+  },
+  {
+    "title": "Effortless Mastery",
+    "authors": [
+      "Kenny Werner"
+    ],
+    "isbn_13": "9784312138392",
+    "isbn_10": "4312138397",
+    "genres": [
+      "Music",
+      "Jazz",
+      "Practice",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 196
+  }
+]

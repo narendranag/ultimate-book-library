@@ -1,0 +1,895 @@
+[
+  {
+    "title": "Dracula",
+    "authors": [
+      "Bram Stoker"
+    ],
+    "isbn_13": "9781425822408",
+    "isbn_10": "1425822401",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1897,
+    "page_count": 418
+  },
+  {
+    "title": "The Turn of the Screw",
+    "authors": [
+      "Henry James"
+    ],
+    "isbn_13": "9785232315436",
+    "isbn_10": "5232315439",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1898,
+    "page_count": 96
+  },
+  {
+    "title": "The Haunting of Hill House",
+    "authors": [
+      "Shirley Jackson"
+    ],
+    "isbn_13": "9783411003013",
+    "isbn_10": "3411003014",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 246
+  },
+  {
+    "title": "We Have Always Lived in the Castle",
+    "authors": [
+      "Shirley Jackson"
+    ],
+    "isbn_13": "9785204435728",
+    "isbn_10": "5204435727",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 214
+  },
+  {
+    "title": "The Lottery and Other Stories",
+    "authors": [
+      "Shirley Jackson"
+    ],
+    "isbn_13": "9780470922156",
+    "isbn_10": "047092215X",
+    "genres": [
+      "Horror",
+      "Short Stories",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1949,
+    "page_count": 302
+  },
+  {
+    "title": "The Shining",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9788128318023",
+    "isbn_10": "8128318020",
+    "genres": [
+      "Horror",
+      "Psychological"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 447
+  },
+  {
+    "title": "It",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9781700301062",
+    "isbn_10": "1700301063",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 1138
+  },
+  {
+    "title": "The Stand",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9785483022046",
+    "isbn_10": "5483022041",
+    "genres": [
+      "Horror",
+      "Post-Apocalyptic",
+      "Epic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1978,
+    "page_count": 1153
+  },
+  {
+    "title": "Misery",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9783953069393",
+    "isbn_10": "395306939X",
+    "genres": [
+      "Horror",
+      "Psychological"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 310
+  },
+  {
+    "title": "Pet Sematary",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9789380428529",
+    "isbn_10": "9380428529",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 374
+  },
+  {
+    "title": "Salem's Lot",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9789102304452",
+    "isbn_10": "9102304457",
+    "genres": [
+      "Horror",
+      "Vampire"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 439
+  },
+  {
+    "title": "Carrie",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9783957554604",
+    "isbn_10": "3957554608",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 199
+  },
+  {
+    "title": "The Dead Zone",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9781433233401",
+    "isbn_10": "1433233401",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 428
+  },
+  {
+    "title": "Christine",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9782732412115",
+    "isbn_10": "2732412112",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 526
+  },
+  {
+    "title": "11/22/63",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9783156840010",
+    "isbn_10": "3156840017",
+    "genres": [
+      "Horror",
+      "Historical",
+      "Time Travel"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 849
+  },
+  {
+    "title": "Doctor Sleep",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9784413161770",
+    "isbn_10": "4413161777",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 531
+  },
+  {
+    "title": "The Institute",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9784193733990",
+    "isbn_10": "4193733998",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 576
+  },
+  {
+    "title": "Revival",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9780849354304",
+    "isbn_10": "0849354307",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 405
+  },
+  {
+    "title": "Needful Things",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9782353618453",
+    "isbn_10": "2353618456",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 690
+  },
+  {
+    "title": "Cujo",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9780222522535",
+    "isbn_10": "0222522534",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 319
+  },
+  {
+    "title": "The Exorcist",
+    "authors": [
+      "William Peter Blatty"
+    ],
+    "isbn_13": "9781423542049",
+    "isbn_10": "1423542045",
+    "genres": [
+      "Horror",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1971,
+    "page_count": 340
+  },
+  {
+    "title": "Rosemary's Baby",
+    "authors": [
+      "Ira Levin"
+    ],
+    "isbn_13": "9785312051384",
+    "isbn_10": "5312051381",
+    "genres": [
+      "Horror",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1967,
+    "page_count": 245
+  },
+  {
+    "title": "The Stepford Wives",
+    "authors": [
+      "Ira Levin"
+    ],
+    "isbn_13": "9780261194410",
+    "isbn_10": "0261194410",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Feminist"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 145
+  },
+  {
+    "title": "Hell House",
+    "authors": [
+      "Richard Matheson"
+    ],
+    "isbn_13": "9780060059231",
+    "isbn_10": "0060059230",
+    "genres": [
+      "Horror",
+      "Haunted House"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1971,
+    "page_count": 301
+  },
+  {
+    "title": "I Am Legend",
+    "authors": [
+      "Richard Matheson"
+    ],
+    "isbn_13": "9784692187157",
+    "isbn_10": "4692187158",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1954,
+    "page_count": 160
+  },
+  {
+    "title": "The Amityville Horror",
+    "authors": [
+      "Jay Anson"
+    ],
+    "isbn_13": "9781006952616",
+    "isbn_10": "1006952616",
+    "genres": [
+      "Horror",
+      "True Crime"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 264
+  },
+  {
+    "title": "Ghost Story",
+    "authors": [
+      "Peter Straub"
+    ],
+    "isbn_13": "9780831490010",
+    "isbn_10": "0831490012",
+    "genres": [
+      "Horror",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 483
+  },
+  {
+    "title": "The Ceremonies",
+    "authors": [
+      "T.E.D. Klein"
+    ],
+    "isbn_13": "9783584548878",
+    "isbn_10": "358454887X",
+    "genres": [
+      "Horror",
+      "Folk Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 502
+  },
+  {
+    "title": "The Books of Blood",
+    "authors": [
+      "Clive Barker"
+    ],
+    "isbn_13": "9782266223706",
+    "isbn_10": "2266223704",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 245
+  },
+  {
+    "title": "The Hellbound Heart",
+    "authors": [
+      "Clive Barker"
+    ],
+    "isbn_13": "9785192308141",
+    "isbn_10": "5192308143",
+    "genres": [
+      "Horror",
+      "Dark Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 163
+  },
+  {
+    "title": "House of Leaves",
+    "authors": [
+      "Mark Z. Danielewski"
+    ],
+    "isbn_13": "9783152189557",
+    "isbn_10": "3152189559",
+    "genres": [
+      "Horror",
+      "Experimental",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 709
+  },
+  {
+    "title": "Bird Box",
+    "authors": [
+      "Josh Malerman"
+    ],
+    "isbn_13": "9782315423958",
+    "isbn_10": "2315423953",
+    "genres": [
+      "Horror",
+      "Post-Apocalyptic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 262
+  },
+  {
+    "title": "The Troop",
+    "authors": [
+      "Nick Cutter"
+    ],
+    "isbn_13": "9785735614906",
+    "isbn_10": "5735614908",
+    "genres": [
+      "Horror",
+      "Survival"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 358
+  },
+  {
+    "title": "Mexican Gothic",
+    "authors": [
+      "Silvia Moreno-Garcia"
+    ],
+    "isbn_13": "9782950038210",
+    "isbn_10": "2950038212",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Mexican"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 301
+  },
+  {
+    "title": "The Only Good Indians",
+    "authors": [
+      "Stephen Graham Jones"
+    ],
+    "isbn_13": "9781385885901",
+    "isbn_10": "1385885904",
+    "genres": [
+      "Horror",
+      "Native American"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 300
+  },
+  {
+    "title": "My Heart Is a Chainsaw",
+    "authors": [
+      "Stephen Graham Jones"
+    ],
+    "isbn_13": "9785925272510",
+    "isbn_10": "592527251X",
+    "genres": [
+      "Horror",
+      "Slasher"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 416
+  },
+  {
+    "title": "The Fisherman",
+    "authors": [
+      "John Langan"
+    ],
+    "isbn_13": "9784057943800",
+    "isbn_10": "4057943803",
+    "genres": [
+      "Horror",
+      "Cosmic Horror",
+      "Lovecraftian"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 266
+  },
+  {
+    "title": "The Cabin at the End of the World",
+    "authors": [
+      "Paul Tremblay"
+    ],
+    "isbn_13": "9788733308396",
+    "isbn_10": "873330839X",
+    "genres": [
+      "Horror",
+      "Home Invasion"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 272
+  },
+  {
+    "title": "A Head Full of Ghosts",
+    "authors": [
+      "Paul Tremblay"
+    ],
+    "isbn_13": "9788310995797",
+    "isbn_10": "8310995792",
+    "genres": [
+      "Horror",
+      "Psychological"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 286
+  },
+  {
+    "title": "Ring",
+    "authors": [
+      "Koji Suzuki"
+    ],
+    "isbn_13": "9781749233355",
+    "isbn_10": "1749233355",
+    "genres": [
+      "Horror",
+      "Japanese",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 286
+  },
+  {
+    "title": "Dark Water",
+    "authors": [
+      "Koji Suzuki"
+    ],
+    "isbn_13": "9787858930963",
+    "isbn_10": "7858930966",
+    "genres": [
+      "Horror",
+      "Japanese",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 276
+  },
+  {
+    "title": "Uzumaki",
+    "authors": [
+      "Junji Ito"
+    ],
+    "isbn_13": "9784509855507",
+    "isbn_10": "4509855508",
+    "genres": [
+      "Horror",
+      "Manga",
+      "Japanese",
+      "Graphic Novel"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 648
+  },
+  {
+    "title": "The Hunger",
+    "authors": [
+      "Alma Katsu"
+    ],
+    "isbn_13": "9783143024133",
+    "isbn_10": "3143024135",
+    "genres": [
+      "Horror",
+      "Historical"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 378
+  },
+  {
+    "title": "Beloved",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9782002543402",
+    "isbn_10": "2002543402",
+    "genres": [
+      "Horror",
+      "Literary Fiction",
+      "Historical"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 324
+  },
+  {
+    "title": "Haunted",
+    "authors": [
+      "Chuck Palahniuk"
+    ],
+    "isbn_13": "9785200775934",
+    "isbn_10": "5200775930",
+    "genres": [
+      "Horror",
+      "Satire",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 411
+  },
+  {
+    "title": "Let the Right One In",
+    "authors": [
+      "John Ajvide Lindqvist"
+    ],
+    "isbn_13": "9782534037516",
+    "isbn_10": "253403751X",
+    "genres": [
+      "Horror",
+      "Vampire",
+      "Swedish"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 472
+  },
+  {
+    "title": "The Little Stranger",
+    "authors": [
+      "Sarah Waters"
+    ],
+    "isbn_13": "9784310360894",
+    "isbn_10": "4310360890",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Historical"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 466
+  },
+  {
+    "title": "The Woman in Black",
+    "authors": [
+      "Susan Hill"
+    ],
+    "isbn_13": "9781721524334",
+    "isbn_10": "1721524339",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 200
+  },
+  {
+    "title": "Coraline",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9785823491532",
+    "isbn_10": "5823491530",
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 162
+  },
+  {
+    "title": "NOS4A2",
+    "authors": [
+      "Joe Hill"
+    ],
+    "isbn_13": "9786971380365",
+    "isbn_10": "6971380363",
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 692
+  },
+  {
+    "title": "Heart-Shaped Box",
+    "authors": [
+      "Joe Hill"
+    ],
+    "isbn_13": "9780673108081",
+    "isbn_10": "0673108082",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 376
+  },
+  {
+    "title": "The Ruins",
+    "authors": [
+      "Scott Smith"
+    ],
+    "isbn_13": "9783314306167",
+    "isbn_10": "3314306164",
+    "genres": [
+      "Horror",
+      "Survival"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 319
+  },
+  {
+    "title": "Hex",
+    "authors": [
+      "Thomas Olde Heuvelt"
+    ],
+    "isbn_13": "9780016596018",
+    "isbn_10": "0016596013",
+    "genres": [
+      "Horror",
+      "Dutch"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 384
+  },
+  {
+    "title": "Penpal",
+    "authors": [
+      "Dathan Auerbach"
+    ],
+    "isbn_13": "9780561631547",
+    "isbn_10": "0561631549",
+    "genres": [
+      "Horror",
+      "Psychological"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 252
+  },
+  {
+    "title": "Come Closer",
+    "authors": [
+      "Sara Gran"
+    ],
+    "isbn_13": "9784020271084",
+    "isbn_10": "4020271089",
+    "genres": [
+      "Horror",
+      "Possession"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 169
+  }
+]

@@ -1,0 +1,2394 @@
+[
+  {
+    "title": "A Brief History of Time",
+    "authors": [
+      "Stephen Hawking"
+    ],
+    "isbn_13": "9786343705505",
+    "isbn_10": "6343705503",
+    "genres": [
+      "Science",
+      "Physics",
+      "Cosmology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 256
+  },
+  {
+    "title": "The Universe in a Nutshell",
+    "authors": [
+      "Stephen Hawking"
+    ],
+    "isbn_13": "9781743130834",
+    "isbn_10": "174313083X",
+    "genres": [
+      "Science",
+      "Physics",
+      "Cosmology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 216
+  },
+  {
+    "title": "The Grand Design",
+    "authors": [
+      "Stephen Hawking"
+    ],
+    "isbn_13": "9785830413244",
+    "isbn_10": "5830413248",
+    "genres": [
+      "Science",
+      "Physics",
+      "Cosmology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 208
+  },
+  {
+    "title": "The Elegant Universe",
+    "authors": [
+      "Brian Greene"
+    ],
+    "isbn_13": "9782660427939",
+    "isbn_10": "2660427933",
+    "genres": [
+      "Science",
+      "Physics",
+      "String Theory"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 448
+  },
+  {
+    "title": "The Fabric of the Cosmos",
+    "authors": [
+      "Brian Greene"
+    ],
+    "isbn_13": "9783093342325",
+    "isbn_10": "3093342325",
+    "genres": [
+      "Science",
+      "Physics",
+      "Cosmology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 569
+  },
+  {
+    "title": "The Hidden Reality",
+    "authors": [
+      "Brian Greene"
+    ],
+    "isbn_13": "9781952333248",
+    "isbn_10": "1952333245",
+    "genres": [
+      "Science",
+      "Physics",
+      "Multiverse"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 384
+  },
+  {
+    "title": "Surely You're Joking, Mr. Feynman!",
+    "authors": [
+      "Richard Feynman"
+    ],
+    "isbn_13": "9789943075313",
+    "isbn_10": "9943075317",
+    "genres": [
+      "Science",
+      "Physics",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 391
+  },
+  {
+    "title": "QED: The Strange Theory of Light and Matter",
+    "authors": [
+      "Richard Feynman"
+    ],
+    "isbn_13": "9784633753700",
+    "isbn_10": "4633753703",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 152
+  },
+  {
+    "title": "Six Easy Pieces",
+    "authors": [
+      "Richard Feynman"
+    ],
+    "isbn_13": "9786100390227",
+    "isbn_10": "6100390221",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 176
+  },
+  {
+    "title": "The Character of Physical Law",
+    "authors": [
+      "Richard Feynman"
+    ],
+    "isbn_13": "9782014222340",
+    "isbn_10": "2014222347",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 173
+  },
+  {
+    "title": "Cosmos",
+    "authors": [
+      "Carl Sagan"
+    ],
+    "isbn_13": "9784332562221",
+    "isbn_10": "4332562224",
+    "genres": [
+      "Science",
+      "Astronomy",
+      "Popular Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 396
+  },
+  {
+    "title": "Pale Blue Dot",
+    "authors": [
+      "Carl Sagan"
+    ],
+    "isbn_13": "9787597857286",
+    "isbn_10": "7597857284",
+    "genres": [
+      "Science",
+      "Astronomy",
+      "Popular Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 429
+  },
+  {
+    "title": "The Demon-Haunted World",
+    "authors": [
+      "Carl Sagan"
+    ],
+    "isbn_13": "9781053325081",
+    "isbn_10": "1053325088",
+    "genres": [
+      "Science",
+      "Skepticism",
+      "Popular Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 457
+  },
+  {
+    "title": "Billions & Billions",
+    "authors": [
+      "Carl Sagan"
+    ],
+    "isbn_13": "9786878331606",
+    "isbn_10": "6878331609",
+    "genres": [
+      "Science",
+      "Popular Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 296
+  },
+  {
+    "title": "Astrophysics for People in a Hurry",
+    "authors": [
+      "Neil deGrasse Tyson"
+    ],
+    "isbn_13": "9782331806728",
+    "isbn_10": "2331806721",
+    "genres": [
+      "Science",
+      "Astronomy",
+      "Popular Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 222
+  },
+  {
+    "title": "Death by Black Hole",
+    "authors": [
+      "Neil deGrasse Tyson"
+    ],
+    "isbn_13": "9785966345310",
+    "isbn_10": "5966345317",
+    "genres": [
+      "Science",
+      "Astronomy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 384
+  },
+  {
+    "title": "The Particle at the End of the Universe",
+    "authors": [
+      "Sean Carroll"
+    ],
+    "isbn_13": "9788337557213",
+    "isbn_10": "8337557214",
+    "genres": [
+      "Science",
+      "Physics",
+      "Higgs Boson"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 352
+  },
+  {
+    "title": "Something Deeply Hidden",
+    "authors": [
+      "Sean Carroll"
+    ],
+    "isbn_13": "9787847393403",
+    "isbn_10": "7847393409",
+    "genres": [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 347
+  },
+  {
+    "title": "The Big Picture",
+    "authors": [
+      "Sean Carroll"
+    ],
+    "isbn_13": "9780131413092",
+    "isbn_10": "0131413090",
+    "genres": [
+      "Science",
+      "Physics",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 470
+  },
+  {
+    "title": "Helgoland",
+    "authors": [
+      "Carlo Rovelli"
+    ],
+    "isbn_13": "9781871192919",
+    "isbn_10": "1871192919",
+    "genres": [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 240
+  },
+  {
+    "title": "Seven Brief Lessons on Physics",
+    "authors": [
+      "Carlo Rovelli"
+    ],
+    "isbn_13": "9787343450273",
+    "isbn_10": "7343450271",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 96
+  },
+  {
+    "title": "Reality Is Not What It Seems",
+    "authors": [
+      "Carlo Rovelli"
+    ],
+    "isbn_13": "9787230120005",
+    "isbn_10": "7230120004",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 280
+  },
+  {
+    "title": "The Order of Time",
+    "authors": [
+      "Carlo Rovelli"
+    ],
+    "isbn_13": "9782322508556",
+    "isbn_10": "2322508551",
+    "genres": [
+      "Science",
+      "Physics",
+      "Time"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 224
+  },
+  {
+    "title": "Black Holes and Time Warps",
+    "authors": [
+      "Kip Thorne"
+    ],
+    "isbn_13": "9780630390603",
+    "isbn_10": "0630390606",
+    "genres": [
+      "Science",
+      "Physics",
+      "Cosmology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 619
+  },
+  {
+    "title": "The First Three Minutes",
+    "authors": [
+      "Steven Weinberg"
+    ],
+    "isbn_13": "9784295304449",
+    "isbn_10": "4295304441",
+    "genres": [
+      "Science",
+      "Physics",
+      "Cosmology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 203
+  },
+  {
+    "title": "Entanglement",
+    "authors": [
+      "Amir Aczel"
+    ],
+    "isbn_13": "9784295579038",
+    "isbn_10": "4295579033",
+    "genres": [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 284
+  },
+  {
+    "title": "The God Particle",
+    "authors": [
+      "Leon Lederman"
+    ],
+    "isbn_13": "9783507247291",
+    "isbn_10": "3507247291",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 434
+  },
+  {
+    "title": "Chaos",
+    "authors": [
+      "James Gleick"
+    ],
+    "isbn_13": "9781408125151",
+    "isbn_10": "1408125153",
+    "genres": [
+      "Science",
+      "Mathematics",
+      "Chaos Theory"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 360
+  },
+  {
+    "title": "The Information",
+    "authors": [
+      "James Gleick"
+    ],
+    "isbn_13": "9781333230319",
+    "isbn_10": "1333230311",
+    "genres": [
+      "Science",
+      "Information Theory"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 544
+  },
+  {
+    "title": "Genius: The Life and Science of Richard Feynman",
+    "authors": [
+      "James Gleick"
+    ],
+    "isbn_13": "9787113025328",
+    "isbn_10": "7113025323",
+    "genres": [
+      "Science",
+      "Biography",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 532
+  },
+  {
+    "title": "The Selfish Gene",
+    "authors": [
+      "Richard Dawkins"
+    ],
+    "isbn_13": "9784452500943",
+    "isbn_10": "4452500943",
+    "genres": [
+      "Science",
+      "Biology",
+      "Evolution"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1976,
+    "page_count": 360
+  },
+  {
+    "title": "The Blind Watchmaker",
+    "authors": [
+      "Richard Dawkins"
+    ],
+    "isbn_13": "9786311336274",
+    "isbn_10": "6311336278",
+    "genres": [
+      "Science",
+      "Biology",
+      "Evolution"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 332
+  },
+  {
+    "title": "The Extended Phenotype",
+    "authors": [
+      "Richard Dawkins"
+    ],
+    "isbn_13": "9786542250417",
+    "isbn_10": "6542250417",
+    "genres": [
+      "Science",
+      "Biology",
+      "Evolution"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 307
+  },
+  {
+    "title": "The Ancestor's Tale",
+    "authors": [
+      "Richard Dawkins"
+    ],
+    "isbn_13": "9784412509108",
+    "isbn_10": "4412509109",
+    "genres": [
+      "Science",
+      "Biology",
+      "Evolution"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 673
+  },
+  {
+    "title": "The Greatest Show on Earth",
+    "authors": [
+      "Richard Dawkins"
+    ],
+    "isbn_13": "9784346302677",
+    "isbn_10": "434630267X",
+    "genres": [
+      "Science",
+      "Biology",
+      "Evolution"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 470
+  },
+  {
+    "title": "On the Origin of Species",
+    "authors": [
+      "Charles Darwin"
+    ],
+    "isbn_13": "9782573802021",
+    "isbn_10": "2573802027",
+    "genres": [
+      "Science",
+      "Biology",
+      "Evolution",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1859,
+    "page_count": 502
+  },
+  {
+    "title": "The Voyage of the Beagle",
+    "authors": [
+      "Charles Darwin"
+    ],
+    "isbn_13": "9787014242671",
+    "isbn_10": "7014242679",
+    "genres": [
+      "Science",
+      "Nature",
+      "Travel",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1839,
+    "page_count": 496
+  },
+  {
+    "title": "The Double Helix",
+    "authors": [
+      "James D. Watson"
+    ],
+    "isbn_13": "9788816922648",
+    "isbn_10": "8816922648",
+    "genres": [
+      "Science",
+      "Biology",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1968,
+    "page_count": 226
+  },
+  {
+    "title": "The Gene",
+    "authors": [
+      "Siddhartha Mukherjee"
+    ],
+    "isbn_13": "9786236927441",
+    "isbn_10": "6236927448",
+    "genres": [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 608
+  },
+  {
+    "title": "The Emperor of All Maladies",
+    "authors": [
+      "Siddhartha Mukherjee"
+    ],
+    "isbn_13": "9781535245487",
+    "isbn_10": "1535245484",
+    "genres": [
+      "Science",
+      "Medicine",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 571
+  },
+  {
+    "title": "The Song of the Cell",
+    "authors": [
+      "Siddhartha Mukherjee"
+    ],
+    "isbn_13": "9788511892475",
+    "isbn_10": "8511892478",
+    "genres": [
+      "Science",
+      "Biology",
+      "Medicine"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 496
+  },
+  {
+    "title": "The Immortal Life of Henrietta Lacks",
+    "authors": [
+      "Rebecca Skloot"
+    ],
+    "isbn_13": "9784025338539",
+    "isbn_10": "402533853X",
+    "genres": [
+      "Science",
+      "Biography",
+      "Medicine"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 381
+  },
+  {
+    "title": "Silent Spring",
+    "authors": [
+      "Rachel Carson"
+    ],
+    "isbn_13": "9780922440078",
+    "isbn_10": "0922440077",
+    "genres": [
+      "Science",
+      "Environment",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 400
+  },
+  {
+    "title": "The Sea Around Us",
+    "authors": [
+      "Rachel Carson"
+    ],
+    "isbn_13": "9787402489220",
+    "isbn_10": "7402489221",
+    "genres": [
+      "Science",
+      "Nature",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 286
+  },
+  {
+    "title": "Your Inner Fish",
+    "authors": [
+      "Neil Shubin"
+    ],
+    "isbn_13": "9781347635858",
+    "isbn_10": "1347635858",
+    "genres": [
+      "Science",
+      "Biology",
+      "Paleontology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 229
+  },
+  {
+    "title": "The Sixth Extinction",
+    "authors": [
+      "Elizabeth Kolbert"
+    ],
+    "isbn_13": "9783544001917",
+    "isbn_10": "3544001918",
+    "genres": [
+      "Science",
+      "Environment",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 319
+  },
+  {
+    "title": "Under a White Sky",
+    "authors": [
+      "Elizabeth Kolbert"
+    ],
+    "isbn_13": "9782565343273",
+    "isbn_10": "2565343272",
+    "genres": [
+      "Science",
+      "Environment"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 234
+  },
+  {
+    "title": "The Hidden Life of Trees",
+    "authors": [
+      "Peter Wohlleben"
+    ],
+    "isbn_13": "9780241226049",
+    "isbn_10": "024122604X",
+    "genres": [
+      "Science",
+      "Nature",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 288
+  },
+  {
+    "title": "The Lives of a Cell",
+    "authors": [
+      "Lewis Thomas"
+    ],
+    "isbn_13": "9781184633079",
+    "isbn_10": "118463307X",
+    "genres": [
+      "Science",
+      "Biology",
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 153
+  },
+  {
+    "title": "Entangled Life",
+    "authors": [
+      "Merlin Sheldrake"
+    ],
+    "isbn_13": "9789651350016",
+    "isbn_10": "9651350016",
+    "genres": [
+      "Science",
+      "Biology",
+      "Fungi"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 358
+  },
+  {
+    "title": "I Contain Multitudes",
+    "authors": [
+      "Ed Yong"
+    ],
+    "isbn_13": "9784504416727",
+    "isbn_10": "4504416727",
+    "genres": [
+      "Science",
+      "Biology",
+      "Microbiome"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 368
+  },
+  {
+    "title": "An Immense World",
+    "authors": [
+      "Ed Yong"
+    ],
+    "isbn_13": "9783345012310",
+    "isbn_10": "3345012316",
+    "genres": [
+      "Science",
+      "Biology",
+      "Senses"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 464
+  },
+  {
+    "title": "The Vital Question",
+    "authors": [
+      "Nick Lane"
+    ],
+    "isbn_13": "9784644660295",
+    "isbn_10": "4644660299",
+    "genres": [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 368
+  },
+  {
+    "title": "Life Ascending",
+    "authors": [
+      "Nick Lane"
+    ],
+    "isbn_13": "9788209327456",
+    "isbn_10": "8209327453",
+    "genres": [
+      "Science",
+      "Biology",
+      "Evolution"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 344
+  },
+  {
+    "title": "Oxygen",
+    "authors": [
+      "Nick Lane"
+    ],
+    "isbn_13": "9788745086244",
+    "isbn_10": "8745086249",
+    "genres": [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 374
+  },
+  {
+    "title": "The Botany of Desire",
+    "authors": [
+      "Michael Pollan"
+    ],
+    "isbn_13": "9786421032028",
+    "isbn_10": "6421032028",
+    "genres": [
+      "Science",
+      "Nature",
+      "Botany"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 271
+  },
+  {
+    "title": "The Omnivore's Dilemma",
+    "authors": [
+      "Michael Pollan"
+    ],
+    "isbn_13": "9780121475468",
+    "isbn_10": "0121475468",
+    "genres": [
+      "Science",
+      "Food",
+      "Nature"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 450
+  },
+  {
+    "title": "Godel, Escher, Bach",
+    "authors": [
+      "Douglas Hofstadter"
+    ],
+    "isbn_13": "9788553201587",
+    "isbn_10": "8553201589",
+    "genres": [
+      "Science",
+      "Mathematics",
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 777
+  },
+  {
+    "title": "I Am a Strange Loop",
+    "authors": [
+      "Douglas Hofstadter"
+    ],
+    "isbn_13": "9781681438528",
+    "isbn_10": "1681438526",
+    "genres": [
+      "Science",
+      "Mathematics",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 412
+  },
+  {
+    "title": "Fermat's Enigma",
+    "authors": [
+      "Simon Singh"
+    ],
+    "isbn_13": "9780442915308",
+    "isbn_10": "0442915306",
+    "genres": [
+      "Science",
+      "Mathematics",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 315
+  },
+  {
+    "title": "The Code Book",
+    "authors": [
+      "Simon Singh"
+    ],
+    "isbn_13": "9781551251547",
+    "isbn_10": "155125154X",
+    "genres": [
+      "Science",
+      "Mathematics",
+      "Cryptography"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 412
+  },
+  {
+    "title": "Big Bang",
+    "authors": [
+      "Simon Singh"
+    ],
+    "isbn_13": "9788211146731",
+    "isbn_10": "8211146738",
+    "genres": [
+      "Science",
+      "Cosmology",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 532
+  },
+  {
+    "title": "The Man Who Knew Infinity",
+    "authors": [
+      "Robert Kanigel"
+    ],
+    "isbn_13": "9786895042028",
+    "isbn_10": "6895042024",
+    "genres": [
+      "Science",
+      "Mathematics",
+      "Biography"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 438
+  },
+  {
+    "title": "Flatland",
+    "authors": [
+      "Edwin Abbott"
+    ],
+    "isbn_13": "9781850413257",
+    "isbn_10": "1850413258",
+    "genres": [
+      "Science",
+      "Mathematics",
+      "Classic",
+      "Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1884,
+    "page_count": 96
+  },
+  {
+    "title": "How Not to Be Wrong",
+    "authors": [
+      "Jordan Ellenberg"
+    ],
+    "isbn_13": "9782926390526",
+    "isbn_10": "2926390521",
+    "genres": [
+      "Science",
+      "Mathematics",
+      "Popular Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 468
+  },
+  {
+    "title": "The Joy of x",
+    "authors": [
+      "Steven Strogatz"
+    ],
+    "isbn_13": "9782515182181",
+    "isbn_10": "2515182186",
+    "genres": [
+      "Science",
+      "Mathematics",
+      "Popular Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 316
+  },
+  {
+    "title": "Infinite Powers",
+    "authors": [
+      "Steven Strogatz"
+    ],
+    "isbn_13": "9782471012973",
+    "isbn_10": "2471012973",
+    "genres": [
+      "Science",
+      "Mathematics",
+      "Calculus"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 384
+  },
+  {
+    "title": "A Mathematician's Apology",
+    "authors": [
+      "G.H. Hardy"
+    ],
+    "isbn_13": "9782262206758",
+    "isbn_10": "2262206759",
+    "genres": [
+      "Science",
+      "Mathematics",
+      "Memoir",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1940,
+    "page_count": 153
+  },
+  {
+    "title": "Zero: The Biography of a Dangerous Idea",
+    "authors": [
+      "Charles Seife"
+    ],
+    "isbn_13": "9783948496012",
+    "isbn_10": "3948496013",
+    "genres": [
+      "Science",
+      "Mathematics",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 248
+  },
+  {
+    "title": "The Man Who Loved Only Numbers",
+    "authors": [
+      "Paul Hoffman"
+    ],
+    "isbn_13": "9781734134841",
+    "isbn_10": "1734134844",
+    "genres": [
+      "Science",
+      "Mathematics",
+      "Biography"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 302
+  },
+  {
+    "title": "e: The Story of a Number",
+    "authors": [
+      "Eli Maor"
+    ],
+    "isbn_13": "9784841411294",
+    "isbn_10": "4841411291",
+    "genres": [
+      "Science",
+      "Mathematics",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 248
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "authors": [
+      "Daniel Kahneman"
+    ],
+    "isbn_13": "9785530221538",
+    "isbn_10": "553022153X",
+    "genres": [
+      "Science",
+      "Psychology",
+      "Behavioral Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 499
+  },
+  {
+    "title": "The Man Who Mistook His Wife for a Hat",
+    "authors": [
+      "Oliver Sacks"
+    ],
+    "isbn_13": "9782310784795",
+    "isbn_10": "2310784796",
+    "genres": [
+      "Science",
+      "Neuroscience",
+      "Medicine"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 233
+  },
+  {
+    "title": "Musicophilia",
+    "authors": [
+      "Oliver Sacks"
+    ],
+    "isbn_13": "9784554024507",
+    "isbn_10": "4554024504",
+    "genres": [
+      "Science",
+      "Neuroscience",
+      "Music"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 381
+  },
+  {
+    "title": "Awakenings",
+    "authors": [
+      "Oliver Sacks"
+    ],
+    "isbn_13": "9786301743235",
+    "isbn_10": "6301743237",
+    "genres": [
+      "Science",
+      "Neuroscience",
+      "Medicine"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 408
+  },
+  {
+    "title": "An Anthropologist on Mars",
+    "authors": [
+      "Oliver Sacks"
+    ],
+    "isbn_13": "9785312844573",
+    "isbn_10": "5312844578",
+    "genres": [
+      "Science",
+      "Neuroscience"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 327
+  },
+  {
+    "title": "Phantoms in the Brain",
+    "authors": [
+      "V.S. Ramachandran"
+    ],
+    "isbn_13": "9784219503323",
+    "isbn_10": "4219503323",
+    "genres": [
+      "Science",
+      "Neuroscience"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 328
+  },
+  {
+    "title": "The Tell-Tale Brain",
+    "authors": [
+      "V.S. Ramachandran"
+    ],
+    "isbn_13": "9783844204292",
+    "isbn_10": "3844204296",
+    "genres": [
+      "Science",
+      "Neuroscience"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 357
+  },
+  {
+    "title": "Consciousness Explained",
+    "authors": [
+      "Daniel Dennett"
+    ],
+    "isbn_13": "9782832502549",
+    "isbn_10": "2832502547",
+    "genres": [
+      "Science",
+      "Neuroscience",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 511
+  },
+  {
+    "title": "The Blank Slate",
+    "authors": [
+      "Steven Pinker"
+    ],
+    "isbn_13": "9789031882960",
+    "isbn_10": "9031882968",
+    "genres": [
+      "Science",
+      "Psychology",
+      "Evolutionary Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 528
+  },
+  {
+    "title": "The Better Angels of Our Nature",
+    "authors": [
+      "Steven Pinker"
+    ],
+    "isbn_13": "9785303640733",
+    "isbn_10": "5303640736",
+    "genres": [
+      "Science",
+      "Psychology",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 832
+  },
+  {
+    "title": "Enlightenment Now",
+    "authors": [
+      "Steven Pinker"
+    ],
+    "isbn_13": "9781756543478",
+    "isbn_10": "175654347X",
+    "genres": [
+      "Science",
+      "Psychology",
+      "Progress"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 556
+  },
+  {
+    "title": "How the Mind Works",
+    "authors": [
+      "Steven Pinker"
+    ],
+    "isbn_13": "9785353008361",
+    "isbn_10": "5353008367",
+    "genres": [
+      "Science",
+      "Psychology",
+      "Cognitive Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 660
+  },
+  {
+    "title": "The Language Instinct",
+    "authors": [
+      "Steven Pinker"
+    ],
+    "isbn_13": "9785286811274",
+    "isbn_10": "5286811272",
+    "genres": [
+      "Science",
+      "Linguistics",
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 525
+  },
+  {
+    "title": "Predictably Irrational",
+    "authors": [
+      "Dan Ariely"
+    ],
+    "isbn_13": "9785315459118",
+    "isbn_10": "531545911X",
+    "genres": [
+      "Science",
+      "Psychology",
+      "Behavioral Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 349
+  },
+  {
+    "title": "Influence",
+    "authors": [
+      "Robert Cialdini"
+    ],
+    "isbn_13": "9787142923473",
+    "isbn_10": "7142923474",
+    "genres": [
+      "Science",
+      "Psychology",
+      "Persuasion"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 320
+  },
+  {
+    "title": "Flow",
+    "authors": [
+      "Mihaly Csikszentmihalyi"
+    ],
+    "isbn_13": "9784050179336",
+    "isbn_10": "4050179334",
+    "genres": [
+      "Science",
+      "Psychology",
+      "Happiness"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 303
+  },
+  {
+    "title": "Stumbling on Happiness",
+    "authors": [
+      "Daniel Gilbert"
+    ],
+    "isbn_13": "9780000231239",
+    "isbn_10": "0000231231",
+    "genres": [
+      "Science",
+      "Psychology",
+      "Happiness"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 310
+  },
+  {
+    "title": "The Power of Habit",
+    "authors": [
+      "Charles Duhigg"
+    ],
+    "isbn_13": "9784395246649",
+    "isbn_10": "4395246648",
+    "genres": [
+      "Science",
+      "Psychology",
+      "Self-Help"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 371
+  },
+  {
+    "title": "Incognito",
+    "authors": [
+      "David Eagleman"
+    ],
+    "isbn_13": "9786166984491",
+    "isbn_10": "6166984499",
+    "genres": [
+      "Science",
+      "Neuroscience"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 290
+  },
+  {
+    "title": "The Brain That Changes Itself",
+    "authors": [
+      "Norman Doidge"
+    ],
+    "isbn_13": "9785020581449",
+    "isbn_10": "5020581445",
+    "genres": [
+      "Science",
+      "Neuroscience",
+      "Neuroplasticity"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 427
+  },
+  {
+    "title": "The Innovators",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "isbn_13": "9784133567265",
+    "isbn_10": "4133567269",
+    "genres": [
+      "Science",
+      "Technology",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 542
+  },
+  {
+    "title": "Steve Jobs",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "isbn_13": "9782350158471",
+    "isbn_10": "2350158470",
+    "genres": [
+      "Science",
+      "Technology",
+      "Biography"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 656
+  },
+  {
+    "title": "Einstein: His Life and Universe",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "isbn_13": "9782130433002",
+    "isbn_10": "2130433006",
+    "genres": [
+      "Science",
+      "Biography",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 675
+  },
+  {
+    "title": "Benjamin Franklin: An American Life",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "isbn_13": "9786506860218",
+    "isbn_10": "6506860219",
+    "genres": [
+      "Science",
+      "Biography",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 590
+  },
+  {
+    "title": "The Code Breaker",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "isbn_13": "9789170664137",
+    "isbn_10": "9170664137",
+    "genres": [
+      "Science",
+      "Biography",
+      "Genetics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 546
+  },
+  {
+    "title": "Hackers",
+    "authors": [
+      "Steven Levy"
+    ],
+    "isbn_13": "9781665103800",
+    "isbn_10": "1665103809",
+    "genres": [
+      "Science",
+      "Technology",
+      "Computing"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 519
+  },
+  {
+    "title": "Dealers of Lightning",
+    "authors": [
+      "Michael Hiltzik"
+    ],
+    "isbn_13": "9787570123544",
+    "isbn_10": "7570123549",
+    "genres": [
+      "Science",
+      "Technology",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 448
+  },
+  {
+    "title": "The Soul of a New Machine",
+    "authors": [
+      "Tracy Kidder"
+    ],
+    "isbn_13": "9787205915070",
+    "isbn_10": "7205915074",
+    "genres": [
+      "Science",
+      "Technology",
+      "Computing"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 293
+  },
+  {
+    "title": "Where Wizards Stay Up Late",
+    "authors": [
+      "Katie Hafner"
+    ],
+    "isbn_13": "9782149112455",
+    "isbn_10": "2149112450",
+    "genres": [
+      "Science",
+      "Technology",
+      "Internet"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 304
+  },
+  {
+    "title": "Superintelligence",
+    "authors": [
+      "Nick Bostrom"
+    ],
+    "isbn_13": "9788513701423",
+    "isbn_10": "8513701424",
+    "genres": [
+      "Science",
+      "AI",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 352
+  },
+  {
+    "title": "Life 3.0",
+    "authors": [
+      "Max Tegmark"
+    ],
+    "isbn_13": "9785547445200",
+    "isbn_10": "5547445207",
+    "genres": [
+      "Science",
+      "AI",
+      "Future"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 384
+  },
+  {
+    "title": "Human Compatible",
+    "authors": [
+      "Stuart Russell"
+    ],
+    "isbn_13": "9783646501117",
+    "isbn_10": "3646501111",
+    "genres": [
+      "Science",
+      "AI",
+      "Ethics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 336
+  },
+  {
+    "title": "The Master Algorithm",
+    "authors": [
+      "Pedro Domingos"
+    ],
+    "isbn_13": "9780984092185",
+    "isbn_10": "0984092188",
+    "genres": [
+      "Science",
+      "AI",
+      "Machine Learning"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 352
+  },
+  {
+    "title": "Weapons of Math Destruction",
+    "authors": [
+      "Cathy O'Neil"
+    ],
+    "isbn_13": "9785332052972",
+    "isbn_10": "5332052979",
+    "genres": [
+      "Science",
+      "Mathematics",
+      "Society"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 272
+  },
+  {
+    "title": "Algorithms to Live By",
+    "authors": [
+      "Brian Christian"
+    ],
+    "isbn_13": "9781555633066",
+    "isbn_10": "1555633064",
+    "genres": [
+      "Science",
+      "Computer Science",
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 368
+  },
+  {
+    "title": "The Age of Surveillance Capitalism",
+    "authors": [
+      "Shoshana Zuboff"
+    ],
+    "isbn_13": "9787155129206",
+    "isbn_10": "7155129208",
+    "genres": [
+      "Science",
+      "Technology",
+      "Society"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 691
+  },
+  {
+    "title": "A Short History of Nearly Everything",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9786443092079",
+    "isbn_10": "6443092074",
+    "genres": [
+      "Science",
+      "Popular Science",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 544
+  },
+  {
+    "title": "The Body: A Guide for Occupants",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9787386796321",
+    "isbn_10": "7386796323",
+    "genres": [
+      "Science",
+      "Biology",
+      "Popular Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 464
+  },
+  {
+    "title": "At Home",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9785435202137",
+    "isbn_10": "5435202132",
+    "genres": [
+      "Science",
+      "History",
+      "Popular Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 497
+  },
+  {
+    "title": "In a Sunburned Country",
+    "authors": [
+      "Bill Bryson"
+    ],
+    "isbn_13": "9788252312003",
+    "isbn_10": "8252312004",
+    "genres": [
+      "Science",
+      "Travel",
+      "Popular Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 307
+  },
+  {
+    "title": "Sapiens",
+    "authors": [
+      "Yuval Noah Harari"
+    ],
+    "isbn_13": "9780711390065",
+    "isbn_10": "0711390061",
+    "genres": [
+      "Science",
+      "History",
+      "Anthropology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 443
+  },
+  {
+    "title": "Homo Deus",
+    "authors": [
+      "Yuval Noah Harari"
+    ],
+    "isbn_13": "9785244385731",
+    "isbn_10": "5244385739",
+    "genres": [
+      "Science",
+      "Future",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 448
+  },
+  {
+    "title": "21 Lessons for the 21st Century",
+    "authors": [
+      "Yuval Noah Harari"
+    ],
+    "isbn_13": "9780274503445",
+    "isbn_10": "0274503441",
+    "genres": [
+      "Science",
+      "Society",
+      "Future"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 372
+  },
+  {
+    "title": "Guns, Germs, and Steel",
+    "authors": [
+      "Jared Diamond"
+    ],
+    "isbn_13": "9788904735143",
+    "isbn_10": "8904735149",
+    "genres": [
+      "Science",
+      "History",
+      "Anthropology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 480
+  },
+  {
+    "title": "Collapse",
+    "authors": [
+      "Jared Diamond"
+    ],
+    "isbn_13": "9785315086352",
+    "isbn_10": "5315086356",
+    "genres": [
+      "Science",
+      "History",
+      "Environment"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 592
+  },
+  {
+    "title": "The Third Chimpanzee",
+    "authors": [
+      "Jared Diamond"
+    ],
+    "isbn_13": "9784072272459",
+    "isbn_10": "4072272450",
+    "genres": [
+      "Science",
+      "Biology",
+      "Anthropology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 407
+  },
+  {
+    "title": "The Structure of Scientific Revolutions",
+    "authors": [
+      "Thomas S. Kuhn"
+    ],
+    "isbn_13": "9782185231240",
+    "isbn_10": "2185231243",
+    "genres": [
+      "Science",
+      "Philosophy of Science",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 264
+  },
+  {
+    "title": "What Is Life?",
+    "authors": [
+      "Erwin Schrodinger"
+    ],
+    "isbn_13": "9782356685728",
+    "isbn_10": "2356685723",
+    "genres": [
+      "Science",
+      "Physics",
+      "Biology",
+      "Classic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1944,
+    "page_count": 194
+  },
+  {
+    "title": "The Disappearing Spoon",
+    "authors": [
+      "Sam Kean"
+    ],
+    "isbn_13": "9783074820224",
+    "isbn_10": "3074820225",
+    "genres": [
+      "Science",
+      "Chemistry",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 394
+  },
+  {
+    "title": "The Periodic Table",
+    "authors": [
+      "Primo Levi"
+    ],
+    "isbn_13": "9780938591733",
+    "isbn_10": "0938591738",
+    "genres": [
+      "Science",
+      "Chemistry",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 233
+  },
+  {
+    "title": "The Map That Changed the World",
+    "authors": [
+      "Simon Winchester"
+    ],
+    "isbn_13": "9789431181229",
+    "isbn_10": "9431181223",
+    "genres": [
+      "Science",
+      "Geology",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 329
+  },
+  {
+    "title": "Krakatoa",
+    "authors": [
+      "Simon Winchester"
+    ],
+    "isbn_13": "9789619144138",
+    "isbn_10": "9619144139",
+    "genres": [
+      "Science",
+      "Geology",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 416
+  },
+  {
+    "title": "The Professor and the Madman",
+    "authors": [
+      "Simon Winchester"
+    ],
+    "isbn_13": "9785351226163",
+    "isbn_10": "5351226162",
+    "genres": [
+      "Science",
+      "Linguistics",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 242
+  },
+  {
+    "title": "Longitude",
+    "authors": [
+      "Dava Sobel"
+    ],
+    "isbn_13": "9781003233312",
+    "isbn_10": "1003233317",
+    "genres": [
+      "Science",
+      "History",
+      "Navigation"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 184
+  },
+  {
+    "title": "Galileo's Daughter",
+    "authors": [
+      "Dava Sobel"
+    ],
+    "isbn_13": "9781030373456",
+    "isbn_10": "1030373450",
+    "genres": [
+      "Science",
+      "History",
+      "Biography"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 420
+  },
+  {
+    "title": "The Invention of Nature",
+    "authors": [
+      "Andrea Wulf"
+    ],
+    "isbn_13": "9782516018045",
+    "isbn_10": "2516018045",
+    "genres": [
+      "Science",
+      "Biography",
+      "Nature"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 473
+  },
+  {
+    "title": "Other Minds",
+    "authors": [
+      "Peter Godfrey-Smith"
+    ],
+    "isbn_13": "9781183370241",
+    "isbn_10": "1183370245",
+    "genres": [
+      "Science",
+      "Biology",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 255
+  },
+  {
+    "title": "Behave",
+    "authors": [
+      "Robert Sapolsky"
+    ],
+    "isbn_13": "9781927510087",
+    "isbn_10": "1927510082",
+    "genres": [
+      "Science",
+      "Neuroscience",
+      "Biology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 790
+  },
+  {
+    "title": "Why Zebras Don't Get Ulcers",
+    "authors": [
+      "Robert Sapolsky"
+    ],
+    "isbn_13": "9780335402045",
+    "isbn_10": "0335402046",
+    "genres": [
+      "Science",
+      "Biology",
+      "Stress"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 560
+  },
+  {
+    "title": "The Diversity of Life",
+    "authors": [
+      "E.O. Wilson"
+    ],
+    "isbn_13": "9783555147291",
+    "isbn_10": "3555147293",
+    "genres": [
+      "Science",
+      "Biology",
+      "Ecology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 424
+  },
+  {
+    "title": "Consilience",
+    "authors": [
+      "E.O. Wilson"
+    ],
+    "isbn_13": "9785832712499",
+    "isbn_10": "5832712498",
+    "genres": [
+      "Science",
+      "Philosophy",
+      "Unity of Knowledge"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 367
+  },
+  {
+    "title": "The Ants",
+    "authors": [
+      "E.O. Wilson",
+      "Bert Holldobler"
+    ],
+    "isbn_13": "9780540442447",
+    "isbn_10": "0540442445",
+    "genres": [
+      "Science",
+      "Biology",
+      "Entomology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 732
+  },
+  {
+    "title": "Brief Answers to the Big Questions",
+    "authors": [
+      "Stephen Hawking"
+    ],
+    "isbn_13": "9784153019539",
+    "isbn_10": "4153019534",
+    "genres": [
+      "Science",
+      "Physics",
+      "Popular Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 256
+  },
+  {
+    "title": "The Pleasure of Finding Things Out",
+    "authors": [
+      "Richard Feynman"
+    ],
+    "isbn_13": "9782892613568",
+    "isbn_10": "2892613566",
+    "genres": [
+      "Science",
+      "Physics",
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 270
+  },
+  {
+    "title": "Wonderful Life",
+    "authors": [
+      "Stephen Jay Gould"
+    ],
+    "isbn_13": "9786683368040",
+    "isbn_10": "668336804X",
+    "genres": [
+      "Science",
+      "Paleontology",
+      "Evolution"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 347
+  },
+  {
+    "title": "The Panda's Thumb",
+    "authors": [
+      "Stephen Jay Gould"
+    ],
+    "isbn_13": "9783748401452",
+    "isbn_10": "3748401450",
+    "genres": [
+      "Science",
+      "Biology",
+      "Evolution",
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 343
+  },
+  {
+    "title": "Bully for Brontosaurus",
+    "authors": [
+      "Stephen Jay Gould"
+    ],
+    "isbn_13": "9783604350573",
+    "isbn_10": "3604350573",
+    "genres": [
+      "Science",
+      "Biology",
+      "Evolution",
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 540
+  },
+  {
+    "title": "Genome",
+    "authors": [
+      "Matt Ridley"
+    ],
+    "isbn_13": "9783789043802",
+    "isbn_10": "378904380X",
+    "genres": [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 344
+  },
+  {
+    "title": "The Red Queen",
+    "authors": [
+      "Matt Ridley"
+    ],
+    "isbn_13": "9782355292040",
+    "isbn_10": "2355292043",
+    "genres": [
+      "Science",
+      "Biology",
+      "Evolution"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 405
+  },
+  {
+    "title": "The Origins of Virtue",
+    "authors": [
+      "Matt Ridley"
+    ],
+    "isbn_13": "9781316070758",
+    "isbn_10": "1316070751",
+    "genres": [
+      "Science",
+      "Biology",
+      "Evolution"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 295
+  }
+]
