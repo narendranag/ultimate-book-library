@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Beezus and Ramona",
+    "author": "Beverly Cleary",
+    "year": 1955,
+    "isbn_13": "9787532105328",
+    "isbn_10": "7532105325",
+    "pages": 159,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Fifteen",
+    "author": "Beverly Cleary",
+    "year": 1956,
+    "isbn_13": "9784202809005",
+    "isbn_10": "4202809002",
+    "pages": 254,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Henry and the Paper Route",
+    "author": "Beverly Cleary",
+    "year": 1957,
+    "isbn_13": "9782406606543",
+    "isbn_10": "2406606545",
+    "pages": 192,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Luckiest Girl",
+    "author": "Beverly Cleary",
+    "year": 1958,
+    "isbn_13": "9781011342211",
+    "isbn_10": "1011342212",
+    "pages": 272,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Jean and Johnny",
+    "author": "Beverly Cleary",
+    "year": 1959,
+    "isbn_13": "9784002054216",
+    "isbn_10": "4002054214",
+    "pages": 224,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ramona the Pest",
+    "author": "Beverly Cleary",
+    "year": 1968,
+    "isbn_13": "9789249624581",
+    "isbn_10": "924962458X",
+    "pages": 192,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Runaway Ralph",
+    "author": "Beverly Cleary",
+    "year": 1970,
+    "isbn_13": "9788354129998",
+    "isbn_10": "8354129998",
+    "pages": 175,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ramona the Brave",
+    "author": "Beverly Cleary",
+    "year": 1975,
+    "isbn_13": "9784045314322",
+    "isbn_10": "4045314325",
+    "pages": 190,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ramona and Her Father",
+    "author": "Beverly Cleary",
+    "year": 1977,
+    "isbn_13": "9785323033591",
+    "isbn_10": "5323033599",
+    "pages": 186,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ramona and Her Mother",
+    "author": "Beverly Cleary",
+    "year": 1979,
+    "isbn_13": "9785505523322",
+    "isbn_10": "5505523328",
+    "pages": 208,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ramona Quimby, Age 8",
+    "author": "Beverly Cleary",
+    "year": 1981,
+    "isbn_13": "9780690650020",
+    "isbn_10": "0690650024",
+    "pages": 190,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dear Mr. Henshaw",
+    "author": "Beverly Cleary",
+    "year": 1983,
+    "isbn_13": "9784532311582",
+    "isbn_10": "4532311585",
+    "pages": 134,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ramona Forever",
+    "author": "Beverly Cleary",
+    "year": 1984,
+    "isbn_13": "9781066553150",
+    "isbn_10": "1066553154",
+    "pages": 192,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Strider",
+    "author": "Beverly Cleary",
+    "year": 1991,
+    "isbn_13": "9785472103800",
+    "isbn_10": "5472103800",
+    "pages": 179,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ramona's World",
+    "author": "Beverly Cleary",
+    "year": 1999,
+    "isbn_13": "9789827233648",
+    "isbn_10": "9827233646",
+    "pages": 192,
+    "genres": [
+      "Children's"
+    ],
+    "language": "en"
+  }
+]
