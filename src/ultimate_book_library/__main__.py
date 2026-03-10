@@ -1,3 +1,3 @@
-from ultimate_book_library.cli import main
+from ultimate_book_library.cli import app
 
-main()
+app()
