@@ -1,0 +1,1254 @@
+[
+  {
+    "title": "Year of the Monkey",
+    "author": "Patti Smith",
+    "year": 2019,
+    "isbn_13": "9781351345323",
+    "isbn_10": "1351345321",
+    "pages": 197,
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Chronicles: Volume One",
+    "author": "Bob Dylan",
+    "year": 2004,
+    "isbn_13": "9789166225434",
+    "isbn_10": "9166225437",
+    "pages": 293,
+    "genres": [
+      "Memoir",
+      "Music"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Philosophy of Andy Warhol",
+    "author": "Andy Warhol",
+    "year": 1975,
+    "isbn_13": "9783322902726",
+    "isbn_10": "3322902729",
+    "pages": 241,
+    "genres": [
+      "Art",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Life",
+    "author": "Keith Richards",
+    "year": 2010,
+    "isbn_13": "9781229261243",
+    "isbn_10": "1229261242",
+    "pages": 564,
+    "genres": [
+      "Memoir",
+      "Music"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Scar Tissue",
+    "author": "Anthony Kiedis",
+    "year": 2004,
+    "isbn_13": "9783404505821",
+    "isbn_10": "3404505827",
+    "pages": 465,
+    "genres": [
+      "Memoir",
+      "Music"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Born to Run",
+    "author": "Bruce Springsteen",
+    "year": 2016,
+    "isbn_13": "9786713407022",
+    "isbn_10": "671340702X",
+    "pages": 508,
+    "genres": [
+      "Memoir",
+      "Music"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Rest Is Noise",
+    "author": "Alex Ross",
+    "year": 2007,
+    "isbn_13": "9789501822526",
+    "isbn_10": "9501822527",
+    "pages": 624,
+    "genres": [
+      "Music",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "How Music Works",
+    "author": "David Byrne",
+    "year": 2012,
+    "isbn_13": "9781553053521",
+    "isbn_10": "1553053527",
+    "pages": 350,
+    "genres": [
+      "Music"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Rip It Up and Start Again",
+    "author": "Simon Reynolds",
+    "year": 2005,
+    "isbn_13": "9781392301210",
+    "isbn_10": "139230121X",
+    "pages": 402,
+    "genres": [
+      "Music",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Please Kill Me",
+    "author": "Legs McNeil",
+    "year": 1996,
+    "isbn_13": "9788351533354",
+    "isbn_10": "835153335X",
+    "pages": 432,
+    "genres": [
+      "Music",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Our Band Could Be Your Life",
+    "author": "Michael Azerrad",
+    "year": 2001,
+    "isbn_13": "9788510121415",
+    "isbn_10": "8510121412",
+    "pages": 520,
+    "genres": [
+      "Music",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Love Is a Mix Tape",
+    "author": "Rob Sheffield",
+    "year": 2007,
+    "isbn_13": "9783616448213",
+    "isbn_10": "3616448219",
+    "pages": 224,
+    "genres": [
+      "Memoir",
+      "Music"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Talking to Girls About Duran Duran",
+    "author": "Rob Sheffield",
+    "year": 2010,
+    "isbn_13": "9788657559522",
+    "isbn_10": "8657559523",
+    "pages": 240,
+    "genres": [
+      "Memoir",
+      "Music"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Story of Art",
+    "author": "E.H. Gombrich",
+    "year": 1950,
+    "isbn_13": "9785547712821",
+    "isbn_10": "5547712826",
+    "pages": 688,
+    "genres": [
+      "Art",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ways of Seeing",
+    "author": "John Berger",
+    "year": 1972,
+    "isbn_13": "9782465142259",
+    "isbn_10": "2465142252",
+    "pages": 176,
+    "genres": [
+      "Art",
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Shock of the New",
+    "author": "Robert Hughes",
+    "year": 1980,
+    "isbn_13": "9783923118595",
+    "isbn_10": "3923118594",
+    "pages": 444,
+    "genres": [
+      "Art",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Interaction of Color",
+    "author": "Josef Albers",
+    "year": 1963,
+    "isbn_13": "9788456563614",
+    "isbn_10": "8456563614",
+    "pages": 196,
+    "genres": [
+      "Art"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "On Photography",
+    "author": "Susan Sontag",
+    "year": 1977,
+    "isbn_13": "9785517531346",
+    "isbn_10": "5517531349",
+    "pages": 207,
+    "genres": [
+      "Art",
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Regarding the Pain of Others",
+    "author": "Susan Sontag",
+    "year": 2003,
+    "isbn_13": "9789040086366",
+    "isbn_10": "9040086369",
+    "pages": 131,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Illness as Metaphor",
+    "author": "Susan Sontag",
+    "year": 1978,
+    "isbn_13": "9782310252539",
+    "isbn_10": "2310252530",
+    "pages": 87,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Against Interpretation",
+    "author": "Susan Sontag",
+    "year": 1966,
+    "isbn_13": "9780730811626",
+    "isbn_10": "0730811621",
+    "pages": 312,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Easy Riders, Raging Bulls",
+    "author": "Peter Biskind",
+    "year": 1998,
+    "isbn_13": "9785756257052",
+    "isbn_10": "5756257056",
+    "pages": 512,
+    "genres": [
+      "Cinema",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Hitchcock/Truffaut",
+    "author": "Fran\u00e7ois Truffaut",
+    "year": 1966,
+    "isbn_13": "9782102005817",
+    "isbn_10": "2102005811",
+    "pages": 367,
+    "genres": [
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Adventures in the Screen Trade",
+    "author": "William Goldman",
+    "year": 1983,
+    "isbn_13": "9783034592604",
+    "isbn_10": "3034592607",
+    "pages": 418,
+    "genres": [
+      "Cinema",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Which Lie Did I Tell?",
+    "author": "William Goldman",
+    "year": 2000,
+    "isbn_13": "9785615459900",
+    "isbn_10": "5615459906",
+    "pages": 484,
+    "genres": [
+      "Cinema",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Rebel Without a Crew",
+    "author": "Robert Rodriguez",
+    "year": 1995,
+    "isbn_13": "9781642452518",
+    "isbn_10": "1642452518",
+    "pages": 285,
+    "genres": [
+      "Cinema",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "In the Blink of an Eye",
+    "author": "Walter Murch",
+    "year": 2001,
+    "isbn_13": "9786831309291",
+    "isbn_10": "683130929X",
+    "pages": 148,
+    "genres": [
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "When the Shooting Stops",
+    "author": "Ralph Rosenblum",
+    "year": 1979,
+    "isbn_13": "9785311442022",
+    "isbn_10": "5311442025",
+    "pages": 305,
+    "genres": [
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sculpting in Time",
+    "author": "Andrei Tarkovsky",
+    "year": 1967,
+    "isbn_13": "9784017949002",
+    "isbn_10": "4017949009",
+    "pages": 252,
+    "genres": [
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Notes on the Cinematographer",
+    "author": "Robert Bresson",
+    "year": 1975,
+    "isbn_13": "9784822443917",
+    "isbn_10": "4822443917",
+    "pages": 135,
+    "genres": [
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "In Patagonia",
+    "author": "Bruce Chatwin",
+    "year": 1977,
+    "isbn_13": "9782403462272",
+    "isbn_10": "2403462275",
+    "pages": 204,
+    "genres": [
+      "Travel",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Songlines",
+    "author": "Bruce Chatwin",
+    "year": 1987,
+    "isbn_13": "9780642542434",
+    "isbn_10": "0642542430",
+    "pages": 293,
+    "genres": [
+      "Travel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "On the Road with Charley",
+    "author": "John Steinbeck",
+    "year": 1962,
+    "isbn_13": "9785355652401",
+    "isbn_10": "5355652402",
+    "pages": 246,
+    "genres": [
+      "Travel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Great Railway Bazaar",
+    "author": "Paul Theroux",
+    "year": 1975,
+    "isbn_13": "9781426067822",
+    "isbn_10": "1426067823",
+    "pages": 342,
+    "genres": [
+      "Travel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Old Patagonian Express",
+    "author": "Paul Theroux",
+    "year": 1979,
+    "isbn_13": "9788032399217",
+    "isbn_10": "8032399215",
+    "pages": 404,
+    "genres": [
+      "Travel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Pillars of Hercules",
+    "author": "Paul Theroux",
+    "year": 1995,
+    "isbn_13": "9780204431145",
+    "isbn_10": "0204431141",
+    "pages": 509,
+    "genres": [
+      "Travel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ghost Train to the Eastern Star",
+    "author": "Paul Theroux",
+    "year": 2008,
+    "isbn_13": "9785297651517",
+    "isbn_10": "5297651517",
+    "pages": 496,
+    "genres": [
+      "Travel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dark Star Safari",
+    "author": "Paul Theroux",
+    "year": 2002,
+    "isbn_13": "9783522438506",
+    "isbn_10": "3522438504",
+    "pages": 472,
+    "genres": [
+      "Travel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Mosquito Coast",
+    "author": "Paul Theroux",
+    "year": 1981,
+    "isbn_13": "9788521110804",
+    "isbn_10": "8521110807",
+    "pages": 374,
+    "genres": [
+      "Literary Fiction",
+      "Adventure"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Under the Tuscan Sun",
+    "author": "Frances Mayes",
+    "year": 1996,
+    "isbn_13": "9788471710826",
+    "isbn_10": "8471710821",
+    "pages": 280,
+    "genres": [
+      "Travel",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bella Tuscany",
+    "author": "Frances Mayes",
+    "year": 1999,
+    "isbn_13": "9783031214523",
+    "isbn_10": "3031214523",
+    "pages": 302,
+    "genres": [
+      "Travel",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Year in Provence",
+    "author": "Peter Mayle",
+    "year": 1989,
+    "isbn_13": "9783452900821",
+    "isbn_10": "3452900824",
+    "pages": 207,
+    "genres": [
+      "Travel",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Toujours Provence",
+    "author": "Peter Mayle",
+    "year": 1991,
+    "isbn_13": "9780150280231",
+    "isbn_10": "0150280233",
+    "pages": 241,
+    "genres": [
+      "Travel",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988,
+    "isbn_13": "9786042193191",
+    "isbn_10": "6042193193",
+    "pages": 197,
+    "genres": [
+      "Literary Fiction",
+      "Philosophy",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Pilgrimage",
+    "author": "Paulo Coelho",
+    "year": 1987,
+    "isbn_13": "9782521861636",
+    "isbn_10": "2521861637",
+    "pages": 254,
+    "genres": [
+      "Travel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Brida",
+    "author": "Paulo Coelho",
+    "year": 1990,
+    "isbn_13": "9783294106238",
+    "isbn_10": "3294106233",
+    "pages": 249,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Veronika Decides to Die",
+    "author": "Paulo Coelho",
+    "year": 1998,
+    "isbn_13": "9783456139029",
+    "isbn_10": "3456139020",
+    "pages": 210,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Eleven Minutes",
+    "author": "Paulo Coelho",
+    "year": 2003,
+    "isbn_13": "9783619005901",
+    "isbn_10": "3619005904",
+    "pages": 302,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Zahir",
+    "author": "Paulo Coelho",
+    "year": 2005,
+    "isbn_13": "9787043114307",
+    "isbn_10": "7043114305",
+    "pages": 351,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Witch of Portobello",
+    "author": "Paulo Coelho",
+    "year": 2006,
+    "isbn_13": "9785505279182",
+    "isbn_10": "5505279181",
+    "pages": 305,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Aleph",
+    "author": "Paulo Coelho",
+    "year": 2011,
+    "isbn_13": "9785023157238",
+    "isbn_10": "5023157234",
+    "pages": 269,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Snow Leopard",
+    "author": "Peter Matthiessen",
+    "year": 1978,
+    "isbn_13": "9785553055400",
+    "isbn_10": "5553055404",
+    "pages": 338,
+    "genres": [
+      "Travel",
+      "Memoir",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Cloud Forest",
+    "author": "Peter Matthiessen",
+    "year": 1961,
+    "isbn_13": "9785890550071",
+    "isbn_10": "589055007X",
+    "pages": 280,
+    "genres": [
+      "Travel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Shadow Country",
+    "author": "Peter Matthiessen",
+    "year": 2008,
+    "isbn_13": "9783080368154",
+    "isbn_10": "3080368150",
+    "pages": 892,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Arabian Sands",
+    "author": "Wilfred Thesiger",
+    "year": 1959,
+    "isbn_13": "9785123153734",
+    "isbn_10": "5123153731",
+    "pages": 347,
+    "genres": [
+      "Travel",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Marsh Arabs",
+    "author": "Wilfred Thesiger",
+    "year": 1964,
+    "isbn_13": "9784085200036",
+    "isbn_10": "4085200033",
+    "pages": 233,
+    "genres": [
+      "Travel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Seven Pillars of Wisdom",
+    "author": "T.E. Lawrence",
+    "year": 1926,
+    "isbn_13": "9783407743329",
+    "isbn_10": "3407743324",
+    "pages": 672,
+    "genres": [
+      "Memoir",
+      "Classic",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Kon-Tiki",
+    "author": "Thor Heyerdahl",
+    "year": 1948,
+    "isbn_13": "9781216271637",
+    "isbn_10": "121627163X",
+    "pages": 238,
+    "genres": [
+      "Travel",
+      "Adventure"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Sheltering Sky",
+    "author": "Paul Bowles",
+    "year": 1949,
+    "isbn_13": "9784145813763",
+    "isbn_10": "4145813765",
+    "pages": 335,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Let It Come Down",
+    "author": "Paul Bowles",
+    "year": 1952,
+    "isbn_13": "9780337667008",
+    "isbn_10": "0337667007",
+    "pages": 311,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Spider's House",
+    "author": "Paul Bowles",
+    "year": 1955,
+    "isbn_13": "9781993184373",
+    "isbn_10": "1993184375",
+    "pages": 406,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Collected Stories of Paul Bowles",
+    "author": "Paul Bowles",
+    "year": 1979,
+    "isbn_13": "9787603447463",
+    "isbn_10": "760344746X",
+    "pages": 481,
+    "genres": [
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Wild",
+    "author": "Cheryl Strayed",
+    "year": 2012,
+    "isbn_13": "9780274813261",
+    "isbn_10": "0274813269",
+    "pages": 311,
+    "genres": [
+      "Memoir",
+      "Travel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Tiny Beautiful Things",
+    "author": "Cheryl Strayed",
+    "year": 2012,
+    "isbn_13": "9780431403311",
+    "isbn_10": "0431403314",
+    "pages": 353,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "H Is for Hawk",
+    "author": "Helen Macdonald",
+    "year": 2014,
+    "isbn_13": "9786931453139",
+    "isbn_10": "6931453130",
+    "pages": 300,
+    "genres": [
+      "Memoir",
+      "Nature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Vesper Flights",
+    "author": "Helen Macdonald",
+    "year": 2020,
+    "isbn_13": "9785351337012",
+    "isbn_10": "5351337010",
+    "pages": 272,
+    "genres": [
+      "Nature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Pilgrim at Tinker Creek",
+    "author": "Annie Dillard",
+    "year": 1974,
+    "isbn_13": "9784505701525",
+    "isbn_10": "4505701529",
+    "pages": 271,
+    "genres": [
+      "Nature",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Teaching a Stone to Talk",
+    "author": "Annie Dillard",
+    "year": 1982,
+    "isbn_13": "9785535413211",
+    "isbn_10": "5535413215",
+    "pages": 177,
+    "genres": [
+      "Nature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "An American Childhood",
+    "author": "Annie Dillard",
+    "year": 1987,
+    "isbn_13": "9786558661870",
+    "isbn_10": "6558661871",
+    "pages": 255,
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Writing Life",
+    "author": "Annie Dillard",
+    "year": 1989,
+    "isbn_13": "9780155778252",
+    "isbn_10": "0155778250",
+    "pages": 111,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Braiding Sweetgrass",
+    "author": "Robin Wall Kimmerer",
+    "year": 2013,
+    "isbn_13": "9783209068019",
+    "isbn_10": "320906801X",
+    "pages": 390,
+    "genres": [
+      "Nature",
+      "Science"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Hidden Life of Trees",
+    "author": "Peter Wohlleben",
+    "year": 2015,
+    "isbn_13": "9780241226049",
+    "isbn_10": "0241226041",
+    "pages": 288,
+    "genres": [
+      "Nature",
+      "Science"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Entangled Life",
+    "author": "Merlin Sheldrake",
+    "year": 2020,
+    "isbn_13": "9789651350016",
+    "isbn_10": "9651350015",
+    "pages": 358,
+    "genres": [
+      "Nature",
+      "Science"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Overstory",
+    "author": "Richard Powers",
+    "year": 2018,
+    "isbn_13": "9785905183157",
+    "isbn_10": "5905183156",
+    "pages": 502,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Lab Girl",
+    "author": "Hope Jahren",
+    "year": 2016,
+    "isbn_13": "9784356162193",
+    "isbn_10": "4356162195",
+    "pages": 290,
+    "genres": [
+      "Memoir",
+      "Science"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Invention of Nature",
+    "author": "Andrea Wulf",
+    "year": 2015,
+    "isbn_13": "9782516018045",
+    "isbn_10": "2516018046",
+    "pages": 473,
+    "genres": [
+      "Nature",
+      "Biography"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Underland",
+    "author": "Robert Macfarlane",
+    "year": 2019,
+    "isbn_13": "9783530802405",
+    "isbn_10": "3530802402",
+    "pages": 488,
+    "genres": [
+      "Nature",
+      "Travel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Old Ways",
+    "author": "Robert Macfarlane",
+    "year": 2012,
+    "isbn_13": "9784284549226",
+    "isbn_10": "4284549224",
+    "pages": 432,
+    "genres": [
+      "Nature",
+      "Travel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Landmarks",
+    "author": "Robert Macfarlane",
+    "year": 2015,
+    "isbn_13": "9782235238328",
+    "isbn_10": "2235238324",
+    "pages": 380,
+    "genres": [
+      "Nature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Wild Places",
+    "author": "Robert Macfarlane",
+    "year": 2007,
+    "isbn_13": "9780421089327",
+    "isbn_10": "0421089325",
+    "pages": 340,
+    "genres": [
+      "Nature",
+      "Travel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Mountains of the Mind",
+    "author": "Robert Macfarlane",
+    "year": 2003,
+    "isbn_13": "9784425128754",
+    "isbn_10": "4425128758",
+    "pages": 306,
+    "genres": [
+      "Nature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "year": 1946,
+    "isbn_13": "9780568449152",
+    "isbn_10": "0568449150",
+    "pages": 184,
+    "genres": [
+      "Psychology",
+      "Memoir",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "year": 1997,
+    "isbn_13": "9789068332063",
+    "isbn_10": "9068332065",
+    "pages": 236,
+    "genres": [
+      "Self-Help",
+      "Philosophy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A New Earth",
+    "author": "Eckhart Tolle",
+    "year": 2005,
+    "isbn_13": "9780528150623",
+    "isbn_10": "0528150625",
+    "pages": 316,
+    "genres": [
+      "Self-Help"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "year": 2018,
+    "isbn_13": "9785396813229",
+    "isbn_10": "5396813222",
+    "pages": 320,
+    "genres": [
+      "Self-Help"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "year": 1989,
+    "isbn_13": "9780852329337",
+    "isbn_10": "0852329337",
+    "pages": 381,
+    "genres": [
+      "Self-Help",
+      "Business"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "year": 1936,
+    "isbn_13": "9782504478141",
+    "isbn_10": "2504478148",
+    "pages": 288,
+    "genres": [
+      "Self-Help",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "year": 2016,
+    "isbn_13": "9785120445061",
+    "isbn_10": "5120445068",
+    "pages": 224,
+    "genres": [
+      "Self-Help"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Everything Is F*cked",
+    "author": "Mark Manson",
+    "year": 2019,
+    "isbn_13": "9782131755998",
+    "isbn_10": "2131755995",
+    "pages": 272,
+    "genres": [
+      "Self-Help"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "year": 2016,
+    "isbn_13": "9780727403377",
+    "isbn_10": "0727403370",
+    "pages": 296,
+    "genres": [
+      "Self-Help",
+      "Business"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Digital Minimalism",
+    "author": "Cal Newport",
+    "year": 2019,
+    "isbn_13": "9785270240318",
+    "isbn_10": "5270240312",
+    "pages": 302,
+    "genres": [
+      "Self-Help"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "So Good They Can't Ignore You",
+    "author": "Cal Newport",
+    "year": 2012,
+    "isbn_13": "9785536581827",
+    "isbn_10": "553658182X",
+    "pages": 268,
+    "genres": [
+      "Self-Help"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A World Without Email",
+    "author": "Cal Newport",
+    "year": 2021,
+    "isbn_13": "9780081920503",
+    "isbn_10": "0081920507",
+    "pages": 288,
+    "genres": [
+      "Business"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Essentialism",
+    "author": "Greg McKeown",
+    "year": 2014,
+    "isbn_13": "9785524040206",
+    "isbn_10": "5524040200",
+    "pages": 260,
+    "genres": [
+      "Self-Help"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Effortless",
+    "author": "Greg McKeown",
+    "year": 2021,
+    "isbn_13": "9783446043442",
+    "isbn_10": "3446043445",
+    "pages": 256,
+    "genres": [
+      "Self-Help"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Grit",
+    "author": "Angela Duckworth",
+    "year": 2016,
+    "isbn_13": "9788443264012",
+    "isbn_10": "8443264019",
+    "pages": 352,
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Mindset",
+    "author": "Carol S. Dweck",
+    "year": 2006,
+    "isbn_13": "9789930229118",
+    "isbn_10": "9930229115",
+    "pages": 276,
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Flow",
+    "author": "Mihaly Csikszentmihalyi",
+    "year": 1990,
+    "isbn_13": "9784050179336",
+    "isbn_10": "4050179337",
+    "pages": 303,
+    "genres": [
+      "Psychology",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Quiet",
+    "author": "Susan Cain",
+    "year": 2012,
+    "isbn_13": "9780714556017",
+    "isbn_10": "0714556014",
+    "pages": 333,
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bittersweet",
+    "author": "Susan Cain",
+    "year": 2022,
+    "isbn_13": "9784711321869",
+    "isbn_10": "471132186X",
+    "pages": 352,
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en"
+  }
+]

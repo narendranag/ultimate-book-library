@@ -1,0 +1,88 @@
+[
+  {
+    "title": "The Mars Room",
+    "author": "Rachel Kushner",
+    "year": 2018,
+    "isbn_13": "9782293400347",
+    "isbn_10": "2293400347",
+    "pages": 338,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Creation Lake",
+    "author": "Rachel Kushner",
+    "year": 2024,
+    "isbn_13": "9787011670064",
+    "isbn_10": "7011670063",
+    "pages": 416,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Eileen",
+    "author": "Ottessa Moshfegh",
+    "year": 2015,
+    "isbn_13": "9787325735756",
+    "isbn_10": "7325735753",
+    "pages": 259,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "My Year of Rest and Relaxation",
+    "author": "Ottessa Moshfegh",
+    "year": 2018,
+    "isbn_13": "9783940542397",
+    "isbn_10": "3940542398",
+    "pages": 289,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Death in Her Hands",
+    "author": "Ottessa Moshfegh",
+    "year": 2020,
+    "isbn_13": "9783506634429",
+    "isbn_10": "3506634422",
+    "pages": 272,
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Lapvona",
+    "author": "Ottessa Moshfegh",
+    "year": 2022,
+    "isbn_13": "9784332303473",
+    "isbn_10": "4332303477",
+    "pages": 272,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Homesick for Another World",
+    "author": "Ottessa Moshfegh",
+    "year": 2017,
+    "isbn_13": "9783951603582",
+    "isbn_10": "3951603586",
+    "pages": 289,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  }
+]

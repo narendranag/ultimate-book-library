@@ -1,0 +1,1279 @@
+[
+  {
+    "title": "All Quiet on the Western Front",
+    "author": "Erich Maria Remarque",
+    "year": 1929,
+    "isbn_13": "9789953372228",
+    "isbn_10": "9953372226",
+    "pages": 296,
+    "genres": [
+      "War",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Naked and the Dead",
+    "author": "Norman Mailer",
+    "year": 1948,
+    "isbn_13": "9785461436735",
+    "isbn_10": "5461436730",
+    "pages": 721,
+    "genres": [
+      "War",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Thin Red Line",
+    "author": "James Jones",
+    "year": 1962,
+    "isbn_13": "9783188141871",
+    "isbn_10": "3188141877",
+    "pages": 495,
+    "genres": [
+      "War"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "From Here to Eternity",
+    "author": "James Jones",
+    "year": 1951,
+    "isbn_13": "9782343264110",
+    "isbn_10": "2343264119",
+    "pages": 861,
+    "genres": [
+      "War",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "year": 1961,
+    "isbn_13": "9783409602105",
+    "isbn_10": "3409602100",
+    "pages": 453,
+    "genres": [
+      "War",
+      "Classic",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Something Happened",
+    "author": "Joseph Heller",
+    "year": 1974,
+    "isbn_13": "9789352433285",
+    "isbn_10": "9352433282",
+    "pages": 569,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Good as Gold",
+    "author": "Joseph Heller",
+    "year": 1979,
+    "isbn_13": "9784524332502",
+    "isbn_10": "4524332509",
+    "pages": 447,
+    "genres": [
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "God Knows",
+    "author": "Joseph Heller",
+    "year": 1984,
+    "isbn_13": "9780401806357",
+    "isbn_10": "0401806352",
+    "pages": 353,
+    "genres": [
+      "Humor",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Closing Time",
+    "author": "Joseph Heller",
+    "year": 1994,
+    "isbn_13": "9783432112848",
+    "isbn_10": "3432112841",
+    "pages": 464,
+    "genres": [
+      "War",
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Things They Carried",
+    "author": "Tim O'Brien",
+    "year": 1990,
+    "isbn_13": "9780116419255",
+    "isbn_10": "0116419258",
+    "pages": 233,
+    "genres": [
+      "War",
+      "Classic",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Going After Cacciato",
+    "author": "Tim O'Brien",
+    "year": 1978,
+    "isbn_13": "9780251422448",
+    "isbn_10": "0251422446",
+    "pages": 338,
+    "genres": [
+      "War"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "If I Die in a Combat Zone",
+    "author": "Tim O'Brien",
+    "year": 1973,
+    "isbn_13": "9789483919474",
+    "isbn_10": "9483919472",
+    "pages": 209,
+    "genres": [
+      "War",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "In the Lake of the Woods",
+    "author": "Tim O'Brien",
+    "year": 1994,
+    "isbn_13": "9789545224850",
+    "isbn_10": "954522485X",
+    "pages": 306,
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Matterhorn",
+    "author": "Karl Marlantes",
+    "year": 2010,
+    "isbn_13": "9783505848490",
+    "isbn_10": "3505848499",
+    "pages": 592,
+    "genres": [
+      "War"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "What It Is Like to Go to War",
+    "author": "Karl Marlantes",
+    "year": 2011,
+    "isbn_13": "9781020552502",
+    "isbn_10": "1020552505",
+    "pages": 256,
+    "genres": [
+      "War",
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Yellow Birds",
+    "author": "Kevin Powers",
+    "year": 2012,
+    "isbn_13": "9780248220545",
+    "isbn_10": "0248220548",
+    "pages": 226,
+    "genres": [
+      "War"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Redeployment",
+    "author": "Phil Klay",
+    "year": 2014,
+    "isbn_13": "9785369421130",
+    "isbn_10": "5369421134",
+    "pages": 291,
+    "genres": [
+      "War",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Missionaries",
+    "author": "Phil Klay",
+    "year": 2020,
+    "isbn_13": "9781502535542",
+    "isbn_10": "1502535543",
+    "pages": 400,
+    "genres": [
+      "War"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Billy Lynn's Long Halftime Walk",
+    "author": "Ben Fountain",
+    "year": 2012,
+    "isbn_13": "9782744354441",
+    "isbn_10": "2744354442",
+    "pages": 307,
+    "genres": [
+      "War",
+      "Satire"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "year": 2003,
+    "isbn_13": "9788011266455",
+    "isbn_10": "8011266457",
+    "pages": 371,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Thousand Splendid Suns",
+    "author": "Khaled Hosseini",
+    "year": 2007,
+    "isbn_13": "9785319137302",
+    "isbn_10": "5319137308",
+    "pages": 372,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "And the Mountains Echoed",
+    "author": "Khaled Hosseini",
+    "year": 2013,
+    "isbn_13": "9783483125026",
+    "isbn_10": "3483125024",
+    "pages": 404,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Bookseller of Kabul",
+    "author": "\u00c5sne Seierstad",
+    "year": 2002,
+    "isbn_13": "9780391115507",
+    "isbn_10": "0391115509",
+    "pages": 288,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The English Patient",
+    "author": "Michael Ondaatje",
+    "year": 1992,
+    "isbn_13": "9780404278731",
+    "isbn_10": "0404278735",
+    "pages": 307,
+    "genres": [
+      "War",
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Anil's Ghost",
+    "author": "Michael Ondaatje",
+    "year": 2000,
+    "isbn_13": "9780553362534",
+    "isbn_10": "0553362537",
+    "pages": 311,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Cat's Table",
+    "author": "Michael Ondaatje",
+    "year": 2011,
+    "isbn_13": "9785505367223",
+    "isbn_10": "5505367227",
+    "pages": 269,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Warlight",
+    "author": "Michael Ondaatje",
+    "year": 2018,
+    "isbn_13": "9784774411217",
+    "isbn_10": "4774411218",
+    "pages": 290,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Birdsong",
+    "author": "Sebastian Faulks",
+    "year": 1993,
+    "isbn_13": "9782703811114",
+    "isbn_10": "2703811111",
+    "pages": 503,
+    "genres": [
+      "War",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Charlotte Gray",
+    "author": "Sebastian Faulks",
+    "year": 1998,
+    "isbn_13": "9781750079539",
+    "isbn_10": "1750079537",
+    "pages": 399,
+    "genres": [
+      "War",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Engleby",
+    "author": "Sebastian Faulks",
+    "year": 2007,
+    "isbn_13": "9782125344122",
+    "isbn_10": "2125344129",
+    "pages": 316,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Week in December",
+    "author": "Sebastian Faulks",
+    "year": 2009,
+    "isbn_13": "9788183980319",
+    "isbn_10": "8183980314",
+    "pages": 392,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Where My Heart Used to Beat",
+    "author": "Sebastian Faulks",
+    "year": 2015,
+    "isbn_13": "9781001023212",
+    "isbn_10": "1001023213",
+    "pages": 288,
+    "genres": [
+      "War"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Paris Echo",
+    "author": "Sebastian Faulks",
+    "year": 2018,
+    "isbn_13": "9789365218107",
+    "isbn_10": "936521810X",
+    "pages": 272,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Band of Brothers",
+    "author": "Stephen E. Ambrose",
+    "year": 1992,
+    "isbn_13": "9785553815127",
+    "isbn_10": "5553815125",
+    "pages": 333,
+    "genres": [
+      "War",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "D-Day",
+    "author": "Stephen E. Ambrose",
+    "year": 1994,
+    "isbn_13": "9784651401539",
+    "isbn_10": "4651401533",
+    "pages": 655,
+    "genres": [
+      "War",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Citizen Soldiers",
+    "author": "Stephen E. Ambrose",
+    "year": 1997,
+    "isbn_13": "9785754000452",
+    "isbn_10": "5754000455",
+    "pages": 512,
+    "genres": [
+      "War",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Longest Day",
+    "author": "Cornelius Ryan",
+    "year": 1959,
+    "isbn_13": "9784112695323",
+    "isbn_10": "4112695329",
+    "pages": 350,
+    "genres": [
+      "War",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Bridge Too Far",
+    "author": "Cornelius Ryan",
+    "year": 1974,
+    "isbn_13": "9780104737866",
+    "isbn_10": "0104737864",
+    "pages": 670,
+    "genres": [
+      "War",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Black Hawk Down",
+    "author": "Mark Bowden",
+    "year": 1999,
+    "isbn_13": "9789705793233",
+    "isbn_10": "9705793232",
+    "pages": 386,
+    "genres": [
+      "War",
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Killing Pablo",
+    "author": "Mark Bowden",
+    "year": 2001,
+    "isbn_13": "9787396123070",
+    "isbn_10": "7396123070",
+    "pages": 296,
+    "genres": [
+      "Non-Fiction",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Finish",
+    "author": "Mark Bowden",
+    "year": 2012,
+    "isbn_13": "9784130020800",
+    "isbn_10": "4130020808",
+    "pages": 263,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "year": 1979,
+    "isbn_13": "9784143483425",
+    "isbn_10": "4143483427",
+    "pages": 193,
+    "genres": [
+      "Science Fiction",
+      "Humor",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Restaurant at the End of the Universe",
+    "author": "Douglas Adams",
+    "year": 1980,
+    "isbn_13": "9785068199958",
+    "isbn_10": "5068199953",
+    "pages": 200,
+    "genres": [
+      "Science Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Life, the Universe and Everything",
+    "author": "Douglas Adams",
+    "year": 1982,
+    "isbn_13": "9785345319802",
+    "isbn_10": "5345319807",
+    "pages": 224,
+    "genres": [
+      "Science Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "So Long, and Thanks for All the Fish",
+    "author": "Douglas Adams",
+    "year": 1984,
+    "isbn_13": "9780989302029",
+    "isbn_10": "0989302027",
+    "pages": 204,
+    "genres": [
+      "Science Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Mostly Harmless",
+    "author": "Douglas Adams",
+    "year": 1992,
+    "isbn_13": "9781218433521",
+    "isbn_10": "1218433528",
+    "pages": 240,
+    "genres": [
+      "Science Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dirk Gently's Holistic Detective Agency",
+    "author": "Douglas Adams",
+    "year": 1987,
+    "isbn_13": "9781024223552",
+    "isbn_10": "1024223553",
+    "pages": 306,
+    "genres": [
+      "Science Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Long Dark Tea-Time of the Soul",
+    "author": "Douglas Adams",
+    "year": 1988,
+    "isbn_13": "9783463737102",
+    "isbn_10": "3463737103",
+    "pages": 307,
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Lucky Jim",
+    "author": "Kingsley Amis",
+    "year": 1954,
+    "isbn_13": "9786329636069",
+    "isbn_10": "6329636060",
+    "pages": 256,
+    "genres": [
+      "Literary Fiction",
+      "Humor",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Money",
+    "author": "Martin Amis",
+    "year": 1984,
+    "isbn_13": "9785153390833",
+    "isbn_10": "5153390834",
+    "pages": 394,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "London Fields",
+    "author": "Martin Amis",
+    "year": 1989,
+    "isbn_13": "9783611356551",
+    "isbn_10": "3611356554",
+    "pages": 470,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Time's Arrow",
+    "author": "Martin Amis",
+    "year": 1991,
+    "isbn_13": "9784102205327",
+    "isbn_10": "4102205329",
+    "pages": 168,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Information",
+    "author": "Martin Amis",
+    "year": 1995,
+    "isbn_13": "9781801654715",
+    "isbn_10": "1801654712",
+    "pages": 373,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Rachel Papers",
+    "author": "Martin Amis",
+    "year": 1973,
+    "isbn_13": "9783108130596",
+    "isbn_10": "3108130596",
+    "pages": 219,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Confederacy of Dunces",
+    "author": "John Kennedy Toole",
+    "year": 1980,
+    "isbn_13": "9782993939703",
+    "isbn_10": "2993939701",
+    "pages": 394,
+    "genres": [
+      "Literary Fiction",
+      "Humor",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Neon Bible",
+    "author": "John Kennedy Toole",
+    "year": 1989,
+    "isbn_13": "9785150138001",
+    "isbn_10": "5150138009",
+    "pages": 167,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bridget Jones's Diary",
+    "author": "Helen Fielding",
+    "year": 1996,
+    "isbn_13": "9784234717286",
+    "isbn_10": "4234717289",
+    "pages": 310,
+    "genres": [
+      "Humor",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bridget Jones: The Edge of Reason",
+    "author": "Helen Fielding",
+    "year": 1999,
+    "isbn_13": "9785071113019",
+    "isbn_10": "5071113016",
+    "pages": 338,
+    "genres": [
+      "Humor",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bridget Jones: Mad About the Boy",
+    "author": "Helen Fielding",
+    "year": 2013,
+    "isbn_13": "9783208556517",
+    "isbn_10": "3208556512",
+    "pages": 390,
+    "genres": [
+      "Humor",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "High Fidelity",
+    "author": "Nick Hornby",
+    "year": 1995,
+    "isbn_13": "9782862144047",
+    "isbn_10": "2862144046",
+    "pages": 245,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "About a Boy",
+    "author": "Nick Hornby",
+    "year": 1998,
+    "isbn_13": "9784625165177",
+    "isbn_10": "4625165179",
+    "pages": 307,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "How to Be Good",
+    "author": "Nick Hornby",
+    "year": 2001,
+    "isbn_13": "9785383469224",
+    "isbn_10": "5383469229",
+    "pages": 305,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Long Way Down",
+    "author": "Nick Hornby",
+    "year": 2005,
+    "isbn_13": "9780482062673",
+    "isbn_10": "0482062678",
+    "pages": 333,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Juliet, Naked",
+    "author": "Nick Hornby",
+    "year": 2009,
+    "isbn_13": "9788578596002",
+    "isbn_10": "8578596006",
+    "pages": 406,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Funny Girl",
+    "author": "Nick Hornby",
+    "year": 2014,
+    "isbn_13": "9789361772177",
+    "isbn_10": "936177217X",
+    "pages": 452,
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Just Like You",
+    "author": "Nick Hornby",
+    "year": 2020,
+    "isbn_13": "9781258100537",
+    "isbn_10": "1258100538",
+    "pages": 374,
+    "genres": [
+      "Literary Fiction",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Heartburn",
+    "author": "Nora Ephron",
+    "year": 1983,
+    "isbn_13": "9789569749704",
+    "isbn_10": "9569749702",
+    "pages": 179,
+    "genres": [
+      "Humor",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "I Feel Bad About My Neck",
+    "author": "Nora Ephron",
+    "year": 2006,
+    "isbn_13": "9781762784667",
+    "isbn_10": "176278466X",
+    "pages": 137,
+    "genres": [
+      "Humor",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "I Remember Nothing",
+    "author": "Nora Ephron",
+    "year": 2010,
+    "isbn_13": "9789101545719",
+    "isbn_10": "9101545711",
+    "pages": 137,
+    "genres": [
+      "Humor",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Is Everyone Hanging Out Without Me?",
+    "author": "Mindy Kaling",
+    "year": 2011,
+    "isbn_13": "9784842564128",
+    "isbn_10": "484256412X",
+    "pages": 222,
+    "genres": [
+      "Humor",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Why Not Me?",
+    "author": "Mindy Kaling",
+    "year": 2015,
+    "isbn_13": "9783810200075",
+    "isbn_10": "3810200074",
+    "pages": 228,
+    "genres": [
+      "Humor",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bossypants",
+    "author": "Tina Fey",
+    "year": 2011,
+    "isbn_13": "9781004600618",
+    "isbn_10": "1004600616",
+    "pages": 277,
+    "genres": [
+      "Humor",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Yes Please",
+    "author": "Amy Poehler",
+    "year": 2014,
+    "isbn_13": "9780632007462",
+    "isbn_10": "0632007461",
+    "pages": 329,
+    "genres": [
+      "Humor",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Talking as Fast as I Can",
+    "author": "Lauren Graham",
+    "year": 2016,
+    "isbn_13": "9786535784028",
+    "isbn_10": "6535784022",
+    "pages": 223,
+    "genres": [
+      "Humor",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Scrappy Little Nobody",
+    "author": "Anna Kendrick",
+    "year": 2016,
+    "isbn_13": "9788582454671",
+    "isbn_10": "8582454673",
+    "pages": 252,
+    "genres": [
+      "Humor",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Me Talk Pretty One Day",
+    "author": "David Sedaris",
+    "year": 2000,
+    "isbn_13": "9783790095210",
+    "isbn_10": "3790095217",
+    "pages": 272,
+    "genres": [
+      "Humor",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dress Your Family in Corduroy and Denim",
+    "author": "David Sedaris",
+    "year": 2004,
+    "isbn_13": "9784430068472",
+    "isbn_10": "4430068471",
+    "pages": 272,
+    "genres": [
+      "Humor",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "When You Are Engulfed in Flames",
+    "author": "David Sedaris",
+    "year": 2008,
+    "isbn_13": "9787924098122",
+    "isbn_10": "7924098124",
+    "pages": 323,
+    "genres": [
+      "Humor",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Let's Explore Diabetes with Owls",
+    "author": "David Sedaris",
+    "year": 2013,
+    "isbn_13": "9788712271857",
+    "isbn_10": "8712271858",
+    "pages": 275,
+    "genres": [
+      "Humor",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Calypso",
+    "author": "David Sedaris",
+    "year": 2018,
+    "isbn_13": "9782107748559",
+    "isbn_10": "210774855X",
+    "pages": 272,
+    "genres": [
+      "Humor",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Happy-Go-Lucky",
+    "author": "David Sedaris",
+    "year": 2022,
+    "isbn_13": "9786498045976",
+    "isbn_10": "6498045978",
+    "pages": 258,
+    "genres": [
+      "Humor",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Walk in the Woods",
+    "author": "Bill Bryson",
+    "year": 1998,
+    "isbn_13": "9781418141912",
+    "isbn_10": "1418141914",
+    "pages": 276,
+    "genres": [
+      "Humor",
+      "Travel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "In a Sunburned Country",
+    "author": "Bill Bryson",
+    "year": 2000,
+    "isbn_13": "9788252312003",
+    "isbn_10": "8252312007",
+    "pages": 307,
+    "genres": [
+      "Humor",
+      "Travel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "I'm a Stranger Here Myself",
+    "author": "Bill Bryson",
+    "year": 1999,
+    "isbn_13": "9783104035239",
+    "isbn_10": "3104035234",
+    "pages": 288,
+    "genres": [
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Life and Times of the Thunderbolt Kid",
+    "author": "Bill Bryson",
+    "year": 2006,
+    "isbn_13": "9789133400475",
+    "isbn_10": "9133400477",
+    "pages": 270,
+    "genres": [
+      "Humor",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "At Home",
+    "author": "Bill Bryson",
+    "year": 2010,
+    "isbn_13": "9785435202137",
+    "isbn_10": "5435202139",
+    "pages": 497,
+    "genres": [
+      "History",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Notes from a Small Island",
+    "author": "Bill Bryson",
+    "year": 1995,
+    "isbn_13": "9787007042356",
+    "isbn_10": "7007042351",
+    "pages": 252,
+    "genres": [
+      "Humor",
+      "Travel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Neither Here Nor There",
+    "author": "Bill Bryson",
+    "year": 1991,
+    "isbn_13": "9785570695856",
+    "isbn_10": "5570695850",
+    "pages": 254,
+    "genres": [
+      "Humor",
+      "Travel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Mother Tongue",
+    "author": "Bill Bryson",
+    "year": 1990,
+    "isbn_13": "9789330455520",
+    "isbn_10": "9330455529",
+    "pages": 270,
+    "genres": [
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Made in America",
+    "author": "Bill Bryson",
+    "year": 1994,
+    "isbn_13": "9782413035558",
+    "isbn_10": "2413035552",
+    "pages": 417,
+    "genres": [
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "One Summer: America, 1927",
+    "author": "Bill Bryson",
+    "year": 2013,
+    "isbn_13": "9785935621209",
+    "isbn_10": "5935621204",
+    "pages": 505,
+    "genres": [
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Road to Little Dribbling",
+    "author": "Bill Bryson",
+    "year": 2015,
+    "isbn_13": "9782715544475",
+    "isbn_10": "2715544479",
+    "pages": 381,
+    "genres": [
+      "Humor",
+      "Travel"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Three Men in a Boat",
+    "author": "Jerome K. Jerome",
+    "year": 1889,
+    "isbn_13": "9787102738321",
+    "isbn_10": "7102738328",
+    "pages": 228,
+    "genres": [
+      "Humor",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Importance of Being Earnest",
+    "author": "Oscar Wilde",
+    "year": 1895,
+    "isbn_13": "9781504144902",
+    "isbn_10": "1504144909",
+    "pages": 76,
+    "genres": [
+      "Drama",
+      "Humor",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "year": 1890,
+    "isbn_13": "9780186732346",
+    "isbn_10": "018673234X",
+    "pages": 254,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "De Profundis",
+    "author": "Oscar Wilde",
+    "year": 1905,
+    "isbn_13": "9782115015940",
+    "isbn_10": "2115015940",
+    "pages": 100,
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "An Ideal Husband",
+    "author": "Oscar Wilde",
+    "year": 1895,
+    "isbn_13": "9782523130556",
+    "isbn_10": "2523130555",
+    "pages": 96,
+    "genres": [
+      "Drama",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Lady Windermere's Fan",
+    "author": "Oscar Wilde",
+    "year": 1892,
+    "isbn_13": "9783301544121",
+    "isbn_10": "3301544125",
+    "pages": 80,
+    "genres": [
+      "Drama",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Just Kids",
+    "author": "Patti Smith",
+    "year": 2010,
+    "isbn_13": "9782007253641",
+    "isbn_10": "2007253641",
+    "pages": 279,
+    "genres": [
+      "Memoir",
+      "Art"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "M Train",
+    "author": "Patti Smith",
+    "year": 2015,
+    "isbn_13": "9787555002130",
+    "isbn_10": "7555002139",
+    "pages": 253,
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en"
+  }
+]

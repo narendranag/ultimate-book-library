@@ -1,0 +1,628 @@
+[
+  {
+    "title": "Range",
+    "author": "David Epstein",
+    "year": 2019,
+    "isbn_13": "9783046790739",
+    "isbn_10": "3046790739",
+    "pages": 339,
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Sports Gene",
+    "author": "David Epstein",
+    "year": 2013,
+    "isbn_13": "9787220563683",
+    "isbn_10": "7220563681",
+    "pages": 338,
+    "genres": [
+      "Science",
+      "Sports"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Outliers",
+    "author": "Malcolm Gladwell",
+    "year": 2008,
+    "isbn_13": "9780128582121",
+    "isbn_10": "0128582121",
+    "pages": 309,
+    "genres": [
+      "Psychology",
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Blink",
+    "author": "Malcolm Gladwell",
+    "year": 2005,
+    "isbn_13": "9785945742451",
+    "isbn_10": "5945742454",
+    "pages": 277,
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Tipping Point",
+    "author": "Malcolm Gladwell",
+    "year": 2000,
+    "isbn_13": "9782593800014",
+    "isbn_10": "259380001X",
+    "pages": 301,
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "David and Goliath",
+    "author": "Malcolm Gladwell",
+    "year": 2013,
+    "isbn_13": "9785514122004",
+    "isbn_10": "5514122001",
+    "pages": 305,
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Talking to Strangers",
+    "author": "Malcolm Gladwell",
+    "year": 2019,
+    "isbn_13": "9789325635326",
+    "isbn_10": "932563532X",
+    "pages": 388,
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Bomber Mafia",
+    "author": "Malcolm Gladwell",
+    "year": 2021,
+    "isbn_13": "9787388233565",
+    "isbn_10": "7388233568",
+    "pages": 256,
+    "genres": [
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Influence",
+    "author": "Robert B. Cialdini",
+    "year": 1984,
+    "isbn_13": "9786302764291",
+    "isbn_10": "6302764294",
+    "pages": 320,
+    "genres": [
+      "Psychology",
+      "Business"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Pre-Suasion",
+    "author": "Robert B. Cialdini",
+    "year": 2016,
+    "isbn_13": "9781437400434",
+    "isbn_10": "1437400437",
+    "pages": 413,
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Drive",
+    "author": "Daniel H. Pink",
+    "year": 2009,
+    "isbn_13": "9785533814669",
+    "isbn_10": "5533814668",
+    "pages": 242,
+    "genres": [
+      "Business",
+      "Psychology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "When",
+    "author": "Daniel H. Pink",
+    "year": 2018,
+    "isbn_13": "9783057203143",
+    "isbn_10": "3057203140",
+    "pages": 272,
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "To Sell Is Human",
+    "author": "Daniel H. Pink",
+    "year": 2012,
+    "isbn_13": "9782945161619",
+    "isbn_10": "2945161618",
+    "pages": 260,
+    "genres": [
+      "Business"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "year": 2012,
+    "isbn_13": "9784395246649",
+    "isbn_10": "4395246643",
+    "pages": 371,
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Smarter Faster Better",
+    "author": "Charles Duhigg",
+    "year": 2016,
+    "isbn_13": "9781972380604",
+    "isbn_10": "1972380606",
+    "pages": 380,
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Supercommunicators",
+    "author": "Charles Duhigg",
+    "year": 2024,
+    "isbn_13": "9786431953641",
+    "isbn_10": "6431953642",
+    "pages": 320,
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Stumbling on Happiness",
+    "author": "Daniel Gilbert",
+    "year": 2006,
+    "isbn_13": "9780000231239",
+    "isbn_10": "000023123X",
+    "pages": 310,
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Predictably Irrational",
+    "author": "Dan Ariely",
+    "year": 2008,
+    "isbn_13": "9785315459118",
+    "isbn_10": "5315459111",
+    "pages": 280,
+    "genres": [
+      "Psychology",
+      "Economics"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Upside of Irrationality",
+    "author": "Dan Ariely",
+    "year": 2010,
+    "isbn_13": "9785243215220",
+    "isbn_10": "5243215223",
+    "pages": 334,
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Honest Truth About Dishonesty",
+    "author": "Dan Ariely",
+    "year": 2012,
+    "isbn_13": "9788973496143",
+    "isbn_10": "8973496141",
+    "pages": 298,
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "year": 2011,
+    "isbn_13": "9780711390065",
+    "isbn_10": "071139006X",
+    "pages": 443,
+    "genres": [
+      "History",
+      "Science"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Homo Deus",
+    "author": "Yuval Noah Harari",
+    "year": 2015,
+    "isbn_13": "9785244385731",
+    "isbn_10": "5244385732",
+    "pages": 449,
+    "genres": [
+      "Science"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Kitchen Confidential",
+    "author": "Anthony Bourdain",
+    "year": 2000,
+    "isbn_13": "9785222744369",
+    "isbn_10": "522274436X",
+    "pages": 312,
+    "genres": [
+      "Memoir",
+      "Food"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Cook's Tour",
+    "author": "Anthony Bourdain",
+    "year": 2001,
+    "isbn_13": "9789663424446",
+    "isbn_10": "9663424448",
+    "pages": 274,
+    "genres": [
+      "Travel",
+      "Food"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Medium Raw",
+    "author": "Anthony Bourdain",
+    "year": 2010,
+    "isbn_13": "9780705332903",
+    "isbn_10": "0705332901",
+    "pages": 281,
+    "genres": [
+      "Memoir",
+      "Food"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "World Travel",
+    "author": "Anthony Bourdain",
+    "year": 2021,
+    "isbn_13": "9783174453049",
+    "isbn_10": "3174453045",
+    "pages": 480,
+    "genres": [
+      "Travel",
+      "Food"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Omnivore's Dilemma",
+    "author": "Michael Pollan",
+    "year": 2006,
+    "isbn_13": "9780121475468",
+    "isbn_10": "0121475463",
+    "pages": 450,
+    "genres": [
+      "Food",
+      "Science"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "In Defense of Food",
+    "author": "Michael Pollan",
+    "year": 2008,
+    "isbn_13": "9789700995496",
+    "isbn_10": "9700995495",
+    "pages": 244,
+    "genres": [
+      "Food"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Cooked",
+    "author": "Michael Pollan",
+    "year": 2013,
+    "isbn_13": "9783730365311",
+    "isbn_10": "3730365319",
+    "pages": 468,
+    "genres": [
+      "Food"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "How to Change Your Mind",
+    "author": "Michael Pollan",
+    "year": 2018,
+    "isbn_13": "9782140451058",
+    "isbn_10": "2140451053",
+    "pages": 480,
+    "genres": [
+      "Science",
+      "Psychology"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "My Life in France",
+    "author": "Julia Child",
+    "year": 2006,
+    "isbn_13": "9780568164659",
+    "isbn_10": "0568164659",
+    "pages": 304,
+    "genres": [
+      "Memoir",
+      "Food"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Heat",
+    "author": "Bill Buford",
+    "year": 2006,
+    "isbn_13": "9788564311534",
+    "isbn_10": "8564311537",
+    "pages": 318,
+    "genres": [
+      "Memoir",
+      "Food"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dirt",
+    "author": "Bill Buford",
+    "year": 2020,
+    "isbn_13": "9783312103904",
+    "isbn_10": "3312103903",
+    "pages": 432,
+    "genres": [
+      "Memoir",
+      "Food"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Salt",
+    "author": "Mark Kurlansky",
+    "year": 2002,
+    "isbn_13": "9781561241750",
+    "isbn_10": "1561241751",
+    "pages": 484,
+    "genres": [
+      "Food",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Cod",
+    "author": "Mark Kurlansky",
+    "year": 1997,
+    "isbn_13": "9783648724019",
+    "isbn_10": "3648724010",
+    "pages": 294,
+    "genres": [
+      "Food",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Milk!",
+    "author": "Mark Kurlansky",
+    "year": 2018,
+    "isbn_13": "9787421045056",
+    "isbn_10": "7421045053",
+    "pages": 383,
+    "genres": [
+      "Food",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Food of a Younger Land",
+    "author": "Mark Kurlansky",
+    "year": 2009,
+    "isbn_13": "9780962555275",
+    "isbn_10": "0962555277",
+    "pages": 397,
+    "genres": [
+      "Food",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Garlic and Sapphires",
+    "author": "Ruth Reichl",
+    "year": 2005,
+    "isbn_13": "9785918512296",
+    "isbn_10": "5918512299",
+    "pages": 333,
+    "genres": [
+      "Memoir",
+      "Food"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Tender at the Bone",
+    "author": "Ruth Reichl",
+    "year": 1998,
+    "isbn_13": "9783075246207",
+    "isbn_10": "3075246207",
+    "pages": 282,
+    "genres": [
+      "Memoir",
+      "Food"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Comfort Me with Apples",
+    "author": "Ruth Reichl",
+    "year": 2001,
+    "isbn_13": "9784241260041",
+    "isbn_10": "4241260044",
+    "pages": 302,
+    "genres": [
+      "Memoir",
+      "Food"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Delicious!",
+    "author": "Ruth Reichl",
+    "year": 2014,
+    "isbn_13": "9786653310147",
+    "isbn_10": "6653310140",
+    "pages": 356,
+    "genres": [
+      "Literary Fiction",
+      "Food"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Animal, Vegetable, Miracle",
+    "author": "Barbara Kingsolver",
+    "year": 2007,
+    "isbn_13": "9780329604110",
+    "isbn_10": "0329604119",
+    "pages": 370,
+    "genres": [
+      "Food",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Poisonwood Bible",
+    "author": "Barbara Kingsolver",
+    "year": 1998,
+    "isbn_13": "9785230424086",
+    "isbn_10": "5230424084",
+    "pages": 546,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Bean Trees",
+    "author": "Barbara Kingsolver",
+    "year": 1988,
+    "isbn_13": "9781635332438",
+    "isbn_10": "1635332436",
+    "pages": 232,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Pigs in Heaven",
+    "author": "Barbara Kingsolver",
+    "year": 1993,
+    "isbn_13": "9783304043683",
+    "isbn_10": "3304043688",
+    "pages": 343,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Lacuna",
+    "author": "Barbara Kingsolver",
+    "year": 2009,
+    "isbn_13": "9781110482207",
+    "isbn_10": "1110482206",
+    "pages": 507,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Flight Behavior",
+    "author": "Barbara Kingsolver",
+    "year": 2012,
+    "isbn_13": "9780889741201",
+    "isbn_10": "0889741207",
+    "pages": 436,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Unsheltered",
+    "author": "Barbara Kingsolver",
+    "year": 2018,
+    "isbn_13": "9782196015631",
+    "isbn_10": "2196015635",
+    "pages": 462,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "year": 2022,
+    "isbn_13": "9784101242903",
+    "isbn_10": "4101242902",
+    "pages": 548,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Prodigal Summer",
+    "author": "Barbara Kingsolver",
+    "year": 2000,
+    "isbn_13": "9785254211051",
+    "isbn_10": "5254211052",
+    "pages": 444,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  }
+]
