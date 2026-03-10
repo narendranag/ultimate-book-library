@@ -1,0 +1,906 @@
+[
+  {
+    "title": "The Interpretation of Dreams",
+    "authors": [
+      "Sigmund Freud"
+    ],
+    "isbn_13": "9783607360425",
+    "isbn_10": "3607360421",
+    "genres": [
+      "Psychology",
+      "Classics"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1900,
+    "page_count": 630
+  },
+  {
+    "title": "Civilization and Its Discontents",
+    "authors": [
+      "Sigmund Freud"
+    ],
+    "isbn_13": "9781333462925",
+    "isbn_10": "1333462921",
+    "genres": [
+      "Psychology"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1930,
+    "page_count": 127
+  },
+  {
+    "title": "The Psychopathology of Everyday Life",
+    "authors": [
+      "Sigmund Freud"
+    ],
+    "isbn_13": "9783133511100",
+    "isbn_10": "3133511106",
+    "genres": [
+      "Psychology"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1901,
+    "page_count": 310
+  },
+  {
+    "title": "Man and His Symbols",
+    "authors": [
+      "Carl Jung"
+    ],
+    "isbn_13": "9789428003589",
+    "isbn_10": "9428003581",
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1964,
+    "page_count": 415
+  },
+  {
+    "title": "Memories, Dreams, Reflections",
+    "authors": [
+      "Carl Jung"
+    ],
+    "isbn_13": "9781666185102",
+    "isbn_10": "1666185108",
+    "genres": [
+      "Psychology",
+      "Memoir"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 430
+  },
+  {
+    "title": "The Archetypes and the Collective Unconscious",
+    "authors": [
+      "Carl Jung"
+    ],
+    "isbn_13": "9780953909445",
+    "isbn_10": "0953909441",
+    "genres": [
+      "Psychology"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 451
+  },
+  {
+    "title": "The Red Book",
+    "authors": [
+      "Carl Jung"
+    ],
+    "isbn_13": "9784273933555",
+    "isbn_10": "4273933551",
+    "genres": [
+      "Psychology"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 371
+  },
+  {
+    "title": "The Drama of the Gifted Child",
+    "authors": [
+      "Alice Miller"
+    ],
+    "isbn_13": "9781122030571",
+    "isbn_10": "1122030576",
+    "genres": [
+      "Psychology"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 136
+  },
+  {
+    "title": "Influence",
+    "authors": [
+      "Robert B. Cialdini"
+    ],
+    "isbn_13": "9786302764291",
+    "isbn_10": "6302764297",
+    "genres": [
+      "Psychology",
+      "Business"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 320
+  },
+  {
+    "title": "Pre-Suasion",
+    "authors": [
+      "Robert B. Cialdini"
+    ],
+    "isbn_13": "9781437400434",
+    "isbn_10": "1437400434",
+    "genres": [
+      "Psychology",
+      "Business"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 413
+  },
+  {
+    "title": "Flow",
+    "authors": [
+      "Mihaly Csikszentmihalyi"
+    ],
+    "isbn_13": "9784050179336",
+    "isbn_10": "4050179334",
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 303
+  },
+  {
+    "title": "Creativity",
+    "authors": [
+      "Mihaly Csikszentmihalyi"
+    ],
+    "isbn_13": "9782503705620",
+    "isbn_10": "2503705626",
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 456
+  },
+  {
+    "title": "Emotional Intelligence",
+    "authors": [
+      "Daniel Goleman"
+    ],
+    "isbn_13": "9785505148884",
+    "isbn_10": "5505148883",
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 384
+  },
+  {
+    "title": "Focus",
+    "authors": [
+      "Daniel Goleman"
+    ],
+    "isbn_13": "9785631535343",
+    "isbn_10": "5631535343",
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 311
+  },
+  {
+    "title": "The Body Keeps the Score",
+    "authors": [
+      "Bessel van der Kolk"
+    ],
+    "isbn_13": "9785428017953",
+    "isbn_10": "5428017953",
+    "genres": [
+      "Psychology",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 464
+  },
+  {
+    "title": "Stumbling on Happiness",
+    "authors": [
+      "Daniel Gilbert"
+    ],
+    "isbn_13": "9780000231239",
+    "isbn_10": "0000231231",
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 310
+  },
+  {
+    "title": "Predictably Irrational",
+    "authors": [
+      "Dan Ariely"
+    ],
+    "isbn_13": "9785315459118",
+    "isbn_10": "531545911X",
+    "genres": [
+      "Psychology",
+      "Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 280
+  },
+  {
+    "title": "The Honest Truth About Dishonesty",
+    "authors": [
+      "Dan Ariely"
+    ],
+    "isbn_13": "9788973496143",
+    "isbn_10": "897349614X",
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 298
+  },
+  {
+    "title": "Quiet",
+    "authors": [
+      "Susan Cain"
+    ],
+    "isbn_13": "9780714556017",
+    "isbn_10": "0714556017",
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 352
+  },
+  {
+    "title": "Bittersweet",
+    "authors": [
+      "Susan Cain"
+    ],
+    "isbn_13": "9784711321869",
+    "isbn_10": "4711321861",
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 352
+  },
+  {
+    "title": "The Power of Introverts",
+    "authors": [
+      "Susan Cain"
+    ],
+    "isbn_13": "9785221522302",
+    "isbn_10": "5221522306",
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 352
+  },
+  {
+    "title": "Mindset",
+    "authors": [
+      "Carol S. Dweck"
+    ],
+    "isbn_13": "9789930229118",
+    "isbn_10": "9930229116",
+    "genres": [
+      "Psychology",
+      "Self-Help"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 276
+  },
+  {
+    "title": "Grit",
+    "authors": [
+      "Angela Duckworth"
+    ],
+    "isbn_13": "9788443264012",
+    "isbn_10": "8443264012",
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 352
+  },
+  {
+    "title": "Drive",
+    "authors": [
+      "Daniel H. Pink"
+    ],
+    "isbn_13": "9785533814669",
+    "isbn_10": "5533814663",
+    "genres": [
+      "Psychology",
+      "Business"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 242
+  },
+  {
+    "title": "When",
+    "authors": [
+      "Daniel H. Pink"
+    ],
+    "isbn_13": "9783057203143",
+    "isbn_10": "3057203140",
+    "genres": [
+      "Psychology",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 272
+  },
+  {
+    "title": "The Righteous Mind",
+    "authors": [
+      "Jonathan Haidt"
+    ],
+    "isbn_13": "9786094111358",
+    "isbn_10": "6094111354",
+    "genres": [
+      "Psychology",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 419
+  },
+  {
+    "title": "The Coddling of the American Mind",
+    "authors": [
+      "Jonathan Haidt"
+    ],
+    "isbn_13": "9785935118211",
+    "isbn_10": "5935118211",
+    "genres": [
+      "Psychology",
+      "Education"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 338
+  },
+  {
+    "title": "The Anxious Generation",
+    "authors": [
+      "Jonathan Haidt"
+    ],
+    "isbn_13": "9781623353469",
+    "isbn_10": "1623353467",
+    "genres": [
+      "Psychology",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 400
+  },
+  {
+    "title": "The Happiness Hypothesis",
+    "authors": [
+      "Jonathan Haidt"
+    ],
+    "isbn_13": "9785784604118",
+    "isbn_10": "5784604112",
+    "genres": [
+      "Psychology",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 297
+  },
+  {
+    "title": "The Social Animal",
+    "authors": [
+      "David Brooks"
+    ],
+    "isbn_13": "9789953331119",
+    "isbn_10": "9953331111",
+    "genres": [
+      "Psychology",
+      "Sociology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 424
+  },
+  {
+    "title": "The Lucifer Effect",
+    "authors": [
+      "Philip Zimbardo"
+    ],
+    "isbn_13": "9782475362319",
+    "isbn_10": "2475362316",
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 576
+  },
+  {
+    "title": "Obedience to Authority",
+    "authors": [
+      "Stanley Milgram"
+    ],
+    "isbn_13": "9781965579954",
+    "isbn_10": "1965579957",
+    "genres": [
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 224
+  },
+  {
+    "title": "The Man Who Mistook His Wife for a Hat",
+    "authors": [
+      "Oliver Sacks"
+    ],
+    "isbn_13": "9782310784795",
+    "isbn_10": "2310784796",
+    "genres": [
+      "Psychology",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 233
+  },
+  {
+    "title": "Awakenings",
+    "authors": [
+      "Oliver Sacks"
+    ],
+    "isbn_13": "9786301743235",
+    "isbn_10": "6301743237",
+    "genres": [
+      "Psychology",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 408
+  },
+  {
+    "title": "An Anthropologist on Mars",
+    "authors": [
+      "Oliver Sacks"
+    ],
+    "isbn_13": "9785312844573",
+    "isbn_10": "5312844578",
+    "genres": [
+      "Psychology",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 327
+  },
+  {
+    "title": "Musicophilia",
+    "authors": [
+      "Oliver Sacks"
+    ],
+    "isbn_13": "9784554024507",
+    "isbn_10": "4554024504",
+    "genres": [
+      "Psychology",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 381
+  },
+  {
+    "title": "The Mind's Eye",
+    "authors": [
+      "Oliver Sacks"
+    ],
+    "isbn_13": "9780653307299",
+    "isbn_10": "0653307292",
+    "genres": [
+      "Psychology",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 263
+  },
+  {
+    "title": "Hallucinations",
+    "authors": [
+      "Oliver Sacks"
+    ],
+    "isbn_13": "9783531614342",
+    "isbn_10": "3531614347",
+    "genres": [
+      "Psychology",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 326
+  },
+  {
+    "title": "On the Move",
+    "authors": [
+      "Oliver Sacks"
+    ],
+    "isbn_13": "9786523524063",
+    "isbn_10": "652352406X",
+    "genres": [
+      "Psychology",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 397
+  },
+  {
+    "title": "Gratitude",
+    "authors": [
+      "Oliver Sacks"
+    ],
+    "isbn_13": "9781623221102",
+    "isbn_10": "1623221102",
+    "genres": [
+      "Psychology",
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 45
+  },
+  {
+    "title": "The Presentation of Self in Everyday Life",
+    "authors": [
+      "Erving Goffman"
+    ],
+    "isbn_13": "9785891492240",
+    "isbn_10": "5891492245",
+    "genres": [
+      "Sociology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1956,
+    "page_count": 259
+  },
+  {
+    "title": "Stigma",
+    "authors": [
+      "Erving Goffman"
+    ],
+    "isbn_13": "9781105698712",
+    "isbn_10": "1105698718",
+    "genres": [
+      "Sociology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 168
+  },
+  {
+    "title": "Asylums",
+    "authors": [
+      "Erving Goffman"
+    ],
+    "isbn_13": "9783331921961",
+    "isbn_10": "3331921963",
+    "genres": [
+      "Sociology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1961,
+    "page_count": 386
+  },
+  {
+    "title": "Bowling Alone",
+    "authors": [
+      "Robert D. Putnam"
+    ],
+    "isbn_13": "9786912518260",
+    "isbn_10": "6912518265",
+    "genres": [
+      "Sociology",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 541
+  },
+  {
+    "title": "The Sociological Imagination",
+    "authors": [
+      "C. Wright Mills"
+    ],
+    "isbn_13": "9782816740400",
+    "isbn_10": "2816740404",
+    "genres": [
+      "Sociology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 234
+  },
+  {
+    "title": "Distinction",
+    "authors": [
+      "Pierre Bourdieu"
+    ],
+    "isbn_13": "9785253425244",
+    "isbn_10": "5253425241",
+    "genres": [
+      "Sociology"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 613
+  },
+  {
+    "title": "The Protestant Ethic and the Spirit of Capitalism",
+    "authors": [
+      "Max Weber"
+    ],
+    "isbn_13": "9787060484841",
+    "isbn_10": "7060484841",
+    "genres": [
+      "Sociology",
+      "Economics"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1905,
+    "page_count": 292
+  },
+  {
+    "title": "Suicide",
+    "authors": [
+      "Émile Durkheim"
+    ],
+    "isbn_13": "9780251223663",
+    "isbn_10": "0251223663",
+    "genres": [
+      "Sociology"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1897,
+    "page_count": 405
+  },
+  {
+    "title": "The Souls of Black Folk",
+    "authors": [
+      "W.E.B. Du Bois"
+    ],
+    "isbn_13": "9785556102835",
+    "isbn_10": "555610283X",
+    "genres": [
+      "Sociology",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1903,
+    "page_count": 299
+  },
+  {
+    "title": "The New Jim Crow",
+    "authors": [
+      "Michelle Alexander"
+    ],
+    "isbn_13": "9788043143526",
+    "isbn_10": "8043143528",
+    "genres": [
+      "Sociology",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 312
+  },
+  {
+    "title": "Caste",
+    "authors": [
+      "Isabel Wilkerson"
+    ],
+    "isbn_13": "9785320442068",
+    "isbn_10": "5320442068",
+    "genres": [
+      "Sociology",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 496
+  },
+  {
+    "title": "The Warmth of Other Suns",
+    "authors": [
+      "Isabel Wilkerson"
+    ],
+    "isbn_13": "9784205107566",
+    "isbn_10": "4205107560",
+    "genres": [
+      "History",
+      "Sociology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 622
+  },
+  {
+    "title": "Evicted",
+    "authors": [
+      "Matthew Desmond"
+    ],
+    "isbn_13": "9788290523638",
+    "isbn_10": "8290523637",
+    "genres": [
+      "Sociology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 418
+  },
+  {
+    "title": "Poverty, by America",
+    "authors": [
+      "Matthew Desmond"
+    ],
+    "isbn_13": "9781821411268",
+    "isbn_10": "1821411269",
+    "genres": [
+      "Sociology",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 288
+  },
+  {
+    "title": "Nickel and Dimed",
+    "authors": [
+      "Barbara Ehrenreich"
+    ],
+    "isbn_13": "9784805001608",
+    "isbn_10": "4805001607",
+    "genres": [
+      "Sociology",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 221
+  },
+  {
+    "title": "Guns, Germs, and Steel",
+    "authors": [
+      "Jared Diamond"
+    ],
+    "isbn_13": "9788904735143",
+    "isbn_10": "8904735149",
+    "genres": [
+      "History",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 480
+  },
+  {
+    "title": "Collapse",
+    "authors": [
+      "Jared Diamond"
+    ],
+    "isbn_13": "9785315086352",
+    "isbn_10": "5315086356",
+    "genres": [
+      "History",
+      "Science",
+      "Environment"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 575
+  },
+  {
+    "title": "The World Until Yesterday",
+    "authors": [
+      "Jared Diamond"
+    ],
+    "isbn_13": "9781731022189",
+    "isbn_10": "1731022182",
+    "genres": [
+      "History",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 512
+  }
+]

@@ -1,0 +1,2309 @@
+[
+  {
+    "title": "The Remains of the Day",
+    "authors": [
+      "Kazuo Ishiguro"
+    ],
+    "isbn_13": "9788014617599",
+    "isbn_10": "8014617592",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 245
+  },
+  {
+    "title": "Never Let Me Go",
+    "authors": [
+      "Kazuo Ishiguro"
+    ],
+    "isbn_13": "9783713940238",
+    "isbn_10": "3713940231",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 288
+  },
+  {
+    "title": "The Buried Giant",
+    "authors": [
+      "Kazuo Ishiguro"
+    ],
+    "isbn_13": "9781948250177",
+    "isbn_10": "1948250179",
+    "genres": [
+      "Literary Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 317
+  },
+  {
+    "title": "An Artist of the Floating World",
+    "authors": [
+      "Kazuo Ishiguro"
+    ],
+    "isbn_13": "9784523509011",
+    "isbn_10": "4523509018",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 206
+  },
+  {
+    "title": "Klara and the Sun",
+    "authors": [
+      "Kazuo Ishiguro"
+    ],
+    "isbn_13": "9780195255348",
+    "isbn_10": "0195255348",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 303
+  },
+  {
+    "title": "White Noise",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9784501103927",
+    "isbn_10": "4501103922",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 326
+  },
+  {
+    "title": "Underworld",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9782733202852",
+    "isbn_10": "2733202855",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 827
+  },
+  {
+    "title": "Libra",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9785700348461",
+    "isbn_10": "5700348462",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 456
+  },
+  {
+    "title": "Mao II",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9782211130103",
+    "isbn_10": "2211130100",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 241
+  },
+  {
+    "title": "The Names",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9780863780516",
+    "isbn_10": "0863780512",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 339
+  },
+  {
+    "title": "Cosmopolis",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9785067310385",
+    "isbn_10": "5067310383",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 209
+  },
+  {
+    "title": "Zero K",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9783536453885",
+    "isbn_10": "3536453880",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 274
+  },
+  {
+    "title": "The Silence",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn_13": "9783714445176",
+    "isbn_10": "371444517X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 116
+  },
+  {
+    "title": "Americanah",
+    "authors": [
+      "Chimamanda Ngozi Adichie"
+    ],
+    "isbn_13": "9780640130435",
+    "isbn_10": "0640130437",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 477
+  },
+  {
+    "title": "Half of a Yellow Sun",
+    "authors": [
+      "Chimamanda Ngozi Adichie"
+    ],
+    "isbn_13": "9783061415426",
+    "isbn_10": "3061415424",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 541
+  },
+  {
+    "title": "Purple Hibiscus",
+    "authors": [
+      "Chimamanda Ngozi Adichie"
+    ],
+    "isbn_13": "9780414024557",
+    "isbn_10": "0414024559",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 307
+  },
+  {
+    "title": "The Thing Around Your Neck",
+    "authors": [
+      "Chimamanda Ngozi Adichie"
+    ],
+    "isbn_13": "9788290942309",
+    "isbn_10": "8290942303",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 218
+  },
+  {
+    "title": "Atonement",
+    "authors": [
+      "Ian McEwan"
+    ],
+    "isbn_13": "9785485325305",
+    "isbn_10": "5485325300",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 371
+  },
+  {
+    "title": "Saturday",
+    "authors": [
+      "Ian McEwan"
+    ],
+    "isbn_13": "9781097120581",
+    "isbn_10": "1097120589",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 289
+  },
+  {
+    "title": "On Chesil Beach",
+    "authors": [
+      "Ian McEwan"
+    ],
+    "isbn_13": "9785372783423",
+    "isbn_10": "5372783427",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 166
+  },
+  {
+    "title": "Solar",
+    "authors": [
+      "Ian McEwan"
+    ],
+    "isbn_13": "9788681120101",
+    "isbn_10": "8681120107",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 287
+  },
+  {
+    "title": "Amsterdam",
+    "authors": [
+      "Ian McEwan"
+    ],
+    "isbn_13": "9781077420007",
+    "isbn_10": "1077420005",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 178
+  },
+  {
+    "title": "Enduring Love",
+    "authors": [
+      "Ian McEwan"
+    ],
+    "isbn_13": "9788171202744",
+    "isbn_10": "8171202748",
+    "genres": [
+      "Literary Fiction",
+      "Psychological Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 247
+  },
+  {
+    "title": "Nutshell",
+    "authors": [
+      "Ian McEwan"
+    ],
+    "isbn_13": "9784240443544",
+    "isbn_10": "4240443547",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 197
+  },
+  {
+    "title": "The Children Act",
+    "authors": [
+      "Ian McEwan"
+    ],
+    "isbn_13": "9786430014190",
+    "isbn_10": "6430014193",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 215
+  },
+  {
+    "title": "Machines Like Me",
+    "authors": [
+      "Ian McEwan"
+    ],
+    "isbn_13": "9780207167812",
+    "isbn_10": "0207167818",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 306
+  },
+  {
+    "title": "Lessons",
+    "authors": [
+      "Ian McEwan"
+    ],
+    "isbn_13": "9782699528539",
+    "isbn_10": "2699528536",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 485
+  },
+  {
+    "title": "The Sympathizer",
+    "authors": [
+      "Viet Thanh Nguyen"
+    ],
+    "isbn_13": "9780127650135",
+    "isbn_10": "012765013X",
+    "genres": [
+      "Literary Fiction",
+      "War Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 371
+  },
+  {
+    "title": "The Committed",
+    "authors": [
+      "Viet Thanh Nguyen"
+    ],
+    "isbn_13": "9783595000105",
+    "isbn_10": "3595000102",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 396
+  },
+  {
+    "title": "A Visit from the Goon Squad",
+    "authors": [
+      "Jennifer Egan"
+    ],
+    "isbn_13": "9780214466007",
+    "isbn_10": "0214466000",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 340
+  },
+  {
+    "title": "The Candy House",
+    "authors": [
+      "Jennifer Egan"
+    ],
+    "isbn_13": "9783492700481",
+    "isbn_10": "3492700489",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 352
+  },
+  {
+    "title": "Manhattan Beach",
+    "authors": [
+      "Jennifer Egan"
+    ],
+    "isbn_13": "9782804250928",
+    "isbn_10": "280425092X",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 438
+  },
+  {
+    "title": "A Little Life",
+    "authors": [
+      "Hanya Yanagihara"
+    ],
+    "isbn_13": "9785163509232",
+    "isbn_10": "5163509233",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 720
+  },
+  {
+    "title": "The People in the Trees",
+    "authors": [
+      "Hanya Yanagihara"
+    ],
+    "isbn_13": "9781174003639",
+    "isbn_10": "1174003634",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 369
+  },
+  {
+    "title": "To Paradise",
+    "authors": [
+      "Hanya Yanagihara"
+    ],
+    "isbn_13": "9786806631501",
+    "isbn_10": "6806631509",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 720
+  },
+  {
+    "title": "Gilead",
+    "authors": [
+      "Marilynne Robinson"
+    ],
+    "isbn_13": "9784590227252",
+    "isbn_10": "4590227258",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 247
+  },
+  {
+    "title": "Home",
+    "authors": [
+      "Marilynne Robinson"
+    ],
+    "isbn_13": "9783546934909",
+    "isbn_10": "3546934903",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 325
+  },
+  {
+    "title": "Lila",
+    "authors": [
+      "Marilynne Robinson"
+    ],
+    "isbn_13": "9784283105980",
+    "isbn_10": "4283105988",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 261
+  },
+  {
+    "title": "Jack",
+    "authors": [
+      "Marilynne Robinson"
+    ],
+    "isbn_13": "9782280730198",
+    "isbn_10": "2280730197",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 308
+  },
+  {
+    "title": "Housekeeping",
+    "authors": [
+      "Marilynne Robinson"
+    ],
+    "isbn_13": "9782514248727",
+    "isbn_10": "2514248728",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 219
+  },
+  {
+    "title": "The Goldfinch",
+    "authors": [
+      "Donna Tartt"
+    ],
+    "isbn_13": "9786131237812",
+    "isbn_10": "6131237816",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 771
+  },
+  {
+    "title": "The Secret History",
+    "authors": [
+      "Donna Tartt"
+    ],
+    "isbn_13": "9784281458309",
+    "isbn_10": "4281458301",
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 559
+  },
+  {
+    "title": "The Little Friend",
+    "authors": [
+      "Donna Tartt"
+    ],
+    "isbn_13": "9788925735634",
+    "isbn_10": "8925735636",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 555
+  },
+  {
+    "title": "Olive Kitteridge",
+    "authors": [
+      "Elizabeth Strout"
+    ],
+    "isbn_13": "9785296401021",
+    "isbn_10": "5296401026",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 286
+  },
+  {
+    "title": "Olive, Again",
+    "authors": [
+      "Elizabeth Strout"
+    ],
+    "isbn_13": "9781151384317",
+    "isbn_10": "1151384313",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 289
+  },
+  {
+    "title": "My Name Is Lucy Barton",
+    "authors": [
+      "Elizabeth Strout"
+    ],
+    "isbn_13": "9787793431020",
+    "isbn_10": "7793431022",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 191
+  },
+  {
+    "title": "Anything Is Possible",
+    "authors": [
+      "Elizabeth Strout"
+    ],
+    "isbn_13": "9784411368607",
+    "isbn_10": "4411368609",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 254
+  },
+  {
+    "title": "Oh William!",
+    "authors": [
+      "Elizabeth Strout"
+    ],
+    "isbn_13": "9789304736297",
+    "isbn_10": "9304736293",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 256
+  },
+  {
+    "title": "Lucy by the Sea",
+    "authors": [
+      "Elizabeth Strout"
+    ],
+    "isbn_13": "9784651105000",
+    "isbn_10": "4651105009",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 288
+  },
+  {
+    "title": "The Corrections",
+    "authors": [
+      "Jonathan Franzen"
+    ],
+    "isbn_13": "9780761351344",
+    "isbn_10": "0761351345",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 568
+  },
+  {
+    "title": "Freedom",
+    "authors": [
+      "Jonathan Franzen"
+    ],
+    "isbn_13": "9782632714081",
+    "isbn_10": "2632714087",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 562
+  },
+  {
+    "title": "Purity",
+    "authors": [
+      "Jonathan Franzen"
+    ],
+    "isbn_13": "9780025212237",
+    "isbn_10": "0025212230",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 563
+  },
+  {
+    "title": "Crossroads",
+    "authors": [
+      "Jonathan Franzen"
+    ],
+    "isbn_13": "9788725359542",
+    "isbn_10": "8725359541",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 580
+  },
+  {
+    "title": "The Twenty-Seventh City",
+    "authors": [
+      "Jonathan Franzen"
+    ],
+    "isbn_13": "9785772844168",
+    "isbn_10": "5772844164",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 517
+  },
+  {
+    "title": "Strong Motion",
+    "authors": [
+      "Jonathan Franzen"
+    ],
+    "isbn_13": "9786497811367",
+    "isbn_10": "6497811362",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 508
+  },
+  {
+    "title": "Lincoln in the Bardo",
+    "authors": [
+      "George Saunders"
+    ],
+    "isbn_13": "9789314933549",
+    "isbn_10": "9314933547",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 343
+  },
+  {
+    "title": "Liberation Day",
+    "authors": [
+      "George Saunders"
+    ],
+    "isbn_13": "9784812131886",
+    "isbn_10": "481213188X",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 260
+  },
+  {
+    "title": "Tenth of December",
+    "authors": [
+      "George Saunders"
+    ],
+    "isbn_13": "9781055545142",
+    "isbn_10": "105554514X",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 251
+  },
+  {
+    "title": "Pastoralia",
+    "authors": [
+      "George Saunders"
+    ],
+    "isbn_13": "9783553231176",
+    "isbn_10": "3553231173",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 188
+  },
+  {
+    "title": "CivilWarLand in Bad Decline",
+    "authors": [
+      "George Saunders"
+    ],
+    "isbn_13": "9780920314029",
+    "isbn_10": "0920314023",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 179
+  },
+  {
+    "title": "The Brief Wondrous Life of Oscar Wao",
+    "authors": [
+      "Junot Díaz"
+    ],
+    "isbn_13": "9780345073143",
+    "isbn_10": "0345073142",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 340
+  },
+  {
+    "title": "This Is How You Lose Her",
+    "authors": [
+      "Junot Díaz"
+    ],
+    "isbn_13": "9789311203201",
+    "isbn_10": "9311203203",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 213
+  },
+  {
+    "title": "Drown",
+    "authors": [
+      "Junot Díaz"
+    ],
+    "isbn_13": "9785770633924",
+    "isbn_10": "5770633921",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 208
+  },
+  {
+    "title": "The Underground Railroad",
+    "authors": [
+      "Colson Whitehead"
+    ],
+    "isbn_13": "9782050340442",
+    "isbn_10": "2050340443",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 306
+  },
+  {
+    "title": "The Nickel Boys",
+    "authors": [
+      "Colson Whitehead"
+    ],
+    "isbn_13": "9781054504867",
+    "isbn_10": "1054504865",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 213
+  },
+  {
+    "title": "Harlem Shuffle",
+    "authors": [
+      "Colson Whitehead"
+    ],
+    "isbn_13": "9782414600267",
+    "isbn_10": "2414600268",
+    "genres": [
+      "Literary Fiction",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 318
+  },
+  {
+    "title": "Crook Manifesto",
+    "authors": [
+      "Colson Whitehead"
+    ],
+    "isbn_13": "9780469145191",
+    "isbn_10": "0469145196",
+    "genres": [
+      "Literary Fiction",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 400
+  },
+  {
+    "title": "The Intuitionist",
+    "authors": [
+      "Colson Whitehead"
+    ],
+    "isbn_13": "9784323556307",
+    "isbn_10": "4323556306",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 255
+  },
+  {
+    "title": "Zone One",
+    "authors": [
+      "Colson Whitehead"
+    ],
+    "isbn_13": "9784691056102",
+    "isbn_10": "4691056106",
+    "genres": [
+      "Literary Fiction",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 259
+  },
+  {
+    "title": "Sag Harbor",
+    "authors": [
+      "Colson Whitehead"
+    ],
+    "isbn_13": "9787707385159",
+    "isbn_10": "7707385152",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 273
+  },
+  {
+    "title": "The Overstory",
+    "authors": [
+      "Richard Powers"
+    ],
+    "isbn_13": "9785905183157",
+    "isbn_10": "5905183155",
+    "genres": [
+      "Literary Fiction",
+      "Ecological Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 502
+  },
+  {
+    "title": "Bewilderment",
+    "authors": [
+      "Richard Powers"
+    ],
+    "isbn_13": "9786377411847",
+    "isbn_10": "6377411847",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 278
+  },
+  {
+    "title": "The Echo Maker",
+    "authors": [
+      "Richard Powers"
+    ],
+    "isbn_13": "9788212435568",
+    "isbn_10": "8212435563",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 451
+  },
+  {
+    "title": "Galatea 2.2",
+    "authors": [
+      "Richard Powers"
+    ],
+    "isbn_13": "9789749312513",
+    "isbn_10": "9749312511",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 329
+  },
+  {
+    "title": "The Time of Our Singing",
+    "authors": [
+      "Richard Powers"
+    ],
+    "isbn_13": "9785115621951",
+    "isbn_10": "5115621959",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 631
+  },
+  {
+    "title": "Orfeo",
+    "authors": [
+      "Richard Powers"
+    ],
+    "isbn_13": "9783141545456",
+    "isbn_10": "3141545456",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 369
+  },
+  {
+    "title": "Cloud Atlas",
+    "authors": [
+      "David Mitchell"
+    ],
+    "isbn_13": "9783022354009",
+    "isbn_10": "3022354002",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 509
+  },
+  {
+    "title": "The Bone Clocks",
+    "authors": [
+      "David Mitchell"
+    ],
+    "isbn_13": "9783756502486",
+    "isbn_10": "3756502481",
+    "genres": [
+      "Literary Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 624
+  },
+  {
+    "title": "number9dream",
+    "authors": [
+      "David Mitchell"
+    ],
+    "isbn_13": "9784335230561",
+    "isbn_10": "4335230567",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 400
+  },
+  {
+    "title": "Black Swan Green",
+    "authors": [
+      "David Mitchell"
+    ],
+    "isbn_13": "9788542454451",
+    "isbn_10": "8542454456",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 371
+  },
+  {
+    "title": "The Thousand Autumns of Jacob de Zoet",
+    "authors": [
+      "David Mitchell"
+    ],
+    "isbn_13": "9783637522589",
+    "isbn_10": "3637522586",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 479
+  },
+  {
+    "title": "Utopia Avenue",
+    "authors": [
+      "David Mitchell"
+    ],
+    "isbn_13": "9786172007252",
+    "isbn_10": "6172007254",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 577
+  },
+  {
+    "title": "Ghostwritten",
+    "authors": [
+      "David Mitchell"
+    ],
+    "isbn_13": "9783641861414",
+    "isbn_10": "3641861411",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 426
+  },
+  {
+    "title": "Slade House",
+    "authors": [
+      "David Mitchell"
+    ],
+    "isbn_13": "9781207344104",
+    "isbn_10": "1207344109",
+    "genres": [
+      "Literary Fiction",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 233
+  },
+  {
+    "title": "The White Tiger",
+    "authors": [
+      "Aravind Adiga"
+    ],
+    "isbn_13": "9784515804575",
+    "isbn_10": "451580457X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 321
+  },
+  {
+    "title": "Amnesty",
+    "authors": [
+      "Aravind Adiga"
+    ],
+    "isbn_13": "9782484389567",
+    "isbn_10": "2484389566",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 256
+  },
+  {
+    "title": "Selection Day",
+    "authors": [
+      "Aravind Adiga"
+    ],
+    "isbn_13": "9788008938044",
+    "isbn_10": "8008938048",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 352
+  },
+  {
+    "title": "Last Man in Tower",
+    "authors": [
+      "Aravind Adiga"
+    ],
+    "isbn_13": "9785320200088",
+    "isbn_10": "5320200080",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 432
+  },
+  {
+    "title": "Between the Acts",
+    "authors": [
+      "Aravind Adiga"
+    ],
+    "isbn_13": "9785850293840",
+    "isbn_10": "5850293841",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 304
+  },
+  {
+    "title": "Everything I Never Told You",
+    "authors": [
+      "Celeste Ng"
+    ],
+    "isbn_13": "9786033532145",
+    "isbn_10": "6033532147",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 292
+  },
+  {
+    "title": "Little Fires Everywhere",
+    "authors": [
+      "Celeste Ng"
+    ],
+    "isbn_13": "9785527307351",
+    "isbn_10": "5527307356",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 338
+  },
+  {
+    "title": "Our Missing Hearts",
+    "authors": [
+      "Celeste Ng"
+    ],
+    "isbn_13": "9785244106497",
+    "isbn_10": "524410649X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 352
+  },
+  {
+    "title": "The Sellout",
+    "authors": [
+      "Paul Beatty"
+    ],
+    "isbn_13": "9781316241363",
+    "isbn_10": "131624136X",
+    "genres": [
+      "Literary Fiction",
+      "Satire"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 289
+  },
+  {
+    "title": "The White Book",
+    "authors": [
+      "Han Kang"
+    ],
+    "isbn_13": "9789422542015",
+    "isbn_10": "9422542014",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 160
+  },
+  {
+    "title": "The Vegetarian",
+    "authors": [
+      "Han Kang"
+    ],
+    "isbn_13": "9785449602534",
+    "isbn_10": "5449602537",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 183
+  },
+  {
+    "title": "Human Acts",
+    "authors": [
+      "Han Kang"
+    ],
+    "isbn_13": "9786931337118",
+    "isbn_10": "6931337114",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 213
+  },
+  {
+    "title": "Greek Lessons",
+    "authors": [
+      "Han Kang"
+    ],
+    "isbn_13": "9782242864152",
+    "isbn_10": "2242864157",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 176
+  },
+  {
+    "title": "We Need New Names",
+    "authors": [
+      "NoViolet Bulawayo"
+    ],
+    "isbn_13": "9786336565345",
+    "isbn_10": "6336565343",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 296
+  },
+  {
+    "title": "Glory",
+    "authors": [
+      "NoViolet Bulawayo"
+    ],
+    "isbn_13": "9783357013466",
+    "isbn_10": "3357013460",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 416
+  },
+  {
+    "title": "Shuggie Bain",
+    "authors": [
+      "Douglas Stuart"
+    ],
+    "isbn_13": "9785540307406",
+    "isbn_10": "5540307402",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 430
+  },
+  {
+    "title": "Young Mungo",
+    "authors": [
+      "Douglas Stuart"
+    ],
+    "isbn_13": "9783616750958",
+    "isbn_10": "3616750954",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 432
+  },
+  {
+    "title": "Hamnet",
+    "authors": [
+      "Maggie O'Farrell"
+    ],
+    "isbn_13": "9780924187919",
+    "isbn_10": "0924187913",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 372
+  },
+  {
+    "title": "The Marriage Portrait",
+    "authors": [
+      "Maggie O'Farrell"
+    ],
+    "isbn_13": "9781715460471",
+    "isbn_10": "1715460472",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 352
+  },
+  {
+    "title": "Deacon King Kong",
+    "authors": [
+      "James McBride"
+    ],
+    "isbn_13": "9785432653840",
+    "isbn_10": "5432653842",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 370
+  },
+  {
+    "title": "The Heaven & Earth Grocery Store",
+    "authors": [
+      "James McBride"
+    ],
+    "isbn_13": "9783361091887",
+    "isbn_10": "3361091888",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 385
+  },
+  {
+    "title": "The Color of Water",
+    "authors": [
+      "James McBride"
+    ],
+    "isbn_13": "9782142129207",
+    "isbn_10": "214212920X",
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 228
+  },
+  {
+    "title": "Interior Chinatown",
+    "authors": [
+      "Charles Yu"
+    ],
+    "isbn_13": "9783435003112",
+    "isbn_10": "3435003111",
+    "genres": [
+      "Literary Fiction",
+      "Satire"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 273
+  },
+  {
+    "title": "How to Live Safely in a Science Fictional Universe",
+    "authors": [
+      "Charles Yu"
+    ],
+    "isbn_13": "9780444082688",
+    "isbn_10": "0444082689",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 239
+  },
+  {
+    "title": "Piranesi",
+    "authors": [
+      "Susanna Clarke"
+    ],
+    "isbn_13": "9788049921302",
+    "isbn_10": "8049921301",
+    "genres": [
+      "Literary Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 272
+  },
+  {
+    "title": "Jonathan Strange & Mr Norrell",
+    "authors": [
+      "Susanna Clarke"
+    ],
+    "isbn_13": "9780107200336",
+    "isbn_10": "0107200333",
+    "genres": [
+      "Literary Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 1006
+  },
+  {
+    "title": "Exit West",
+    "authors": [
+      "Mohsin Hamid"
+    ],
+    "isbn_13": "9782055157960",
+    "isbn_10": "2055157965",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 231
+  },
+  {
+    "title": "The Reluctant Fundamentalist",
+    "authors": [
+      "Mohsin Hamid"
+    ],
+    "isbn_13": "9782853148306",
+    "isbn_10": "2853148300",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 184
+  },
+  {
+    "title": "How to Get Filthy Rich in Rising Asia",
+    "authors": [
+      "Mohsin Hamid"
+    ],
+    "isbn_13": "9784570071011",
+    "isbn_10": "4570071015",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 228
+  },
+  {
+    "title": "Moth Smoke",
+    "authors": [
+      "Mohsin Hamid"
+    ],
+    "isbn_13": "9780300922516",
+    "isbn_10": "0300922515",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 256
+  },
+  {
+    "title": "The Last White Man",
+    "authors": [
+      "Mohsin Hamid"
+    ],
+    "isbn_13": "9780178217257",
+    "isbn_10": "0178217255",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 192
+  },
+  {
+    "title": "Severance",
+    "authors": [
+      "Ling Ma"
+    ],
+    "isbn_13": "9783534561490",
+    "isbn_10": "353456149X",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 291
+  },
+  {
+    "title": "Bliss Montage",
+    "authors": [
+      "Ling Ma"
+    ],
+    "isbn_13": "9789302324052",
+    "isbn_10": "9302324052",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 224
+  },
+  {
+    "title": "The Vanishing Half",
+    "authors": [
+      "Brit Bennett"
+    ],
+    "isbn_13": "9789039431856",
+    "isbn_10": "903943185X",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 343
+  },
+  {
+    "title": "The Mothers",
+    "authors": [
+      "Brit Bennett"
+    ],
+    "isbn_13": "9781442480544",
+    "isbn_10": "1442480548",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 275
+  },
+  {
+    "title": "Such a Fun Age",
+    "authors": [
+      "Kiley Reid"
+    ],
+    "isbn_13": "9781233008469",
+    "isbn_10": "1233008463",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 310
+  },
+  {
+    "title": "Detransition, Baby",
+    "authors": [
+      "Torrey Peters"
+    ],
+    "isbn_13": "9783431824452",
+    "isbn_10": "3431824455",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 337
+  },
+  {
+    "title": "Weather",
+    "authors": [
+      "Jenny Offill"
+    ],
+    "isbn_13": "9780050393543",
+    "isbn_10": "0050393545",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 207
+  },
+  {
+    "title": "Dept. of Speculation",
+    "authors": [
+      "Jenny Offill"
+    ],
+    "isbn_13": "9780217219549",
+    "isbn_10": "0217219543",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 177
+  },
+  {
+    "title": "Trust",
+    "authors": [
+      "Hernan Diaz"
+    ],
+    "isbn_13": "9782322940783",
+    "isbn_10": "232294078X",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 416
+  },
+  {
+    "title": "In the Distance",
+    "authors": [
+      "Hernan Diaz"
+    ],
+    "isbn_13": "9789131246587",
+    "isbn_10": "9131246583",
+    "genres": [
+      "Literary Fiction",
+      "Western"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 256
+  },
+  {
+    "title": "Demon Copperhead",
+    "authors": [
+      "Barbara Kingsolver"
+    ],
+    "isbn_13": "9784101242903",
+    "isbn_10": "4101242909",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 548
+  },
+  {
+    "title": "The Poisonwood Bible",
+    "authors": [
+      "Barbara Kingsolver"
+    ],
+    "isbn_13": "9785230424086",
+    "isbn_10": "5230424087",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 546
+  },
+  {
+    "title": "The Lacuna",
+    "authors": [
+      "Barbara Kingsolver"
+    ],
+    "isbn_13": "9781110482207",
+    "isbn_10": "1110482205",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 507
+  },
+  {
+    "title": "Flight Behavior",
+    "authors": [
+      "Barbara Kingsolver"
+    ],
+    "isbn_13": "9780889741201",
+    "isbn_10": "0889741204",
+    "genres": [
+      "Literary Fiction",
+      "Ecological Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 436
+  },
+  {
+    "title": "Prodigal Summer",
+    "authors": [
+      "Barbara Kingsolver"
+    ],
+    "isbn_13": "9785254211051",
+    "isbn_10": "5254211059",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 444
+  },
+  {
+    "title": "The Bean Trees",
+    "authors": [
+      "Barbara Kingsolver"
+    ],
+    "isbn_13": "9781635332438",
+    "isbn_10": "1635332435",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 232
+  },
+  {
+    "title": "Unsheltered",
+    "authors": [
+      "Barbara Kingsolver"
+    ],
+    "isbn_13": "9782196015631",
+    "isbn_10": "2196015636",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 462
+  },
+  {
+    "title": "Tomorrow, and Tomorrow, and Tomorrow",
+    "authors": [
+      "Gabrielle Zevin"
+    ],
+    "isbn_13": "9780351359125",
+    "isbn_10": "0351359125",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 401
+  },
+  {
+    "title": "The Storied Life of A.J. Fikry",
+    "authors": [
+      "Gabrielle Zevin"
+    ],
+    "isbn_13": "9789403400013",
+    "isbn_10": "9403400013",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 260
+  },
+  {
+    "title": "The Topeka School",
+    "authors": [
+      "Ben Lerner"
+    ],
+    "isbn_13": "9783101352469",
+    "isbn_10": "3101352460",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 289
+  },
+  {
+    "title": "Leaving the Atocha Station",
+    "authors": [
+      "Ben Lerner"
+    ],
+    "isbn_13": "9780545331234",
+    "isbn_10": "0545331234",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 181
+  },
+  {
+    "title": "10:04",
+    "authors": [
+      "Ben Lerner"
+    ],
+    "isbn_13": "9784351818798",
+    "isbn_10": "4351818794",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 244
+  },
+  {
+    "title": "Outline",
+    "authors": [
+      "Rachel Cusk"
+    ],
+    "isbn_13": "9788303520821",
+    "isbn_10": "8303520822",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 249
+  },
+  {
+    "title": "Transit",
+    "authors": [
+      "Rachel Cusk"
+    ],
+    "isbn_13": "9785032383369",
+    "isbn_10": "5032383368",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 260
+  },
+  {
+    "title": "Kudos",
+    "authors": [
+      "Rachel Cusk"
+    ],
+    "isbn_13": "9782371179943",
+    "isbn_10": "2371179949",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 231
+  },
+  {
+    "title": "Second Place",
+    "authors": [
+      "Rachel Cusk"
+    ],
+    "isbn_13": "9782265261471",
+    "isbn_10": "2265261475",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 224
+  },
+  {
+    "title": "Normal People",
+    "authors": [
+      "Sally Rooney"
+    ],
+    "isbn_13": "9786320380374",
+    "isbn_10": "6320380373",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 273
+  },
+  {
+    "title": "Conversations with Friends",
+    "authors": [
+      "Sally Rooney"
+    ],
+    "isbn_13": "9784700294174",
+    "isbn_10": "4700294175",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 321
+  },
+  {
+    "title": "Beautiful World, Where Are You",
+    "authors": [
+      "Sally Rooney"
+    ],
+    "isbn_13": "9783270212953",
+    "isbn_10": "327021295X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 356
+  },
+  {
+    "title": "Intermezzo",
+    "authors": [
+      "Sally Rooney"
+    ],
+    "isbn_13": "9782293019198",
+    "isbn_10": "2293019195",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 448
+  },
+  {
+    "title": "My Year of Rest and Relaxation",
+    "authors": [
+      "Ottessa Moshfegh"
+    ],
+    "isbn_13": "9783940542397",
+    "isbn_10": "3940542393",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 291
+  },
+  {
+    "title": "Eileen",
+    "authors": [
+      "Ottessa Moshfegh"
+    ],
+    "isbn_13": "9787325735756",
+    "isbn_10": "7325735758",
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 260
+  },
+  {
+    "title": "Lapvona",
+    "authors": [
+      "Ottessa Moshfegh"
+    ],
+    "isbn_13": "9784332303473",
+    "isbn_10": "4332303474",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 304
+  },
+  {
+    "title": "Death in Her Hands",
+    "authors": [
+      "Ottessa Moshfegh"
+    ],
+    "isbn_13": "9783506634429",
+    "isbn_10": "3506634429",
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 272
+  },
+  {
+    "title": "Homesick for Another World",
+    "authors": [
+      "Ottessa Moshfegh"
+    ],
+    "isbn_13": "9783951603582",
+    "isbn_10": "3951603585",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 289
+  }
+]

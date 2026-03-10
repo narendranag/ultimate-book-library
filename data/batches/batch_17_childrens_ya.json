@@ -1,0 +1,1496 @@
+[
+  {
+    "title": "Charlotte's Web",
+    "authors": [
+      "E.B. White"
+    ],
+    "isbn_13": "9781580994200",
+    "isbn_10": "1580994202",
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1952,
+    "page_count": 184
+  },
+  {
+    "title": "Stuart Little",
+    "authors": [
+      "E.B. White"
+    ],
+    "isbn_13": "9781134091171",
+    "isbn_10": "1134091176",
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1945,
+    "page_count": 131
+  },
+  {
+    "title": "The Trumpet of the Swan",
+    "authors": [
+      "E.B. White"
+    ],
+    "isbn_13": "9782485497803",
+    "isbn_10": "248549780X",
+    "genres": [
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1970,
+    "page_count": 210
+  },
+  {
+    "title": "Where the Wild Things Are",
+    "authors": [
+      "Maurice Sendak"
+    ],
+    "isbn_13": "9786657624400",
+    "isbn_10": "6657624409",
+    "genres": [
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 48
+  },
+  {
+    "title": "The Very Hungry Caterpillar",
+    "authors": [
+      "Eric Carle"
+    ],
+    "isbn_13": "9789352440092",
+    "isbn_10": "9352440099",
+    "genres": [
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 22
+  },
+  {
+    "title": "Matilda",
+    "authors": [
+      "Roald Dahl"
+    ],
+    "isbn_13": "9782815358026",
+    "isbn_10": "2815358026",
+    "genres": [
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 240
+  },
+  {
+    "title": "Charlie and the Chocolate Factory",
+    "authors": [
+      "Roald Dahl"
+    ],
+    "isbn_13": "9787355346908",
+    "isbn_10": "7355346903",
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1964,
+    "page_count": 176
+  },
+  {
+    "title": "James and the Giant Peach",
+    "authors": [
+      "Roald Dahl"
+    ],
+    "isbn_13": "9785207512433",
+    "isbn_10": "5207512439",
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1961,
+    "page_count": 160
+  },
+  {
+    "title": "The BFG",
+    "authors": [
+      "Roald Dahl"
+    ],
+    "isbn_13": "9783376021282",
+    "isbn_10": "3376021287",
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 208
+  },
+  {
+    "title": "Danny, the Champion of the World",
+    "authors": [
+      "Roald Dahl"
+    ],
+    "isbn_13": "9782240442345",
+    "isbn_10": "2240442344",
+    "genres": [
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 208
+  },
+  {
+    "title": "The Witches",
+    "authors": [
+      "Roald Dahl"
+    ],
+    "isbn_13": "9788574478517",
+    "isbn_10": "8574478512",
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 208
+  },
+  {
+    "title": "Fantastic Mr Fox",
+    "authors": [
+      "Roald Dahl"
+    ],
+    "isbn_13": "9786050944426",
+    "isbn_10": "6050944423",
+    "genres": [
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1970,
+    "page_count": 96
+  },
+  {
+    "title": "Boy",
+    "authors": [
+      "Roald Dahl"
+    ],
+    "isbn_13": "9780527253943",
+    "isbn_10": "0527253944",
+    "genres": [
+      "Children's",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 176
+  },
+  {
+    "title": "Going Solo",
+    "authors": [
+      "Roald Dahl"
+    ],
+    "isbn_13": "9782120686227",
+    "isbn_10": "212068622X",
+    "genres": [
+      "Children's",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 209
+  },
+  {
+    "title": "The Phantom Tollbooth",
+    "authors": [
+      "Norton Juster"
+    ],
+    "isbn_13": "9781775238799",
+    "isbn_10": "1775238792",
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1961,
+    "page_count": 256
+  },
+  {
+    "title": "Bridge to Terabithia",
+    "authors": [
+      "Katherine Paterson"
+    ],
+    "isbn_13": "9785711898122",
+    "isbn_10": "5711898124",
+    "genres": [
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 128
+  },
+  {
+    "title": "A Wrinkle in Time",
+    "authors": [
+      "Madeleine L'Engle"
+    ],
+    "isbn_13": "9782815214001",
+    "isbn_10": "2815214008",
+    "genres": [
+      "Children's",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 211
+  },
+  {
+    "title": "A Wind in the Door",
+    "authors": [
+      "Madeleine L'Engle"
+    ],
+    "isbn_13": "9782707554253",
+    "isbn_10": "2707554251",
+    "genres": [
+      "Children's",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 211
+  },
+  {
+    "title": "A Swiftly Tilting Planet",
+    "authors": [
+      "Madeleine L'Engle"
+    ],
+    "isbn_13": "9785321244296",
+    "isbn_10": "5321244294",
+    "genres": [
+      "Children's",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1978,
+    "page_count": 278
+  },
+  {
+    "title": "The Giver",
+    "authors": [
+      "Lois Lowry"
+    ],
+    "isbn_13": "9781037356155",
+    "isbn_10": "1037356152",
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 180
+  },
+  {
+    "title": "Gathering Blue",
+    "authors": [
+      "Lois Lowry"
+    ],
+    "isbn_13": "9788260228860",
+    "isbn_10": "8260228866",
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 215
+  },
+  {
+    "title": "Number the Stars",
+    "authors": [
+      "Lois Lowry"
+    ],
+    "isbn_13": "9786155491955",
+    "isbn_10": "615549195X",
+    "genres": [
+      "Children's",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 137
+  },
+  {
+    "title": "Tuck Everlasting",
+    "authors": [
+      "Natalie Babbitt"
+    ],
+    "isbn_13": "9782060481739",
+    "isbn_10": "2060481732",
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 139
+  },
+  {
+    "title": "The Secret Garden",
+    "authors": [
+      "Frances Hodgson Burnett"
+    ],
+    "isbn_13": "9785475275450",
+    "isbn_10": "5475275459",
+    "genres": [
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1911,
+    "page_count": 375
+  },
+  {
+    "title": "A Little Princess",
+    "authors": [
+      "Frances Hodgson Burnett"
+    ],
+    "isbn_13": "9780495030584",
+    "isbn_10": "0495030589",
+    "genres": [
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1905,
+    "page_count": 250
+  },
+  {
+    "title": "Anne of Green Gables",
+    "authors": [
+      "L.M. Montgomery"
+    ],
+    "isbn_13": "9784019073941",
+    "isbn_10": "4019073945",
+    "genres": [
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1908,
+    "page_count": 320
+  },
+  {
+    "title": "Anne of Avonlea",
+    "authors": [
+      "L.M. Montgomery"
+    ],
+    "isbn_13": "9782488240642",
+    "isbn_10": "2488240648",
+    "genres": [
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1909,
+    "page_count": 280
+  },
+  {
+    "title": "The Wind in the Willows",
+    "authors": [
+      "Kenneth Grahame"
+    ],
+    "isbn_13": "9785895193945",
+    "isbn_10": "5895193943",
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1908,
+    "page_count": 215
+  },
+  {
+    "title": "The Wonderful Wizard of Oz",
+    "authors": [
+      "L. Frank Baum"
+    ],
+    "isbn_13": "9789200417047",
+    "isbn_10": "9200417043",
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1900,
+    "page_count": 259
+  },
+  {
+    "title": "Peter Pan",
+    "authors": [
+      "J.M. Barrie"
+    ],
+    "isbn_13": "9787731456863",
+    "isbn_10": "7731456862",
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1911,
+    "page_count": 200
+  },
+  {
+    "title": "Treasure Island",
+    "authors": [
+      "Robert Louis Stevenson"
+    ],
+    "isbn_13": "9781117004501",
+    "isbn_10": "1117004503",
+    "genres": [
+      "Children's",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1883,
+    "page_count": 292
+  },
+  {
+    "title": "The Jungle Book",
+    "authors": [
+      "Rudyard Kipling"
+    ],
+    "isbn_13": "9785430321178",
+    "isbn_10": "5430321176",
+    "genres": [
+      "Children's",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1894,
+    "page_count": 277
+  },
+  {
+    "title": "Kim",
+    "authors": [
+      "Rudyard Kipling"
+    ],
+    "isbn_13": "9783600373620",
+    "isbn_10": "3600373625",
+    "genres": [
+      "Children's",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1901,
+    "page_count": 326
+  },
+  {
+    "title": "Just So Stories",
+    "authors": [
+      "Rudyard Kipling"
+    ],
+    "isbn_13": "9781542501194",
+    "isbn_10": "1542501199",
+    "genres": [
+      "Children's",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1902,
+    "page_count": 201
+  },
+  {
+    "title": "Pippi Longstocking",
+    "authors": [
+      "Astrid Lindgren"
+    ],
+    "isbn_13": "9780005128626",
+    "isbn_10": "0005128625",
+    "genres": [
+      "Children's"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 1945,
+    "page_count": 160
+  },
+  {
+    "title": "The Brothers Lionheart",
+    "authors": [
+      "Astrid Lindgren"
+    ],
+    "isbn_13": "9784546241134",
+    "isbn_10": "4546241135",
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 183
+  },
+  {
+    "title": "Mio, My Son",
+    "authors": [
+      "Astrid Lindgren"
+    ],
+    "isbn_13": "9789341205312",
+    "isbn_10": "934120531X",
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 1954,
+    "page_count": 150
+  },
+  {
+    "title": "Ronia, the Robber's Daughter",
+    "authors": [
+      "Astrid Lindgren"
+    ],
+    "isbn_13": "9783001135230",
+    "isbn_10": "3001135239",
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 176
+  },
+  {
+    "title": "The Hunger Games",
+    "authors": [
+      "Suzanne Collins"
+    ],
+    "isbn_13": "9784143415143",
+    "isbn_10": "4143415143",
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 374
+  },
+  {
+    "title": "Catching Fire",
+    "authors": [
+      "Suzanne Collins"
+    ],
+    "isbn_13": "9784533449314",
+    "isbn_10": "453344931X",
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 391
+  },
+  {
+    "title": "Mockingjay",
+    "authors": [
+      "Suzanne Collins"
+    ],
+    "isbn_13": "9789462211346",
+    "isbn_10": "9462211345",
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 390
+  },
+  {
+    "title": "The Ballad of Songbirds and Snakes",
+    "authors": [
+      "Suzanne Collins"
+    ],
+    "isbn_13": "9780195433326",
+    "isbn_10": "0195433327",
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 517
+  },
+  {
+    "title": "Divergent",
+    "authors": [
+      "Veronica Roth"
+    ],
+    "isbn_13": "9780032122055",
+    "isbn_10": "0032122055",
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 487
+  },
+  {
+    "title": "Insurgent",
+    "authors": [
+      "Veronica Roth"
+    ],
+    "isbn_13": "9782110125439",
+    "isbn_10": "2110125438",
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 525
+  },
+  {
+    "title": "Allegiant",
+    "authors": [
+      "Veronica Roth"
+    ],
+    "isbn_13": "9784173405503",
+    "isbn_10": "4173405502",
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 526
+  },
+  {
+    "title": "The Maze Runner",
+    "authors": [
+      "James Dashner"
+    ],
+    "isbn_13": "9783400501032",
+    "isbn_10": "3400501034",
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 375
+  },
+  {
+    "title": "The Scorch Trials",
+    "authors": [
+      "James Dashner"
+    ],
+    "isbn_13": "9785449798848",
+    "isbn_10": "5449798849",
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 360
+  },
+  {
+    "title": "The Death Cure",
+    "authors": [
+      "James Dashner"
+    ],
+    "isbn_13": "9783391055149",
+    "isbn_10": "3391055146",
+    "genres": [
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 325
+  },
+  {
+    "title": "Percy Jackson and the Lightning Thief",
+    "authors": [
+      "Rick Riordan"
+    ],
+    "isbn_13": "9786110032421",
+    "isbn_10": "6110032425",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 377
+  },
+  {
+    "title": "The Sea of Monsters",
+    "authors": [
+      "Rick Riordan"
+    ],
+    "isbn_13": "9787224698442",
+    "isbn_10": "722469844X",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 279
+  },
+  {
+    "title": "The Titan's Curse",
+    "authors": [
+      "Rick Riordan"
+    ],
+    "isbn_13": "9781932254105",
+    "isbn_10": "1932254102",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 312
+  },
+  {
+    "title": "The Battle of the Labyrinth",
+    "authors": [
+      "Rick Riordan"
+    ],
+    "isbn_13": "9784311187858",
+    "isbn_10": "4311187858",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 361
+  },
+  {
+    "title": "The Last Olympian",
+    "authors": [
+      "Rick Riordan"
+    ],
+    "isbn_13": "9781100201498",
+    "isbn_10": "1100201491",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 381
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "authors": [
+      "J.K. Rowling"
+    ],
+    "isbn_13": "9785213054279",
+    "isbn_10": "5213054277",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 309
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "authors": [
+      "J.K. Rowling"
+    ],
+    "isbn_13": "9781554121885",
+    "isbn_10": "1554121884",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 341
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "authors": [
+      "J.K. Rowling"
+    ],
+    "isbn_13": "9783230020246",
+    "isbn_10": "3230020243",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 435
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "authors": [
+      "J.K. Rowling"
+    ],
+    "isbn_13": "9781122438957",
+    "isbn_10": "1122438958",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 734
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "authors": [
+      "J.K. Rowling"
+    ],
+    "isbn_13": "9788086430614",
+    "isbn_10": "8086430618",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 870
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "authors": [
+      "J.K. Rowling"
+    ],
+    "isbn_13": "9783591042000",
+    "isbn_10": "3591042005",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 652
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "authors": [
+      "J.K. Rowling"
+    ],
+    "isbn_13": "9785359273671",
+    "isbn_10": "5359273674",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 759
+  },
+  {
+    "title": "His Dark Materials: Northern Lights",
+    "authors": [
+      "Philip Pullman"
+    ],
+    "isbn_13": "9781298134462",
+    "isbn_10": "1298134463",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 399
+  },
+  {
+    "title": "The Subtle Knife",
+    "authors": [
+      "Philip Pullman"
+    ],
+    "isbn_13": "9786532700922",
+    "isbn_10": "6532700924",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 341
+  },
+  {
+    "title": "The Amber Spyglass",
+    "authors": [
+      "Philip Pullman"
+    ],
+    "isbn_13": "9785094195283",
+    "isbn_10": "509419528X",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 518
+  },
+  {
+    "title": "La Belle Sauvage",
+    "authors": [
+      "Philip Pullman"
+    ],
+    "isbn_13": "9781115439817",
+    "isbn_10": "1115439812",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 449
+  },
+  {
+    "title": "The Secret Commonwealth",
+    "authors": [
+      "Philip Pullman"
+    ],
+    "isbn_13": "9783750901315",
+    "isbn_10": "3750901317",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 659
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "authors": [
+      "John Green"
+    ],
+    "isbn_13": "9784341721008",
+    "isbn_10": "4341721003",
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 313
+  },
+  {
+    "title": "Looking for Alaska",
+    "authors": [
+      "John Green"
+    ],
+    "isbn_13": "9787013541348",
+    "isbn_10": "7013541346",
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 221
+  },
+  {
+    "title": "Paper Towns",
+    "authors": [
+      "John Green"
+    ],
+    "isbn_13": "9783172724851",
+    "isbn_10": "3172724859",
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 305
+  },
+  {
+    "title": "An Abundance of Katherines",
+    "authors": [
+      "John Green"
+    ],
+    "isbn_13": "9780163852050",
+    "isbn_10": "0163852057",
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 227
+  },
+  {
+    "title": "Turtles All the Way Down",
+    "authors": [
+      "John Green"
+    ],
+    "isbn_13": "9783514834613",
+    "isbn_10": "351483461X",
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 286
+  },
+  {
+    "title": "The Anthropocene Reviewed",
+    "authors": [
+      "John Green"
+    ],
+    "isbn_13": "9783792263082",
+    "isbn_10": "3792263084",
+    "genres": [
+      "Young Adult",
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 293
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "authors": [
+      "Stephen Chbosky"
+    ],
+    "isbn_13": "9782048501725",
+    "isbn_10": "2048501729",
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 213
+  },
+  {
+    "title": "Speak",
+    "authors": [
+      "Laurie Halse Anderson"
+    ],
+    "isbn_13": "9788320311198",
+    "isbn_10": "8320311195",
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 198
+  },
+  {
+    "title": "The Hate U Give",
+    "authors": [
+      "Angie Thomas"
+    ],
+    "isbn_13": "9786331152595",
+    "isbn_10": "6331152598",
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 444
+  },
+  {
+    "title": "On the Come Up",
+    "authors": [
+      "Angie Thomas"
+    ],
+    "isbn_13": "9781432195281",
+    "isbn_10": "143219528X",
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 447
+  },
+  {
+    "title": "Children of Blood and Bone",
+    "authors": [
+      "Tomi Adeyemi"
+    ],
+    "isbn_13": "9781243133496",
+    "isbn_10": "124313349X",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 525
+  },
+  {
+    "title": "Children of Virtue and Vengeance",
+    "authors": [
+      "Tomi Adeyemi"
+    ],
+    "isbn_13": "9782135330474",
+    "isbn_10": "2135330477",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 400
+  },
+  {
+    "title": "Six of Crows",
+    "authors": [
+      "Leigh Bardugo"
+    ],
+    "isbn_13": "9783511415839",
+    "isbn_10": "3511415837",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 462
+  },
+  {
+    "title": "Crooked Kingdom",
+    "authors": [
+      "Leigh Bardugo"
+    ],
+    "isbn_13": "9789420327928",
+    "isbn_10": "9420327922",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 536
+  },
+  {
+    "title": "Shadow and Bone",
+    "authors": [
+      "Leigh Bardugo"
+    ],
+    "isbn_13": "9784253032766",
+    "isbn_10": "4253032761",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 358
+  },
+  {
+    "title": "Siege and Storm",
+    "authors": [
+      "Leigh Bardugo"
+    ],
+    "isbn_13": "9783084411160",
+    "isbn_10": "3084411166",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 435
+  },
+  {
+    "title": "Ruin and Rising",
+    "authors": [
+      "Leigh Bardugo"
+    ],
+    "isbn_13": "9788598150550",
+    "isbn_10": "859815055X",
+    "genres": [
+      "Young Adult",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 422
+  },
+  {
+    "title": "Ninth House",
+    "authors": [
+      "Leigh Bardugo"
+    ],
+    "isbn_13": "9787928367798",
+    "isbn_10": "7928367793",
+    "genres": [
+      "Fantasy",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 458
+  },
+  {
+    "title": "Hell Bent",
+    "authors": [
+      "Leigh Bardugo"
+    ],
+    "isbn_13": "9788584672103",
+    "isbn_10": "8584672109",
+    "genres": [
+      "Fantasy",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 496
+  },
+  {
+    "title": "The Book Thief",
+    "authors": [
+      "Markus Zusak"
+    ],
+    "isbn_13": "9783025833518",
+    "isbn_10": "3025833513",
+    "genres": [
+      "Young Adult",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 552
+  },
+  {
+    "title": "I Am the Messenger",
+    "authors": [
+      "Markus Zusak"
+    ],
+    "isbn_13": "9782713384608",
+    "isbn_10": "2713384605",
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 357
+  },
+  {
+    "title": "Bridge of Clay",
+    "authors": [
+      "Markus Zusak"
+    ],
+    "isbn_13": "9787464524556",
+    "isbn_10": "7464524551",
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 562
+  },
+  {
+    "title": "The Absolutely True Diary of a Part-Time Indian",
+    "authors": [
+      "Sherman Alexie"
+    ],
+    "isbn_13": "9783260850509",
+    "isbn_10": "3260850503",
+    "genres": [
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 230
+  },
+  {
+    "title": "The Curious Incident of the Dog in the Night-Time",
+    "authors": [
+      "Mark Haddon"
+    ],
+    "isbn_13": "9780056004030",
+    "isbn_10": "0056004036",
+    "genres": [
+      "Young Adult",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 226
+  },
+  {
+    "title": "Stardust",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9781205721129",
+    "isbn_10": "1205721126",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 248
+  },
+  {
+    "title": "Coraline",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9785823491532",
+    "isbn_10": "5823491530",
+    "genres": [
+      "Children's",
+      "Fantasy",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 163
+  },
+  {
+    "title": "The Graveyard Book",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9780211495475",
+    "isbn_10": "0211495476",
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 312
+  },
+  {
+    "title": "The Ocean at the End of the Lane",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9782354445546",
+    "isbn_10": "2354445547",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 181
+  },
+  {
+    "title": "Odd and the Frost Giants",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9780449486924",
+    "isbn_10": "0449486923",
+    "genres": [
+      "Children's",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 117
+  },
+  {
+    "title": "Fortunately, the Milk",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9781623248833",
+    "isbn_10": "1623248833",
+    "genres": [
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 128
+  }
+]

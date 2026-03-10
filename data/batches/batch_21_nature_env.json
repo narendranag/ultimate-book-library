@@ -1,0 +1,806 @@
+[
+  {
+    "title": "Silent Spring",
+    "authors": [
+      "Rachel Carson"
+    ],
+    "isbn_13": "9780922440078",
+    "isbn_10": "0922440077",
+    "genres": [
+      "Science",
+      "Environment"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 400
+  },
+  {
+    "title": "The Sea Around Us",
+    "authors": [
+      "Rachel Carson"
+    ],
+    "isbn_13": "9787402489220",
+    "isbn_10": "7402489221",
+    "genres": [
+      "Science",
+      "Nature"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 286
+  },
+  {
+    "title": "Under the Sea-Wind",
+    "authors": [
+      "Rachel Carson"
+    ],
+    "isbn_13": "9784710845939",
+    "isbn_10": "471084593X",
+    "genres": [
+      "Science",
+      "Nature"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1941,
+    "page_count": 304
+  },
+  {
+    "title": "The Sense of Wonder",
+    "authors": [
+      "Rachel Carson"
+    ],
+    "isbn_13": "9780128085400",
+    "isbn_10": "0128085401",
+    "genres": [
+      "Science",
+      "Nature"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 112
+  },
+  {
+    "title": "Walden",
+    "authors": [
+      "Henry David Thoreau"
+    ],
+    "isbn_13": "9787350654336",
+    "isbn_10": "7350654332",
+    "genres": [
+      "Nature",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1854,
+    "page_count": 352
+  },
+  {
+    "title": "A Sand County Almanac",
+    "authors": [
+      "Aldo Leopold"
+    ],
+    "isbn_13": "9787019103205",
+    "isbn_10": "7019103200",
+    "genres": [
+      "Nature",
+      "Environment"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1949,
+    "page_count": 240
+  },
+  {
+    "title": "Desert Solitaire",
+    "authors": [
+      "Edward Abbey"
+    ],
+    "isbn_13": "9784851193081",
+    "isbn_10": "4851193084",
+    "genres": [
+      "Nature",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1968,
+    "page_count": 337
+  },
+  {
+    "title": "The Monkey Wrench Gang",
+    "authors": [
+      "Edward Abbey"
+    ],
+    "isbn_13": "9785559500003",
+    "isbn_10": "5559500003",
+    "genres": [
+      "Fiction",
+      "Environment"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 387
+  },
+  {
+    "title": "Pilgrim at Tinker Creek",
+    "authors": [
+      "Annie Dillard"
+    ],
+    "isbn_13": "9784505701525",
+    "isbn_10": "4505701522",
+    "genres": [
+      "Nature",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 271
+  },
+  {
+    "title": "Teaching a Stone to Talk",
+    "authors": [
+      "Annie Dillard"
+    ],
+    "isbn_13": "9785535413211",
+    "isbn_10": "5535413216",
+    "genres": [
+      "Nature",
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 172
+  },
+  {
+    "title": "The Living Mountain",
+    "authors": [
+      "Nan Shepherd"
+    ],
+    "isbn_13": "9785025111122",
+    "isbn_10": "5025111129",
+    "genres": [
+      "Nature",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 108
+  },
+  {
+    "title": "The Peregrine",
+    "authors": [
+      "J.A. Baker"
+    ],
+    "isbn_13": "9784124930894",
+    "isbn_10": "4124930895",
+    "genres": [
+      "Nature"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1967,
+    "page_count": 191
+  },
+  {
+    "title": "The Old Ways",
+    "authors": [
+      "Robert Macfarlane"
+    ],
+    "isbn_13": "9784284549226",
+    "isbn_10": "4284549227",
+    "genres": [
+      "Nature",
+      "Travel"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 432
+  },
+  {
+    "title": "Underland",
+    "authors": [
+      "Robert Macfarlane"
+    ],
+    "isbn_13": "9783530802405",
+    "isbn_10": "3530802409",
+    "genres": [
+      "Nature",
+      "Travel"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 488
+  },
+  {
+    "title": "The Wild Places",
+    "authors": [
+      "Robert Macfarlane"
+    ],
+    "isbn_13": "9780421089327",
+    "isbn_10": "0421089326",
+    "genres": [
+      "Nature",
+      "Travel"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 340
+  },
+  {
+    "title": "Landmarks",
+    "authors": [
+      "Robert Macfarlane"
+    ],
+    "isbn_13": "9782235238328",
+    "isbn_10": "2235238327",
+    "genres": [
+      "Nature",
+      "Language"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 401
+  },
+  {
+    "title": "The Lost Words",
+    "authors": [
+      "Robert Macfarlane"
+    ],
+    "isbn_13": "9784413071529",
+    "isbn_10": "4413071522",
+    "genres": [
+      "Nature",
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 128
+  },
+  {
+    "title": "The Overstory",
+    "authors": [
+      "Richard Powers"
+    ],
+    "isbn_13": "9785905183157",
+    "isbn_10": "5905183155",
+    "genres": [
+      "Literary Fiction",
+      "Environment"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 502
+  },
+  {
+    "title": "Lab Girl",
+    "authors": [
+      "Hope Jahren"
+    ],
+    "isbn_13": "9784356162193",
+    "isbn_10": "4356162196",
+    "genres": [
+      "Memoir",
+      "Science",
+      "Nature"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 290
+  },
+  {
+    "title": "The Hidden Life of Trees",
+    "authors": [
+      "Peter Wohlleben"
+    ],
+    "isbn_13": "9780241226049",
+    "isbn_10": "024122604X",
+    "genres": [
+      "Nature",
+      "Science"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 288
+  },
+  {
+    "title": "The Secret Life of Trees",
+    "authors": [
+      "Colin Tudge"
+    ],
+    "isbn_13": "9782475466277",
+    "isbn_10": "2475466278",
+    "genres": [
+      "Nature",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 464
+  },
+  {
+    "title": "Entangled Life",
+    "authors": [
+      "Merlin Sheldrake"
+    ],
+    "isbn_13": "9789651350016",
+    "isbn_10": "9651350016",
+    "genres": [
+      "Nature",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 368
+  },
+  {
+    "title": "Finding the Mother Tree",
+    "authors": [
+      "Suzanne Simard"
+    ],
+    "isbn_13": "9783283433215",
+    "isbn_10": "3283433216",
+    "genres": [
+      "Nature",
+      "Science",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 368
+  },
+  {
+    "title": "The Invention of Nature",
+    "authors": [
+      "Andrea Wulf"
+    ],
+    "isbn_13": "9782516018045",
+    "isbn_10": "2516018045",
+    "genres": [
+      "Biography",
+      "Nature",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 496
+  },
+  {
+    "title": "Underland",
+    "authors": [
+      "Robert Macfarlane"
+    ],
+    "isbn_13": "9783530802405",
+    "isbn_10": "3530802409",
+    "genres": [
+      "Nature",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 488
+  },
+  {
+    "title": "An Immense World",
+    "authors": [
+      "Ed Yong"
+    ],
+    "isbn_13": "9783345012310",
+    "isbn_10": "3345012316",
+    "genres": [
+      "Nature",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 464
+  },
+  {
+    "title": "I Contain Multitudes",
+    "authors": [
+      "Ed Yong"
+    ],
+    "isbn_13": "9784504416727",
+    "isbn_10": "4504416727",
+    "genres": [
+      "Nature",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 368
+  },
+  {
+    "title": "The Sixth Extinction",
+    "authors": [
+      "Elizabeth Kolbert"
+    ],
+    "isbn_13": "9783544001917",
+    "isbn_10": "3544001918",
+    "genres": [
+      "Science",
+      "Environment"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 319
+  },
+  {
+    "title": "Under a White Sky",
+    "authors": [
+      "Elizabeth Kolbert"
+    ],
+    "isbn_13": "9782565343273",
+    "isbn_10": "2565343272",
+    "genres": [
+      "Science",
+      "Environment"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 240
+  },
+  {
+    "title": "Field Notes from a Catastrophe",
+    "authors": [
+      "Elizabeth Kolbert"
+    ],
+    "isbn_13": "9782002501495",
+    "isbn_10": "2002501491",
+    "genres": [
+      "Science",
+      "Environment"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 210
+  },
+  {
+    "title": "Gathering Moss",
+    "authors": [
+      "Robin Wall Kimmerer"
+    ],
+    "isbn_13": "9783118489813",
+    "isbn_10": "3118489812",
+    "genres": [
+      "Nature",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 176
+  },
+  {
+    "title": "The Uninhabitable Earth",
+    "authors": [
+      "David Wallace-Wells"
+    ],
+    "isbn_13": "9786665946846",
+    "isbn_10": "6665946843",
+    "genres": [
+      "Science",
+      "Environment"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 310
+  },
+  {
+    "title": "This Changes Everything",
+    "authors": [
+      "Naomi Klein"
+    ],
+    "isbn_13": "9783420155864",
+    "isbn_10": "3420155867",
+    "genres": [
+      "Politics",
+      "Environment"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 576
+  },
+  {
+    "title": "On Fire",
+    "authors": [
+      "Naomi Klein"
+    ],
+    "isbn_13": "9782346293018",
+    "isbn_10": "2346293016",
+    "genres": [
+      "Politics",
+      "Environment"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 320
+  },
+  {
+    "title": "The Shock Doctrine",
+    "authors": [
+      "Naomi Klein"
+    ],
+    "isbn_13": "9781242711749",
+    "isbn_10": "1242711740",
+    "genres": [
+      "Politics",
+      "Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 701
+  },
+  {
+    "title": "No Logo",
+    "authors": [
+      "Naomi Klein"
+    ],
+    "isbn_13": "9783561042009",
+    "isbn_10": "3561042007",
+    "genres": [
+      "Politics",
+      "Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 490
+  },
+  {
+    "title": "Drawdown",
+    "authors": [
+      "Paul Hawken"
+    ],
+    "isbn_13": "9780547276731",
+    "isbn_10": "0547276737",
+    "genres": [
+      "Science",
+      "Environment"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 256
+  },
+  {
+    "title": "The Omnivore's Dilemma",
+    "authors": [
+      "Michael Pollan"
+    ],
+    "isbn_13": "9780121475468",
+    "isbn_10": "0121475468",
+    "genres": [
+      "Food",
+      "Nature"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 450
+  },
+  {
+    "title": "In Defense of Food",
+    "authors": [
+      "Michael Pollan"
+    ],
+    "isbn_13": "9789700995496",
+    "isbn_10": "9700995496",
+    "genres": [
+      "Food",
+      "Health"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 256
+  },
+  {
+    "title": "The Botany of Desire",
+    "authors": [
+      "Michael Pollan"
+    ],
+    "isbn_13": "9786421032028",
+    "isbn_10": "6421032028",
+    "genres": [
+      "Nature",
+      "Food"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 271
+  },
+  {
+    "title": "How to Change Your Mind",
+    "authors": [
+      "Michael Pollan"
+    ],
+    "isbn_13": "9782140451058",
+    "isbn_10": "2140451058",
+    "genres": [
+      "Science",
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 480
+  },
+  {
+    "title": "Cooked",
+    "authors": [
+      "Michael Pollan"
+    ],
+    "isbn_13": "9783730365311",
+    "isbn_10": "3730365312",
+    "genres": [
+      "Food",
+      "Culture"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 480
+  },
+  {
+    "title": "This Is Your Mind on Plants",
+    "authors": [
+      "Michael Pollan"
+    ],
+    "isbn_13": "9784755035159",
+    "isbn_10": "4755035155",
+    "genres": [
+      "Science",
+      "Nature"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 288
+  },
+  {
+    "title": "Salt, Fat, Acid, Heat",
+    "authors": [
+      "Samin Nosrat"
+    ],
+    "isbn_13": "9784307710947",
+    "isbn_10": "4307710940",
+    "genres": [
+      "Food",
+      "Cooking"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 480
+  },
+  {
+    "title": "The Food Lab",
+    "authors": [
+      "J. Kenji López-Alt"
+    ],
+    "isbn_13": "9783027091114",
+    "isbn_10": "3027091115",
+    "genres": [
+      "Food",
+      "Cooking",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 960
+  },
+  {
+    "title": "On Food and Cooking",
+    "authors": [
+      "Harold McGee"
+    ],
+    "isbn_13": "9785520573937",
+    "isbn_10": "552057393X",
+    "genres": [
+      "Food",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 884
+  },
+  {
+    "title": "The Art of Fermentation",
+    "authors": [
+      "Sandor Ellix Katz"
+    ],
+    "isbn_13": "9787021232429",
+    "isbn_10": "702123242X",
+    "genres": [
+      "Food",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 528
+  },
+  {
+    "title": "Animal, Vegetable, Miracle",
+    "authors": [
+      "Barbara Kingsolver"
+    ],
+    "isbn_13": "9780329604110",
+    "isbn_10": "0329604112",
+    "genres": [
+      "Food",
+      "Memoir",
+      "Nature"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 370
+  },
+  {
+    "title": "Fast Food Nation",
+    "authors": [
+      "Eric Schlosser"
+    ],
+    "isbn_13": "9780046416829",
+    "isbn_10": "004641682X",
+    "genres": [
+      "Food",
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 383
+  },
+  {
+    "title": "The Third Plate",
+    "authors": [
+      "Dan Barber"
+    ],
+    "isbn_13": "9780541344740",
+    "isbn_10": "0541344749",
+    "genres": [
+      "Food",
+      "Environment"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 496
+  }
+]

@@ -1,0 +1,1636 @@
+[
+  {
+    "title": "The Stranger",
+    "authors": [
+      "Albert Camus"
+    ],
+    "isbn_13": "9781878756084",
+    "isbn_10": "1878756087",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1942,
+    "page_count": 123
+  },
+  {
+    "title": "The Plague",
+    "authors": [
+      "Albert Camus"
+    ],
+    "isbn_13": "9789153212591",
+    "isbn_10": "9153212592",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1947,
+    "page_count": 308
+  },
+  {
+    "title": "The Fall",
+    "authors": [
+      "Albert Camus"
+    ],
+    "isbn_13": "9784110156246",
+    "isbn_10": "4110156246",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1956,
+    "page_count": 147
+  },
+  {
+    "title": "In Search of Lost Time: Swann's Way",
+    "authors": [
+      "Marcel Proust"
+    ],
+    "isbn_13": "9787444155145",
+    "isbn_10": "7444155143",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1913,
+    "page_count": 468
+  },
+  {
+    "title": "In Search of Lost Time: Within a Budding Grove",
+    "authors": [
+      "Marcel Proust"
+    ],
+    "isbn_13": "9782104400542",
+    "isbn_10": "2104400546",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1919,
+    "page_count": 640
+  },
+  {
+    "title": "In Search of Lost Time: The Guermantes Way",
+    "authors": [
+      "Marcel Proust"
+    ],
+    "isbn_13": "9784472749803",
+    "isbn_10": "4472749807",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1920,
+    "page_count": 608
+  },
+  {
+    "title": "Madame Bovary",
+    "authors": [
+      "Gustave Flaubert"
+    ],
+    "isbn_13": "9785060418415",
+    "isbn_10": "5060418413",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1857,
+    "page_count": 328
+  },
+  {
+    "title": "Sentimental Education",
+    "authors": [
+      "Gustave Flaubert"
+    ],
+    "isbn_13": "9784640095848",
+    "isbn_10": "4640095848",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1869,
+    "page_count": 430
+  },
+  {
+    "title": "Les Misérables",
+    "authors": [
+      "Victor Hugo"
+    ],
+    "isbn_13": "9784223505931",
+    "isbn_10": "4223505939",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1862,
+    "page_count": 1463
+  },
+  {
+    "title": "The Hunchback of Notre-Dame",
+    "authors": [
+      "Victor Hugo"
+    ],
+    "isbn_13": "9782325882431",
+    "isbn_10": "2325882438",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1831,
+    "page_count": 508
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "authors": [
+      "Alexandre Dumas"
+    ],
+    "isbn_13": "9782170251727",
+    "isbn_10": "2170251723",
+    "genres": [
+      "Adventure",
+      "Classics"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1844,
+    "page_count": 1276
+  },
+  {
+    "title": "The Three Musketeers",
+    "authors": [
+      "Alexandre Dumas"
+    ],
+    "isbn_13": "9786164143111",
+    "isbn_10": "616414311X",
+    "genres": [
+      "Adventure",
+      "Classics"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1844,
+    "page_count": 700
+  },
+  {
+    "title": "Germinal",
+    "authors": [
+      "Émile Zola"
+    ],
+    "isbn_13": "9785791322104",
+    "isbn_10": "5791322100",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1885,
+    "page_count": 591
+  },
+  {
+    "title": "The Metamorphosis",
+    "authors": [
+      "Franz Kafka"
+    ],
+    "isbn_13": "9786813872034",
+    "isbn_10": "6813872036",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1915,
+    "page_count": 55
+  },
+  {
+    "title": "The Trial",
+    "authors": [
+      "Franz Kafka"
+    ],
+    "isbn_13": "9784507826257",
+    "isbn_10": "450782625X",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1925,
+    "page_count": 255
+  },
+  {
+    "title": "The Castle",
+    "authors": [
+      "Franz Kafka"
+    ],
+    "isbn_13": "9782750324254",
+    "isbn_10": "2750324254",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1926,
+    "page_count": 352
+  },
+  {
+    "title": "Siddhartha",
+    "authors": [
+      "Hermann Hesse"
+    ],
+    "isbn_13": "9782110014115",
+    "isbn_10": "2110014113",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1922,
+    "page_count": 152
+  },
+  {
+    "title": "Steppenwolf",
+    "authors": [
+      "Hermann Hesse"
+    ],
+    "isbn_13": "9781845053307",
+    "isbn_10": "1845053303",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1927,
+    "page_count": 237
+  },
+  {
+    "title": "The Glass Bead Game",
+    "authors": [
+      "Hermann Hesse"
+    ],
+    "isbn_13": "9784248829517",
+    "isbn_10": "4248829517",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1943,
+    "page_count": 558
+  },
+  {
+    "title": "Demian",
+    "authors": [
+      "Hermann Hesse"
+    ],
+    "isbn_13": "9785512405314",
+    "isbn_10": "5512405314",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1919,
+    "page_count": 176
+  },
+  {
+    "title": "Narcissus and Goldmund",
+    "authors": [
+      "Hermann Hesse"
+    ],
+    "isbn_13": "9785416511357",
+    "isbn_10": "5416511354",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1930,
+    "page_count": 312
+  },
+  {
+    "title": "The Tin Drum",
+    "authors": [
+      "Günter Grass"
+    ],
+    "isbn_13": "9785538413362",
+    "isbn_10": "5538413365",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 592
+  },
+  {
+    "title": "All Quiet on the Western Front",
+    "authors": [
+      "Erich Maria Remarque"
+    ],
+    "isbn_13": "9789953372228",
+    "isbn_10": "9953372225",
+    "genres": [
+      "Literary Fiction",
+      "War Fiction"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1929,
+    "page_count": 296
+  },
+  {
+    "title": "The Magic Mountain",
+    "authors": [
+      "Thomas Mann"
+    ],
+    "isbn_13": "9786014338247",
+    "isbn_10": "6014338241",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1924,
+    "page_count": 720
+  },
+  {
+    "title": "Death in Venice",
+    "authors": [
+      "Thomas Mann"
+    ],
+    "isbn_13": "9780014403530",
+    "isbn_10": "0014403536",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1912,
+    "page_count": 96
+  },
+  {
+    "title": "Buddenbrooks",
+    "authors": [
+      "Thomas Mann"
+    ],
+    "isbn_13": "9784549490829",
+    "isbn_10": "4549490829",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1901,
+    "page_count": 731
+  },
+  {
+    "title": "Doctor Faustus",
+    "authors": [
+      "Thomas Mann"
+    ],
+    "isbn_13": "9788478744299",
+    "isbn_10": "8478744290",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1947,
+    "page_count": 534
+  },
+  {
+    "title": "The Unbearable Lightness of Being",
+    "authors": [
+      "Milan Kundera"
+    ],
+    "isbn_13": "9781952519277",
+    "isbn_10": "1952519276",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "cs",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 314
+  },
+  {
+    "title": "The Book of Laughter and Forgetting",
+    "authors": [
+      "Milan Kundera"
+    ],
+    "isbn_13": "9780140339017",
+    "isbn_10": "0140339019",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "cs",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 228
+  },
+  {
+    "title": "The Joke",
+    "authors": [
+      "Milan Kundera"
+    ],
+    "isbn_13": "9782405058046",
+    "isbn_10": "2405058049",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "cs",
+    "source": "seed",
+    "year_published": 1967,
+    "page_count": 317
+  },
+  {
+    "title": "Immortality",
+    "authors": [
+      "Milan Kundera"
+    ],
+    "isbn_13": "9781402037603",
+    "isbn_10": "1402037600",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "cs",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 345
+  },
+  {
+    "title": "The Farewell Waltz",
+    "authors": [
+      "Milan Kundera"
+    ],
+    "isbn_13": "9783548180540",
+    "isbn_10": "354818054X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "cs",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 238
+  },
+  {
+    "title": "My Brilliant Friend",
+    "authors": [
+      "Elena Ferrante"
+    ],
+    "isbn_13": "9785535013596",
+    "isbn_10": "5535013595",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 331
+  },
+  {
+    "title": "The Name of the Rose",
+    "authors": [
+      "Umberto Eco"
+    ],
+    "isbn_13": "9784245697058",
+    "isbn_10": "4245697059",
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 536
+  },
+  {
+    "title": "Foucault's Pendulum",
+    "authors": [
+      "Umberto Eco"
+    ],
+    "isbn_13": "9789314516902",
+    "isbn_10": "9314516903",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 641
+  },
+  {
+    "title": "The Prague Cemetery",
+    "authors": [
+      "Umberto Eco"
+    ],
+    "isbn_13": "9789194723926",
+    "isbn_10": "9194723923",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 464
+  },
+  {
+    "title": "If on a winter's night a traveler",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9786948192731",
+    "isbn_10": "6948192734",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 260
+  },
+  {
+    "title": "Invisible Cities",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9785416527341",
+    "isbn_10": "541652734X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 165
+  },
+  {
+    "title": "The Baron in the Trees",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9787332211205",
+    "isbn_10": "7332211203",
+    "genres": [
+      "Literary Fiction",
+      "Fantasy"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1957,
+    "page_count": 217
+  },
+  {
+    "title": "Cosmicomics",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9789057154560",
+    "isbn_10": "9057154560",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 153
+  },
+  {
+    "title": "Mr Palomar",
+    "authors": [
+      "Italo Calvino"
+    ],
+    "isbn_13": "9781745459520",
+    "isbn_10": "1745459529",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 126
+  },
+  {
+    "title": "Don Quixote",
+    "authors": [
+      "Miguel de Cervantes"
+    ],
+    "isbn_13": "9787940326186",
+    "isbn_10": "794032618X",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1605,
+    "page_count": 1072
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "isbn_13": "9785484135141",
+    "isbn_10": "5484135141",
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1967,
+    "page_count": 417
+  },
+  {
+    "title": "Love in the Time of Cholera",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "isbn_13": "9784002311036",
+    "isbn_10": "4002311031",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 348
+  },
+  {
+    "title": "Chronicle of a Death Foretold",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "isbn_13": "9780344459726",
+    "isbn_10": "0344459721",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 120
+  },
+  {
+    "title": "The Autumn of the Patriarch",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "isbn_13": "9786453532534",
+    "isbn_10": "6453532530",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 269
+  },
+  {
+    "title": "No One Writes to the Colonel",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "isbn_13": "9780332048963",
+    "isbn_10": "0332048969",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1961,
+    "page_count": 128
+  },
+  {
+    "title": "The General in His Labyrinth",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "isbn_13": "9785723164901",
+    "isbn_10": "5723164902",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 285
+  },
+  {
+    "title": "Leaf Storm",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "isbn_13": "9787953976637",
+    "isbn_10": "7953976633",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1955,
+    "page_count": 117
+  },
+  {
+    "title": "Strange Pilgrims",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "isbn_13": "9788441243828",
+    "isbn_10": "8441243824",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 189
+  },
+  {
+    "title": "2666",
+    "authors": [
+      "Roberto Bolaño"
+    ],
+    "isbn_13": "9781218747994",
+    "isbn_10": "1218747994",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 898
+  },
+  {
+    "title": "The Savage Detectives",
+    "authors": [
+      "Roberto Bolaño"
+    ],
+    "isbn_13": "9781977503169",
+    "isbn_10": "1977503160",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 648
+  },
+  {
+    "title": "By Night in Chile",
+    "authors": [
+      "Roberto Bolaño"
+    ],
+    "isbn_13": "9784144452246",
+    "isbn_10": "4144452247",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 130
+  },
+  {
+    "title": "Distant Star",
+    "authors": [
+      "Roberto Bolaño"
+    ],
+    "isbn_13": "9784209500417",
+    "isbn_10": "4209500410",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 164
+  },
+  {
+    "title": "Amulet",
+    "authors": [
+      "Roberto Bolaño"
+    ],
+    "isbn_13": "9782172736574",
+    "isbn_10": "2172736570",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 184
+  },
+  {
+    "title": "Nazi Literature in the Americas",
+    "authors": [
+      "Roberto Bolaño"
+    ],
+    "isbn_13": "9780520170117",
+    "isbn_10": "0520170113",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 228
+  },
+  {
+    "title": "The House of the Spirits",
+    "authors": [
+      "Isabel Allende"
+    ],
+    "isbn_13": "9788654855078",
+    "isbn_10": "865485507X",
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 433
+  },
+  {
+    "title": "Eva Luna",
+    "authors": [
+      "Isabel Allende"
+    ],
+    "isbn_13": "9781151355157",
+    "isbn_10": "1151355151",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 322
+  },
+  {
+    "title": "Of Love and Shadows",
+    "authors": [
+      "Isabel Allende"
+    ],
+    "isbn_13": "9788982303111",
+    "isbn_10": "8982303111",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 274
+  },
+  {
+    "title": "Paula",
+    "authors": [
+      "Isabel Allende"
+    ],
+    "isbn_13": "9785036779144",
+    "isbn_10": "5036779142",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 330
+  },
+  {
+    "title": "A Long Petal of the Sea",
+    "authors": [
+      "Isabel Allende"
+    ],
+    "isbn_13": "9785474093093",
+    "isbn_10": "5474093098",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 336
+  },
+  {
+    "title": "Hopscotch",
+    "authors": [
+      "Julio Cortázar"
+    ],
+    "isbn_13": "9789542304241",
+    "isbn_10": "9542304242",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 564
+  },
+  {
+    "title": "Blow-Up and Other Stories",
+    "authors": [
+      "Julio Cortázar"
+    ],
+    "isbn_13": "9780325105109",
+    "isbn_10": "0325105103",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 277
+  },
+  {
+    "title": "Conversation in the Cathedral",
+    "authors": [
+      "Mario Vargas Llosa"
+    ],
+    "isbn_13": "9782728540327",
+    "isbn_10": "2728540322",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 601
+  },
+  {
+    "title": "The War of the End of the World",
+    "authors": [
+      "Mario Vargas Llosa"
+    ],
+    "isbn_13": "9786556401423",
+    "isbn_10": "6556401420",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 568
+  },
+  {
+    "title": "Aunt Julia and the Scriptwriter",
+    "authors": [
+      "Mario Vargas Llosa"
+    ],
+    "isbn_13": "9781530661121",
+    "isbn_10": "1530661129",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 374
+  },
+  {
+    "title": "The Feast of the Goat",
+    "authors": [
+      "Mario Vargas Llosa"
+    ],
+    "isbn_13": "9781503914056",
+    "isbn_10": "1503914054",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 404
+  },
+  {
+    "title": "Pedro Páramo",
+    "authors": [
+      "Juan Rulfo"
+    ],
+    "isbn_13": "9784527138354",
+    "isbn_10": "4527138359",
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1955,
+    "page_count": 124
+  },
+  {
+    "title": "The Burning Plain",
+    "authors": [
+      "Juan Rulfo"
+    ],
+    "isbn_13": "9781450429740",
+    "isbn_10": "1450429742",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1953,
+    "page_count": 175
+  },
+  {
+    "title": "Norwegian Wood",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9783611111730",
+    "isbn_10": "3611111732",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 296
+  },
+  {
+    "title": "Kafka on the Shore",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9781325428595",
+    "isbn_10": "1325428590",
+    "genres": [
+      "Literary Fiction",
+      "Fantasy"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 467
+  },
+  {
+    "title": "1Q84",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9782504333716",
+    "isbn_10": "2504333714",
+    "genres": [
+      "Literary Fiction",
+      "Fantasy"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 925
+  },
+  {
+    "title": "The Wind-Up Bird Chronicle",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9784142739196",
+    "isbn_10": "4142739190",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 607
+  },
+  {
+    "title": "Colorless Tsukuru Tazaki",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9789012260411",
+    "isbn_10": "9012260418",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 386
+  },
+  {
+    "title": "Men Without Women",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9783405619657",
+    "isbn_10": "3405619653",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 228
+  },
+  {
+    "title": "After Dark",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9784510104786",
+    "isbn_10": "4510104782",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 191
+  },
+  {
+    "title": "First Person Singular",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9782089526381",
+    "isbn_10": "2089526386",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 241
+  },
+  {
+    "title": "The City and Its Uncertain Walls",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9786130623258",
+    "isbn_10": "6130623259",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 464
+  },
+  {
+    "title": "Kitchen",
+    "authors": [
+      "Banana Yoshimoto"
+    ],
+    "isbn_13": "9783590031579",
+    "isbn_10": "3590031573",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 152
+  },
+  {
+    "title": "Goodbye Tsugumi",
+    "authors": [
+      "Banana Yoshimoto"
+    ],
+    "isbn_13": "9783885438137",
+    "isbn_10": "3885438135",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 186
+  },
+  {
+    "title": "Out",
+    "authors": [
+      "Natsuo Kirino"
+    ],
+    "isbn_13": "9785363053337",
+    "isbn_10": "5363053330",
+    "genres": [
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 400
+  },
+  {
+    "title": "Grotesque",
+    "authors": [
+      "Natsuo Kirino"
+    ],
+    "isbn_13": "9784521607542",
+    "isbn_10": "4521607543",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 467
+  },
+  {
+    "title": "Convenience Store Woman",
+    "authors": [
+      "Sayaka Murata"
+    ],
+    "isbn_13": "9782031525721",
+    "isbn_10": "2031525727",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 163
+  },
+  {
+    "title": "Earthlings",
+    "authors": [
+      "Sayaka Murata"
+    ],
+    "isbn_13": "9781232451310",
+    "isbn_10": "1232451312",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 240
+  },
+  {
+    "title": "The Memory Police",
+    "authors": [
+      "Yoko Ogawa"
+    ],
+    "isbn_13": "9780242561187",
+    "isbn_10": "0242561187",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 274
+  },
+  {
+    "title": "The Housekeeper and the Professor",
+    "authors": [
+      "Yoko Ogawa"
+    ],
+    "isbn_13": "9785330302116",
+    "isbn_10": "5330302110",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 180
+  },
+  {
+    "title": "Breasts and Eggs",
+    "authors": [
+      "Mieko Kawakami"
+    ],
+    "isbn_13": "9783292424631",
+    "isbn_10": "3292424631",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 430
+  },
+  {
+    "title": "Heaven",
+    "authors": [
+      "Mieko Kawakami"
+    ],
+    "isbn_13": "9785401481313",
+    "isbn_10": "5401481314",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 194
+  },
+  {
+    "title": "All the Lovers in the Night",
+    "authors": [
+      "Mieko Kawakami"
+    ],
+    "isbn_13": "9784627561427",
+    "isbn_10": "4627561423",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 224
+  },
+  {
+    "title": "Snow Country",
+    "authors": [
+      "Yasunari Kawabata"
+    ],
+    "isbn_13": "9780797338739",
+    "isbn_10": "079733873X",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1948,
+    "page_count": 175
+  },
+  {
+    "title": "The Sound of the Mountain",
+    "authors": [
+      "Yasunari Kawabata"
+    ],
+    "isbn_13": "9786953716403",
+    "isbn_10": "6953716401",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1954,
+    "page_count": 276
+  },
+  {
+    "title": "Thousand Cranes",
+    "authors": [
+      "Yasunari Kawabata"
+    ],
+    "isbn_13": "9780157400700",
+    "isbn_10": "0157400700",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1952,
+    "page_count": 147
+  },
+  {
+    "title": "The Master of Go",
+    "authors": [
+      "Yasunari Kawabata"
+    ],
+    "isbn_13": "9785274200172",
+    "isbn_10": "5274200176",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1954,
+    "page_count": 188
+  },
+  {
+    "title": "The Temple of the Golden Pavilion",
+    "authors": [
+      "Yukio Mishima"
+    ],
+    "isbn_13": "9785663353427",
+    "isbn_10": "5663353429",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1956,
+    "page_count": 262
+  },
+  {
+    "title": "The Sailor Who Fell from Grace with the Sea",
+    "authors": [
+      "Yukio Mishima"
+    ],
+    "isbn_13": "9786585344524",
+    "isbn_10": "6585344529",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 181
+  },
+  {
+    "title": "Spring Snow",
+    "authors": [
+      "Yukio Mishima"
+    ],
+    "isbn_13": "9786223237836",
+    "isbn_10": "6223237839",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 389
+  },
+  {
+    "title": "Runaway Horses",
+    "authors": [
+      "Yukio Mishima"
+    ],
+    "isbn_13": "9783156505148",
+    "isbn_10": "3156505145",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 421
+  },
+  {
+    "title": "Confessions of a Mask",
+    "authors": [
+      "Yukio Mishima"
+    ],
+    "isbn_13": "9785568165156",
+    "isbn_10": "5568165157",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1949,
+    "page_count": 255
+  },
+  {
+    "title": "The Woman in the Dunes",
+    "authors": [
+      "Kobo Abe"
+    ],
+    "isbn_13": "9782587644471",
+    "isbn_10": "258764447X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 227
+  },
+  {
+    "title": "The Box Man",
+    "authors": [
+      "Kobo Abe"
+    ],
+    "isbn_13": "9781824918955",
+    "isbn_10": "182491895X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 178
+  },
+  {
+    "title": "No Longer Human",
+    "authors": [
+      "Osamu Dazai"
+    ],
+    "isbn_13": "9784073404446",
+    "isbn_10": "407340444X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1948,
+    "page_count": 171
+  },
+  {
+    "title": "The Setting Sun",
+    "authors": [
+      "Osamu Dazai"
+    ],
+    "isbn_13": "9787497283543",
+    "isbn_10": "7497283545",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1947,
+    "page_count": 175
+  },
+  {
+    "title": "Rashomon and Other Stories",
+    "authors": [
+      "Ryunosuke Akutagawa"
+    ],
+    "isbn_13": "9783091950751",
+    "isbn_10": "3091950751",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1915,
+    "page_count": 102
+  },
+  {
+    "title": "I Am a Cat",
+    "authors": [
+      "Natsume Soseki"
+    ],
+    "isbn_13": "9782010142185",
+    "isbn_10": "2010142187",
+    "genres": [
+      "Literary Fiction",
+      "Satire"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1906,
+    "page_count": 638
+  },
+  {
+    "title": "Kokoro",
+    "authors": [
+      "Natsume Soseki"
+    ],
+    "isbn_13": "9780305012533",
+    "isbn_10": "0305012533",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1914,
+    "page_count": 248
+  },
+  {
+    "title": "Botchan",
+    "authors": [
+      "Natsume Soseki"
+    ],
+    "isbn_13": "9786151581407",
+    "isbn_10": "6151581407",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1906,
+    "page_count": 174
+  }
+]

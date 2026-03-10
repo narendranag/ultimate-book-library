@@ -1,0 +1,877 @@
+[
+  {
+    "title": "The Old Man and the Sea",
+    "authors": [
+      "Ernest Hemingway"
+    ],
+    "isbn_13": "9784740612402",
+    "isbn_10": "4740612402",
+    "genres": [
+      "Literary Fiction",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1952,
+    "page_count": 127
+  },
+  {
+    "title": "Into Thin Air",
+    "authors": [
+      "Jon Krakauer"
+    ],
+    "isbn_13": "9782924533727",
+    "isbn_10": "2924533724",
+    "genres": [
+      "Non-Fiction",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 332
+  },
+  {
+    "title": "Into the Wild",
+    "authors": [
+      "Jon Krakauer"
+    ],
+    "isbn_13": "9784478615089",
+    "isbn_10": "447861508X",
+    "genres": [
+      "Non-Fiction",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 224
+  },
+  {
+    "title": "Under the Banner of Heaven",
+    "authors": [
+      "Jon Krakauer"
+    ],
+    "isbn_13": "9783045825180",
+    "isbn_10": "3045825184",
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 399
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "authors": [
+      "Delia Owens"
+    ],
+    "isbn_13": "9786349521475",
+    "isbn_10": "6349521471",
+    "genres": [
+      "Literary Fiction",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 368
+  },
+  {
+    "title": "Endurance",
+    "authors": [
+      "Alfred Lansing"
+    ],
+    "isbn_13": "9788369122335",
+    "isbn_10": "8369122337",
+    "genres": [
+      "Non-Fiction",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 357
+  },
+  {
+    "title": "The Perfect Storm",
+    "authors": [
+      "Sebastian Junger"
+    ],
+    "isbn_13": "9783973313346",
+    "isbn_10": "3973313342",
+    "genres": [
+      "Non-Fiction",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 227
+  },
+  {
+    "title": "Tribe",
+    "authors": [
+      "Sebastian Junger"
+    ],
+    "isbn_13": "9782132255404",
+    "isbn_10": "2132255407",
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 192
+  },
+  {
+    "title": "War",
+    "authors": [
+      "Sebastian Junger"
+    ],
+    "isbn_13": "9784113571596",
+    "isbn_10": "4113571597",
+    "genres": [
+      "Non-Fiction",
+      "War"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 287
+  },
+  {
+    "title": "Between a Rock and a Hard Place",
+    "authors": [
+      "Aron Ralston"
+    ],
+    "isbn_13": "9781451219821",
+    "isbn_10": "1451219822",
+    "genres": [
+      "Memoir",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 354
+  },
+  {
+    "title": "Touching the Void",
+    "authors": [
+      "Joe Simpson"
+    ],
+    "isbn_13": "9786118834096",
+    "isbn_10": "6118834091",
+    "genres": [
+      "Non-Fiction",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 218
+  },
+  {
+    "title": "The Lost City of Z",
+    "authors": [
+      "David Grann"
+    ],
+    "isbn_13": "9785790360237",
+    "isbn_10": "5790360238",
+    "genres": [
+      "Non-Fiction",
+      "Adventure",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 339
+  },
+  {
+    "title": "Killers of the Flower Moon",
+    "authors": [
+      "David Grann"
+    ],
+    "isbn_13": "9785202084638",
+    "isbn_10": "5202084633",
+    "genres": [
+      "Non-Fiction",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 338
+  },
+  {
+    "title": "The Wager",
+    "authors": [
+      "David Grann"
+    ],
+    "isbn_13": "9783044980422",
+    "isbn_10": "3044980429",
+    "genres": [
+      "Non-Fiction",
+      "History",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 352
+  },
+  {
+    "title": "Alive",
+    "authors": [
+      "Piers Paul Read"
+    ],
+    "isbn_13": "9787613202205",
+    "isbn_10": "7613202208",
+    "genres": [
+      "Non-Fiction",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 398
+  },
+  {
+    "title": "In the Heart of the Sea",
+    "authors": [
+      "Nathaniel Philbrick"
+    ],
+    "isbn_13": "9788382632552",
+    "isbn_10": "8382632556",
+    "genres": [
+      "Non-Fiction",
+      "Adventure",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 302
+  },
+  {
+    "title": "The River of Doubt",
+    "authors": [
+      "Candice Millard"
+    ],
+    "isbn_13": "9789622233645",
+    "isbn_10": "9622233643",
+    "genres": [
+      "Non-Fiction",
+      "Adventure",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 416
+  },
+  {
+    "title": "Destiny of the Republic",
+    "authors": [
+      "Candice Millard"
+    ],
+    "isbn_13": "9785101725175",
+    "isbn_10": "510172517X",
+    "genres": [
+      "Non-Fiction",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 339
+  },
+  {
+    "title": "Hero of the Empire",
+    "authors": [
+      "Candice Millard"
+    ],
+    "isbn_13": "9786842335906",
+    "isbn_10": "6842335906",
+    "genres": [
+      "Non-Fiction",
+      "History",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 381
+  },
+  {
+    "title": "Unbroken",
+    "authors": [
+      "Laura Hillenbrand"
+    ],
+    "isbn_13": "9785200043187",
+    "isbn_10": "5200043182",
+    "genres": [
+      "Non-Fiction",
+      "Biography",
+      "War"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 473
+  },
+  {
+    "title": "Seabiscuit",
+    "authors": [
+      "Laura Hillenbrand"
+    ],
+    "isbn_13": "9788237938907",
+    "isbn_10": "8237938909",
+    "genres": [
+      "Non-Fiction",
+      "Sports"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 399
+  },
+  {
+    "title": "Born to Run",
+    "authors": [
+      "Christopher McDougall"
+    ],
+    "isbn_13": "9784850554524",
+    "isbn_10": "4850554520",
+    "genres": [
+      "Non-Fiction",
+      "Sports"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 287
+  },
+  {
+    "title": "Running with the Kenyans",
+    "authors": [
+      "Adharanand Finn"
+    ],
+    "isbn_13": "9783554570540",
+    "isbn_10": "3554570540",
+    "genres": [
+      "Non-Fiction",
+      "Sports"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 272
+  },
+  {
+    "title": "What I Talk About When I Talk About Running",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9783600640869",
+    "isbn_10": "3600640860",
+    "genres": [
+      "Memoir",
+      "Sports"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 180
+  },
+  {
+    "title": "Fever Pitch",
+    "authors": [
+      "Nick Hornby"
+    ],
+    "isbn_13": "9786163801555",
+    "isbn_10": "6163801555",
+    "genres": [
+      "Memoir",
+      "Sports"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 247
+  },
+  {
+    "title": "About a Boy",
+    "authors": [
+      "Nick Hornby"
+    ],
+    "isbn_13": "9784625165177",
+    "isbn_10": "4625165172",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 307
+  },
+  {
+    "title": "High Fidelity",
+    "authors": [
+      "Nick Hornby"
+    ],
+    "isbn_13": "9782862144047",
+    "isbn_10": "2862144045",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 323
+  },
+  {
+    "title": "Juliet, Naked",
+    "authors": [
+      "Nick Hornby"
+    ],
+    "isbn_13": "9788578596002",
+    "isbn_10": "8578596005",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 256
+  },
+  {
+    "title": "A Long Way Gone",
+    "authors": [
+      "Ishmael Beah"
+    ],
+    "isbn_13": "9785525252202",
+    "isbn_10": "5525252201",
+    "genres": [
+      "Memoir",
+      "War"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 229
+  },
+  {
+    "title": "The Art of Fielding",
+    "authors": [
+      "Chad Harbach"
+    ],
+    "isbn_13": "9789830004655",
+    "isbn_10": "9830004651",
+    "genres": [
+      "Literary Fiction",
+      "Sports"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 512
+  },
+  {
+    "title": "Friday Night Lights",
+    "authors": [
+      "H.G. Bissinger"
+    ],
+    "isbn_13": "9784230687859",
+    "isbn_10": "4230687850",
+    "genres": [
+      "Non-Fiction",
+      "Sports"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 357
+  },
+  {
+    "title": "The Blind Side",
+    "authors": [
+      "Michael Lewis"
+    ],
+    "isbn_13": "9781105229343",
+    "isbn_10": "1105229343",
+    "genres": [
+      "Non-Fiction",
+      "Sports"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 299
+  },
+  {
+    "title": "Ball Four",
+    "authors": [
+      "Jim Bouton"
+    ],
+    "isbn_13": "9785664146127",
+    "isbn_10": "5664146125",
+    "genres": [
+      "Non-Fiction",
+      "Sports",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1970,
+    "page_count": 402
+  },
+  {
+    "title": "Shoeless Joe",
+    "authors": [
+      "W.P. Kinsella"
+    ],
+    "isbn_13": "9782707953247",
+    "isbn_10": "2707953245",
+    "genres": [
+      "Literary Fiction",
+      "Fantasy",
+      "Sports"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 265
+  },
+  {
+    "title": "The Natural",
+    "authors": [
+      "Bernard Malamud"
+    ],
+    "isbn_13": "9785248494323",
+    "isbn_10": "524849432X",
+    "genres": [
+      "Literary Fiction",
+      "Sports"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1952,
+    "page_count": 217
+  },
+  {
+    "title": "The Legend of Bagger Vance",
+    "authors": [
+      "Steven Pressfield"
+    ],
+    "isbn_13": "9781892044310",
+    "isbn_10": "1892044315",
+    "genres": [
+      "Literary Fiction",
+      "Sports"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 216
+  },
+  {
+    "title": "Gates of Fire",
+    "authors": [
+      "Steven Pressfield"
+    ],
+    "isbn_13": "9785122110790",
+    "isbn_10": "5122110794",
+    "genres": [
+      "Historical Fiction",
+      "War"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 384
+  },
+  {
+    "title": "The War of Art",
+    "authors": [
+      "Steven Pressfield"
+    ],
+    "isbn_13": "9780484220101",
+    "isbn_10": "0484220101",
+    "genres": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 165
+  },
+  {
+    "title": "Papillon",
+    "authors": [
+      "Henri Charrière"
+    ],
+    "isbn_13": "9784793526329",
+    "isbn_10": "4793526322",
+    "genres": [
+      "Memoir",
+      "Adventure"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 529
+  },
+  {
+    "title": "Kon-Tiki",
+    "authors": [
+      "Thor Heyerdahl"
+    ],
+    "isbn_13": "9781216271637",
+    "isbn_10": "1216271631",
+    "genres": [
+      "Non-Fiction",
+      "Adventure"
+    ],
+    "language": "no",
+    "source": "seed",
+    "year_published": 1948,
+    "page_count": 240
+  },
+  {
+    "title": "Seven Pillars of Wisdom",
+    "authors": [
+      "T.E. Lawrence"
+    ],
+    "isbn_13": "9783407743329",
+    "isbn_10": "3407743327",
+    "genres": [
+      "Memoir",
+      "Adventure",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1926,
+    "page_count": 672
+  },
+  {
+    "title": "The Right Stuff",
+    "authors": [
+      "Tom Wolfe"
+    ],
+    "isbn_13": "9783065288354",
+    "isbn_10": "3065288354",
+    "genres": [
+      "Non-Fiction",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 436
+  },
+  {
+    "title": "The Electric Kool-Aid Acid Test",
+    "authors": [
+      "Tom Wolfe"
+    ],
+    "isbn_13": "9785977153362",
+    "isbn_10": "5977153368",
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1968,
+    "page_count": 416
+  },
+  {
+    "title": "The Bonfire of the Vanities",
+    "authors": [
+      "Tom Wolfe"
+    ],
+    "isbn_13": "9782902051861",
+    "isbn_10": "2902051867",
+    "genres": [
+      "Literary Fiction",
+      "Satire"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 690
+  },
+  {
+    "title": "A Man in Full",
+    "authors": [
+      "Tom Wolfe"
+    ],
+    "isbn_13": "9782503952468",
+    "isbn_10": "2503952461",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 742
+  },
+  {
+    "title": "I Am Charlotte Simmons",
+    "authors": [
+      "Tom Wolfe"
+    ],
+    "isbn_13": "9787820124154",
+    "isbn_10": "7820124156",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 676
+  },
+  {
+    "title": "Zen and the Art of Motorcycle Maintenance",
+    "authors": [
+      "Robert M. Pirsig"
+    ],
+    "isbn_13": "9785575911326",
+    "isbn_10": "5575911322",
+    "genres": [
+      "Philosophy",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 540
+  },
+  {
+    "title": "Lila",
+    "authors": [
+      "Robert M. Pirsig"
+    ],
+    "isbn_13": "9785230523338",
+    "isbn_10": "5230523336",
+    "genres": [
+      "Philosophy",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 409
+  },
+  {
+    "title": "The Alchemist",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9786042193191",
+    "isbn_10": "6042193198",
+    "genres": [
+      "Literary Fiction",
+      "Philosophy"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 197
+  },
+  {
+    "title": "Brida",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9783294106238",
+    "isbn_10": "3294106238",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 249
+  },
+  {
+    "title": "Eleven Minutes",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9783619005901",
+    "isbn_10": "3619005907",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 315
+  },
+  {
+    "title": "By the River Piedra I Sat Down and Wept",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9783275467211",
+    "isbn_10": "3275467212",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 186
+  },
+  {
+    "title": "Veronika Decides to Die",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9783456139029",
+    "isbn_10": "3456139020",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 210
+  },
+  {
+    "title": "The Zahir",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9787043114307",
+    "isbn_10": "7043114306",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 314
+  },
+  {
+    "title": "The Fifth Mountain",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "isbn_13": "9784711255416",
+    "isbn_10": "4711255419",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 245
+  }
+]

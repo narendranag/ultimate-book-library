@@ -1,0 +1,858 @@
+[
+  {
+    "title": "Gödel, Escher, Bach",
+    "authors": [
+      "Douglas Hofstadter"
+    ],
+    "isbn_13": "9784924279025",
+    "isbn_10": "4924279021",
+    "genres": [
+      "Mathematics",
+      "Philosophy",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 777
+  },
+  {
+    "title": "The Art of Computer Programming Vol. 1",
+    "authors": [
+      "Donald Knuth"
+    ],
+    "isbn_13": "9782292169160",
+    "isbn_10": "2292169169",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1968,
+    "page_count": 672
+  },
+  {
+    "title": "The Art of Computer Programming Vol. 2",
+    "authors": [
+      "Donald Knuth"
+    ],
+    "isbn_13": "9784370027591",
+    "isbn_10": "4370027594",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 762
+  },
+  {
+    "title": "The Art of Computer Programming Vol. 3",
+    "authors": [
+      "Donald Knuth"
+    ],
+    "isbn_13": "9785186293958",
+    "isbn_10": "5186293954",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 780
+  },
+  {
+    "title": "Structure and Interpretation of Computer Programs",
+    "authors": [
+      "Harold Abelson"
+    ],
+    "isbn_13": "9787352746107",
+    "isbn_10": "7352746102",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 657
+  },
+  {
+    "title": "Introduction to Algorithms",
+    "authors": [
+      "Thomas H. Cormen"
+    ],
+    "isbn_13": "9782805001789",
+    "isbn_10": "2805001788",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 1292
+  },
+  {
+    "title": "The C Programming Language",
+    "authors": [
+      "Brian W. Kernighan"
+    ],
+    "isbn_13": "9783370559316",
+    "isbn_10": "3370559315",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1978,
+    "page_count": 272
+  },
+  {
+    "title": "Design Patterns",
+    "authors": [
+      "Erich Gamma"
+    ],
+    "isbn_13": "9780228229148",
+    "isbn_10": "0228229146",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 395
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "authors": [
+      "David Thomas"
+    ],
+    "isbn_13": "9785523184574",
+    "isbn_10": "5523184578",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 352
+  },
+  {
+    "title": "Clean Code",
+    "authors": [
+      "Robert C. Martin"
+    ],
+    "isbn_13": "9783212417200",
+    "isbn_10": "321241720X",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 464
+  },
+  {
+    "title": "The Clean Coder",
+    "authors": [
+      "Robert C. Martin"
+    ],
+    "isbn_13": "9786343341505",
+    "isbn_10": "6343341501",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 256
+  },
+  {
+    "title": "Clean Architecture",
+    "authors": [
+      "Robert C. Martin"
+    ],
+    "isbn_13": "9780004768083",
+    "isbn_10": "0004768086",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 432
+  },
+  {
+    "title": "Refactoring",
+    "authors": [
+      "Martin Fowler"
+    ],
+    "isbn_13": "9788644733034",
+    "isbn_10": "8644733036",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 431
+  },
+  {
+    "title": "Patterns of Enterprise Application Architecture",
+    "authors": [
+      "Martin Fowler"
+    ],
+    "isbn_13": "9785534340334",
+    "isbn_10": "5534340339",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 533
+  },
+  {
+    "title": "Domain-Driven Design",
+    "authors": [
+      "Eric Evans"
+    ],
+    "isbn_13": "9787520329941",
+    "isbn_10": "7520329941",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 560
+  },
+  {
+    "title": "The Mythical Man-Month",
+    "authors": [
+      "Frederick P. Brooks Jr."
+    ],
+    "isbn_13": "9788242416155",
+    "isbn_10": "824241615X",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 322
+  },
+  {
+    "title": "Code Complete",
+    "authors": [
+      "Steve McConnell"
+    ],
+    "isbn_13": "9785969618626",
+    "isbn_10": "5969618624",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 960
+  },
+  {
+    "title": "Programming Pearls",
+    "authors": [
+      "Jon Bentley"
+    ],
+    "isbn_13": "9785562014184",
+    "isbn_10": "5562014181",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 239
+  },
+  {
+    "title": "Compilers: Principles, Techniques, and Tools",
+    "authors": [
+      "Alfred V. Aho"
+    ],
+    "isbn_13": "9786333437317",
+    "isbn_10": "633343731X",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 1009
+  },
+  {
+    "title": "Computer Networks",
+    "authors": [
+      "Andrew S. Tanenbaum"
+    ],
+    "isbn_13": "9780802056924",
+    "isbn_10": "080205692X",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 960
+  },
+  {
+    "title": "Operating System Concepts",
+    "authors": [
+      "Abraham Silberschatz"
+    ],
+    "isbn_13": "9785008462159",
+    "isbn_10": "5008462156",
+    "genres": [
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 921
+  },
+  {
+    "title": "Artificial Intelligence: A Modern Approach",
+    "authors": [
+      "Stuart Russell"
+    ],
+    "isbn_13": "9781510106321",
+    "isbn_10": "1510106324",
+    "genres": [
+      "Computer Science",
+      "AI"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 1132
+  },
+  {
+    "title": "Deep Learning",
+    "authors": [
+      "Ian Goodfellow"
+    ],
+    "isbn_13": "9780404794217",
+    "isbn_10": "0404794211",
+    "genres": [
+      "Computer Science",
+      "AI"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 800
+  },
+  {
+    "title": "Pattern Recognition and Machine Learning",
+    "authors": [
+      "Christopher M. Bishop"
+    ],
+    "isbn_13": "9784146729551",
+    "isbn_10": "4146729556",
+    "genres": [
+      "Computer Science",
+      "AI"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 738
+  },
+  {
+    "title": "The Elements of Statistical Learning",
+    "authors": [
+      "Trevor Hastie"
+    ],
+    "isbn_13": "9784105034108",
+    "isbn_10": "4105034103",
+    "genres": [
+      "Statistics",
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 745
+  },
+  {
+    "title": "Information Theory, Inference and Learning Algorithms",
+    "authors": [
+      "David J.C. MacKay"
+    ],
+    "isbn_13": "9784350740496",
+    "isbn_10": "435074049X",
+    "genres": [
+      "Computer Science",
+      "Mathematics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 628
+  },
+  {
+    "title": "Concrete Mathematics",
+    "authors": [
+      "Ronald L. Graham"
+    ],
+    "isbn_13": "9783204050309",
+    "isbn_10": "3204050300",
+    "genres": [
+      "Mathematics",
+      "Computer Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 657
+  },
+  {
+    "title": "A Mathematician's Apology",
+    "authors": [
+      "G.H. Hardy"
+    ],
+    "isbn_13": "9782262206758",
+    "isbn_10": "2262206759",
+    "genres": [
+      "Mathematics",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1940,
+    "page_count": 153
+  },
+  {
+    "title": "The Man Who Knew Infinity",
+    "authors": [
+      "Robert Kanigel"
+    ],
+    "isbn_13": "9786895042028",
+    "isbn_10": "6895042024",
+    "genres": [
+      "Biography",
+      "Mathematics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 438
+  },
+  {
+    "title": "Fermat's Enigma",
+    "authors": [
+      "Simon Singh"
+    ],
+    "isbn_13": "9780442915308",
+    "isbn_10": "0442915306",
+    "genres": [
+      "Mathematics",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 315
+  },
+  {
+    "title": "The Code Book",
+    "authors": [
+      "Simon Singh"
+    ],
+    "isbn_13": "9781551251547",
+    "isbn_10": "155125154X",
+    "genres": [
+      "Mathematics",
+      "History",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 402
+  },
+  {
+    "title": "Big Bang",
+    "authors": [
+      "Simon Singh"
+    ],
+    "isbn_13": "9788211146731",
+    "isbn_10": "8211146738",
+    "genres": [
+      "Science",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 532
+  },
+  {
+    "title": "The Music of the Primes",
+    "authors": [
+      "Marcus du Sautoy"
+    ],
+    "isbn_13": "9782705251239",
+    "isbn_10": "2705251235",
+    "genres": [
+      "Mathematics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 335
+  },
+  {
+    "title": "Symmetry",
+    "authors": [
+      "Marcus du Sautoy"
+    ],
+    "isbn_13": "9783764011925",
+    "isbn_10": "3764011920",
+    "genres": [
+      "Mathematics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 384
+  },
+  {
+    "title": "The Colossal Book of Mathematics",
+    "authors": [
+      "Martin Gardner"
+    ],
+    "isbn_13": "9783300417679",
+    "isbn_10": "3300417678",
+    "genres": [
+      "Mathematics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 724
+  },
+  {
+    "title": "How Not to Be Wrong",
+    "authors": [
+      "Jordan Ellenberg"
+    ],
+    "isbn_13": "9782926390526",
+    "isbn_10": "2926390521",
+    "genres": [
+      "Mathematics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 480
+  },
+  {
+    "title": "Shape",
+    "authors": [
+      "Jordan Ellenberg"
+    ],
+    "isbn_13": "9784420443234",
+    "isbn_10": "4420443235",
+    "genres": [
+      "Mathematics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 480
+  },
+  {
+    "title": "Infinite Powers",
+    "authors": [
+      "Steven Strogatz"
+    ],
+    "isbn_13": "9782471012973",
+    "isbn_10": "2471012973",
+    "genres": [
+      "Mathematics",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 384
+  },
+  {
+    "title": "The Joy of x",
+    "authors": [
+      "Steven Strogatz"
+    ],
+    "isbn_13": "9782515182181",
+    "isbn_10": "2515182186",
+    "genres": [
+      "Mathematics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 316
+  },
+  {
+    "title": "Sync",
+    "authors": [
+      "Steven Strogatz"
+    ],
+    "isbn_13": "9789513623050",
+    "isbn_10": "951362305X",
+    "genres": [
+      "Mathematics",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 338
+  },
+  {
+    "title": "Flatland",
+    "authors": [
+      "Edwin A. Abbott"
+    ],
+    "isbn_13": "9781374299832",
+    "isbn_10": "1374299839",
+    "genres": [
+      "Mathematics",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1884,
+    "page_count": 82
+  },
+  {
+    "title": "What Is Mathematics?",
+    "authors": [
+      "Richard Courant"
+    ],
+    "isbn_13": "9780270507003",
+    "isbn_10": "0270507000",
+    "genres": [
+      "Mathematics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1941,
+    "page_count": 566
+  },
+  {
+    "title": "Logicomix",
+    "authors": [
+      "Apostolos Doxiadis"
+    ],
+    "isbn_13": "9783263645676",
+    "isbn_10": "3263645676",
+    "genres": [
+      "Mathematics",
+      "Graphic Novel"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 352
+  },
+  {
+    "title": "Uncle Petros and Goldbach's Conjecture",
+    "authors": [
+      "Apostolos Doxiadis"
+    ],
+    "isbn_13": "9786947085164",
+    "isbn_10": "6947085160",
+    "genres": [
+      "Literary Fiction",
+      "Mathematics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 209
+  },
+  {
+    "title": "The Imitation Game",
+    "authors": [
+      "Andrew Hodges"
+    ],
+    "isbn_13": "9785207187228",
+    "isbn_10": "5207187228",
+    "genres": [
+      "Biography",
+      "Mathematics",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 768
+  },
+  {
+    "title": "Chaos",
+    "authors": [
+      "James Gleick"
+    ],
+    "isbn_13": "9781408125151",
+    "isbn_10": "1408125153",
+    "genres": [
+      "Science",
+      "Mathematics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 352
+  },
+  {
+    "title": "The Information",
+    "authors": [
+      "James Gleick"
+    ],
+    "isbn_13": "9781333230319",
+    "isbn_10": "1333230311",
+    "genres": [
+      "Science",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 526
+  },
+  {
+    "title": "Genius",
+    "authors": [
+      "James Gleick"
+    ],
+    "isbn_13": "9785001077374",
+    "isbn_10": "5001077370",
+    "genres": [
+      "Biography",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 531
+  },
+  {
+    "title": "Faster",
+    "authors": [
+      "James Gleick"
+    ],
+    "isbn_13": "9785535614588",
+    "isbn_10": "5535614580",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 324
+  },
+  {
+    "title": "Surely You're Joking, Mr. Feynman!",
+    "authors": [
+      "Richard P. Feynman"
+    ],
+    "isbn_13": "9785852873866",
+    "isbn_10": "5852873861",
+    "genres": [
+      "Memoir",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 391
+  },
+  {
+    "title": "What Do You Care What Other People Think?",
+    "authors": [
+      "Richard P. Feynman"
+    ],
+    "isbn_13": "9784282370334",
+    "isbn_10": "4282370335",
+    "genres": [
+      "Memoir",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 256
+  },
+  {
+    "title": "QED",
+    "authors": [
+      "Richard P. Feynman"
+    ],
+    "isbn_13": "9783444098642",
+    "isbn_10": "3444098642",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 158
+  },
+  {
+    "title": "The Character of Physical Law",
+    "authors": [
+      "Richard P. Feynman"
+    ],
+    "isbn_13": "9788200598329",
+    "isbn_10": "8200598322",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 173
+  },
+  {
+    "title": "Six Easy Pieces",
+    "authors": [
+      "Richard P. Feynman"
+    ],
+    "isbn_13": "9788129402875",
+    "isbn_10": "8129402874",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 176
+  },
+  {
+    "title": "Six Not-So-Easy Pieces",
+    "authors": [
+      "Richard P. Feynman"
+    ],
+    "isbn_13": "9780879219185",
+    "isbn_10": "0879219181",
+    "genres": [
+      "Science",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 184
+  }
+]

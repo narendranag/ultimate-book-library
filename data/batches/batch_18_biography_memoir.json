@@ -1,0 +1,1185 @@
+[
+  {
+    "title": "Educated",
+    "authors": [
+      "Tara Westover"
+    ],
+    "isbn_13": "9782885622256",
+    "isbn_10": "2885622253",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 334
+  },
+  {
+    "title": "Born a Crime",
+    "authors": [
+      "Trevor Noah"
+    ],
+    "isbn_13": "9783035201253",
+    "isbn_10": "3035201250",
+    "genres": [
+      "Memoir",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 304
+  },
+  {
+    "title": "Becoming",
+    "authors": [
+      "Michelle Obama"
+    ],
+    "isbn_13": "9781666544190",
+    "isbn_10": "1666544191",
+    "genres": [
+      "Memoir",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 448
+  },
+  {
+    "title": "The Light We Carry",
+    "authors": [
+      "Michelle Obama"
+    ],
+    "isbn_13": "9784682793139",
+    "isbn_10": "4682793136",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 336
+  },
+  {
+    "title": "A Promised Land",
+    "authors": [
+      "Barack Obama"
+    ],
+    "isbn_13": "9783001940032",
+    "isbn_10": "3001940034",
+    "genres": [
+      "Memoir",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 768
+  },
+  {
+    "title": "Dreams from My Father",
+    "authors": [
+      "Barack Obama"
+    ],
+    "isbn_13": "9788154251301",
+    "isbn_10": "8154251302",
+    "genres": [
+      "Memoir",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 442
+  },
+  {
+    "title": "The Audacity of Hope",
+    "authors": [
+      "Barack Obama"
+    ],
+    "isbn_13": "9785597075501",
+    "isbn_10": "5597075500",
+    "genres": [
+      "Memoir",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 375
+  },
+  {
+    "title": "Long Walk to Freedom",
+    "authors": [
+      "Nelson Mandela"
+    ],
+    "isbn_13": "9784426914301",
+    "isbn_10": "4426914302",
+    "genres": [
+      "Memoir",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 656
+  },
+  {
+    "title": "My Experiments with Truth",
+    "authors": [
+      "Mahatma Gandhi"
+    ],
+    "isbn_13": "9780402214052",
+    "isbn_10": "0402214056",
+    "genres": [
+      "Memoir",
+      "Philosophy"
+    ],
+    "language": "gu",
+    "source": "seed",
+    "year_published": 1927,
+    "page_count": 528
+  },
+  {
+    "title": "Wings of Fire",
+    "authors": [
+      "A.P.J. Abdul Kalam"
+    ],
+    "isbn_13": "9783460485549",
+    "isbn_10": "346048554X",
+    "genres": [
+      "Memoir",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 180
+  },
+  {
+    "title": "Steve Jobs",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "isbn_13": "9782350158471",
+    "isbn_10": "2350158470",
+    "genres": [
+      "Biography",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 656
+  },
+  {
+    "title": "Einstein: His Life and Universe",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "isbn_13": "9782130433002",
+    "isbn_10": "2130433006",
+    "genres": [
+      "Biography",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 704
+  },
+  {
+    "title": "Benjamin Franklin",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "isbn_13": "9780001449237",
+    "isbn_10": "0001449230",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 590
+  },
+  {
+    "title": "Leonardo da Vinci",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "isbn_13": "9782290111734",
+    "isbn_10": "2290111732",
+    "genres": [
+      "Biography",
+      "Art"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 624
+  },
+  {
+    "title": "The Code Breaker",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "isbn_13": "9789170664137",
+    "isbn_10": "9170664137",
+    "genres": [
+      "Biography",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 560
+  },
+  {
+    "title": "Elon Musk",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "isbn_13": "9786483162428",
+    "isbn_10": "6483162421",
+    "genres": [
+      "Biography",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 688
+  },
+  {
+    "title": "Kissinger",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "isbn_13": "9785423633240",
+    "isbn_10": "5423633249",
+    "genres": [
+      "Biography",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 893
+  },
+  {
+    "title": "The Diary of a Young Girl",
+    "authors": [
+      "Anne Frank"
+    ],
+    "isbn_13": "9782922714500",
+    "isbn_10": "2922714500",
+    "genres": [
+      "Memoir",
+      "History"
+    ],
+    "language": "nl",
+    "source": "seed",
+    "year_published": 1947,
+    "page_count": 283
+  },
+  {
+    "title": "Night",
+    "authors": [
+      "Elie Wiesel"
+    ],
+    "isbn_13": "9781361593134",
+    "isbn_10": "136159313X",
+    "genres": [
+      "Memoir",
+      "History"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1956,
+    "page_count": 120
+  },
+  {
+    "title": "Man's Search for Meaning",
+    "authors": [
+      "Viktor E. Frankl"
+    ],
+    "isbn_13": "9780568449152",
+    "isbn_10": "0568449150",
+    "genres": [
+      "Memoir",
+      "Psychology"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1946,
+    "page_count": 165
+  },
+  {
+    "title": "When Breath Becomes Air",
+    "authors": [
+      "Paul Kalanithi"
+    ],
+    "isbn_13": "9783142034430",
+    "isbn_10": "3142034439",
+    "genres": [
+      "Memoir",
+      "Medicine"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 228
+  },
+  {
+    "title": "The Year of Magical Thinking",
+    "authors": [
+      "Joan Didion"
+    ],
+    "isbn_13": "9782343693514",
+    "isbn_10": "234369351X",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 227
+  },
+  {
+    "title": "Blue Nights",
+    "authors": [
+      "Joan Didion"
+    ],
+    "isbn_13": "9783245545963",
+    "isbn_10": "3245545967",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 188
+  },
+  {
+    "title": "Slouching Towards Bethlehem",
+    "authors": [
+      "Joan Didion"
+    ],
+    "isbn_13": "9783055544637",
+    "isbn_10": "3055544633",
+    "genres": [
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1968,
+    "page_count": 238
+  },
+  {
+    "title": "The White Album",
+    "authors": [
+      "Joan Didion"
+    ],
+    "isbn_13": "9784177487918",
+    "isbn_10": "4177487910",
+    "genres": [
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 222
+  },
+  {
+    "title": "Let Us Now Praise Famous Men",
+    "authors": [
+      "James Agee"
+    ],
+    "isbn_13": "9782144416886",
+    "isbn_10": "2144416885",
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1941,
+    "page_count": 416
+  },
+  {
+    "title": "I Know Why the Caged Bird Sings",
+    "authors": [
+      "Maya Angelou"
+    ],
+    "isbn_13": "9783358809013",
+    "isbn_10": "3358809013",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 289
+  },
+  {
+    "title": "Gather Together in My Name",
+    "authors": [
+      "Maya Angelou"
+    ],
+    "isbn_13": "9789302105347",
+    "isbn_10": "9302105342",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 214
+  },
+  {
+    "title": "Just Kids",
+    "authors": [
+      "Patti Smith"
+    ],
+    "isbn_13": "9782007253641",
+    "isbn_10": "200725364X",
+    "genres": [
+      "Memoir",
+      "Art"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 279
+  },
+  {
+    "title": "M Train",
+    "authors": [
+      "Patti Smith"
+    ],
+    "isbn_13": "9787555002130",
+    "isbn_10": "7555002132",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 254
+  },
+  {
+    "title": "Kitchen Confidential",
+    "authors": [
+      "Anthony Bourdain"
+    ],
+    "isbn_13": "9785222744369",
+    "isbn_10": "5222744361",
+    "genres": [
+      "Memoir",
+      "Food"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 312
+  },
+  {
+    "title": "Medium Raw",
+    "authors": [
+      "Anthony Bourdain"
+    ],
+    "isbn_13": "9780705332903",
+    "isbn_10": "070533290X",
+    "genres": [
+      "Memoir",
+      "Food"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 281
+  },
+  {
+    "title": "The Glass Castle",
+    "authors": [
+      "Jeannette Walls"
+    ],
+    "isbn_13": "9786602331032",
+    "isbn_10": "6602331035",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 288
+  },
+  {
+    "title": "Angela's Ashes",
+    "authors": [
+      "Frank McCourt"
+    ],
+    "isbn_13": "9783063413352",
+    "isbn_10": "3063413356",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 363
+  },
+  {
+    "title": "'Tis",
+    "authors": [
+      "Frank McCourt"
+    ],
+    "isbn_13": "9782243521931",
+    "isbn_10": "2243521938",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 367
+  },
+  {
+    "title": "Hillbilly Elegy",
+    "authors": [
+      "J.D. Vance"
+    ],
+    "isbn_13": "9785215045817",
+    "isbn_10": "521504581X",
+    "genres": [
+      "Memoir",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 264
+  },
+  {
+    "title": "Between the World and Me",
+    "authors": [
+      "Ta-Nehisi Coates"
+    ],
+    "isbn_13": "9782244924205",
+    "isbn_10": "2244924203",
+    "genres": [
+      "Memoir",
+      "Race"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 152
+  },
+  {
+    "title": "The Water Dancer",
+    "authors": [
+      "Ta-Nehisi Coates"
+    ],
+    "isbn_13": "9781271464029",
+    "isbn_10": "1271464020",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 403
+  },
+  {
+    "title": "Heavy",
+    "authors": [
+      "Kiese Laymon"
+    ],
+    "isbn_13": "9784566198418",
+    "isbn_10": "4566198413",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 241
+  },
+  {
+    "title": "Know My Name",
+    "authors": [
+      "Chanel Miller"
+    ],
+    "isbn_13": "9780003212402",
+    "isbn_10": "0003212408",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 368
+  },
+  {
+    "title": "Crying in H Mart",
+    "authors": [
+      "Michelle Zauner"
+    ],
+    "isbn_13": "9784947774750",
+    "isbn_10": "4947774754",
+    "genres": [
+      "Memoir",
+      "Food"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 239
+  },
+  {
+    "title": "In the Dream House",
+    "authors": [
+      "Carmen Maria Machado"
+    ],
+    "isbn_13": "9784237035769",
+    "isbn_10": "423703576X",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 245
+  },
+  {
+    "title": "Minor Feelings",
+    "authors": [
+      "Cathy Park Hong"
+    ],
+    "isbn_13": "9780009115172",
+    "isbn_10": "000911517X",
+    "genres": [
+      "Memoir",
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 218
+  },
+  {
+    "title": "Greenlights",
+    "authors": [
+      "Matthew McConaughey"
+    ],
+    "isbn_13": "9789544139520",
+    "isbn_10": "9544139524",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 304
+  },
+  {
+    "title": "Will",
+    "authors": [
+      "Will Smith"
+    ],
+    "isbn_13": "9784550442206",
+    "isbn_10": "4550442204",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 480
+  },
+  {
+    "title": "Open",
+    "authors": [
+      "Andre Agassi"
+    ],
+    "isbn_13": "9784424741534",
+    "isbn_10": "4424741532",
+    "genres": [
+      "Memoir",
+      "Sports"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 385
+  },
+  {
+    "title": "Shoe Dog",
+    "authors": [
+      "Phil Knight"
+    ],
+    "isbn_13": "9787710202436",
+    "isbn_10": "7710202438",
+    "genres": [
+      "Memoir",
+      "Business"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 399
+  },
+  {
+    "title": "The Autobiography of Malcolm X",
+    "authors": [
+      "Malcolm X"
+    ],
+    "isbn_13": "9785333008701",
+    "isbn_10": "5333008701",
+    "genres": [
+      "Memoir",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 500
+  },
+  {
+    "title": "On Writing",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9785164035655",
+    "isbn_10": "5164035650",
+    "genres": [
+      "Memoir",
+      "Writing"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 288
+  },
+  {
+    "title": "Bird by Bird",
+    "authors": [
+      "Anne Lamott"
+    ],
+    "isbn_13": "9781430146117",
+    "isbn_10": "1430146117",
+    "genres": [
+      "Memoir",
+      "Writing"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 239
+  },
+  {
+    "title": "A Moveable Feast",
+    "authors": [
+      "Ernest Hemingway"
+    ],
+    "isbn_13": "9787520273602",
+    "isbn_10": "7520273601",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1964,
+    "page_count": 211
+  },
+  {
+    "title": "Speak, Memory",
+    "authors": [
+      "Vladimir Nabokov"
+    ],
+    "isbn_13": "9789226409507",
+    "isbn_10": "9226409501",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 316
+  },
+  {
+    "title": "Out of Africa",
+    "authors": [
+      "Isak Dinesen"
+    ],
+    "isbn_13": "9780255547116",
+    "isbn_10": "0255547110",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1937,
+    "page_count": 462
+  },
+  {
+    "title": "My Brilliant Friend",
+    "authors": [
+      "Elena Ferrante"
+    ],
+    "isbn_13": "9785535013596",
+    "isbn_10": "5535013595",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 331
+  },
+  {
+    "title": "The Story of a New Name",
+    "authors": [
+      "Elena Ferrante"
+    ],
+    "isbn_13": "9785222491430",
+    "isbn_10": "5222491439",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 471
+  },
+  {
+    "title": "Those Who Leave and Those Who Stay",
+    "authors": [
+      "Elena Ferrante"
+    ],
+    "isbn_13": "9784329356352",
+    "isbn_10": "432935635X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 418
+  },
+  {
+    "title": "The Story of the Lost Child",
+    "authors": [
+      "Elena Ferrante"
+    ],
+    "isbn_13": "9785434352949",
+    "isbn_10": "5434352947",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 473
+  },
+  {
+    "title": "Testament of Youth",
+    "authors": [
+      "Vera Brittain"
+    ],
+    "isbn_13": "9784041501818",
+    "isbn_10": "4041501814",
+    "genres": [
+      "Memoir",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1933,
+    "page_count": 661
+  },
+  {
+    "title": "Wild",
+    "authors": [
+      "Cheryl Strayed"
+    ],
+    "isbn_13": "9780274813261",
+    "isbn_10": "0274813262",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 315
+  },
+  {
+    "title": "Tiny Beautiful Things",
+    "authors": [
+      "Cheryl Strayed"
+    ],
+    "isbn_13": "9780431403311",
+    "isbn_10": "0431403317",
+    "genres": [
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 353
+  },
+  {
+    "title": "The Liars' Club",
+    "authors": [
+      "Mary Karr"
+    ],
+    "isbn_13": "9784241464135",
+    "isbn_10": "4241464130",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 320
+  },
+  {
+    "title": "Cherry",
+    "authors": [
+      "Mary Karr"
+    ],
+    "isbn_13": "9781308511016",
+    "isbn_10": "1308511019",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 276
+  },
+  {
+    "title": "Lit",
+    "authors": [
+      "Mary Karr"
+    ],
+    "isbn_13": "9783666215902",
+    "isbn_10": "3666215904",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 386
+  },
+  {
+    "title": "Running with Scissors",
+    "authors": [
+      "Augusten Burroughs"
+    ],
+    "isbn_13": "9782324485589",
+    "isbn_10": "2324485583",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 315
+  },
+  {
+    "title": "A Heartbreaking Work of Staggering Genius",
+    "authors": [
+      "Dave Eggers"
+    ],
+    "isbn_13": "9787009255556",
+    "isbn_10": "7009255555",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 437
+  },
+  {
+    "title": "Persepolis",
+    "authors": [
+      "Marjane Satrapi"
+    ],
+    "isbn_13": "9780955440526",
+    "isbn_10": "0955440521",
+    "genres": [
+      "Memoir",
+      "Graphic Novel"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 160
+  },
+  {
+    "title": "Maus",
+    "authors": [
+      "Art Spiegelman"
+    ],
+    "isbn_13": "9785320386393",
+    "isbn_10": "5320386397",
+    "genres": [
+      "Memoir",
+      "Graphic Novel",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 296
+  },
+  {
+    "title": "Fun Home",
+    "authors": [
+      "Alison Bechdel"
+    ],
+    "isbn_13": "9784951265916",
+    "isbn_10": "4951265915",
+    "genres": [
+      "Memoir",
+      "Graphic Novel"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 232
+  },
+  {
+    "title": "Bossypants",
+    "authors": [
+      "Tina Fey"
+    ],
+    "isbn_13": "9781004600618",
+    "isbn_10": "1004600615",
+    "genres": [
+      "Memoir",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 283
+  },
+  {
+    "title": "Is Everyone Hanging Out Without Me?",
+    "authors": [
+      "Mindy Kaling"
+    ],
+    "isbn_13": "9784842564128",
+    "isbn_10": "4842564121",
+    "genres": [
+      "Memoir",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 222
+  },
+  {
+    "title": "Year of Yes",
+    "authors": [
+      "Shonda Rhimes"
+    ],
+    "isbn_13": "9783850055314",
+    "isbn_10": "3850055310",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 256
+  },
+  {
+    "title": "Trick Mirror",
+    "authors": [
+      "Jia Tolentino"
+    ],
+    "isbn_13": "9783314104152",
+    "isbn_10": "3314104154",
+    "genres": [
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 303
+  },
+  {
+    "title": "Upstream",
+    "authors": [
+      "Mary Oliver"
+    ],
+    "isbn_13": "9788220455107",
+    "isbn_10": "8220455101",
+    "genres": [
+      "Essays",
+      "Nature"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 192
+  },
+  {
+    "title": "Devotions",
+    "authors": [
+      "Mary Oliver"
+    ],
+    "isbn_13": "9786440036229",
+    "isbn_10": "644003622X",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 462
+  },
+  {
+    "title": "H Is for Hawk",
+    "authors": [
+      "Helen Macdonald"
+    ],
+    "isbn_13": "9786931453139",
+    "isbn_10": "6931453130",
+    "genres": [
+      "Memoir",
+      "Nature"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 300
+  },
+  {
+    "title": "Braiding Sweetgrass",
+    "authors": [
+      "Robin Wall Kimmerer"
+    ],
+    "isbn_13": "9783209068019",
+    "isbn_10": "3209068011",
+    "genres": [
+      "Non-Fiction",
+      "Nature",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 390
+  }
+]

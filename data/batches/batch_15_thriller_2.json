@@ -1,0 +1,1556 @@
+[
+  {
+    "title": "The Silent Patient",
+    "authors": [
+      "Alex Michaelides"
+    ],
+    "isbn_13": "9780830123117",
+    "isbn_10": "0830123113",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 325
+  },
+  {
+    "title": "The Maid",
+    "authors": [
+      "Nita Prose"
+    ],
+    "isbn_13": "9787134759233",
+    "isbn_10": "7134759237",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 304
+  },
+  {
+    "title": "The Sanatorium",
+    "authors": [
+      "Sarah Pearse"
+    ],
+    "isbn_13": "9783730040034",
+    "isbn_10": "3730040030",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 400
+  },
+  {
+    "title": "The Guest List",
+    "authors": [
+      "Lucy Foley"
+    ],
+    "isbn_13": "9781093289503",
+    "isbn_10": "1093289503",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 320
+  },
+  {
+    "title": "The Paris Apartment",
+    "authors": [
+      "Lucy Foley"
+    ],
+    "isbn_13": "9783159352138",
+    "isbn_10": "3159352137",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 370
+  },
+  {
+    "title": "The Hunting Party",
+    "authors": [
+      "Lucy Foley"
+    ],
+    "isbn_13": "9784242565541",
+    "isbn_10": "4242565542",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 384
+  },
+  {
+    "title": "In the Woods",
+    "authors": [
+      "Tana French"
+    ],
+    "isbn_13": "9789038380155",
+    "isbn_10": "9038380151",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 429
+  },
+  {
+    "title": "The Likeness",
+    "authors": [
+      "Tana French"
+    ],
+    "isbn_13": "9781483553139",
+    "isbn_10": "1483553132",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 466
+  },
+  {
+    "title": "Faithful Place",
+    "authors": [
+      "Tana French"
+    ],
+    "isbn_13": "9786245150533",
+    "isbn_10": "6245150531",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 400
+  },
+  {
+    "title": "Broken Harbor",
+    "authors": [
+      "Tana French"
+    ],
+    "isbn_13": "9780954447489",
+    "isbn_10": "0954447484",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 450
+  },
+  {
+    "title": "The Secret Place",
+    "authors": [
+      "Tana French"
+    ],
+    "isbn_13": "9782351431108",
+    "isbn_10": "2351431103",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 465
+  },
+  {
+    "title": "The Trespasser",
+    "authors": [
+      "Tana French"
+    ],
+    "isbn_13": "9783581953125",
+    "isbn_10": "3581953129",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 449
+  },
+  {
+    "title": "The Witch Elm",
+    "authors": [
+      "Tana French"
+    ],
+    "isbn_13": "9782121512006",
+    "isbn_10": "2121512004",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 448
+  },
+  {
+    "title": "The Searcher",
+    "authors": [
+      "Tana French"
+    ],
+    "isbn_13": "9784325109631",
+    "isbn_10": "4325109633",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 464
+  },
+  {
+    "title": "The Hunter",
+    "authors": [
+      "Tana French"
+    ],
+    "isbn_13": "9782437388401",
+    "isbn_10": "2437388400",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 368
+  },
+  {
+    "title": "Big Little Lies",
+    "authors": [
+      "Liane Moriarty"
+    ],
+    "isbn_13": "9783332276107",
+    "isbn_10": "3332276107",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 460
+  },
+  {
+    "title": "Nine Perfect Strangers",
+    "authors": [
+      "Liane Moriarty"
+    ],
+    "isbn_13": "9780165308081",
+    "isbn_10": "0165308087",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 453
+  },
+  {
+    "title": "The Husband's Secret",
+    "authors": [
+      "Liane Moriarty"
+    ],
+    "isbn_13": "9787021046040",
+    "isbn_10": "7021046049",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 396
+  },
+  {
+    "title": "Truly Madly Guilty",
+    "authors": [
+      "Liane Moriarty"
+    ],
+    "isbn_13": "9786131114854",
+    "isbn_10": "6131114854",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 415
+  },
+  {
+    "title": "Apples Never Fall",
+    "authors": [
+      "Liane Moriarty"
+    ],
+    "isbn_13": "9788252670479",
+    "isbn_10": "8252670474",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 468
+  },
+  {
+    "title": "What Alice Forgot",
+    "authors": [
+      "Liane Moriarty"
+    ],
+    "isbn_13": "9783316506886",
+    "isbn_10": "3316506888",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 426
+  },
+  {
+    "title": "The 7½ Deaths of Evelyn Hardcastle",
+    "authors": [
+      "Stuart Turton"
+    ],
+    "isbn_13": "9785025009153",
+    "isbn_10": "5025009154",
+    "genres": [
+      "Mystery",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 432
+  },
+  {
+    "title": "The Devil and the Dark Water",
+    "authors": [
+      "Stuart Turton"
+    ],
+    "isbn_13": "9785433035751",
+    "isbn_10": "5433035751",
+    "genres": [
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 560
+  },
+  {
+    "title": "The Last Murder at the End of the World",
+    "authors": [
+      "Stuart Turton"
+    ],
+    "isbn_13": "9787512141735",
+    "isbn_10": "7512141734",
+    "genres": [
+      "Mystery",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 304
+  },
+  {
+    "title": "The Woman in the Window",
+    "authors": [
+      "A.J. Finn"
+    ],
+    "isbn_13": "9781233712908",
+    "isbn_10": "123371290X",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 449
+  },
+  {
+    "title": "Mexican Gothic",
+    "authors": [
+      "Silvia Moreno-Garcia"
+    ],
+    "isbn_13": "9782950038210",
+    "isbn_10": "2950038212",
+    "genres": [
+      "Thriller",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 301
+  },
+  {
+    "title": "The Daughter of Doctor Moreau",
+    "authors": [
+      "Silvia Moreno-Garcia"
+    ],
+    "isbn_13": "9781859231111",
+    "isbn_10": "185923111X",
+    "genres": [
+      "Thriller",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 320
+  },
+  {
+    "title": "Velvet Was the Night",
+    "authors": [
+      "Silvia Moreno-Garcia"
+    ],
+    "isbn_13": "9781730107788",
+    "isbn_10": "1730107788",
+    "genres": [
+      "Thriller",
+      "Noir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 277
+  },
+  {
+    "title": "Dark Places",
+    "authors": [
+      "Gillian Flynn"
+    ],
+    "isbn_13": "9782734575405",
+    "isbn_10": "273457540X",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 349
+  },
+  {
+    "title": "Sharp Objects",
+    "authors": [
+      "Gillian Flynn"
+    ],
+    "isbn_13": "9788824172721",
+    "isbn_10": "8824172725",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 254
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "authors": [
+      "Stieg Larsson"
+    ],
+    "isbn_13": "9789880700934",
+    "isbn_10": "9880700937",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 465
+  },
+  {
+    "title": "The Girl Who Played with Fire",
+    "authors": [
+      "Stieg Larsson"
+    ],
+    "isbn_13": "9787884249497",
+    "isbn_10": "7884249499",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 503
+  },
+  {
+    "title": "The Girl Who Kicked the Hornets' Nest",
+    "authors": [
+      "Stieg Larsson"
+    ],
+    "isbn_13": "9784112236434",
+    "isbn_10": "4112236433",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 563
+  },
+  {
+    "title": "The Snowman",
+    "authors": [
+      "Jo Nesbø"
+    ],
+    "isbn_13": "9783578100204",
+    "isbn_10": "357810020X",
+    "genres": [
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 550
+  },
+  {
+    "title": "The Bat",
+    "authors": [
+      "Jo Nesbø"
+    ],
+    "isbn_13": "9785205717212",
+    "isbn_10": "5205717211",
+    "genres": [
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 356
+  },
+  {
+    "title": "Cockroaches",
+    "authors": [
+      "Jo Nesbø"
+    ],
+    "isbn_13": "9781767201442",
+    "isbn_10": "1767201443",
+    "genres": [
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 384
+  },
+  {
+    "title": "The Redbreast",
+    "authors": [
+      "Jo Nesbø"
+    ],
+    "isbn_13": "9784414003246",
+    "isbn_10": "4414003245",
+    "genres": [
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 521
+  },
+  {
+    "title": "Nemesis",
+    "authors": [
+      "Jo Nesbø"
+    ],
+    "isbn_13": "9785252612997",
+    "isbn_10": "5252612994",
+    "genres": [
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 474
+  },
+  {
+    "title": "The Devil's Star",
+    "authors": [
+      "Jo Nesbø"
+    ],
+    "isbn_13": "9783283375997",
+    "isbn_10": "3283375992",
+    "genres": [
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 452
+  },
+  {
+    "title": "The Redeemer",
+    "authors": [
+      "Jo Nesbø"
+    ],
+    "isbn_13": "9781371085124",
+    "isbn_10": "1371085129",
+    "genres": [
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 448
+  },
+  {
+    "title": "The Leopard",
+    "authors": [
+      "Jo Nesbø"
+    ],
+    "isbn_13": "9780360505018",
+    "isbn_10": "0360505015",
+    "genres": [
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 612
+  },
+  {
+    "title": "Phantom",
+    "authors": [
+      "Jo Nesbø"
+    ],
+    "isbn_13": "9780316028387",
+    "isbn_10": "031602838X",
+    "genres": [
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 498
+  },
+  {
+    "title": "Police",
+    "authors": [
+      "Jo Nesbø"
+    ],
+    "isbn_13": "9789235111255",
+    "isbn_10": "9235111250",
+    "genres": [
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 594
+  },
+  {
+    "title": "Knife",
+    "authors": [
+      "Jo Nesbø"
+    ],
+    "isbn_13": "9785625582568",
+    "isbn_10": "5625582564",
+    "genres": [
+      "Thriller",
+      "Crime Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 448
+  },
+  {
+    "title": "Killing Floor",
+    "authors": [
+      "Lee Child"
+    ],
+    "isbn_13": "9787153333216",
+    "isbn_10": "7153333215",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 526
+  },
+  {
+    "title": "Die Trying",
+    "authors": [
+      "Lee Child"
+    ],
+    "isbn_13": "9788834537046",
+    "isbn_10": "8834537041",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 532
+  },
+  {
+    "title": "Tripwire",
+    "authors": [
+      "Lee Child"
+    ],
+    "isbn_13": "9783181314173",
+    "isbn_10": "318131417X",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 458
+  },
+  {
+    "title": "The Visitor",
+    "authors": [
+      "Lee Child"
+    ],
+    "isbn_13": "9785061805207",
+    "isbn_10": "5061805208",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 384
+  },
+  {
+    "title": "Echo Burning",
+    "authors": [
+      "Lee Child"
+    ],
+    "isbn_13": "9783472461906",
+    "isbn_10": "347246190X",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 420
+  },
+  {
+    "title": "Without Fail",
+    "authors": [
+      "Lee Child"
+    ],
+    "isbn_13": "9785225322069",
+    "isbn_10": "5225322069",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 416
+  },
+  {
+    "title": "Persuader",
+    "authors": [
+      "Lee Child"
+    ],
+    "isbn_13": "9789435041598",
+    "isbn_10": "9435041590",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 342
+  },
+  {
+    "title": "One Shot",
+    "authors": [
+      "Lee Child"
+    ],
+    "isbn_13": "9781105007637",
+    "isbn_10": "1105007634",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 432
+  },
+  {
+    "title": "61 Hours",
+    "authors": [
+      "Lee Child"
+    ],
+    "isbn_13": "9783859023208",
+    "isbn_10": "3859023209",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 383
+  },
+  {
+    "title": "Gone Tomorrow",
+    "authors": [
+      "Lee Child"
+    ],
+    "isbn_13": "9781180925833",
+    "isbn_10": "1180925831",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 393
+  },
+  {
+    "title": "The Thursday Murder Club",
+    "authors": [
+      "Richard Osman"
+    ],
+    "isbn_13": "9782266278201",
+    "isbn_10": "2266278207",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 369
+  },
+  {
+    "title": "The Man Who Died Twice",
+    "authors": [
+      "Richard Osman"
+    ],
+    "isbn_13": "9784273025915",
+    "isbn_10": "4273025914",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 384
+  },
+  {
+    "title": "The Bullet That Missed",
+    "authors": [
+      "Richard Osman"
+    ],
+    "isbn_13": "9784541333421",
+    "isbn_10": "4541333422",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 416
+  },
+  {
+    "title": "The Last Devil to Die",
+    "authors": [
+      "Richard Osman"
+    ],
+    "isbn_13": "9784544537710",
+    "isbn_10": "4544537711",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 432
+  },
+  {
+    "title": "An Anonymous Girl",
+    "authors": [
+      "Greer Hendricks"
+    ],
+    "isbn_13": "9789545891519",
+    "isbn_10": "9545891513",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 372
+  },
+  {
+    "title": "The Wife Between Us",
+    "authors": [
+      "Greer Hendricks"
+    ],
+    "isbn_13": "9780600478324",
+    "isbn_10": "0600478327",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 352
+  },
+  {
+    "title": "You",
+    "authors": [
+      "Caroline Kepnes"
+    ],
+    "isbn_13": "9784132236926",
+    "isbn_10": "4132236927",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 422
+  },
+  {
+    "title": "Hidden Bodies",
+    "authors": [
+      "Caroline Kepnes"
+    ],
+    "isbn_13": "9783121061327",
+    "isbn_10": "3121061321",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 432
+  },
+  {
+    "title": "You Love Me",
+    "authors": [
+      "Caroline Kepnes"
+    ],
+    "isbn_13": "9783281017080",
+    "isbn_10": "3281017088",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 400
+  },
+  {
+    "title": "For Your Own Good",
+    "authors": [
+      "Caroline Kepnes"
+    ],
+    "isbn_13": "9781464688157",
+    "isbn_10": "146468815X",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 384
+  },
+  {
+    "title": "The Maid",
+    "authors": [
+      "Nita Prose"
+    ],
+    "isbn_13": "9787134759233",
+    "isbn_10": "7134759237",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 304
+  },
+  {
+    "title": "The Mystery Guest",
+    "authors": [
+      "Nita Prose"
+    ],
+    "isbn_13": "9781626522213",
+    "isbn_10": "1626522219",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 336
+  },
+  {
+    "title": "Verity",
+    "authors": [
+      "Colleen Hoover"
+    ],
+    "isbn_13": "9782032323630",
+    "isbn_10": "203232363X",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 314
+  },
+  {
+    "title": "The It Girl",
+    "authors": [
+      "Ruth Ware"
+    ],
+    "isbn_13": "9783929025583",
+    "isbn_10": "3929025582",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 384
+  },
+  {
+    "title": "One by One",
+    "authors": [
+      "Ruth Ware"
+    ],
+    "isbn_13": "9784706371497",
+    "isbn_10": "470637149X",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 373
+  },
+  {
+    "title": "The Turn of the Key",
+    "authors": [
+      "Ruth Ware"
+    ],
+    "isbn_13": "9782307341673",
+    "isbn_10": "2307341676",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 352
+  },
+  {
+    "title": "The Woman in Cabin 10",
+    "authors": [
+      "Ruth Ware"
+    ],
+    "isbn_13": "9783048291159",
+    "isbn_10": "3048291156",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 349
+  },
+  {
+    "title": "In a Dark, Dark Wood",
+    "authors": [
+      "Ruth Ware"
+    ],
+    "isbn_13": "9783148449467",
+    "isbn_10": "3148449460",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 352
+  },
+  {
+    "title": "The Lying Game",
+    "authors": [
+      "Ruth Ware"
+    ],
+    "isbn_13": "9781136610288",
+    "isbn_10": "1136610286",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 384
+  },
+  {
+    "title": "One Perfect Couple",
+    "authors": [
+      "Ruth Ware"
+    ],
+    "isbn_13": "9784929930150",
+    "isbn_10": "4929930154",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 384
+  },
+  {
+    "title": "The Westing Game",
+    "authors": [
+      "Ellen Raskin"
+    ],
+    "isbn_13": "9784145340405",
+    "isbn_10": "414534040X",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1978,
+    "page_count": 182
+  },
+  {
+    "title": "And Then There Were None",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9785553953782",
+    "isbn_10": "5553953782",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1939,
+    "page_count": 272
+  },
+  {
+    "title": "The Murder of Roger Ackroyd",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9785075112551",
+    "isbn_10": "5075112552",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1926,
+    "page_count": 256
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9781291229523",
+    "isbn_10": "1291229523",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1934,
+    "page_count": 256
+  },
+  {
+    "title": "Death on the Nile",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9784357251223",
+    "isbn_10": "4357251222",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1937,
+    "page_count": 288
+  },
+  {
+    "title": "The ABC Murders",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9783002831629",
+    "isbn_10": "300283162X",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1936,
+    "page_count": 256
+  },
+  {
+    "title": "Crooked House",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9786335262528",
+    "isbn_10": "6335262525",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1949,
+    "page_count": 192
+  },
+  {
+    "title": "The Moving Finger",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9787433362127",
+    "isbn_10": "7433362126",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1942,
+    "page_count": 233
+  },
+  {
+    "title": "A Murder Is Announced",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9780156823357",
+    "isbn_10": "0156823357",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1950,
+    "page_count": 256
+  },
+  {
+    "title": "Evil Under the Sun",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9789002082443",
+    "isbn_10": "9002082444",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1941,
+    "page_count": 256
+  },
+  {
+    "title": "Five Little Pigs",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9789148025618",
+    "isbn_10": "9148025615",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1942,
+    "page_count": 256
+  },
+  {
+    "title": "After the Funeral",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9785552640713",
+    "isbn_10": "5552640713",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1953,
+    "page_count": 192
+  },
+  {
+    "title": "Curtain",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9782315363513",
+    "isbn_10": "2315363519",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 222
+  },
+  {
+    "title": "The Mysterious Affair at Styles",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9788019607625",
+    "isbn_10": "8019607625",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1920,
+    "page_count": 296
+  },
+  {
+    "title": "Peril at End House",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9787830154516",
+    "isbn_10": "7830154511",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1932,
+    "page_count": 270
+  },
+  {
+    "title": "4:50 from Paddington",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9784475791717",
+    "isbn_10": "4475791715",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1957,
+    "page_count": 256
+  },
+  {
+    "title": "The Maltese Falcon",
+    "authors": [
+      "Dashiell Hammett"
+    ],
+    "isbn_13": "9783214312947",
+    "isbn_10": "3214312944",
+    "genres": [
+      "Mystery",
+      "Noir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1930,
+    "page_count": 217
+  },
+  {
+    "title": "The Thin Man",
+    "authors": [
+      "Dashiell Hammett"
+    ],
+    "isbn_13": "9783155097729",
+    "isbn_10": "3155097728",
+    "genres": [
+      "Mystery",
+      "Noir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1934,
+    "page_count": 201
+  },
+  {
+    "title": "Red Harvest",
+    "authors": [
+      "Dashiell Hammett"
+    ],
+    "isbn_13": "9782557642841",
+    "isbn_10": "2557642843",
+    "genres": [
+      "Mystery",
+      "Noir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1929,
+    "page_count": 217
+  },
+  {
+    "title": "The Glass Key",
+    "authors": [
+      "Dashiell Hammett"
+    ],
+    "isbn_13": "9788236620025",
+    "isbn_10": "8236620026",
+    "genres": [
+      "Mystery",
+      "Noir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1931,
+    "page_count": 214
+  },
+  {
+    "title": "The Dain Curse",
+    "authors": [
+      "Dashiell Hammett"
+    ],
+    "isbn_13": "9784123070102",
+    "isbn_10": "4123070108",
+    "genres": [
+      "Mystery",
+      "Noir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1929,
+    "page_count": 213
+  },
+  {
+    "title": "The Big Sleep",
+    "authors": [
+      "Raymond Chandler"
+    ],
+    "isbn_13": "9789814440400",
+    "isbn_10": "981444040X",
+    "genres": [
+      "Mystery",
+      "Noir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1939,
+    "page_count": 231
+  },
+  {
+    "title": "Farewell, My Lovely",
+    "authors": [
+      "Raymond Chandler"
+    ],
+    "isbn_13": "9784104603008",
+    "isbn_10": "4104603007",
+    "genres": [
+      "Mystery",
+      "Noir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1940,
+    "page_count": 275
+  },
+  {
+    "title": "The Long Goodbye",
+    "authors": [
+      "Raymond Chandler"
+    ],
+    "isbn_13": "9782313006016",
+    "isbn_10": "2313006018",
+    "genres": [
+      "Mystery",
+      "Noir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1953,
+    "page_count": 379
+  },
+  {
+    "title": "The High Window",
+    "authors": [
+      "Raymond Chandler"
+    ],
+    "isbn_13": "9783334327265",
+    "isbn_10": "3334327264",
+    "genres": [
+      "Mystery",
+      "Noir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1942,
+    "page_count": 220
+  },
+  {
+    "title": "The Lady in the Lake",
+    "authors": [
+      "Raymond Chandler"
+    ],
+    "isbn_13": "9782211208291",
+    "isbn_10": "2211208290",
+    "genres": [
+      "Mystery",
+      "Noir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1943,
+    "page_count": 266
+  },
+  {
+    "title": "Playback",
+    "authors": [
+      "Raymond Chandler"
+    ],
+    "isbn_13": "9781295131242",
+    "isbn_10": "1295131242",
+    "genres": [
+      "Mystery",
+      "Noir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1958,
+    "page_count": 166
+  }
+]

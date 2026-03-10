@@ -1,0 +1,1303 @@
+[
+  {
+    "title": "The Spy Who Came in from the Cold",
+    "authors": [
+      "John le Carré"
+    ],
+    "isbn_13": "9789559341031",
+    "isbn_10": "9559341030",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 224
+  },
+  {
+    "title": "Tinker Tailor Soldier Spy",
+    "authors": [
+      "John le Carré"
+    ],
+    "isbn_13": "9789256914156",
+    "isbn_10": "9256914158",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 355
+  },
+  {
+    "title": "The Honourable Schoolboy",
+    "authors": [
+      "John le Carré"
+    ],
+    "isbn_13": "9783232680219",
+    "isbn_10": "3232680216",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 530
+  },
+  {
+    "title": "Smiley's People",
+    "authors": [
+      "John le Carré"
+    ],
+    "isbn_13": "9788349683016",
+    "isbn_10": "8349683015",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 374
+  },
+  {
+    "title": "The Little Drummer Girl",
+    "authors": [
+      "John le Carré"
+    ],
+    "isbn_13": "9782571859522",
+    "isbn_10": "2571859528",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 429
+  },
+  {
+    "title": "A Perfect Spy",
+    "authors": [
+      "John le Carré"
+    ],
+    "isbn_13": "9787640905421",
+    "isbn_10": "7640905427",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 475
+  },
+  {
+    "title": "The Russia House",
+    "authors": [
+      "John le Carré"
+    ],
+    "isbn_13": "9782021510652",
+    "isbn_10": "2021510654",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 353
+  },
+  {
+    "title": "The Night Manager",
+    "authors": [
+      "John le Carré"
+    ],
+    "isbn_13": "9788635244167",
+    "isbn_10": "8635244168",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 429
+  },
+  {
+    "title": "The Tailor of Panama",
+    "authors": [
+      "John le Carré"
+    ],
+    "isbn_13": "9782379805158",
+    "isbn_10": "2379805156",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 331
+  },
+  {
+    "title": "The Constant Gardener",
+    "authors": [
+      "John le Carré"
+    ],
+    "isbn_13": "9785525645363",
+    "isbn_10": "552564536X",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 497
+  },
+  {
+    "title": "Absolute Friends",
+    "authors": [
+      "John le Carré"
+    ],
+    "isbn_13": "9780811584524",
+    "isbn_10": "0811584526",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 394
+  },
+  {
+    "title": "A Most Wanted Man",
+    "authors": [
+      "John le Carré"
+    ],
+    "isbn_13": "9786922558751",
+    "isbn_10": "6922558758",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 323
+  },
+  {
+    "title": "Our Kind of Traitor",
+    "authors": [
+      "John le Carré"
+    ],
+    "isbn_13": "9789350112939",
+    "isbn_10": "9350112930",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 305
+  },
+  {
+    "title": "A Delicate Truth",
+    "authors": [
+      "John le Carré"
+    ],
+    "isbn_13": "9782232332388",
+    "isbn_10": "2232332381",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 310
+  },
+  {
+    "title": "Agent Running in the Field",
+    "authors": [
+      "John le Carré"
+    ],
+    "isbn_13": "9785491685547",
+    "isbn_10": "5491685542",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 282
+  },
+  {
+    "title": "Silverview",
+    "authors": [
+      "John le Carré"
+    ],
+    "isbn_13": "9780873861519",
+    "isbn_10": "0873861515",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 209
+  },
+  {
+    "title": "Casino Royale",
+    "authors": [
+      "Ian Fleming"
+    ],
+    "isbn_13": "9784440946531",
+    "isbn_10": "4440946534",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1953,
+    "page_count": 213
+  },
+  {
+    "title": "Live and Let Die",
+    "authors": [
+      "Ian Fleming"
+    ],
+    "isbn_13": "9780016143106",
+    "isbn_10": "0016143108",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1954,
+    "page_count": 213
+  },
+  {
+    "title": "Moonraker",
+    "authors": [
+      "Ian Fleming"
+    ],
+    "isbn_13": "9781303516009",
+    "isbn_10": "1303516004",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1955,
+    "page_count": 247
+  },
+  {
+    "title": "Diamonds Are Forever",
+    "authors": [
+      "Ian Fleming"
+    ],
+    "isbn_13": "9780549306771",
+    "isbn_10": "0549306773",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1956,
+    "page_count": 220
+  },
+  {
+    "title": "From Russia, with Love",
+    "authors": [
+      "Ian Fleming"
+    ],
+    "isbn_13": "9783914810835",
+    "isbn_10": "3914810831",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1957,
+    "page_count": 253
+  },
+  {
+    "title": "Dr. No",
+    "authors": [
+      "Ian Fleming"
+    ],
+    "isbn_13": "9786210404609",
+    "isbn_10": "621040460X",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1958,
+    "page_count": 256
+  },
+  {
+    "title": "Goldfinger",
+    "authors": [
+      "Ian Fleming"
+    ],
+    "isbn_13": "9781803308005",
+    "isbn_10": "1803308001",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 218
+  },
+  {
+    "title": "Thunderball",
+    "authors": [
+      "Ian Fleming"
+    ],
+    "isbn_13": "9783433529553",
+    "isbn_10": "3433529558",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1961,
+    "page_count": 256
+  },
+  {
+    "title": "The Spy Who Loved Me",
+    "authors": [
+      "Ian Fleming"
+    ],
+    "isbn_13": "9781126283904",
+    "isbn_10": "1126283908",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 213
+  },
+  {
+    "title": "On Her Majesty's Secret Service",
+    "authors": [
+      "Ian Fleming"
+    ],
+    "isbn_13": "9784936713340",
+    "isbn_10": "4936713341",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 288
+  },
+  {
+    "title": "You Only Live Twice",
+    "authors": [
+      "Ian Fleming"
+    ],
+    "isbn_13": "9783100823236",
+    "isbn_10": "3100823230",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1964,
+    "page_count": 240
+  },
+  {
+    "title": "The Man with the Golden Gun",
+    "authors": [
+      "Ian Fleming"
+    ],
+    "isbn_13": "9788365302014",
+    "isbn_10": "8365302012",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 183
+  },
+  {
+    "title": "The Thirty-Nine Steps",
+    "authors": [
+      "John Buchan"
+    ],
+    "isbn_13": "9788353710753",
+    "isbn_10": "8353710757",
+    "genres": [
+      "Espionage",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1915,
+    "page_count": 128
+  },
+  {
+    "title": "Greenmantle",
+    "authors": [
+      "John Buchan"
+    ],
+    "isbn_13": "9785427414005",
+    "isbn_10": "5427414002",
+    "genres": [
+      "Espionage",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1916,
+    "page_count": 250
+  },
+  {
+    "title": "Mr Standfast",
+    "authors": [
+      "John Buchan"
+    ],
+    "isbn_13": "9783061183097",
+    "isbn_10": "3061183094",
+    "genres": [
+      "Espionage",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1919,
+    "page_count": 288
+  },
+  {
+    "title": "The Riddle of the Sands",
+    "authors": [
+      "Erskine Childers"
+    ],
+    "isbn_13": "9780908552498",
+    "isbn_10": "0908552491",
+    "genres": [
+      "Espionage",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1903,
+    "page_count": 342
+  },
+  {
+    "title": "The IPCRESS File",
+    "authors": [
+      "Len Deighton"
+    ],
+    "isbn_13": "9786276393299",
+    "isbn_10": "6276393290",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 287
+  },
+  {
+    "title": "Funeral in Berlin",
+    "authors": [
+      "Len Deighton"
+    ],
+    "isbn_13": "9789476823887",
+    "isbn_10": "9476823887",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1964,
+    "page_count": 299
+  },
+  {
+    "title": "Billion Dollar Brain",
+    "authors": [
+      "Len Deighton"
+    ],
+    "isbn_13": "9784134325222",
+    "isbn_10": "4134325226",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1966,
+    "page_count": 312
+  },
+  {
+    "title": "Game, Set and Match: Berlin Game",
+    "authors": [
+      "Len Deighton"
+    ],
+    "isbn_13": "9786654721836",
+    "isbn_10": "6654721837",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 345
+  },
+  {
+    "title": "Mexico Set",
+    "authors": [
+      "Len Deighton"
+    ],
+    "isbn_13": "9781071333303",
+    "isbn_10": "1071333305",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 373
+  },
+  {
+    "title": "London Match",
+    "authors": [
+      "Len Deighton"
+    ],
+    "isbn_13": "9788536073002",
+    "isbn_10": "8536073004",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 405
+  },
+  {
+    "title": "SS-GB",
+    "authors": [
+      "Len Deighton"
+    ],
+    "isbn_13": "9785452365204",
+    "isbn_10": "5452365206",
+    "genres": [
+      "Espionage",
+      "Alternative History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1978,
+    "page_count": 348
+  },
+  {
+    "title": "The Bourne Identity",
+    "authors": [
+      "Robert Ludlum"
+    ],
+    "isbn_13": "9782222041023",
+    "isbn_10": "2222041023",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 535
+  },
+  {
+    "title": "The Bourne Supremacy",
+    "authors": [
+      "Robert Ludlum"
+    ],
+    "isbn_13": "9782721950246",
+    "isbn_10": "272195024X",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 597
+  },
+  {
+    "title": "The Bourne Ultimatum",
+    "authors": [
+      "Robert Ludlum"
+    ],
+    "isbn_13": "9780470248799",
+    "isbn_10": "0470248793",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 611
+  },
+  {
+    "title": "The Scarlatti Inheritance",
+    "authors": [
+      "Robert Ludlum"
+    ],
+    "isbn_13": "9781587583513",
+    "isbn_10": "1587583518",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1971,
+    "page_count": 358
+  },
+  {
+    "title": "The Matlock Paper",
+    "authors": [
+      "Robert Ludlum"
+    ],
+    "isbn_13": "9783839615621",
+    "isbn_10": "3839615623",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 312
+  },
+  {
+    "title": "The Chancellor Manuscript",
+    "authors": [
+      "Robert Ludlum"
+    ],
+    "isbn_13": "9788337186949",
+    "isbn_10": "8337186941",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 402
+  },
+  {
+    "title": "The Matarese Circle",
+    "authors": [
+      "Robert Ludlum"
+    ],
+    "isbn_13": "9786631386645",
+    "isbn_10": "6631386640",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 601
+  },
+  {
+    "title": "The Parsifal Mosaic",
+    "authors": [
+      "Robert Ludlum"
+    ],
+    "isbn_13": "9782543522584",
+    "isbn_10": "2543522581",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 630
+  },
+  {
+    "title": "The Aquitaine Progression",
+    "authors": [
+      "Robert Ludlum"
+    ],
+    "isbn_13": "9783300208147",
+    "isbn_10": "3300208149",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 647
+  },
+  {
+    "title": "The Icarus Agenda",
+    "authors": [
+      "Robert Ludlum"
+    ],
+    "isbn_13": "9787381324598",
+    "isbn_10": "7381324598",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 677
+  },
+  {
+    "title": "The Hunt for Red October",
+    "authors": [
+      "Tom Clancy"
+    ],
+    "isbn_13": "9787522461977",
+    "isbn_10": "7522461979",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 387
+  },
+  {
+    "title": "Patriot Games",
+    "authors": [
+      "Tom Clancy"
+    ],
+    "isbn_13": "9782142490086",
+    "isbn_10": "2142490085",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 540
+  },
+  {
+    "title": "The Cardinal of the Kremlin",
+    "authors": [
+      "Tom Clancy"
+    ],
+    "isbn_13": "9785296403506",
+    "isbn_10": "5296403509",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 543
+  },
+  {
+    "title": "Clear and Present Danger",
+    "authors": [
+      "Tom Clancy"
+    ],
+    "isbn_13": "9789036241595",
+    "isbn_10": "9036241596",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 656
+  },
+  {
+    "title": "The Sum of All Fears",
+    "authors": [
+      "Tom Clancy"
+    ],
+    "isbn_13": "9782040929541",
+    "isbn_10": "2040929541",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 798
+  },
+  {
+    "title": "Red Storm Rising",
+    "authors": [
+      "Tom Clancy"
+    ],
+    "isbn_13": "9781724330338",
+    "isbn_10": "1724330330",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 725
+  },
+  {
+    "title": "Without Remorse",
+    "authors": [
+      "Tom Clancy"
+    ],
+    "isbn_13": "9780260745835",
+    "isbn_10": "0260745839",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 639
+  },
+  {
+    "title": "The Quiet American",
+    "authors": [
+      "Graham Greene"
+    ],
+    "isbn_13": "9786558834939",
+    "isbn_10": "6558834936",
+    "genres": [
+      "Espionage",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1955,
+    "page_count": 180
+  },
+  {
+    "title": "Our Man in Havana",
+    "authors": [
+      "Graham Greene"
+    ],
+    "isbn_13": "9786031401498",
+    "isbn_10": "6031401495",
+    "genres": [
+      "Espionage",
+      "Satire"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1958,
+    "page_count": 247
+  },
+  {
+    "title": "The Human Factor",
+    "authors": [
+      "Graham Greene"
+    ],
+    "isbn_13": "9784063133134",
+    "isbn_10": "4063133133",
+    "genres": [
+      "Espionage",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1978,
+    "page_count": 338
+  },
+  {
+    "title": "The Third Man",
+    "authors": [
+      "Graham Greene"
+    ],
+    "isbn_13": "9787357336952",
+    "isbn_10": "7357336956",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1950,
+    "page_count": 157
+  },
+  {
+    "title": "Brighton Rock",
+    "authors": [
+      "Graham Greene"
+    ],
+    "isbn_13": "9780346557994",
+    "isbn_10": "0346557992",
+    "genres": [
+      "Thriller",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1938,
+    "page_count": 247
+  },
+  {
+    "title": "The End of the Affair",
+    "authors": [
+      "Graham Greene"
+    ],
+    "isbn_13": "9785351376370",
+    "isbn_10": "5351376377",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 160
+  },
+  {
+    "title": "The Power and the Glory",
+    "authors": [
+      "Graham Greene"
+    ],
+    "isbn_13": "9780844557571",
+    "isbn_10": "0844557579",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1940,
+    "page_count": 222
+  },
+  {
+    "title": "The Heart of the Matter",
+    "authors": [
+      "Graham Greene"
+    ],
+    "isbn_13": "9781483966694",
+    "isbn_10": "1483966690",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1948,
+    "page_count": 272
+  },
+  {
+    "title": "Eye of the Needle",
+    "authors": [
+      "Ken Follett"
+    ],
+    "isbn_13": "9789190645604",
+    "isbn_10": "919064560X",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1978,
+    "page_count": 327
+  },
+  {
+    "title": "The Key to Rebecca",
+    "authors": [
+      "Ken Follett"
+    ],
+    "isbn_13": "9780793831708",
+    "isbn_10": "0793831709",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 381
+  },
+  {
+    "title": "Triple",
+    "authors": [
+      "Ken Follett"
+    ],
+    "isbn_13": "9783560124119",
+    "isbn_10": "3560124115",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 379
+  },
+  {
+    "title": "The Pillars of the Earth",
+    "authors": [
+      "Ken Follett"
+    ],
+    "isbn_13": "9782016519127",
+    "isbn_10": "2016519126",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 973
+  },
+  {
+    "title": "World Without End",
+    "authors": [
+      "Ken Follett"
+    ],
+    "isbn_13": "9786160330195",
+    "isbn_10": "6160330195",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 1014
+  },
+  {
+    "title": "A Column of Fire",
+    "authors": [
+      "Ken Follett"
+    ],
+    "isbn_13": "9782003023453",
+    "isbn_10": "2003023453",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 916
+  },
+  {
+    "title": "Fall of Giants",
+    "authors": [
+      "Ken Follett"
+    ],
+    "isbn_13": "9785052917292",
+    "isbn_10": "5052917295",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 985
+  },
+  {
+    "title": "Winter of the World",
+    "authors": [
+      "Ken Follett"
+    ],
+    "isbn_13": "9783341292303",
+    "isbn_10": "3341292306",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 940
+  },
+  {
+    "title": "Edge of Eternity",
+    "authors": [
+      "Ken Follett"
+    ],
+    "isbn_13": "9789812330840",
+    "isbn_10": "9812330844",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 1104
+  },
+  {
+    "title": "Never",
+    "authors": [
+      "Ken Follett"
+    ],
+    "isbn_13": "9785189370984",
+    "isbn_10": "5189370984",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 720
+  },
+  {
+    "title": "The Jackal",
+    "authors": [
+      "Frederick Forsyth"
+    ],
+    "isbn_13": "9788512414010",
+    "isbn_10": "8512414014",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1971,
+    "page_count": 380
+  },
+  {
+    "title": "The Odessa File",
+    "authors": [
+      "Frederick Forsyth"
+    ],
+    "isbn_13": "9783125030718",
+    "isbn_10": "3125030714",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 351
+  },
+  {
+    "title": "The Dogs of War",
+    "authors": [
+      "Frederick Forsyth"
+    ],
+    "isbn_13": "9780031638236",
+    "isbn_10": "0031638236",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 408
+  },
+  {
+    "title": "The Fourth Protocol",
+    "authors": [
+      "Frederick Forsyth"
+    ],
+    "isbn_13": "9789024591008",
+    "isbn_10": "9024591007",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 446
+  },
+  {
+    "title": "The Fist of God",
+    "authors": [
+      "Frederick Forsyth"
+    ],
+    "isbn_13": "9783703186431",
+    "isbn_10": "3703186437",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 563
+  },
+  {
+    "title": "The Afghan",
+    "authors": [
+      "Frederick Forsyth"
+    ],
+    "isbn_13": "9783948360658",
+    "isbn_10": "3948360650",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 337
+  },
+  {
+    "title": "The Kill List",
+    "authors": [
+      "Frederick Forsyth"
+    ],
+    "isbn_13": "9788009711400",
+    "isbn_10": "8009711403",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 352
+  },
+  {
+    "title": "The Fox",
+    "authors": [
+      "Frederick Forsyth"
+    ],
+    "isbn_13": "9786003710009",
+    "isbn_10": "6003710004",
+    "genres": [
+      "Espionage",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 320
+  }
+]

@@ -1,0 +1,1249 @@
+[
+  {
+    "title": "Wolf Hall",
+    "authors": [
+      "Hilary Mantel"
+    ],
+    "isbn_13": "9788253228709",
+    "isbn_10": "8253228708",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 604
+  },
+  {
+    "title": "Bring Up the Bodies",
+    "authors": [
+      "Hilary Mantel"
+    ],
+    "isbn_13": "9785611782958",
+    "isbn_10": "5611782957",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 407
+  },
+  {
+    "title": "The Mirror & the Light",
+    "authors": [
+      "Hilary Mantel"
+    ],
+    "isbn_13": "9785843228439",
+    "isbn_10": "5843228436",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 754
+  },
+  {
+    "title": "A Place of Greater Safety",
+    "authors": [
+      "Hilary Mantel"
+    ],
+    "isbn_13": "9789241124720",
+    "isbn_10": "9241124725",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 872
+  },
+  {
+    "title": "All the Light We Cannot See",
+    "authors": [
+      "Anthony Doerr"
+    ],
+    "isbn_13": "9783692286402",
+    "isbn_10": "3692286406",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 531
+  },
+  {
+    "title": "Cloud Cuckoo Land",
+    "authors": [
+      "Anthony Doerr"
+    ],
+    "isbn_13": "9785517150059",
+    "isbn_10": "5517150055",
+    "genres": [
+      "Historical Fiction",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 622
+  },
+  {
+    "title": "The Nightingale",
+    "authors": [
+      "Kristin Hannah"
+    ],
+    "isbn_13": "9784203212552",
+    "isbn_10": "4203212553",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 440
+  },
+  {
+    "title": "The Great Alone",
+    "authors": [
+      "Kristin Hannah"
+    ],
+    "isbn_13": "9781103095001",
+    "isbn_10": "1103095005",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 432
+  },
+  {
+    "title": "The Women",
+    "authors": [
+      "Kristin Hannah"
+    ],
+    "isbn_13": "9780150854319",
+    "isbn_10": "0150854315",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 472
+  },
+  {
+    "title": "The Four Winds",
+    "authors": [
+      "Kristin Hannah"
+    ],
+    "isbn_13": "9780467301308",
+    "isbn_10": "0467301301",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 455
+  },
+  {
+    "title": "Pachinko",
+    "authors": [
+      "Min Jin Lee"
+    ],
+    "isbn_13": "9787570342167",
+    "isbn_10": "757034216X",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 490
+  },
+  {
+    "title": "Free Food for Millionaires",
+    "authors": [
+      "Min Jin Lee"
+    ],
+    "isbn_13": "9781389221064",
+    "isbn_10": "1389221067",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 561
+  },
+  {
+    "title": "The Kite Runner",
+    "authors": [
+      "Khaled Hosseini"
+    ],
+    "isbn_13": "9788011266455",
+    "isbn_10": "8011266454",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 371
+  },
+  {
+    "title": "A Thousand Splendid Suns",
+    "authors": [
+      "Khaled Hosseini"
+    ],
+    "isbn_13": "9785319137302",
+    "isbn_10": "5319137303",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 372
+  },
+  {
+    "title": "And the Mountains Echoed",
+    "authors": [
+      "Khaled Hosseini"
+    ],
+    "isbn_13": "9783483125026",
+    "isbn_10": "3483125027",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 404
+  },
+  {
+    "title": "Shogun",
+    "authors": [
+      "James Clavell"
+    ],
+    "isbn_13": "9786192558932",
+    "isbn_10": "6192558930",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 1152
+  },
+  {
+    "title": "Tai-Pan",
+    "authors": [
+      "James Clavell"
+    ],
+    "isbn_13": "9784822115449",
+    "isbn_10": "4822115445",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1966,
+    "page_count": 734
+  },
+  {
+    "title": "King Rat",
+    "authors": [
+      "James Clavell"
+    ],
+    "isbn_13": "9783612343154",
+    "isbn_10": "3612343157",
+    "genres": [
+      "Historical Fiction",
+      "War Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 352
+  },
+  {
+    "title": "Noble House",
+    "authors": [
+      "James Clavell"
+    ],
+    "isbn_13": "9780095091565",
+    "isbn_10": "0095091564",
+    "genres": [
+      "Historical Fiction",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 1206
+  },
+  {
+    "title": "Whirlwind",
+    "authors": [
+      "James Clavell"
+    ],
+    "isbn_13": "9786701811121",
+    "isbn_10": "6701811124",
+    "genres": [
+      "Historical Fiction",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 1147
+  },
+  {
+    "title": "Gai-Jin",
+    "authors": [
+      "James Clavell"
+    ],
+    "isbn_13": "9785125430222",
+    "isbn_10": "5125430226",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 1038
+  },
+  {
+    "title": "The Name of the Wind",
+    "authors": [
+      "Patrick Rothfuss"
+    ],
+    "isbn_13": "9784214237209",
+    "isbn_10": "421423720X",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 662
+  },
+  {
+    "title": "The Wise Man's Fear",
+    "authors": [
+      "Patrick Rothfuss"
+    ],
+    "isbn_13": "9786420302023",
+    "isbn_10": "6420302021",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 994
+  },
+  {
+    "title": "Memoirs of a Geisha",
+    "authors": [
+      "Arthur Golden"
+    ],
+    "isbn_13": "9788925039411",
+    "isbn_10": "8925039419",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 434
+  },
+  {
+    "title": "The Tattooist of Auschwitz",
+    "authors": [
+      "Heather Morris"
+    ],
+    "isbn_13": "9785924185446",
+    "isbn_10": "5924185443",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 270
+  },
+  {
+    "title": "Cilka's Journey",
+    "authors": [
+      "Heather Morris"
+    ],
+    "isbn_13": "9782527386249",
+    "isbn_10": "2527386245",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 432
+  },
+  {
+    "title": "Three Sisters",
+    "authors": [
+      "Heather Morris"
+    ],
+    "isbn_13": "9782153520161",
+    "isbn_10": "2153520169",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 416
+  },
+  {
+    "title": "The Shadow of the Wind",
+    "authors": [
+      "Carlos Ruiz Zafón"
+    ],
+    "isbn_13": "9782027546495",
+    "isbn_10": "2027546499",
+    "genres": [
+      "Historical Fiction",
+      "Mystery"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 487
+  },
+  {
+    "title": "The Angel's Game",
+    "authors": [
+      "Carlos Ruiz Zafón"
+    ],
+    "isbn_13": "9780343208646",
+    "isbn_10": "0343208644",
+    "genres": [
+      "Historical Fiction",
+      "Mystery"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 531
+  },
+  {
+    "title": "The Prisoner of Heaven",
+    "authors": [
+      "Carlos Ruiz Zafón"
+    ],
+    "isbn_13": "9782450456538",
+    "isbn_10": "2450456538",
+    "genres": [
+      "Historical Fiction",
+      "Mystery"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 303
+  },
+  {
+    "title": "The Labyrinth of the Spirits",
+    "authors": [
+      "Carlos Ruiz Zafón"
+    ],
+    "isbn_13": "9783345182730",
+    "isbn_10": "3345182734",
+    "genres": [
+      "Historical Fiction",
+      "Mystery"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 821
+  },
+  {
+    "title": "I, Claudius",
+    "authors": [
+      "Robert Graves"
+    ],
+    "isbn_13": "9782943539113",
+    "isbn_10": "2943539112",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1934,
+    "page_count": 432
+  },
+  {
+    "title": "Claudius the God",
+    "authors": [
+      "Robert Graves"
+    ],
+    "isbn_13": "9780111225479",
+    "isbn_10": "0111225477",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1935,
+    "page_count": 583
+  },
+  {
+    "title": "The Master and Margarita",
+    "authors": [
+      "Mikhail Bulgakov"
+    ],
+    "isbn_13": "9786361163196",
+    "isbn_10": "6361163199",
+    "genres": [
+      "Literary Fiction",
+      "Fantasy"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1967,
+    "page_count": 384
+  },
+  {
+    "title": "Doctor Zhivago",
+    "authors": [
+      "Boris Pasternak"
+    ],
+    "isbn_13": "9780482217042",
+    "isbn_10": "0482217049",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1957,
+    "page_count": 510
+  },
+  {
+    "title": "And Quiet Flows the Don",
+    "authors": [
+      "Mikhail Sholokhov"
+    ],
+    "isbn_13": "9789441423104",
+    "isbn_10": "9441423106",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1928,
+    "page_count": 992
+  },
+  {
+    "title": "Life and Fate",
+    "authors": [
+      "Vasily Grossman"
+    ],
+    "isbn_13": "9780658595592",
+    "isbn_10": "0658595598",
+    "genres": [
+      "Historical Fiction",
+      "War Fiction"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 871
+  },
+  {
+    "title": "The Gulag Archipelago",
+    "authors": [
+      "Aleksandr Solzhenitsyn"
+    ],
+    "isbn_13": "9786747725239",
+    "isbn_10": "6747725239",
+    "genres": [
+      "Non-Fiction",
+      "History"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 1828
+  },
+  {
+    "title": "One Day in the Life of Ivan Denisovich",
+    "authors": [
+      "Aleksandr Solzhenitsyn"
+    ],
+    "isbn_13": "9780684618197",
+    "isbn_10": "0684618192",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 143
+  },
+  {
+    "title": "Cancer Ward",
+    "authors": [
+      "Aleksandr Solzhenitsyn"
+    ],
+    "isbn_13": "9788335752023",
+    "isbn_10": "8335752028",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1968,
+    "page_count": 560
+  },
+  {
+    "title": "The First Circle",
+    "authors": [
+      "Aleksandr Solzhenitsyn"
+    ],
+    "isbn_13": "9784725137326",
+    "isbn_10": "4725137324",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1968,
+    "page_count": 580
+  },
+  {
+    "title": "War and Peace",
+    "authors": [
+      "Leo Tolstoy"
+    ],
+    "isbn_13": "9786021101070",
+    "isbn_10": "6021101073",
+    "genres": [
+      "Literary Fiction",
+      "Classics",
+      "Historical Fiction"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1869,
+    "page_count": 1225
+  },
+  {
+    "title": "Anna Karenina",
+    "authors": [
+      "Leo Tolstoy"
+    ],
+    "isbn_13": "9782336059587",
+    "isbn_10": "2336059584",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1877,
+    "page_count": 864
+  },
+  {
+    "title": "The Death of Ivan Ilyich",
+    "authors": [
+      "Leo Tolstoy"
+    ],
+    "isbn_13": "9784145486523",
+    "isbn_10": "4145486528",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1886,
+    "page_count": 86
+  },
+  {
+    "title": "Resurrection",
+    "authors": [
+      "Leo Tolstoy"
+    ],
+    "isbn_13": "9787624120970",
+    "isbn_10": "7624120976",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1899,
+    "page_count": 563
+  },
+  {
+    "title": "Hadji Murad",
+    "authors": [
+      "Leo Tolstoy"
+    ],
+    "isbn_13": "9786253483449",
+    "isbn_10": "6253483447",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1912,
+    "page_count": 115
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "authors": [
+      "Fyodor Dostoevsky"
+    ],
+    "isbn_13": "9785570665750",
+    "isbn_10": "5570665757",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1880,
+    "page_count": 796
+  },
+  {
+    "title": "Crime and Punishment",
+    "authors": [
+      "Fyodor Dostoevsky"
+    ],
+    "isbn_13": "9784857533942",
+    "isbn_10": "4857533944",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1866,
+    "page_count": 671
+  },
+  {
+    "title": "The Idiot",
+    "authors": [
+      "Fyodor Dostoevsky"
+    ],
+    "isbn_13": "9784287210673",
+    "isbn_10": "4287210670",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1869,
+    "page_count": 667
+  },
+  {
+    "title": "Demons",
+    "authors": [
+      "Fyodor Dostoevsky"
+    ],
+    "isbn_13": "9780634404665",
+    "isbn_10": "0634404660",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1872,
+    "page_count": 733
+  },
+  {
+    "title": "Notes from Underground",
+    "authors": [
+      "Fyodor Dostoevsky"
+    ],
+    "isbn_13": "9789455823341",
+    "isbn_10": "9455823349",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1864,
+    "page_count": 136
+  },
+  {
+    "title": "The Gambler",
+    "authors": [
+      "Fyodor Dostoevsky"
+    ],
+    "isbn_13": "9782148148615",
+    "isbn_10": "2148148613",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1867,
+    "page_count": 180
+  },
+  {
+    "title": "Dead Souls",
+    "authors": [
+      "Nikolai Gogol"
+    ],
+    "isbn_13": "9785506327561",
+    "isbn_10": "5506327560",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1842,
+    "page_count": 352
+  },
+  {
+    "title": "The Overcoat",
+    "authors": [
+      "Nikolai Gogol"
+    ],
+    "isbn_13": "9784185200349",
+    "isbn_10": "418520034X",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1842,
+    "page_count": 50
+  },
+  {
+    "title": "The Government Inspector",
+    "authors": [
+      "Nikolai Gogol"
+    ],
+    "isbn_13": "9782242731690",
+    "isbn_10": "2242731696",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1836,
+    "page_count": 140
+  },
+  {
+    "title": "Eugene Onegin",
+    "authors": [
+      "Alexander Pushkin"
+    ],
+    "isbn_13": "9784005733224",
+    "isbn_10": "4005733220",
+    "genres": [
+      "Poetry",
+      "Classics"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1833,
+    "page_count": 240
+  },
+  {
+    "title": "The Captain's Daughter",
+    "authors": [
+      "Alexander Pushkin"
+    ],
+    "isbn_13": "9784217100623",
+    "isbn_10": "4217100620",
+    "genres": [
+      "Historical Fiction",
+      "Classics"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1836,
+    "page_count": 160
+  },
+  {
+    "title": "Fathers and Sons",
+    "authors": [
+      "Ivan Turgenev"
+    ],
+    "isbn_13": "9782449410244",
+    "isbn_10": "2449410244",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1862,
+    "page_count": 226
+  },
+  {
+    "title": "A Sportsman's Sketches",
+    "authors": [
+      "Ivan Turgenev"
+    ],
+    "isbn_13": "9783340550718",
+    "isbn_10": "3340550719",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1852,
+    "page_count": 416
+  },
+  {
+    "title": "The Cherry Orchard",
+    "authors": [
+      "Anton Chekhov"
+    ],
+    "isbn_13": "9782355022814",
+    "isbn_10": "235502281X",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1904,
+    "page_count": 94
+  },
+  {
+    "title": "Selected Stories",
+    "authors": [
+      "Anton Chekhov"
+    ],
+    "isbn_13": "9781877442278",
+    "isbn_10": "1877442275",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories",
+      "Classics"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1886,
+    "page_count": 420
+  },
+  {
+    "title": "The Lady with the Dog",
+    "authors": [
+      "Anton Chekhov"
+    ],
+    "isbn_13": "9785001536338",
+    "isbn_10": "5001536332",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1899,
+    "page_count": 32
+  },
+  {
+    "title": "Three Sisters",
+    "authors": [
+      "Anton Chekhov"
+    ],
+    "isbn_13": "9784642635981",
+    "isbn_10": "464263598X",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1900,
+    "page_count": 82
+  },
+  {
+    "title": "Uncle Vanya",
+    "authors": [
+      "Anton Chekhov"
+    ],
+    "isbn_13": "9780022413828",
+    "isbn_10": "0022413820",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1899,
+    "page_count": 80
+  },
+  {
+    "title": "Lolita",
+    "authors": [
+      "Vladimir Nabokov"
+    ],
+    "isbn_13": "9782283220108",
+    "isbn_10": "2283220106",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1955,
+    "page_count": 336
+  },
+  {
+    "title": "Pale Fire",
+    "authors": [
+      "Vladimir Nabokov"
+    ],
+    "isbn_13": "9785347317653",
+    "isbn_10": "5347317655",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 315
+  },
+  {
+    "title": "Ada, or Ardor",
+    "authors": [
+      "Vladimir Nabokov"
+    ],
+    "isbn_13": "9783433402160",
+    "isbn_10": "3433402167",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 589
+  },
+  {
+    "title": "Pnin",
+    "authors": [
+      "Vladimir Nabokov"
+    ],
+    "isbn_13": "9782283121054",
+    "isbn_10": "2283121051",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1957,
+    "page_count": 191
+  },
+  {
+    "title": "The Gift",
+    "authors": [
+      "Vladimir Nabokov"
+    ],
+    "isbn_13": "9785732374742",
+    "isbn_10": "5732374744",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1938,
+    "page_count": 366
+  },
+  {
+    "title": "Invitation to a Beheading",
+    "authors": [
+      "Vladimir Nabokov"
+    ],
+    "isbn_13": "9785124031147",
+    "isbn_10": "512403114X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1935,
+    "page_count": 223
+  },
+  {
+    "title": "The Defense",
+    "authors": [
+      "Vladimir Nabokov"
+    ],
+    "isbn_13": "9785362341596",
+    "isbn_10": "5362341596",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1930,
+    "page_count": 256
+  },
+  {
+    "title": "The Real Life of Sebastian Knight",
+    "authors": [
+      "Vladimir Nabokov"
+    ],
+    "isbn_13": "9782220399607",
+    "isbn_10": "2220399605",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ru",
+    "source": "seed",
+    "year_published": 1941,
+    "page_count": 204
+  },
+  {
+    "title": "The Leopard",
+    "authors": [
+      "Giuseppe Tomasi di Lampedusa"
+    ],
+    "isbn_13": "9780300472844",
+    "isbn_10": "0300472846",
+    "genres": [
+      "Historical Fiction",
+      "Classics"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1958,
+    "page_count": 255
+  },
+  {
+    "title": "Christ Stopped at Eboli",
+    "authors": [
+      "Carlo Levi"
+    ],
+    "isbn_13": "9782454744754",
+    "isbn_10": "2454744759",
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1945,
+    "page_count": 268
+  },
+  {
+    "title": "The Betrothed",
+    "authors": [
+      "Alessandro Manzoni"
+    ],
+    "isbn_13": "9783111148823",
+    "isbn_10": "3111148823",
+    "genres": [
+      "Historical Fiction",
+      "Classics"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1827,
+    "page_count": 720
+  },
+  {
+    "title": "The Decameron",
+    "authors": [
+      "Giovanni Boccaccio"
+    ],
+    "isbn_13": "9783040127012",
+    "isbn_10": "3040127012",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1353,
+    "page_count": 800
+  },
+  {
+    "title": "The Divine Comedy",
+    "authors": [
+      "Dante Alighieri"
+    ],
+    "isbn_13": "9783251639151",
+    "isbn_10": "3251639153",
+    "genres": [
+      "Poetry",
+      "Classics"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1320,
+    "page_count": 798
+  },
+  {
+    "title": "The Buried Giant",
+    "authors": [
+      "Kazuo Ishiguro"
+    ],
+    "isbn_13": "9781948250177",
+    "isbn_10": "1948250179",
+    "genres": [
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 317
+  },
+  {
+    "title": "An Artist of the Floating World",
+    "authors": [
+      "Kazuo Ishiguro"
+    ],
+    "isbn_13": "9784523509011",
+    "isbn_10": "4523509018",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 206
+  },
+  {
+    "title": "When We Were Orphans",
+    "authors": [
+      "Kazuo Ishiguro"
+    ],
+    "isbn_13": "9782852355033",
+    "isbn_10": "2852355035",
+    "genres": [
+      "Historical Fiction",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 313
+  }
+]

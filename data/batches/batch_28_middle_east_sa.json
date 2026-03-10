@@ -1,0 +1,739 @@
+[
+  {
+    "title": "Palace Walk",
+    "authors": [
+      "Naguib Mahfouz"
+    ],
+    "isbn_13": "9782412405017",
+    "isbn_10": "2412405018",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "ar",
+    "source": "seed",
+    "year_published": 1956,
+    "page_count": 498
+  },
+  {
+    "title": "Palace of Desire",
+    "authors": [
+      "Naguib Mahfouz"
+    ],
+    "isbn_13": "9785340054944",
+    "isbn_10": "5340054942",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar",
+    "source": "seed",
+    "year_published": 1957,
+    "page_count": 422
+  },
+  {
+    "title": "Sugar Street",
+    "authors": [
+      "Naguib Mahfouz"
+    ],
+    "isbn_13": "9785511830537",
+    "isbn_10": "5511830534",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar",
+    "source": "seed",
+    "year_published": 1957,
+    "page_count": 308
+  },
+  {
+    "title": "Children of Gebelawi",
+    "authors": [
+      "Naguib Mahfouz"
+    ],
+    "isbn_13": "9788962184983",
+    "isbn_10": "8962184982",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 355
+  },
+  {
+    "title": "Midaq Alley",
+    "authors": [
+      "Naguib Mahfouz"
+    ],
+    "isbn_13": "9784581922005",
+    "isbn_10": "4581922003",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar",
+    "source": "seed",
+    "year_published": 1947,
+    "page_count": 286
+  },
+  {
+    "title": "The Thief and the Dogs",
+    "authors": [
+      "Naguib Mahfouz"
+    ],
+    "isbn_13": "9788308818497",
+    "isbn_10": "8308818498",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar",
+    "source": "seed",
+    "year_published": 1961,
+    "page_count": 158
+  },
+  {
+    "title": "Miramar",
+    "authors": [
+      "Naguib Mahfouz"
+    ],
+    "isbn_13": "9782402401500",
+    "isbn_10": "2402401508",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar",
+    "source": "seed",
+    "year_published": 1967,
+    "page_count": 192
+  },
+  {
+    "title": "The Kite Runner",
+    "authors": [
+      "Khaled Hosseini"
+    ],
+    "isbn_13": "9788011266455",
+    "isbn_10": "8011266454",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 371
+  },
+  {
+    "title": "The Blind Owl",
+    "authors": [
+      "Sadegh Hedayat"
+    ],
+    "isbn_13": "9783318440089",
+    "isbn_10": "3318440086",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "fa",
+    "source": "seed",
+    "year_published": 1937,
+    "page_count": 128
+  },
+  {
+    "title": "My Uncle Napoleon",
+    "authors": [
+      "Iraj Pezeshkzad"
+    ],
+    "isbn_13": "9786084014454",
+    "isbn_10": "6084014453",
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "fa",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 503
+  },
+  {
+    "title": "Reading Lolita in Tehran",
+    "authors": [
+      "Azar Nafisi"
+    ],
+    "isbn_13": "9787426427765",
+    "isbn_10": "7426427765",
+    "genres": [
+      "Memoir",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 347
+  },
+  {
+    "title": "Persepolis",
+    "authors": [
+      "Marjane Satrapi"
+    ],
+    "isbn_13": "9780955440526",
+    "isbn_10": "0955440521",
+    "genres": [
+      "Memoir",
+      "Graphic Novel"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 160
+  },
+  {
+    "title": "The Septembers of Shiraz",
+    "authors": [
+      "Dalia Sofer"
+    ],
+    "isbn_13": "9785754427839",
+    "isbn_10": "5754427832",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 340
+  },
+  {
+    "title": "A Man Called Ove",
+    "authors": [
+      "Fredrik Backman"
+    ],
+    "isbn_13": "9780189765242",
+    "isbn_10": "0189765240",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 337
+  },
+  {
+    "title": "Anxious People",
+    "authors": [
+      "Fredrik Backman"
+    ],
+    "isbn_13": "9789442054857",
+    "isbn_10": "9442054856",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 336
+  },
+  {
+    "title": "Beartown",
+    "authors": [
+      "Fredrik Backman"
+    ],
+    "isbn_13": "9787385110074",
+    "isbn_10": "738511007X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 418
+  },
+  {
+    "title": "Us Against You",
+    "authors": [
+      "Fredrik Backman"
+    ],
+    "isbn_13": "9789899580510",
+    "isbn_10": "9899580511",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 432
+  },
+  {
+    "title": "Britt-Marie Was Here",
+    "authors": [
+      "Fredrik Backman"
+    ],
+    "isbn_13": "9780117032156",
+    "isbn_10": "0117032158",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 324
+  },
+  {
+    "title": "My Grandmother Asked Me to Tell You She's Sorry",
+    "authors": [
+      "Fredrik Backman"
+    ],
+    "isbn_13": "9784406122122",
+    "isbn_10": "4406122125",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 372
+  },
+  {
+    "title": "The Winners",
+    "authors": [
+      "Fredrik Backman"
+    ],
+    "isbn_13": "9787891811137",
+    "isbn_10": "789181113X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 720
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "authors": [
+      "Stieg Larsson"
+    ],
+    "isbn_13": "9789880700934",
+    "isbn_10": "9880700937",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 465
+  },
+  {
+    "title": "The 100-Year-Old Man Who Climbed Out the Window and Disappeared",
+    "authors": [
+      "Jonas Jonasson"
+    ],
+    "isbn_13": "9785421537250",
+    "isbn_10": "5421537250",
+    "genres": [
+      "Literary Fiction",
+      "Humor"
+    ],
+    "language": "sv",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 396
+  },
+  {
+    "title": "The Devotion of Suspect X",
+    "authors": [
+      "Keigo Higashino"
+    ],
+    "isbn_13": "9780410904525",
+    "isbn_10": "041090452X",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 298
+  },
+  {
+    "title": "Salvation of a Saint",
+    "authors": [
+      "Keigo Higashino"
+    ],
+    "isbn_13": "9780971033306",
+    "isbn_10": "0971033307",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 370
+  },
+  {
+    "title": "Malice",
+    "authors": [
+      "Keigo Higashino"
+    ],
+    "isbn_13": "9785369018095",
+    "isbn_10": "536901809X",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 264
+  },
+  {
+    "title": "Journey Under the Midnight Sun",
+    "authors": [
+      "Keigo Higashino"
+    ],
+    "isbn_13": "9780274890392",
+    "isbn_10": "0274890399",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 560
+  },
+  {
+    "title": "The Miracles of the Namiya General Store",
+    "authors": [
+      "Keigo Higashino"
+    ],
+    "isbn_13": "9780814005149",
+    "isbn_10": "0814005144",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 398
+  },
+  {
+    "title": "Before the Coffee Gets Cold",
+    "authors": [
+      "Toshikazu Kawaguchi"
+    ],
+    "isbn_13": "9784901052269",
+    "isbn_10": "4901052268",
+    "genres": [
+      "Literary Fiction",
+      "Fantasy"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 213
+  },
+  {
+    "title": "Before the Coffee Gets Cold: Tales from the Cafe",
+    "authors": [
+      "Toshikazu Kawaguchi"
+    ],
+    "isbn_13": "9783456112053",
+    "isbn_10": "345611205X",
+    "genres": [
+      "Literary Fiction",
+      "Fantasy"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 256
+  },
+  {
+    "title": "Pachinko",
+    "authors": [
+      "Min Jin Lee"
+    ],
+    "isbn_13": "9787570342167",
+    "isbn_10": "757034216X",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 490
+  },
+  {
+    "title": "The Vegetarian",
+    "authors": [
+      "Han Kang"
+    ],
+    "isbn_13": "9785449602534",
+    "isbn_10": "5449602537",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ko",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 183
+  },
+  {
+    "title": "Human Acts",
+    "authors": [
+      "Han Kang"
+    ],
+    "isbn_13": "9786931337118",
+    "isbn_10": "6931337114",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "ko",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 213
+  },
+  {
+    "title": "The White Book",
+    "authors": [
+      "Han Kang"
+    ],
+    "isbn_13": "9789422542015",
+    "isbn_10": "9422542014",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ko",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 160
+  },
+  {
+    "title": "We Do Not Part",
+    "authors": [
+      "Han Kang"
+    ],
+    "isbn_13": "9788037145406",
+    "isbn_10": "8037145409",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ko",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 256
+  },
+  {
+    "title": "Greek Lessons",
+    "authors": [
+      "Han Kang"
+    ],
+    "isbn_13": "9782242864152",
+    "isbn_10": "2242864157",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ko",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 176
+  },
+  {
+    "title": "Please Look After Mom",
+    "authors": [
+      "Kyung-Sook Shin"
+    ],
+    "isbn_13": "9785552021352",
+    "isbn_10": "5552021355",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ko",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 264
+  },
+  {
+    "title": "I'll Be Right There",
+    "authors": [
+      "Kyung-Sook Shin"
+    ],
+    "isbn_13": "9781110354948",
+    "isbn_10": "1110354940",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ko",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 312
+  },
+  {
+    "title": "The Hen Who Dreamed She Could Fly",
+    "authors": [
+      "Sun-mi Hwang"
+    ],
+    "isbn_13": "9783504134495",
+    "isbn_10": "3504134496",
+    "genres": [
+      "Literary Fiction",
+      "Fable"
+    ],
+    "language": "ko",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 128
+  },
+  {
+    "title": "Kim Ji-young, Born 1982",
+    "authors": [
+      "Cho Nam-Joo"
+    ],
+    "isbn_13": "9786232114173",
+    "isbn_10": "6232114175",
+    "genres": [
+      "Literary Fiction",
+      "Feminism"
+    ],
+    "language": "ko",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 163
+  },
+  {
+    "title": "Almond",
+    "authors": [
+      "Won-pyung Sohn"
+    ],
+    "isbn_13": "9780515545104",
+    "isbn_10": "0515545104",
+    "genres": [
+      "Literary Fiction",
+      "Young Adult"
+    ],
+    "language": "ko",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 264
+  },
+  {
+    "title": "If Cats Disappeared from the World",
+    "authors": [
+      "Genki Kawamura"
+    ],
+    "isbn_13": "9788221163834",
+    "isbn_10": "822116383X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 213
+  },
+  {
+    "title": "The Travelling Cat Chronicles",
+    "authors": [
+      "Hiro Arikawa"
+    ],
+    "isbn_13": "9784270704745",
+    "isbn_10": "4270704748",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 278
+  },
+  {
+    "title": "Colorless Tsukuru Tazaki",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9789012260411",
+    "isbn_10": "9012260418",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 386
+  },
+  {
+    "title": "Strange Weather in Tokyo",
+    "authors": [
+      "Hiromi Kawakami"
+    ],
+    "isbn_13": "9785993651545",
+    "isbn_10": "5993651547",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 176
+  },
+  {
+    "title": "The Makioka Sisters",
+    "authors": [
+      "Jun'ichirō Tanizaki"
+    ],
+    "isbn_13": "9789059444980",
+    "isbn_10": "9059444981",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1948,
+    "page_count": 530
+  },
+  {
+    "title": "The Key",
+    "authors": [
+      "Jun'ichirō Tanizaki"
+    ],
+    "isbn_13": "9780050055700",
+    "isbn_10": "0050055704",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1956,
+    "page_count": 183
+  },
+  {
+    "title": "In Praise of Shadows",
+    "authors": [
+      "Jun'ichirō Tanizaki"
+    ],
+    "isbn_13": "9786253096434",
+    "isbn_10": "6253096435",
+    "genres": [
+      "Essays"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1933,
+    "page_count": 73
+  },
+  {
+    "title": "Some Prefer Nettles",
+    "authors": [
+      "Jun'ichirō Tanizaki"
+    ],
+    "isbn_13": "9789722228107",
+    "isbn_10": "9722228102",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1929,
+    "page_count": 202
+  }
+]

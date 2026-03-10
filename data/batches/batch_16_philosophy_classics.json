@@ -1,0 +1,956 @@
+[
+  {
+    "title": "Meditations",
+    "authors": [
+      "Marcus Aurelius"
+    ],
+    "isbn_13": "9782533628012",
+    "isbn_10": "2533628018",
+    "genres": [
+      "Philosophy",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 180,
+    "page_count": 256
+  },
+  {
+    "title": "The Republic",
+    "authors": [
+      "Plato"
+    ],
+    "isbn_13": "9788307882376",
+    "isbn_10": "8307882370",
+    "genres": [
+      "Philosophy",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": -380,
+    "page_count": 416
+  },
+  {
+    "title": "Nicomachean Ethics",
+    "authors": [
+      "Aristotle"
+    ],
+    "isbn_13": "9784351630451",
+    "isbn_10": "4351630450",
+    "genres": [
+      "Philosophy",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": -340,
+    "page_count": 329
+  },
+  {
+    "title": "Tao Te Ching",
+    "authors": [
+      "Laozi"
+    ],
+    "isbn_13": "9782323375140",
+    "isbn_10": "2323375148",
+    "genres": [
+      "Philosophy",
+      "Classics"
+    ],
+    "language": "zh",
+    "source": "seed",
+    "year_published": -400,
+    "page_count": 160
+  },
+  {
+    "title": "The Art of War",
+    "authors": [
+      "Sun Tzu"
+    ],
+    "isbn_13": "9783545305571",
+    "isbn_10": "3545305570",
+    "genres": [
+      "Philosophy",
+      "Classics"
+    ],
+    "language": "zh",
+    "source": "seed",
+    "year_published": -500,
+    "page_count": 128
+  },
+  {
+    "title": "The Analects",
+    "authors": [
+      "Confucius"
+    ],
+    "isbn_13": "9783273210345",
+    "isbn_10": "3273210346",
+    "genres": [
+      "Philosophy",
+      "Classics"
+    ],
+    "language": "zh",
+    "source": "seed",
+    "year_published": -500,
+    "page_count": 224
+  },
+  {
+    "title": "Thus Spoke Zarathustra",
+    "authors": [
+      "Friedrich Nietzsche"
+    ],
+    "isbn_13": "9785515512804",
+    "isbn_10": "5515512804",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1883,
+    "page_count": 352
+  },
+  {
+    "title": "Beyond Good and Evil",
+    "authors": [
+      "Friedrich Nietzsche"
+    ],
+    "isbn_13": "9786540002520",
+    "isbn_10": "6540002521",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1886,
+    "page_count": 288
+  },
+  {
+    "title": "On the Genealogy of Morality",
+    "authors": [
+      "Friedrich Nietzsche"
+    ],
+    "isbn_13": "9780347732635",
+    "isbn_10": "0347732631",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1887,
+    "page_count": 224
+  },
+  {
+    "title": "The Birth of Tragedy",
+    "authors": [
+      "Friedrich Nietzsche"
+    ],
+    "isbn_13": "9785153195179",
+    "isbn_10": "5153195171",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1872,
+    "page_count": 160
+  },
+  {
+    "title": "Being and Time",
+    "authors": [
+      "Martin Heidegger"
+    ],
+    "isbn_13": "9785363383946",
+    "isbn_10": "5363383942",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1927,
+    "page_count": 589
+  },
+  {
+    "title": "The Critique of Pure Reason",
+    "authors": [
+      "Immanuel Kant"
+    ],
+    "isbn_13": "9787311034221",
+    "isbn_10": "7311034221",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1781,
+    "page_count": 856
+  },
+  {
+    "title": "Groundwork of the Metaphysics of Morals",
+    "authors": [
+      "Immanuel Kant"
+    ],
+    "isbn_13": "9787104795704",
+    "isbn_10": "7104795707",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1785,
+    "page_count": 128
+  },
+  {
+    "title": "Phenomenology of Spirit",
+    "authors": [
+      "Georg Wilhelm Friedrich Hegel"
+    ],
+    "isbn_13": "9789505955015",
+    "isbn_10": "9505955014",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1807,
+    "page_count": 591
+  },
+  {
+    "title": "The World as Will and Representation",
+    "authors": [
+      "Arthur Schopenhauer"
+    ],
+    "isbn_13": "9784032053739",
+    "isbn_10": "4032053731",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1818,
+    "page_count": 544
+  },
+  {
+    "title": "Fear and Trembling",
+    "authors": [
+      "Søren Kierkegaard"
+    ],
+    "isbn_13": "9789733043225",
+    "isbn_10": "9733043222",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "da",
+    "source": "seed",
+    "year_published": 1843,
+    "page_count": 160
+  },
+  {
+    "title": "Either/Or",
+    "authors": [
+      "Søren Kierkegaard"
+    ],
+    "isbn_13": "9782054287934",
+    "isbn_10": "2054287938",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "da",
+    "source": "seed",
+    "year_published": 1843,
+    "page_count": 624
+  },
+  {
+    "title": "The Sickness Unto Death",
+    "authors": [
+      "Søren Kierkegaard"
+    ],
+    "isbn_13": "9789584417367",
+    "isbn_10": "9584417363",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "da",
+    "source": "seed",
+    "year_published": 1849,
+    "page_count": 156
+  },
+  {
+    "title": "Being and Nothingness",
+    "authors": [
+      "Jean-Paul Sartre"
+    ],
+    "isbn_13": "9788317809394",
+    "isbn_10": "8317809390",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1943,
+    "page_count": 811
+  },
+  {
+    "title": "Nausea",
+    "authors": [
+      "Jean-Paul Sartre"
+    ],
+    "isbn_13": "9783351408442",
+    "isbn_10": "3351408447",
+    "genres": [
+      "Philosophy",
+      "Literary Fiction"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1938,
+    "page_count": 253
+  },
+  {
+    "title": "The Second Sex",
+    "authors": [
+      "Simone de Beauvoir"
+    ],
+    "isbn_13": "9788355444403",
+    "isbn_10": "835544440X",
+    "genres": [
+      "Philosophy",
+      "Feminism"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1949,
+    "page_count": 746
+  },
+  {
+    "title": "The Ethics of Ambiguity",
+    "authors": [
+      "Simone de Beauvoir"
+    ],
+    "isbn_13": "9782356696373",
+    "isbn_10": "2356696377",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1947,
+    "page_count": 162
+  },
+  {
+    "title": "Discipline and Punish",
+    "authors": [
+      "Michel Foucault"
+    ],
+    "isbn_13": "9789421522124",
+    "isbn_10": "9421522125",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 333
+  },
+  {
+    "title": "The History of Sexuality",
+    "authors": [
+      "Michel Foucault"
+    ],
+    "isbn_13": "9780224500432",
+    "isbn_10": "0224500430",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1976,
+    "page_count": 168
+  },
+  {
+    "title": "Madness and Civilization",
+    "authors": [
+      "Michel Foucault"
+    ],
+    "isbn_13": "9780461534207",
+    "isbn_10": "0461534207",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1961,
+    "page_count": 299
+  },
+  {
+    "title": "The Order of Things",
+    "authors": [
+      "Michel Foucault"
+    ],
+    "isbn_13": "9784486131120",
+    "isbn_10": "4486131126",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1966,
+    "page_count": 422
+  },
+  {
+    "title": "Of Grammatology",
+    "authors": [
+      "Jacques Derrida"
+    ],
+    "isbn_13": "9782535357002",
+    "isbn_10": "2535357003",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1967,
+    "page_count": 396
+  },
+  {
+    "title": "Writing and Difference",
+    "authors": [
+      "Jacques Derrida"
+    ],
+    "isbn_13": "9783846562055",
+    "isbn_10": "384656205X",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1967,
+    "page_count": 342
+  },
+  {
+    "title": "A Thousand Plateaus",
+    "authors": [
+      "Gilles Deleuze"
+    ],
+    "isbn_13": "9787353488082",
+    "isbn_10": "7353488085",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 610
+  },
+  {
+    "title": "Anti-Oedipus",
+    "authors": [
+      "Gilles Deleuze"
+    ],
+    "isbn_13": "9789309201332",
+    "isbn_10": "9309201339",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 400
+  },
+  {
+    "title": "The Social Contract",
+    "authors": [
+      "Jean-Jacques Rousseau"
+    ],
+    "isbn_13": "9789295323278",
+    "isbn_10": "9295323270",
+    "genres": [
+      "Philosophy",
+      "Politics"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1762,
+    "page_count": 168
+  },
+  {
+    "title": "Discourse on the Method",
+    "authors": [
+      "René Descartes"
+    ],
+    "isbn_13": "9787213225505",
+    "isbn_10": "7213225502",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1637,
+    "page_count": 128
+  },
+  {
+    "title": "Leviathan",
+    "authors": [
+      "Thomas Hobbes"
+    ],
+    "isbn_13": "9786213210405",
+    "isbn_10": "6213210407",
+    "genres": [
+      "Philosophy",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1651,
+    "page_count": 736
+  },
+  {
+    "title": "Two Treatises of Government",
+    "authors": [
+      "John Locke"
+    ],
+    "isbn_13": "9781601532008",
+    "isbn_10": "1601532008",
+    "genres": [
+      "Philosophy",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1689,
+    "page_count": 464
+  },
+  {
+    "title": "An Essay Concerning Human Understanding",
+    "authors": [
+      "John Locke"
+    ],
+    "isbn_13": "9785140340186",
+    "isbn_10": "5140340186",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1689,
+    "page_count": 624
+  },
+  {
+    "title": "A Treatise of Human Nature",
+    "authors": [
+      "David Hume"
+    ],
+    "isbn_13": "9785445049340",
+    "isbn_10": "5445049345",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1739,
+    "page_count": 576
+  },
+  {
+    "title": "An Enquiry Concerning Human Understanding",
+    "authors": [
+      "David Hume"
+    ],
+    "isbn_13": "9783324081948",
+    "isbn_10": "3324081947",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1748,
+    "page_count": 208
+  },
+  {
+    "title": "Utilitarianism",
+    "authors": [
+      "John Stuart Mill"
+    ],
+    "isbn_13": "9782409028229",
+    "isbn_10": "2409028225",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1863,
+    "page_count": 128
+  },
+  {
+    "title": "On Liberty",
+    "authors": [
+      "John Stuart Mill"
+    ],
+    "isbn_13": "9782063531585",
+    "isbn_10": "2063531587",
+    "genres": [
+      "Philosophy",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1859,
+    "page_count": 176
+  },
+  {
+    "title": "The Prince",
+    "authors": [
+      "Niccolò Machiavelli"
+    ],
+    "isbn_13": "9784510122148",
+    "isbn_10": "4510122144",
+    "genres": [
+      "Philosophy",
+      "Politics"
+    ],
+    "language": "it",
+    "source": "seed",
+    "year_published": 1532,
+    "page_count": 128
+  },
+  {
+    "title": "Philosophical Investigations",
+    "authors": [
+      "Ludwig Wittgenstein"
+    ],
+    "isbn_13": "9785645811730",
+    "isbn_10": "5645811739",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1953,
+    "page_count": 250
+  },
+  {
+    "title": "Tractatus Logico-Philosophicus",
+    "authors": [
+      "Ludwig Wittgenstein"
+    ],
+    "isbn_13": "9783549006573",
+    "isbn_10": "3549006578",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1921,
+    "page_count": 108
+  },
+  {
+    "title": "The Structure of Scientific Revolutions",
+    "authors": [
+      "Thomas S. Kuhn"
+    ],
+    "isbn_13": "9782185231240",
+    "isbn_10": "2185231243",
+    "genres": [
+      "Philosophy",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 212
+  },
+  {
+    "title": "Simulacra and Simulation",
+    "authors": [
+      "Jean Baudrillard"
+    ],
+    "isbn_13": "9782650971442",
+    "isbn_10": "2650971444",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 164
+  },
+  {
+    "title": "The Myth of Sisyphus",
+    "authors": [
+      "Albert Camus"
+    ],
+    "isbn_13": "9780334852711",
+    "isbn_10": "0334852714",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1942,
+    "page_count": 212
+  },
+  {
+    "title": "The Rebel",
+    "authors": [
+      "Albert Camus"
+    ],
+    "isbn_13": "9781076497352",
+    "isbn_10": "1076497357",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 306
+  },
+  {
+    "title": "I and Thou",
+    "authors": [
+      "Martin Buber"
+    ],
+    "isbn_13": "9782060342153",
+    "isbn_10": "2060342155",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1923,
+    "page_count": 137
+  },
+  {
+    "title": "The Consolation of Philosophy",
+    "authors": [
+      "Boethius"
+    ],
+    "isbn_13": "9784953065415",
+    "isbn_10": "4953065417",
+    "genres": [
+      "Philosophy",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 524,
+    "page_count": 176
+  },
+  {
+    "title": "Eichmann in Jerusalem",
+    "authors": [
+      "Hannah Arendt"
+    ],
+    "isbn_13": "9785744687144",
+    "isbn_10": "5744687149",
+    "genres": [
+      "Philosophy",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 312
+  },
+  {
+    "title": "The Human Condition",
+    "authors": [
+      "Hannah Arendt"
+    ],
+    "isbn_13": "9783591440226",
+    "isbn_10": "3591440221",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1958,
+    "page_count": 349
+  },
+  {
+    "title": "The Origins of Totalitarianism",
+    "authors": [
+      "Hannah Arendt"
+    ],
+    "isbn_13": "9784592100089",
+    "isbn_10": "4592100085",
+    "genres": [
+      "Philosophy",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 576
+  },
+  {
+    "title": "Minima Moralia",
+    "authors": [
+      "Theodor W. Adorno"
+    ],
+    "isbn_13": "9782163103712",
+    "isbn_10": "2163103714",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 247
+  },
+  {
+    "title": "Dialectic of Enlightenment",
+    "authors": [
+      "Theodor W. Adorno"
+    ],
+    "isbn_13": "9783089350549",
+    "isbn_10": "3089350548",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1944,
+    "page_count": 258
+  },
+  {
+    "title": "One-Dimensional Man",
+    "authors": [
+      "Herbert Marcuse"
+    ],
+    "isbn_13": "9780143570646",
+    "isbn_10": "0143570641",
+    "genres": [
+      "Philosophy",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1964,
+    "page_count": 260
+  },
+  {
+    "title": "The Wretched of the Earth",
+    "authors": [
+      "Frantz Fanon"
+    ],
+    "isbn_13": "9782800222158",
+    "isbn_10": "2800222158",
+    "genres": [
+      "Philosophy",
+      "Politics"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1961,
+    "page_count": 316
+  },
+  {
+    "title": "Black Skin, White Masks",
+    "authors": [
+      "Frantz Fanon"
+    ],
+    "isbn_13": "9782340143715",
+    "isbn_10": "2340143713",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1952,
+    "page_count": 232
+  },
+  {
+    "title": "Pedagogy of the Oppressed",
+    "authors": [
+      "Paulo Freire"
+    ],
+    "isbn_13": "9783115851200",
+    "isbn_10": "3115851200",
+    "genres": [
+      "Philosophy",
+      "Education"
+    ],
+    "language": "pt",
+    "source": "seed",
+    "year_published": 1968,
+    "page_count": 183
+  },
+  {
+    "title": "Justice",
+    "authors": [
+      "Michael Sandel"
+    ],
+    "isbn_13": "9783131330413",
+    "isbn_10": "3131330414",
+    "genres": [
+      "Philosophy",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 308
+  },
+  {
+    "title": "After Virtue",
+    "authors": [
+      "Alasdair MacIntyre"
+    ],
+    "isbn_13": "9788144944466",
+    "isbn_10": "8144944461",
+    "genres": [
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 286
+  },
+  {
+    "title": "A Theory of Justice",
+    "authors": [
+      "John Rawls"
+    ],
+    "isbn_13": "9786040273628",
+    "isbn_10": "6040273623",
+    "genres": [
+      "Philosophy",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1971,
+    "page_count": 607
+  },
+  {
+    "title": "Political Liberalism",
+    "authors": [
+      "John Rawls"
+    ],
+    "isbn_13": "9785657072907",
+    "isbn_10": "5657072901",
+    "genres": [
+      "Philosophy",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 464
+  },
+  {
+    "title": "Anarchy, State, and Utopia",
+    "authors": [
+      "Robert Nozick"
+    ],
+    "isbn_13": "9782114805221",
+    "isbn_10": "2114805220",
+    "genres": [
+      "Philosophy",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 334
+  }
+]

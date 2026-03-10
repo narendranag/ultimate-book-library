@@ -1,0 +1,934 @@
+[
+  {
+    "title": "Things Fall Apart",
+    "authors": [
+      "Chinua Achebe"
+    ],
+    "isbn_13": "9789310172072",
+    "isbn_10": "931017207X",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1958,
+    "page_count": 209
+  },
+  {
+    "title": "No Longer at Ease",
+    "authors": [
+      "Chinua Achebe"
+    ],
+    "isbn_13": "9785923921014",
+    "isbn_10": "5923921014",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1960,
+    "page_count": 170
+  },
+  {
+    "title": "Arrow of God",
+    "authors": [
+      "Chinua Achebe"
+    ],
+    "isbn_13": "9783154077333",
+    "isbn_10": "3154077332",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1964,
+    "page_count": 230
+  },
+  {
+    "title": "A Man of the People",
+    "authors": [
+      "Chinua Achebe"
+    ],
+    "isbn_13": "9784032224573",
+    "isbn_10": "4032224579",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1966,
+    "page_count": 166
+  },
+  {
+    "title": "Anthills of the Savannah",
+    "authors": [
+      "Chinua Achebe"
+    ],
+    "isbn_13": "9782523715128",
+    "isbn_10": "2523715120",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 216
+  },
+  {
+    "title": "The Famished Road",
+    "authors": [
+      "Ben Okri"
+    ],
+    "isbn_13": "9783261255433",
+    "isbn_10": "3261255439",
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 500
+  },
+  {
+    "title": "Songs of Enchantment",
+    "authors": [
+      "Ben Okri"
+    ],
+    "isbn_13": "9784158323334",
+    "isbn_10": "4158323339",
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 297
+  },
+  {
+    "title": "Infinite Riches",
+    "authors": [
+      "Ben Okri"
+    ],
+    "isbn_13": "9784029114016",
+    "isbn_10": "4029114016",
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 366
+  },
+  {
+    "title": "A Way of Being Free",
+    "authors": [
+      "Ben Okri"
+    ],
+    "isbn_13": "9783412405083",
+    "isbn_10": "3412405086",
+    "genres": [
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 139
+  },
+  {
+    "title": "Disgrace",
+    "authors": [
+      "J.M. Coetzee"
+    ],
+    "isbn_13": "9787613431599",
+    "isbn_10": "7613431592",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 220
+  },
+  {
+    "title": "Waiting for the Barbarians",
+    "authors": [
+      "J.M. Coetzee"
+    ],
+    "isbn_13": "9780701223045",
+    "isbn_10": "0701223049",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 152
+  },
+  {
+    "title": "Life & Times of Michael K",
+    "authors": [
+      "J.M. Coetzee"
+    ],
+    "isbn_13": "9782274602913",
+    "isbn_10": "2274602913",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 184
+  },
+  {
+    "title": "Foe",
+    "authors": [
+      "J.M. Coetzee"
+    ],
+    "isbn_13": "9785239103357",
+    "isbn_10": "5239103356",
+    "genres": [
+      "Literary Fiction",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 157
+  },
+  {
+    "title": "Elizabeth Costello",
+    "authors": [
+      "J.M. Coetzee"
+    ],
+    "isbn_13": "9780174134770",
+    "isbn_10": "0174134770",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 233
+  },
+  {
+    "title": "The Childhood of Jesus",
+    "authors": [
+      "J.M. Coetzee"
+    ],
+    "isbn_13": "9782430024221",
+    "isbn_10": "2430024225",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 277
+  },
+  {
+    "title": "Age of Iron",
+    "authors": [
+      "J.M. Coetzee"
+    ],
+    "isbn_13": "9782132156039",
+    "isbn_10": "2132156034",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 198
+  },
+  {
+    "title": "Cry, the Beloved Country",
+    "authors": [
+      "Alan Paton"
+    ],
+    "isbn_13": "9789138028353",
+    "isbn_10": "9138028352",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1948,
+    "page_count": 316
+  },
+  {
+    "title": "Season of Migration to the North",
+    "authors": [
+      "Tayeb Salih"
+    ],
+    "isbn_13": "9785624941304",
+    "isbn_10": "5624941307",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar",
+    "source": "seed",
+    "year_published": 1966,
+    "page_count": 139
+  },
+  {
+    "title": "The Wedding of Zein",
+    "authors": [
+      "Tayeb Salih"
+    ],
+    "isbn_13": "9784324273333",
+    "isbn_10": "4324273332",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 110
+  },
+  {
+    "title": "So Long a Letter",
+    "authors": [
+      "Mariama Bâ"
+    ],
+    "isbn_13": "9780158056555",
+    "isbn_10": "0158056558",
+    "genres": [
+      "Literary Fiction",
+      "Feminism"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 90
+  },
+  {
+    "title": "Nervous Conditions",
+    "authors": [
+      "Tsitsi Dangarembga"
+    ],
+    "isbn_13": "9783393845403",
+    "isbn_10": "3393845403",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 204
+  },
+  {
+    "title": "This Mournable Body",
+    "authors": [
+      "Tsitsi Dangarembga"
+    ],
+    "isbn_13": "9784010241028",
+    "isbn_10": "4010241020",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 285
+  },
+  {
+    "title": "The Book of Not",
+    "authors": [
+      "Tsitsi Dangarembga"
+    ],
+    "isbn_13": "9783831384402",
+    "isbn_10": "3831384401",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 259
+  },
+  {
+    "title": "Petals of Blood",
+    "authors": [
+      "Ngugi wa Thiong'o"
+    ],
+    "isbn_13": "9782432524101",
+    "isbn_10": "2432524101",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 345
+  },
+  {
+    "title": "Weep Not, Child",
+    "authors": [
+      "Ngugi wa Thiong'o"
+    ],
+    "isbn_13": "9781304394545",
+    "isbn_10": "1304394549",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1964,
+    "page_count": 136
+  },
+  {
+    "title": "The River Between",
+    "authors": [
+      "Ngugi wa Thiong'o"
+    ],
+    "isbn_13": "9783053215454",
+    "isbn_10": "3053215454",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 152
+  },
+  {
+    "title": "A Grain of Wheat",
+    "authors": [
+      "Ngugi wa Thiong'o"
+    ],
+    "isbn_13": "9784365531805",
+    "isbn_10": "4365531808",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1967,
+    "page_count": 247
+  },
+  {
+    "title": "Wizard of the Crow",
+    "authors": [
+      "Ngugi wa Thiong'o"
+    ],
+    "isbn_13": "9787325417171",
+    "isbn_10": "7325417179",
+    "genres": [
+      "Literary Fiction",
+      "Satire"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 768
+  },
+  {
+    "title": "Devil on the Cross",
+    "authors": [
+      "Ngugi wa Thiong'o"
+    ],
+    "isbn_13": "9783033588202",
+    "isbn_10": "3033588204",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 254
+  },
+  {
+    "title": "Decolonising the Mind",
+    "authors": [
+      "Ngugi wa Thiong'o"
+    ],
+    "isbn_13": "9784792254827",
+    "isbn_10": "4792254825",
+    "genres": [
+      "Non-Fiction",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 114
+  },
+  {
+    "title": "Americanah",
+    "authors": [
+      "Chimamanda Ngozi Adichie"
+    ],
+    "isbn_13": "9780640130435",
+    "isbn_10": "0640130437",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 477
+  },
+  {
+    "title": "We Should All Be Feminists",
+    "authors": [
+      "Chimamanda Ngozi Adichie"
+    ],
+    "isbn_13": "9789460055508",
+    "isbn_10": "9460055508",
+    "genres": [
+      "Non-Fiction",
+      "Feminism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 64
+  },
+  {
+    "title": "Notes on Grief",
+    "authors": [
+      "Chimamanda Ngozi Adichie"
+    ],
+    "isbn_13": "9780115527500",
+    "isbn_10": "0115527508",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 80
+  },
+  {
+    "title": "My Sister, the Serial Killer",
+    "authors": [
+      "Oyinkan Braithwaite"
+    ],
+    "isbn_13": "9780020132202",
+    "isbn_10": "0020132204",
+    "genres": [
+      "Thriller",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 226
+  },
+  {
+    "title": "Stay with Me",
+    "authors": [
+      "Ayobami Adebayo"
+    ],
+    "isbn_13": "9782303384414",
+    "isbn_10": "2303384419",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 266
+  },
+  {
+    "title": "A Man Lay Dead",
+    "authors": [
+      "Ngaio Marsh"
+    ],
+    "isbn_13": "9789174163834",
+    "isbn_10": "9174163833",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1934,
+    "page_count": 204
+  },
+  {
+    "title": "The Death of Vivek Oji",
+    "authors": [
+      "Akwaeke Emezi"
+    ],
+    "isbn_13": "9780832147524",
+    "isbn_10": "0832147524",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 248
+  },
+  {
+    "title": "Freshwater",
+    "authors": [
+      "Akwaeke Emezi"
+    ],
+    "isbn_13": "9788076289192",
+    "isbn_10": "807628919X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 229
+  },
+  {
+    "title": "The Old Drift",
+    "authors": [
+      "Namwali Serpell"
+    ],
+    "isbn_13": "9785392899081",
+    "isbn_10": "5392899080",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 563
+  },
+  {
+    "title": "Kintu",
+    "authors": [
+      "Jennifer Nansubuga Makumbi"
+    ],
+    "isbn_13": "9780058485455",
+    "isbn_10": "0058485457",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 390
+  },
+  {
+    "title": "The Girl with the Louding Voice",
+    "authors": [
+      "Abi Daré"
+    ],
+    "isbn_13": "9782225201615",
+    "isbn_10": "2225201617",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 366
+  },
+  {
+    "title": "An Orchestra of Minorities",
+    "authors": [
+      "Chigozie Obioma"
+    ],
+    "isbn_13": "9786818333110",
+    "isbn_10": "6818333117",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 446
+  },
+  {
+    "title": "The Fishermen",
+    "authors": [
+      "Chigozie Obioma"
+    ],
+    "isbn_13": "9787714566145",
+    "isbn_10": "7714566140",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 297
+  },
+  {
+    "title": "Under the Udala Trees",
+    "authors": [
+      "Chinelo Okparanta"
+    ],
+    "isbn_13": "9782003321344",
+    "isbn_10": "2003321349",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 322
+  },
+  {
+    "title": "Binti",
+    "authors": [
+      "Nnedi Okofor"
+    ],
+    "isbn_13": "9782192535515",
+    "isbn_10": "2192535511",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 96
+  },
+  {
+    "title": "Who Fears Death",
+    "authors": [
+      "Nnedi Okofor"
+    ],
+    "isbn_13": "9786619615040",
+    "isbn_10": "661961504X",
+    "genres": [
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 386
+  },
+  {
+    "title": "Akata Witch",
+    "authors": [
+      "Nnedi Okofor"
+    ],
+    "isbn_13": "9784252811232",
+    "isbn_10": "4252811236",
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 349
+  },
+  {
+    "title": "Lagoon",
+    "authors": [
+      "Nnedi Okofor"
+    ],
+    "isbn_13": "9780510338596",
+    "isbn_10": "0510338593",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 306
+  },
+  {
+    "title": "Remote Control",
+    "authors": [
+      "Nnedi Okofor"
+    ],
+    "isbn_13": "9785321822401",
+    "isbn_10": "5321822409",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 160
+  },
+  {
+    "title": "Noor",
+    "authors": [
+      "Nnedi Okofor"
+    ],
+    "isbn_13": "9784000922005",
+    "isbn_10": "4000922009",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 224
+  },
+  {
+    "title": "The Memory of Love",
+    "authors": [
+      "Aminatta Forna"
+    ],
+    "isbn_13": "9789312813737",
+    "isbn_10": "9312813730",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 448
+  },
+  {
+    "title": "Happiness",
+    "authors": [
+      "Aminatta Forna"
+    ],
+    "isbn_13": "9783145351657",
+    "isbn_10": "3145351656",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 320
+  },
+  {
+    "title": "The Hired Man",
+    "authors": [
+      "Aminatta Forna"
+    ],
+    "isbn_13": "9783584125444",
+    "isbn_10": "3584125448",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 320
+  },
+  {
+    "title": "A Burning",
+    "authors": [
+      "Megha Majumdar"
+    ],
+    "isbn_13": "9785472834810",
+    "isbn_10": "5472834813",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 256
+  },
+  {
+    "title": "The Promise",
+    "authors": [
+      "Damon Galgut"
+    ],
+    "isbn_13": "9780092429118",
+    "isbn_10": "0092429114",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 293
+  },
+  {
+    "title": "The Good Doctor",
+    "authors": [
+      "Damon Galgut"
+    ],
+    "isbn_13": "9789147050550",
+    "isbn_10": "9147050551",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 215
+  },
+  {
+    "title": "In a Strange Room",
+    "authors": [
+      "Damon Galgut"
+    ],
+    "isbn_13": "9782390756156",
+    "isbn_10": "2390756158",
+    "genres": [
+      "Literary Fiction",
+      "Travel"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 180
+  },
+  {
+    "title": "Born on a Tuesday",
+    "authors": [
+      "Elnathan John"
+    ],
+    "isbn_13": "9780162000940",
+    "isbn_10": "0162000944",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 244
+  },
+  {
+    "title": "Open City",
+    "authors": [
+      "Teju Cole"
+    ],
+    "isbn_13": "9784337587724",
+    "isbn_10": "4337587721",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 259
+  },
+  {
+    "title": "Every Day Is for the Thief",
+    "authors": [
+      "Teju Cole"
+    ],
+    "isbn_13": "9780252017414",
+    "isbn_10": "0252017412",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 162
+  },
+  {
+    "title": "Tremor",
+    "authors": [
+      "Teju Cole"
+    ],
+    "isbn_13": "9784569417189",
+    "isbn_10": "4569417183",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 256
+  }
+]

@@ -1,0 +1,1378 @@
+[
+  {
+    "title": "The Shining",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9788128318023",
+    "isbn_10": "8128318020",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 447
+  },
+  {
+    "title": "It",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9781700301062",
+    "isbn_10": "1700301063",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 1138
+  },
+  {
+    "title": "The Stand",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9785483022046",
+    "isbn_10": "5483022041",
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1978,
+    "page_count": 1153
+  },
+  {
+    "title": "Carrie",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9783957554604",
+    "isbn_10": "3957554608",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 199
+  },
+  {
+    "title": "Salem's Lot",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9789102304452",
+    "isbn_10": "9102304457",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 439
+  },
+  {
+    "title": "Pet Sematary",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9789380428529",
+    "isbn_10": "9380428529",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 374
+  },
+  {
+    "title": "Misery",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9783953069393",
+    "isbn_10": "395306939X",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 310
+  },
+  {
+    "title": "The Dead Zone",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9781433233401",
+    "isbn_10": "1433233401",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 428
+  },
+  {
+    "title": "Cujo",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9780222522535",
+    "isbn_10": "0222522534",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 319
+  },
+  {
+    "title": "Christine",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9782732412115",
+    "isbn_10": "2732412112",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 526
+  },
+  {
+    "title": "Firestarter",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9786944548327",
+    "isbn_10": "6944548321",
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 401
+  },
+  {
+    "title": "Needful Things",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9782353618453",
+    "isbn_10": "2353618456",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 690
+  },
+  {
+    "title": "Bag of Bones",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9782543825548",
+    "isbn_10": "2543825541",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 529
+  },
+  {
+    "title": "Dreamcatcher",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9788371835179",
+    "isbn_10": "8371835175",
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 620
+  },
+  {
+    "title": "Cell",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9782541230351",
+    "isbn_10": "2541230354",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 355
+  },
+  {
+    "title": "Under the Dome",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9780693200925",
+    "isbn_10": "0693200928",
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 1074
+  },
+  {
+    "title": "Revival",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9780849354304",
+    "isbn_10": "0849354307",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 405
+  },
+  {
+    "title": "The Institute",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9784193733990",
+    "isbn_10": "4193733998",
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 561
+  },
+  {
+    "title": "Later",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9783068204474",
+    "isbn_10": "306820447X",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 248
+  },
+  {
+    "title": "Billy Summers",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9786525581040",
+    "isbn_10": "6525581044",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 514
+  },
+  {
+    "title": "Fairy Tale",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9783178022548",
+    "isbn_10": "3178022546",
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 608
+  },
+  {
+    "title": "Holly",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9783026204263",
+    "isbn_10": "3026204269",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 449
+  },
+  {
+    "title": "The Outsider",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9782449205253",
+    "isbn_10": "244920525X",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 561
+  },
+  {
+    "title": "If It Bleeds",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9780007514670",
+    "isbn_10": "0007514670",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 448
+  },
+  {
+    "title": "The Dark Tower: The Gunslinger",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9781343920309",
+    "isbn_10": "1343920302",
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 224
+  },
+  {
+    "title": "The Drawing of the Three",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9780514633314",
+    "isbn_10": "051463331X",
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 400
+  },
+  {
+    "title": "The Waste Lands",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9781044448041",
+    "isbn_10": "1044448040",
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 512
+  },
+  {
+    "title": "Wizard and Glass",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9780524747537",
+    "isbn_10": "0524747539",
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 787
+  },
+  {
+    "title": "Wolves of the Calla",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9784503457936",
+    "isbn_10": "4503457934",
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 714
+  },
+  {
+    "title": "Song of Susannah",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9783134282382",
+    "isbn_10": "3134282380",
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 432
+  },
+  {
+    "title": "The Dark Tower",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9785074305886",
+    "isbn_10": "5074305888",
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 845
+  },
+  {
+    "title": "The Haunting of Hill House",
+    "authors": [
+      "Shirley Jackson"
+    ],
+    "isbn_13": "9783411003013",
+    "isbn_10": "3411003014",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 246
+  },
+  {
+    "title": "We Have Always Lived in the Castle",
+    "authors": [
+      "Shirley Jackson"
+    ],
+    "isbn_13": "9785204435728",
+    "isbn_10": "5204435727",
+    "genres": [
+      "Horror",
+      "Gothic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 214
+  },
+  {
+    "title": "The Lottery and Other Stories",
+    "authors": [
+      "Shirley Jackson"
+    ],
+    "isbn_13": "9780470922156",
+    "isbn_10": "047092215X",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1949,
+    "page_count": 302
+  },
+  {
+    "title": "Hangsaman",
+    "authors": [
+      "Shirley Jackson"
+    ],
+    "isbn_13": "9783493000214",
+    "isbn_10": "3493000219",
+    "genres": [
+      "Horror",
+      "Gothic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 218
+  },
+  {
+    "title": "The Sundial",
+    "authors": [
+      "Shirley Jackson"
+    ],
+    "isbn_13": "9781171446453",
+    "isbn_10": "1171446454",
+    "genres": [
+      "Horror",
+      "Gothic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1958,
+    "page_count": 245
+  },
+  {
+    "title": "House of Leaves",
+    "authors": [
+      "Mark Z. Danielewski"
+    ],
+    "isbn_13": "9783152189557",
+    "isbn_10": "3152189559",
+    "genres": [
+      "Horror",
+      "Postmodern"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 709
+  },
+  {
+    "title": "The Raw Shark Texts",
+    "authors": [
+      "Steven Hall"
+    ],
+    "isbn_13": "9782807505421",
+    "isbn_10": "2807505422",
+    "genres": [
+      "Horror",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 428
+  },
+  {
+    "title": "Mexican Gothic",
+    "authors": [
+      "Silvia Moreno-Garcia"
+    ],
+    "isbn_13": "9782950038210",
+    "isbn_10": "2950038212",
+    "genres": [
+      "Horror",
+      "Gothic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 301
+  },
+  {
+    "title": "The Only Good Indians",
+    "authors": [
+      "Stephen Graham Jones"
+    ],
+    "isbn_13": "9781385885901",
+    "isbn_10": "1385885904",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 320
+  },
+  {
+    "title": "My Heart Is a Chainsaw",
+    "authors": [
+      "Stephen Graham Jones"
+    ],
+    "isbn_13": "9785925272510",
+    "isbn_10": "592527251X",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 416
+  },
+  {
+    "title": "Don't Fear the Reaper",
+    "authors": [
+      "Stephen Graham Jones"
+    ],
+    "isbn_13": "9788132041436",
+    "isbn_10": "8132041437",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 528
+  },
+  {
+    "title": "The Angel of Indian Lake",
+    "authors": [
+      "Stephen Graham Jones"
+    ],
+    "isbn_13": "9781100998589",
+    "isbn_10": "1100998586",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 352
+  },
+  {
+    "title": "The Troop",
+    "authors": [
+      "Nick Cutter"
+    ],
+    "isbn_13": "9785735614906",
+    "isbn_10": "5735614908",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 358
+  },
+  {
+    "title": "The Deep",
+    "authors": [
+      "Nick Cutter"
+    ],
+    "isbn_13": "9788079227436",
+    "isbn_10": "8079227438",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 394
+  },
+  {
+    "title": "Tender Is the Flesh",
+    "authors": [
+      "Agustina Bazterrica"
+    ],
+    "isbn_13": "9788547654047",
+    "isbn_10": "8547654046",
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 224
+  },
+  {
+    "title": "Plain Bad Heroines",
+    "authors": [
+      "Emily M. Danforth"
+    ],
+    "isbn_13": "9781565214149",
+    "isbn_10": "1565214145",
+    "genres": [
+      "Horror",
+      "Gothic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 640
+  },
+  {
+    "title": "Beloved",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9782002543402",
+    "isbn_10": "2002543402",
+    "genres": [
+      "Horror",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 324
+  },
+  {
+    "title": "The Turn of the Screw",
+    "authors": [
+      "Henry James"
+    ],
+    "isbn_13": "9785232315436",
+    "isbn_10": "5232315439",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1898,
+    "page_count": 96
+  },
+  {
+    "title": "Frankenstein",
+    "authors": [
+      "Mary Shelley"
+    ],
+    "isbn_13": "9784754928421",
+    "isbn_10": "4754928423",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1818,
+    "page_count": 280
+  },
+  {
+    "title": "Dracula",
+    "authors": [
+      "Bram Stoker"
+    ],
+    "isbn_13": "9781425822408",
+    "isbn_10": "1425822401",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1897,
+    "page_count": 418
+  },
+  {
+    "title": "The Strange Case of Dr Jekyll and Mr Hyde",
+    "authors": [
+      "Robert Louis Stevenson"
+    ],
+    "isbn_13": "9782821014121",
+    "isbn_10": "2821014120",
+    "genres": [
+      "Horror",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1886,
+    "page_count": 141
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "authors": [
+      "Oscar Wilde"
+    ],
+    "isbn_13": "9780186732346",
+    "isbn_10": "0186732341",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1890,
+    "page_count": 254
+  },
+  {
+    "title": "The Call of Cthulhu",
+    "authors": [
+      "H.P. Lovecraft"
+    ],
+    "isbn_13": "9788643117545",
+    "isbn_10": "8643117544",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1928,
+    "page_count": 43
+  },
+  {
+    "title": "At the Mountains of Madness",
+    "authors": [
+      "H.P. Lovecraft"
+    ],
+    "isbn_13": "9783075113127",
+    "isbn_10": "3075113123",
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1936,
+    "page_count": 111
+  },
+  {
+    "title": "The Shadow over Innsmouth",
+    "authors": [
+      "H.P. Lovecraft"
+    ],
+    "isbn_13": "9781802507584",
+    "isbn_10": "1802507582",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1936,
+    "page_count": 80
+  },
+  {
+    "title": "The Colour Out of Space",
+    "authors": [
+      "H.P. Lovecraft"
+    ],
+    "isbn_13": "9783250214755",
+    "isbn_10": "3250214752",
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1927,
+    "page_count": 40
+  },
+  {
+    "title": "The Dunwich Horror",
+    "authors": [
+      "H.P. Lovecraft"
+    ],
+    "isbn_13": "9782551515226",
+    "isbn_10": "255151522X",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1929,
+    "page_count": 52
+  },
+  {
+    "title": "The Whisperer in Darkness",
+    "authors": [
+      "H.P. Lovecraft"
+    ],
+    "isbn_13": "9782529791218",
+    "isbn_10": "252979121X",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1931,
+    "page_count": 88
+  },
+  {
+    "title": "Something Wicked This Way Comes",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9782232806551",
+    "isbn_10": "2232806553",
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 293
+  },
+  {
+    "title": "The October Country",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9784063061246",
+    "isbn_10": "4063061248",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1955,
+    "page_count": 306
+  },
+  {
+    "title": "The Exorcist",
+    "authors": [
+      "William Peter Blatty"
+    ],
+    "isbn_13": "9781423542049",
+    "isbn_10": "1423542045",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1971,
+    "page_count": 340
+  },
+  {
+    "title": "Rosemary's Baby",
+    "authors": [
+      "Ira Levin"
+    ],
+    "isbn_13": "9785312051384",
+    "isbn_10": "5312051381",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1967,
+    "page_count": 245
+  },
+  {
+    "title": "The Stepford Wives",
+    "authors": [
+      "Ira Levin"
+    ],
+    "isbn_13": "9780261194410",
+    "isbn_10": "0261194410",
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 145
+  },
+  {
+    "title": "A Boy's Life",
+    "authors": [
+      "Robert McCammon"
+    ],
+    "isbn_13": "9780084996246",
+    "isbn_10": "0084996242",
+    "genres": [
+      "Horror",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 504
+  },
+  {
+    "title": "Swan Song",
+    "authors": [
+      "Robert McCammon"
+    ],
+    "isbn_13": "9781365840241",
+    "isbn_10": "1365840247",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 956
+  },
+  {
+    "title": "The Ruins",
+    "authors": [
+      "Scott Smith"
+    ],
+    "isbn_13": "9783314306167",
+    "isbn_10": "3314306164",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 385
+  },
+  {
+    "title": "A Simple Plan",
+    "authors": [
+      "Scott Smith"
+    ],
+    "isbn_13": "9784603953253",
+    "isbn_10": "4603953259",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 335
+  },
+  {
+    "title": "Hex",
+    "authors": [
+      "Thomas Olde Heuvelt"
+    ],
+    "isbn_13": "9780016596018",
+    "isbn_10": "0016596013",
+    "genres": [
+      "Horror"
+    ],
+    "language": "nl",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 384
+  },
+  {
+    "title": "The Cabin at the End of the World",
+    "authors": [
+      "Paul Tremblay"
+    ],
+    "isbn_13": "9788733308396",
+    "isbn_10": "873330839X",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 272
+  },
+  {
+    "title": "A Head Full of Ghosts",
+    "authors": [
+      "Paul Tremblay"
+    ],
+    "isbn_13": "9788310995797",
+    "isbn_10": "8310995792",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 286
+  },
+  {
+    "title": "The Pallbearers Club",
+    "authors": [
+      "Paul Tremblay"
+    ],
+    "isbn_13": "9780624053095",
+    "isbn_10": "0624053091",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 256
+  },
+  {
+    "title": "Horror Movie",
+    "authors": [
+      "Paul Tremblay"
+    ],
+    "isbn_13": "9782132130077",
+    "isbn_10": "2132130078",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 288
+  },
+  {
+    "title": "Survivor Song",
+    "authors": [
+      "Paul Tremblay"
+    ],
+    "isbn_13": "9782132151638",
+    "isbn_10": "2132151636",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 310
+  },
+  {
+    "title": "The Elementals",
+    "authors": [
+      "Michael McDowell"
+    ],
+    "isbn_13": "9789712407130",
+    "isbn_10": "9712407136",
+    "genres": [
+      "Horror",
+      "Gothic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 289
+  },
+  {
+    "title": "Blackwater: The Flood",
+    "authors": [
+      "Michael McDowell"
+    ],
+    "isbn_13": "9783133213318",
+    "isbn_10": "3133213318",
+    "genres": [
+      "Horror",
+      "Gothic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 182
+  },
+  {
+    "title": "Come Closer",
+    "authors": [
+      "Sara Gran"
+    ],
+    "isbn_13": "9784020271084",
+    "isbn_10": "4020271089",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 168
+  },
+  {
+    "title": "The Changeling",
+    "authors": [
+      "Victor LaValle"
+    ],
+    "isbn_13": "9789430644404",
+    "isbn_10": "9430644408",
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 431
+  },
+  {
+    "title": "The Ballad of Black Tom",
+    "authors": [
+      "Victor LaValle"
+    ],
+    "isbn_13": "9784651299433",
+    "isbn_10": "4651299431",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 149
+  },
+  {
+    "title": "Ring",
+    "authors": [
+      "Koji Suzuki"
+    ],
+    "isbn_13": "9781749233355",
+    "isbn_10": "1749233355",
+    "genres": [
+      "Horror"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 286
+  },
+  {
+    "title": "Spiral",
+    "authors": [
+      "Koji Suzuki"
+    ],
+    "isbn_13": "9786949090005",
+    "isbn_10": "6949090005",
+    "genres": [
+      "Horror"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 283
+  },
+  {
+    "title": "Loop",
+    "authors": [
+      "Koji Suzuki"
+    ],
+    "isbn_13": "9782051024846",
+    "isbn_10": "2051024847",
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 286
+  },
+  {
+    "title": "Dark Water",
+    "authors": [
+      "Koji Suzuki"
+    ],
+    "isbn_13": "9787858930963",
+    "isbn_10": "7858930966",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 278
+  },
+  {
+    "title": "Uzumaki",
+    "authors": [
+      "Junji Ito"
+    ],
+    "isbn_13": "9784509855507",
+    "isbn_10": "4509855508",
+    "genres": [
+      "Horror",
+      "Manga"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 648
+  },
+  {
+    "title": "Tomie",
+    "authors": [
+      "Junji Ito"
+    ],
+    "isbn_13": "9784483451832",
+    "isbn_10": "4483451839",
+    "genres": [
+      "Horror",
+      "Manga"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 752
+  },
+  {
+    "title": "Gyo",
+    "authors": [
+      "Junji Ito"
+    ],
+    "isbn_13": "9782676384509",
+    "isbn_10": "2676384503",
+    "genres": [
+      "Horror",
+      "Manga"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 400
+  },
+  {
+    "title": "Remina",
+    "authors": [
+      "Junji Ito"
+    ],
+    "isbn_13": "9782330115791",
+    "isbn_10": "2330115792",
+    "genres": [
+      "Horror",
+      "Manga"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 256
+  },
+  {
+    "title": "Battle Royale",
+    "authors": [
+      "Koushun Takami"
+    ],
+    "isbn_13": "9782030313022",
+    "isbn_10": "2030313025",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 617
+  }
+]

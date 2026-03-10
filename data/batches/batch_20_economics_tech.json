@@ -1,0 +1,1160 @@
+[
+  {
+    "title": "The Wealth of Nations",
+    "authors": [
+      "Adam Smith"
+    ],
+    "isbn_13": "9782743853433",
+    "isbn_10": "2743853433",
+    "genres": [
+      "Economics",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1776,
+    "page_count": 1264
+  },
+  {
+    "title": "Capital",
+    "authors": [
+      "Karl Marx"
+    ],
+    "isbn_13": "9784349332015",
+    "isbn_10": "4349332014",
+    "genres": [
+      "Economics",
+      "Politics"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1867,
+    "page_count": 1152
+  },
+  {
+    "title": "The Communist Manifesto",
+    "authors": [
+      "Karl Marx"
+    ],
+    "isbn_13": "9781281522504",
+    "isbn_10": "1281522503",
+    "genres": [
+      "Politics",
+      "Economics"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1848,
+    "page_count": 80
+  },
+  {
+    "title": "The General Theory of Employment, Interest and Money",
+    "authors": [
+      "John Maynard Keynes"
+    ],
+    "isbn_13": "9786262530257",
+    "isbn_10": "6262530258",
+    "genres": [
+      "Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1936,
+    "page_count": 472
+  },
+  {
+    "title": "Capitalism and Freedom",
+    "authors": [
+      "Milton Friedman"
+    ],
+    "isbn_13": "9780620497763",
+    "isbn_10": "0620497769",
+    "genres": [
+      "Economics",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 208
+  },
+  {
+    "title": "Free to Choose",
+    "authors": [
+      "Milton Friedman"
+    ],
+    "isbn_13": "9781328602428",
+    "isbn_10": "1328602427",
+    "genres": [
+      "Economics",
+      "Politics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 338
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "authors": [
+      "Daniel Kahneman"
+    ],
+    "isbn_13": "9785530221538",
+    "isbn_10": "553022153X",
+    "genres": [
+      "Psychology",
+      "Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 499
+  },
+  {
+    "title": "Noise",
+    "authors": [
+      "Daniel Kahneman"
+    ],
+    "isbn_13": "9787238251145",
+    "isbn_10": "7238251140",
+    "genres": [
+      "Psychology",
+      "Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 464
+  },
+  {
+    "title": "Nudge",
+    "authors": [
+      "Richard H. Thaler"
+    ],
+    "isbn_13": "9787441424404",
+    "isbn_10": "7441424402",
+    "genres": [
+      "Economics",
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 312
+  },
+  {
+    "title": "Misbehaving",
+    "authors": [
+      "Richard H. Thaler"
+    ],
+    "isbn_13": "9785423215361",
+    "isbn_10": "5423215366",
+    "genres": [
+      "Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 432
+  },
+  {
+    "title": "Freakonomics",
+    "authors": [
+      "Steven D. Levitt"
+    ],
+    "isbn_13": "9784715527601",
+    "isbn_10": "471552760X",
+    "genres": [
+      "Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 315
+  },
+  {
+    "title": "SuperFreakonomics",
+    "authors": [
+      "Steven D. Levitt"
+    ],
+    "isbn_13": "9782166121317",
+    "isbn_10": "2166121314",
+    "genres": [
+      "Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 320
+  },
+  {
+    "title": "Capital in the Twenty-First Century",
+    "authors": [
+      "Thomas Piketty"
+    ],
+    "isbn_13": "9783376522475",
+    "isbn_10": "3376522472",
+    "genres": [
+      "Economics"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 696
+  },
+  {
+    "title": "Doughnut Economics",
+    "authors": [
+      "Kate Raworth"
+    ],
+    "isbn_13": "9784324032978",
+    "isbn_10": "4324032971",
+    "genres": [
+      "Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 384
+  },
+  {
+    "title": "The Big Short",
+    "authors": [
+      "Michael Lewis"
+    ],
+    "isbn_13": "9784493415350",
+    "isbn_10": "4493415355",
+    "genres": [
+      "Economics",
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 266
+  },
+  {
+    "title": "Flash Boys",
+    "authors": [
+      "Michael Lewis"
+    ],
+    "isbn_13": "9785160249605",
+    "isbn_10": "5160249605",
+    "genres": [
+      "Economics",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 274
+  },
+  {
+    "title": "Moneyball",
+    "authors": [
+      "Michael Lewis"
+    ],
+    "isbn_13": "9784945051341",
+    "isbn_10": "4945051348",
+    "genres": [
+      "Non-Fiction",
+      "Sports"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 317
+  },
+  {
+    "title": "The Undoing Project",
+    "authors": [
+      "Michael Lewis"
+    ],
+    "isbn_13": "9784814099122",
+    "isbn_10": "4814099126",
+    "genres": [
+      "Non-Fiction",
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 368
+  },
+  {
+    "title": "Liar's Poker",
+    "authors": [
+      "Michael Lewis"
+    ],
+    "isbn_13": "9784438286236",
+    "isbn_10": "4438286239",
+    "genres": [
+      "Memoir",
+      "Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 249
+  },
+  {
+    "title": "Going Infinite",
+    "authors": [
+      "Michael Lewis"
+    ],
+    "isbn_13": "9785104104700",
+    "isbn_10": "5104104702",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 266
+  },
+  {
+    "title": "Bad Blood",
+    "authors": [
+      "John Carreyrou"
+    ],
+    "isbn_13": "9788950132088",
+    "isbn_10": "8950132087",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 352
+  },
+  {
+    "title": "The Innovators",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "isbn_13": "9784133567265",
+    "isbn_10": "4133567269",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 560
+  },
+  {
+    "title": "The Soul of a New Machine",
+    "authors": [
+      "Tracy Kidder"
+    ],
+    "isbn_13": "9787205915070",
+    "isbn_10": "7205915074",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 293
+  },
+  {
+    "title": "Hackers",
+    "authors": [
+      "Steven Levy"
+    ],
+    "isbn_13": "9781665103800",
+    "isbn_10": "1665103809",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 520
+  },
+  {
+    "title": "The Cuckoo's Egg",
+    "authors": [
+      "Clifford Stoll"
+    ],
+    "isbn_13": "9782452770014",
+    "isbn_10": "2452770019",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 326
+  },
+  {
+    "title": "Dealers of Lightning",
+    "authors": [
+      "Michael A. Hiltzik"
+    ],
+    "isbn_13": "9782355442018",
+    "isbn_10": "2355442010",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 448
+  },
+  {
+    "title": "Where Wizards Stay Up Late",
+    "authors": [
+      "Katie Hafner"
+    ],
+    "isbn_13": "9782149112455",
+    "isbn_10": "2149112450",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 304
+  },
+  {
+    "title": "Coders",
+    "authors": [
+      "Clive Thompson"
+    ],
+    "isbn_13": "9784400077398",
+    "isbn_10": "440007739X",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 448
+  },
+  {
+    "title": "The Age of Surveillance Capitalism",
+    "authors": [
+      "Shoshana Zuboff"
+    ],
+    "isbn_13": "9787155129206",
+    "isbn_10": "7155129208",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 691
+  },
+  {
+    "title": "Weapons of Math Destruction",
+    "authors": [
+      "Cathy O'Neil"
+    ],
+    "isbn_13": "9785332052972",
+    "isbn_10": "5332052979",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 272
+  },
+  {
+    "title": "Algorithms of Oppression",
+    "authors": [
+      "Safiya Umoja Noble"
+    ],
+    "isbn_13": "9786204078151",
+    "isbn_10": "6204078151",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 256
+  },
+  {
+    "title": "The Alignment Problem",
+    "authors": [
+      "Brian Christian"
+    ],
+    "isbn_13": "9780362205176",
+    "isbn_10": "0362205175",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 496
+  },
+  {
+    "title": "Life 3.0",
+    "authors": [
+      "Max Tegmark"
+    ],
+    "isbn_13": "9785547445200",
+    "isbn_10": "5547445207",
+    "genres": [
+      "Non-Fiction",
+      "Technology",
+      "Science"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 384
+  },
+  {
+    "title": "Superintelligence",
+    "authors": [
+      "Nick Bostrom"
+    ],
+    "isbn_13": "9788513701423",
+    "isbn_10": "8513701424",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 352
+  },
+  {
+    "title": "Human Compatible",
+    "authors": [
+      "Stuart Russell"
+    ],
+    "isbn_13": "9783646501117",
+    "isbn_10": "3646501111",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 336
+  },
+  {
+    "title": "Atlas of AI",
+    "authors": [
+      "Kate Crawford"
+    ],
+    "isbn_13": "9785515151751",
+    "isbn_10": "5515151755",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 336
+  },
+  {
+    "title": "The Master Algorithm",
+    "authors": [
+      "Pedro Domingos"
+    ],
+    "isbn_13": "9780984092185",
+    "isbn_10": "0984092188",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 352
+  },
+  {
+    "title": "Gödel, Escher, Bach",
+    "authors": [
+      "Douglas Hofstadter"
+    ],
+    "isbn_13": "9784924279025",
+    "isbn_10": "4924279021",
+    "genres": [
+      "Non-Fiction",
+      "Science",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 777
+  },
+  {
+    "title": "I Am a Strange Loop",
+    "authors": [
+      "Douglas Hofstadter"
+    ],
+    "isbn_13": "9781681438528",
+    "isbn_10": "1681438526",
+    "genres": [
+      "Non-Fiction",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 412
+  },
+  {
+    "title": "The Design of Everyday Things",
+    "authors": [
+      "Don Norman"
+    ],
+    "isbn_13": "9783134550016",
+    "isbn_10": "3134550016",
+    "genres": [
+      "Non-Fiction",
+      "Design"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 368
+  },
+  {
+    "title": "Zero to One",
+    "authors": [
+      "Peter Thiel"
+    ],
+    "isbn_13": "9787102051994",
+    "isbn_10": "7102051999",
+    "genres": [
+      "Business",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 195
+  },
+  {
+    "title": "The Lean Startup",
+    "authors": [
+      "Eric Ries"
+    ],
+    "isbn_13": "9785201571405",
+    "isbn_10": "5201571409",
+    "genres": [
+      "Business",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 336
+  },
+  {
+    "title": "Good to Great",
+    "authors": [
+      "Jim Collins"
+    ],
+    "isbn_13": "9783335529033",
+    "isbn_10": "3335529030",
+    "genres": [
+      "Business"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 300
+  },
+  {
+    "title": "Built to Last",
+    "authors": [
+      "Jim Collins"
+    ],
+    "isbn_13": "9783165365511",
+    "isbn_10": "3165365512",
+    "genres": [
+      "Business"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 368
+  },
+  {
+    "title": "The Hard Thing About Hard Things",
+    "authors": [
+      "Ben Horowitz"
+    ],
+    "isbn_13": "9787056682749",
+    "isbn_10": "705668274X",
+    "genres": [
+      "Business",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 304
+  },
+  {
+    "title": "Blitzscaling",
+    "authors": [
+      "Reid Hoffman"
+    ],
+    "isbn_13": "9788339230060",
+    "isbn_10": "8339230069",
+    "genres": [
+      "Business",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 320
+  },
+  {
+    "title": "The Innovator's Dilemma",
+    "authors": [
+      "Clayton M. Christensen"
+    ],
+    "isbn_13": "9786157146020",
+    "isbn_10": "6157146028",
+    "genres": [
+      "Business",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 286
+  },
+  {
+    "title": "Crossing the Chasm",
+    "authors": [
+      "Geoffrey A. Moore"
+    ],
+    "isbn_13": "9789915864341",
+    "isbn_10": "9915864345",
+    "genres": [
+      "Business",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 227
+  },
+  {
+    "title": "Sapiens",
+    "authors": [
+      "Yuval Noah Harari"
+    ],
+    "isbn_13": "9780711390065",
+    "isbn_10": "0711390061",
+    "genres": [
+      "Non-Fiction",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 443
+  },
+  {
+    "title": "Homo Deus",
+    "authors": [
+      "Yuval Noah Harari"
+    ],
+    "isbn_13": "9785244385731",
+    "isbn_10": "5244385739",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 449
+  },
+  {
+    "title": "21 Lessons for the 21st Century",
+    "authors": [
+      "Yuval Noah Harari"
+    ],
+    "isbn_13": "9780274503445",
+    "isbn_10": "0274503441",
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 372
+  },
+  {
+    "title": "Nexus",
+    "authors": [
+      "Yuval Noah Harari"
+    ],
+    "isbn_13": "9781132155073",
+    "isbn_10": "113215507X",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 528
+  },
+  {
+    "title": "Range",
+    "authors": [
+      "David Epstein"
+    ],
+    "isbn_13": "9783046790739",
+    "isbn_10": "3046790732",
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 352
+  },
+  {
+    "title": "Outliers",
+    "authors": [
+      "Malcolm Gladwell"
+    ],
+    "isbn_13": "9780128582121",
+    "isbn_10": "012858212X",
+    "genres": [
+      "Non-Fiction",
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 309
+  },
+  {
+    "title": "The Tipping Point",
+    "authors": [
+      "Malcolm Gladwell"
+    ],
+    "isbn_13": "9782593800014",
+    "isbn_10": "2593800011",
+    "genres": [
+      "Non-Fiction",
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 301
+  },
+  {
+    "title": "Blink",
+    "authors": [
+      "Malcolm Gladwell"
+    ],
+    "isbn_13": "9785945742451",
+    "isbn_10": "5945742457",
+    "genres": [
+      "Non-Fiction",
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 277
+  },
+  {
+    "title": "David and Goliath",
+    "authors": [
+      "Malcolm Gladwell"
+    ],
+    "isbn_13": "9785514122004",
+    "isbn_10": "551412200X",
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 305
+  },
+  {
+    "title": "Talking to Strangers",
+    "authors": [
+      "Malcolm Gladwell"
+    ],
+    "isbn_13": "9789325635326",
+    "isbn_10": "9325635321",
+    "genres": [
+      "Non-Fiction",
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 400
+  },
+  {
+    "title": "The Bomber Mafia",
+    "authors": [
+      "Malcolm Gladwell"
+    ],
+    "isbn_13": "9787388233565",
+    "isbn_10": "7388233563",
+    "genres": [
+      "Non-Fiction",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 256
+  },
+  {
+    "title": "Revenge of the Tipping Point",
+    "authors": [
+      "Malcolm Gladwell"
+    ],
+    "isbn_13": "9783818032487",
+    "isbn_10": "3818032483",
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 304
+  },
+  {
+    "title": "Atomic Habits",
+    "authors": [
+      "James Clear"
+    ],
+    "isbn_13": "9785396813229",
+    "isbn_10": "5396813229",
+    "genres": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 320
+  },
+  {
+    "title": "The Power of Habit",
+    "authors": [
+      "Charles Duhigg"
+    ],
+    "isbn_13": "9784395246649",
+    "isbn_10": "4395246648",
+    "genres": [
+      "Non-Fiction",
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 371
+  },
+  {
+    "title": "Supercommunicators",
+    "authors": [
+      "Charles Duhigg"
+    ],
+    "isbn_13": "9786431953641",
+    "isbn_10": "6431953649",
+    "genres": [
+      "Non-Fiction",
+      "Psychology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 320
+  },
+  {
+    "title": "Deep Work",
+    "authors": [
+      "Cal Newport"
+    ],
+    "isbn_13": "9780727403377",
+    "isbn_10": "0727403370",
+    "genres": [
+      "Non-Fiction",
+      "Business"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 296
+  },
+  {
+    "title": "Digital Minimalism",
+    "authors": [
+      "Cal Newport"
+    ],
+    "isbn_13": "9785270240318",
+    "isbn_10": "5270240319",
+    "genres": [
+      "Non-Fiction",
+      "Technology"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 284
+  },
+  {
+    "title": "A World Without Email",
+    "authors": [
+      "Cal Newport"
+    ],
+    "isbn_13": "9780081920503",
+    "isbn_10": "0081920504",
+    "genres": [
+      "Non-Fiction",
+      "Business"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 272
+  },
+  {
+    "title": "Slow Productivity",
+    "authors": [
+      "Cal Newport"
+    ],
+    "isbn_13": "9781235187582",
+    "isbn_10": "1235187586",
+    "genres": [
+      "Non-Fiction",
+      "Business"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 256
+  },
+  {
+    "title": "So Good They Can't Ignore You",
+    "authors": [
+      "Cal Newport"
+    ],
+    "isbn_13": "9785536581827",
+    "isbn_10": "5536581821",
+    "genres": [
+      "Non-Fiction",
+      "Business"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 268
+  },
+  {
+    "title": "The Black Swan",
+    "authors": [
+      "Nassim Nicholas Taleb"
+    ],
+    "isbn_13": "9783500413174",
+    "isbn_10": "350041317X",
+    "genres": [
+      "Non-Fiction",
+      "Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 366
+  },
+  {
+    "title": "Antifragile",
+    "authors": [
+      "Nassim Nicholas Taleb"
+    ],
+    "isbn_13": "9786103303309",
+    "isbn_10": "6103303303",
+    "genres": [
+      "Non-Fiction",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 519
+  },
+  {
+    "title": "Fooled by Randomness",
+    "authors": [
+      "Nassim Nicholas Taleb"
+    ],
+    "isbn_13": "9782342215564",
+    "isbn_10": "2342215568",
+    "genres": [
+      "Non-Fiction",
+      "Economics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 368
+  },
+  {
+    "title": "Skin in the Game",
+    "authors": [
+      "Nassim Nicholas Taleb"
+    ],
+    "isbn_13": "9788150159717",
+    "isbn_10": "8150159711",
+    "genres": [
+      "Non-Fiction",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 304
+  },
+  {
+    "title": "The Bed of Procrustes",
+    "authors": [
+      "Nassim Nicholas Taleb"
+    ],
+    "isbn_13": "9783209952165",
+    "isbn_10": "3209952167",
+    "genres": [
+      "Non-Fiction",
+      "Philosophy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 176
+  }
+]

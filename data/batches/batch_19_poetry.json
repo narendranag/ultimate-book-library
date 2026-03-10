@@ -1,0 +1,832 @@
+[
+  {
+    "title": "Leaves of Grass",
+    "authors": [
+      "Walt Whitman"
+    ],
+    "isbn_13": "9780631685715",
+    "isbn_10": "0631685715",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1855,
+    "page_count": 448
+  },
+  {
+    "title": "The Collected Poems of Emily Dickinson",
+    "authors": [
+      "Emily Dickinson"
+    ],
+    "isbn_13": "9784075848774",
+    "isbn_10": "4075848779",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1890,
+    "page_count": 493
+  },
+  {
+    "title": "Ariel",
+    "authors": [
+      "Sylvia Plath"
+    ],
+    "isbn_13": "9784841503968",
+    "isbn_10": "484150396X",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 80
+  },
+  {
+    "title": "The Colossus",
+    "authors": [
+      "Sylvia Plath"
+    ],
+    "isbn_13": "9784234014453",
+    "isbn_10": "4234014451",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1960,
+    "page_count": 85
+  },
+  {
+    "title": "The Bell Jar",
+    "authors": [
+      "Sylvia Plath"
+    ],
+    "isbn_13": "9785243092449",
+    "isbn_10": "5243092444",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 244
+  },
+  {
+    "title": "Howl and Other Poems",
+    "authors": [
+      "Allen Ginsberg"
+    ],
+    "isbn_13": "9780720565164",
+    "isbn_10": "0720565162",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1956,
+    "page_count": 44
+  },
+  {
+    "title": "Kaddish and Other Poems",
+    "authors": [
+      "Allen Ginsberg"
+    ],
+    "isbn_13": "9782752120045",
+    "isbn_10": "2752120044",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1961,
+    "page_count": 100
+  },
+  {
+    "title": "The Waste Land",
+    "authors": [
+      "T.S. Eliot"
+    ],
+    "isbn_13": "9784126298176",
+    "isbn_10": "4126298177",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1922,
+    "page_count": 64
+  },
+  {
+    "title": "Four Quartets",
+    "authors": [
+      "T.S. Eliot"
+    ],
+    "isbn_13": "9787517344148",
+    "isbn_10": "7517344145",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1943,
+    "page_count": 48
+  },
+  {
+    "title": "The Love Song of J. Alfred Prufrock",
+    "authors": [
+      "T.S. Eliot"
+    ],
+    "isbn_13": "9788402235459",
+    "isbn_10": "840223545X",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1915,
+    "page_count": 32
+  },
+  {
+    "title": "The Cantos",
+    "authors": [
+      "Ezra Pound"
+    ],
+    "isbn_13": "9788177037319",
+    "isbn_10": "8177037315",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1970,
+    "page_count": 824
+  },
+  {
+    "title": "Personae",
+    "authors": [
+      "Ezra Pound"
+    ],
+    "isbn_13": "9781345392562",
+    "isbn_10": "1345392567",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1909,
+    "page_count": 232
+  },
+  {
+    "title": "Collected Poems",
+    "authors": [
+      "W.B. Yeats"
+    ],
+    "isbn_13": "9787332183854",
+    "isbn_10": "7332183854",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 544
+  },
+  {
+    "title": "The Tower",
+    "authors": [
+      "W.B. Yeats"
+    ],
+    "isbn_13": "9789020539592",
+    "isbn_10": "9020539590",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1928,
+    "page_count": 104
+  },
+  {
+    "title": "North",
+    "authors": [
+      "Seamus Heaney"
+    ],
+    "isbn_13": "9781270120513",
+    "isbn_10": "1270120514",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 78
+  },
+  {
+    "title": "Death of a Naturalist",
+    "authors": [
+      "Seamus Heaney"
+    ],
+    "isbn_13": "9781576111932",
+    "isbn_10": "1576111938",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1966,
+    "page_count": 57
+  },
+  {
+    "title": "Field Work",
+    "authors": [
+      "Seamus Heaney"
+    ],
+    "isbn_13": "9785687564526",
+    "isbn_10": "5687564527",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 62
+  },
+  {
+    "title": "Station Island",
+    "authors": [
+      "Seamus Heaney"
+    ],
+    "isbn_13": "9781444525410",
+    "isbn_10": "1444525417",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 123
+  },
+  {
+    "title": "Seeing Things",
+    "authors": [
+      "Seamus Heaney"
+    ],
+    "isbn_13": "9781518700002",
+    "isbn_10": "1518700004",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 108
+  },
+  {
+    "title": "District and Circle",
+    "authors": [
+      "Seamus Heaney"
+    ],
+    "isbn_13": "9781315281193",
+    "isbn_10": "1315281198",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 78
+  },
+  {
+    "title": "Omeros",
+    "authors": [
+      "Derek Walcott"
+    ],
+    "isbn_13": "9783022570928",
+    "isbn_10": "3022570929",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 325
+  },
+  {
+    "title": "The Collected Poems of Langston Hughes",
+    "authors": [
+      "Langston Hughes"
+    ],
+    "isbn_13": "9782222703372",
+    "isbn_10": "2222703379",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 736
+  },
+  {
+    "title": "The Weary Blues",
+    "authors": [
+      "Langston Hughes"
+    ],
+    "isbn_13": "9787533613754",
+    "isbn_10": "7533613759",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1926,
+    "page_count": 109
+  },
+  {
+    "title": "Montage of a Dream Deferred",
+    "authors": [
+      "Langston Hughes"
+    ],
+    "isbn_13": "9788677544911",
+    "isbn_10": "8677544917",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 75
+  },
+  {
+    "title": "Selected Poems",
+    "authors": [
+      "Pablo Neruda"
+    ],
+    "isbn_13": "9784023455702",
+    "isbn_10": "4023455709",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1970,
+    "page_count": 507
+  },
+  {
+    "title": "Twenty Love Poems and a Song of Despair",
+    "authors": [
+      "Pablo Neruda"
+    ],
+    "isbn_13": "9786119683822",
+    "isbn_10": "6119683828",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1924,
+    "page_count": 64
+  },
+  {
+    "title": "Canto General",
+    "authors": [
+      "Pablo Neruda"
+    ],
+    "isbn_13": "9782145153872",
+    "isbn_10": "214515387X",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1950,
+    "page_count": 400
+  },
+  {
+    "title": "Gitanjali",
+    "authors": [
+      "Rabindranath Tagore"
+    ],
+    "isbn_13": "9786011350426",
+    "isbn_10": "6011350429",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "bn",
+    "source": "seed",
+    "year_published": 1910,
+    "page_count": 104
+  },
+  {
+    "title": "The Home and the World",
+    "authors": [
+      "Rabindranath Tagore"
+    ],
+    "isbn_13": "9781531105716",
+    "isbn_10": "1531105718",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "bn",
+    "source": "seed",
+    "year_published": 1916,
+    "page_count": 260
+  },
+  {
+    "title": "Selected Poems",
+    "authors": [
+      "Rainer Maria Rilke"
+    ],
+    "isbn_13": "9782030305348",
+    "isbn_10": "2030305340",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1907,
+    "page_count": 320
+  },
+  {
+    "title": "Duino Elegies",
+    "authors": [
+      "Rainer Maria Rilke"
+    ],
+    "isbn_13": "9785511707136",
+    "isbn_10": "5511707139",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1923,
+    "page_count": 80
+  },
+  {
+    "title": "Letters to a Young Poet",
+    "authors": [
+      "Rainer Maria Rilke"
+    ],
+    "isbn_13": "9781155155227",
+    "isbn_10": "115515522X",
+    "genres": [
+      "Poetry",
+      "Letters"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1929,
+    "page_count": 80
+  },
+  {
+    "title": "The Sonnets to Orpheus",
+    "authors": [
+      "Rainer Maria Rilke"
+    ],
+    "isbn_13": "9787651550054",
+    "isbn_10": "7651550056",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1923,
+    "page_count": 96
+  },
+  {
+    "title": "Collected Fictions",
+    "authors": [
+      "Jorge Luis Borges"
+    ],
+    "isbn_13": "9789670342122",
+    "isbn_10": "9670342120",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1944,
+    "page_count": 565
+  },
+  {
+    "title": "Labyrinths",
+    "authors": [
+      "Jorge Luis Borges"
+    ],
+    "isbn_13": "9780213711016",
+    "isbn_10": "021371101X",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 240
+  },
+  {
+    "title": "Ficciones",
+    "authors": [
+      "Jorge Luis Borges"
+    ],
+    "isbn_13": "9782424430434",
+    "isbn_10": "2424430438",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1944,
+    "page_count": 174
+  },
+  {
+    "title": "The Aleph and Other Stories",
+    "authors": [
+      "Jorge Luis Borges"
+    ],
+    "isbn_13": "9788943318116",
+    "isbn_10": "8943318111",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1949,
+    "page_count": 199
+  },
+  {
+    "title": "Citizen: An American Lyric",
+    "authors": [
+      "Claudia Rankine"
+    ],
+    "isbn_13": "9782395522305",
+    "isbn_10": "2395522309",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 169
+  },
+  {
+    "title": "Don't Call Us Dead",
+    "authors": [
+      "Danez Smith"
+    ],
+    "isbn_13": "9780445388185",
+    "isbn_10": "0445388188",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 104
+  },
+  {
+    "title": "Night Sky with Exit Wounds",
+    "authors": [
+      "Ocean Vuong"
+    ],
+    "isbn_13": "9784242248208",
+    "isbn_10": "4242248202",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 89
+  },
+  {
+    "title": "On Earth We're Briefly Gorgeous",
+    "authors": [
+      "Ocean Vuong"
+    ],
+    "isbn_13": "9789594553574",
+    "isbn_10": "959455357X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 256
+  },
+  {
+    "title": "Time Is a Mother",
+    "authors": [
+      "Ocean Vuong"
+    ],
+    "isbn_13": "9782035073655",
+    "isbn_10": "2035073650",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 128
+  },
+  {
+    "title": "Catalog of Unabashed Gratitude",
+    "authors": [
+      "Ross Gay"
+    ],
+    "isbn_13": "9782538678142",
+    "isbn_10": "2538678145",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 112
+  },
+  {
+    "title": "The Book of Delights",
+    "authors": [
+      "Ross Gay"
+    ],
+    "isbn_13": "9786238507900",
+    "isbn_10": "623850790X",
+    "genres": [
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 288
+  },
+  {
+    "title": "Incandescence",
+    "authors": [
+      "Ross Gay"
+    ],
+    "isbn_13": "9782303886888",
+    "isbn_10": "2303886880",
+    "genres": [
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 304
+  },
+  {
+    "title": "Teaching My Mother How to Give Birth",
+    "authors": [
+      "Warsan Shire"
+    ],
+    "isbn_13": "9782401471955",
+    "isbn_10": "2401471952",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 38
+  },
+  {
+    "title": "Bless the Daughter Raised by a Voice in Her Head",
+    "authors": [
+      "Warsan Shire"
+    ],
+    "isbn_13": "9781103948048",
+    "isbn_10": "1103948040",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 80
+  },
+  {
+    "title": "Milk and Honey",
+    "authors": [
+      "Rupi Kaur"
+    ],
+    "isbn_13": "9781072162186",
+    "isbn_10": "1072162180",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 204
+  },
+  {
+    "title": "The Sun and Her Flowers",
+    "authors": [
+      "Rupi Kaur"
+    ],
+    "isbn_13": "9789321700080",
+    "isbn_10": "9321700080",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 256
+  },
+  {
+    "title": "Home Body",
+    "authors": [
+      "Rupi Kaur"
+    ],
+    "isbn_13": "9786171430136",
+    "isbn_10": "6171430137",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 192
+  },
+  {
+    "title": "Postcolonial Love Poem",
+    "authors": [
+      "Natalie Diaz"
+    ],
+    "isbn_13": "9789114482698",
+    "isbn_10": "911448269X",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 100
+  },
+  {
+    "title": "When I Grow Up I Want to Be a List of Further Possibilities",
+    "authors": [
+      "Chen Chen"
+    ],
+    "isbn_13": "9780318790039",
+    "isbn_10": "0318790033",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 104
+  },
+  {
+    "title": "The Tradition",
+    "authors": [
+      "Jericho Brown"
+    ],
+    "isbn_13": "9784101716244",
+    "isbn_10": "4101716242",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 72
+  },
+  {
+    "title": "Wade in the Water",
+    "authors": [
+      "Tracy K. Smith"
+    ],
+    "isbn_13": "9782455823236",
+    "isbn_10": "2455823237",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 82
+  },
+  {
+    "title": "Life on Mars",
+    "authors": [
+      "Tracy K. Smith"
+    ],
+    "isbn_13": "9780249451689",
+    "isbn_10": "0249451689",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 75
+  }
+]

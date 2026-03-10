@@ -1,0 +1,1614 @@
+[
+  {
+    "title": "Pride and Prejudice",
+    "authors": [
+      "Jane Austen"
+    ],
+    "isbn_13": "9782159146471",
+    "isbn_10": "2159146471",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1813,
+    "page_count": 432
+  },
+  {
+    "title": "Sense and Sensibility",
+    "authors": [
+      "Jane Austen"
+    ],
+    "isbn_13": "9788935141760",
+    "isbn_10": "8935141763",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1811,
+    "page_count": 409
+  },
+  {
+    "title": "Emma",
+    "authors": [
+      "Jane Austen"
+    ],
+    "isbn_13": "9784376184243",
+    "isbn_10": "4376184241",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1815,
+    "page_count": 474
+  },
+  {
+    "title": "Mansfield Park",
+    "authors": [
+      "Jane Austen"
+    ],
+    "isbn_13": "9786208013240",
+    "isbn_10": "6208013240",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1814,
+    "page_count": 478
+  },
+  {
+    "title": "Persuasion",
+    "authors": [
+      "Jane Austen"
+    ],
+    "isbn_13": "9783104754406",
+    "isbn_10": "3104754403",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1817,
+    "page_count": 249
+  },
+  {
+    "title": "Northanger Abbey",
+    "authors": [
+      "Jane Austen"
+    ],
+    "isbn_13": "9785930241808",
+    "isbn_10": "5930241805",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1818,
+    "page_count": 260
+  },
+  {
+    "title": "Jane Eyre",
+    "authors": [
+      "Charlotte Brontë"
+    ],
+    "isbn_13": "9785555381569",
+    "isbn_10": "5555381565",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1847,
+    "page_count": 532
+  },
+  {
+    "title": "Wuthering Heights",
+    "authors": [
+      "Emily Brontë"
+    ],
+    "isbn_13": "9781565443785",
+    "isbn_10": "1565443780",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1847,
+    "page_count": 416
+  },
+  {
+    "title": "The Tenant of Wildfell Hall",
+    "authors": [
+      "Anne Brontë"
+    ],
+    "isbn_13": "9780150146100",
+    "isbn_10": "0150146108",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1848,
+    "page_count": 510
+  },
+  {
+    "title": "Agnes Grey",
+    "authors": [
+      "Anne Brontë"
+    ],
+    "isbn_13": "9781210654719",
+    "isbn_10": "1210654717",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1847,
+    "page_count": 266
+  },
+  {
+    "title": "Great Expectations",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "isbn_13": "9782353544899",
+    "isbn_10": "2353544894",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1861,
+    "page_count": 544
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "isbn_13": "9784945148553",
+    "isbn_10": "4945148554",
+    "genres": [
+      "Literary Fiction",
+      "Classics",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1859,
+    "page_count": 489
+  },
+  {
+    "title": "Oliver Twist",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "isbn_13": "9785892106559",
+    "isbn_10": "5892106551",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1838,
+    "page_count": 554
+  },
+  {
+    "title": "David Copperfield",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "isbn_13": "9787193107402",
+    "isbn_10": "7193107402",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1850,
+    "page_count": 882
+  },
+  {
+    "title": "Bleak House",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "isbn_13": "9783359247111",
+    "isbn_10": "3359247116",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1853,
+    "page_count": 1017
+  },
+  {
+    "title": "A Christmas Carol",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "isbn_13": "9783030466985",
+    "isbn_10": "3030466981",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1843,
+    "page_count": 104
+  },
+  {
+    "title": "The Pickwick Papers",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "isbn_13": "9783131239631",
+    "isbn_10": "3131239638",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1837,
+    "page_count": 801
+  },
+  {
+    "title": "Little Dorrit",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "isbn_13": "9785159216571",
+    "isbn_10": "515921657X",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1857,
+    "page_count": 826
+  },
+  {
+    "title": "Our Mutual Friend",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "isbn_13": "9783057401259",
+    "isbn_10": "3057401252",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1865,
+    "page_count": 832
+  },
+  {
+    "title": "The Old Curiosity Shop",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "isbn_13": "9782621228506",
+    "isbn_10": "262122850X",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1841,
+    "page_count": 554
+  },
+  {
+    "title": "Martin Chuzzlewit",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "isbn_13": "9787207631336",
+    "isbn_10": "7207631332",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1844,
+    "page_count": 855
+  },
+  {
+    "title": "Middlemarch",
+    "authors": [
+      "George Eliot"
+    ],
+    "isbn_13": "9786103268264",
+    "isbn_10": "6103268265",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1871,
+    "page_count": 880
+  },
+  {
+    "title": "The Mill on the Floss",
+    "authors": [
+      "George Eliot"
+    ],
+    "isbn_13": "9786026176196",
+    "isbn_10": "6026176195",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1860,
+    "page_count": 548
+  },
+  {
+    "title": "Silas Marner",
+    "authors": [
+      "George Eliot"
+    ],
+    "isbn_13": "9789586254458",
+    "isbn_10": "9586254453",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1861,
+    "page_count": 229
+  },
+  {
+    "title": "Daniel Deronda",
+    "authors": [
+      "George Eliot"
+    ],
+    "isbn_13": "9780444328533",
+    "isbn_10": "044432853X",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1876,
+    "page_count": 804
+  },
+  {
+    "title": "Adam Bede",
+    "authors": [
+      "George Eliot"
+    ],
+    "isbn_13": "9784036179510",
+    "isbn_10": "4036179519",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1859,
+    "page_count": 518
+  },
+  {
+    "title": "Tess of the d'Urbervilles",
+    "authors": [
+      "Thomas Hardy"
+    ],
+    "isbn_13": "9786548388404",
+    "isbn_10": "6548388402",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1891,
+    "page_count": 518
+  },
+  {
+    "title": "Far from the Madding Crowd",
+    "authors": [
+      "Thomas Hardy"
+    ],
+    "isbn_13": "9781203455118",
+    "isbn_10": "1203455119",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1874,
+    "page_count": 448
+  },
+  {
+    "title": "The Mayor of Casterbridge",
+    "authors": [
+      "Thomas Hardy"
+    ],
+    "isbn_13": "9784400531104",
+    "isbn_10": "4400531104",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1886,
+    "page_count": 352
+  },
+  {
+    "title": "Jude the Obscure",
+    "authors": [
+      "Thomas Hardy"
+    ],
+    "isbn_13": "9783115742904",
+    "isbn_10": "3115742908",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1895,
+    "page_count": 432
+  },
+  {
+    "title": "The Return of the Native",
+    "authors": [
+      "Thomas Hardy"
+    ],
+    "isbn_13": "9781125602317",
+    "isbn_10": "1125602317",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1878,
+    "page_count": 432
+  },
+  {
+    "title": "The Woodlanders",
+    "authors": [
+      "Thomas Hardy"
+    ],
+    "isbn_13": "9785248823819",
+    "isbn_10": "5248823811",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1887,
+    "page_count": 416
+  },
+  {
+    "title": "Moby-Dick",
+    "authors": [
+      "Herman Melville"
+    ],
+    "isbn_13": "9788232845859",
+    "isbn_10": "8232845856",
+    "genres": [
+      "Literary Fiction",
+      "Classics",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1851,
+    "page_count": 635
+  },
+  {
+    "title": "Bartleby, the Scrivener",
+    "authors": [
+      "Herman Melville"
+    ],
+    "isbn_13": "9787722876755",
+    "isbn_10": "7722876757",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1853,
+    "page_count": 64
+  },
+  {
+    "title": "Billy Budd, Sailor",
+    "authors": [
+      "Herman Melville"
+    ],
+    "isbn_13": "9782735483600",
+    "isbn_10": "2735483606",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1924,
+    "page_count": 94
+  },
+  {
+    "title": "The Scarlet Letter",
+    "authors": [
+      "Nathaniel Hawthorne"
+    ],
+    "isbn_13": "9788400521387",
+    "isbn_10": "8400521382",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1850,
+    "page_count": 272
+  },
+  {
+    "title": "The House of the Seven Gables",
+    "authors": [
+      "Nathaniel Hawthorne"
+    ],
+    "isbn_13": "9782326673496",
+    "isbn_10": "2326673492",
+    "genres": [
+      "Literary Fiction",
+      "Classics",
+      "Gothic"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1851,
+    "page_count": 344
+  },
+  {
+    "title": "Adventures of Huckleberry Finn",
+    "authors": [
+      "Mark Twain"
+    ],
+    "isbn_13": "9785427147248",
+    "isbn_10": "5427147241",
+    "genres": [
+      "Literary Fiction",
+      "Classics",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1884,
+    "page_count": 366
+  },
+  {
+    "title": "The Adventures of Tom Sawyer",
+    "authors": [
+      "Mark Twain"
+    ],
+    "isbn_13": "9784030214071",
+    "isbn_10": "403021407X",
+    "genres": [
+      "Literary Fiction",
+      "Classics",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1876,
+    "page_count": 274
+  },
+  {
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "authors": [
+      "Mark Twain"
+    ],
+    "isbn_13": "9784475324038",
+    "isbn_10": "4475324033",
+    "genres": [
+      "Literary Fiction",
+      "Classics",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1889,
+    "page_count": 404
+  },
+  {
+    "title": "The Great Gatsby",
+    "authors": [
+      "F. Scott Fitzgerald"
+    ],
+    "isbn_13": "9781345091151",
+    "isbn_10": "134509115X",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1925,
+    "page_count": 180
+  },
+  {
+    "title": "Tender Is the Night",
+    "authors": [
+      "F. Scott Fitzgerald"
+    ],
+    "isbn_13": "9780852066836",
+    "isbn_10": "085206683X",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1934,
+    "page_count": 317
+  },
+  {
+    "title": "This Side of Paradise",
+    "authors": [
+      "F. Scott Fitzgerald"
+    ],
+    "isbn_13": "9780413661227",
+    "isbn_10": "0413661229",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1920,
+    "page_count": 305
+  },
+  {
+    "title": "The Beautiful and Damned",
+    "authors": [
+      "F. Scott Fitzgerald"
+    ],
+    "isbn_13": "9784605519457",
+    "isbn_10": "4605519459",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1922,
+    "page_count": 449
+  },
+  {
+    "title": "The Sun Also Rises",
+    "authors": [
+      "Ernest Hemingway"
+    ],
+    "isbn_13": "9783052013198",
+    "isbn_10": "305201319X",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1926,
+    "page_count": 251
+  },
+  {
+    "title": "A Farewell to Arms",
+    "authors": [
+      "Ernest Hemingway"
+    ],
+    "isbn_13": "9783523355673",
+    "isbn_10": "3523355672",
+    "genres": [
+      "Literary Fiction",
+      "Classics",
+      "War Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1929,
+    "page_count": 355
+  },
+  {
+    "title": "For Whom the Bell Tolls",
+    "authors": [
+      "Ernest Hemingway"
+    ],
+    "isbn_13": "9785413537596",
+    "isbn_10": "541353759X",
+    "genres": [
+      "Literary Fiction",
+      "Classics",
+      "War Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1940,
+    "page_count": 471
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "authors": [
+      "Ernest Hemingway"
+    ],
+    "isbn_13": "9784740612402",
+    "isbn_10": "4740612402",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1952,
+    "page_count": 127
+  },
+  {
+    "title": "The Sound and the Fury",
+    "authors": [
+      "William Faulkner"
+    ],
+    "isbn_13": "9785251343854",
+    "isbn_10": "525134385X",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1929,
+    "page_count": 326
+  },
+  {
+    "title": "As I Lay Dying",
+    "authors": [
+      "William Faulkner"
+    ],
+    "isbn_13": "9782309730659",
+    "isbn_10": "2309730653",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1930,
+    "page_count": 267
+  },
+  {
+    "title": "Light in August",
+    "authors": [
+      "William Faulkner"
+    ],
+    "isbn_13": "9783029624259",
+    "isbn_10": "3029624250",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1932,
+    "page_count": 507
+  },
+  {
+    "title": "Absalom, Absalom!",
+    "authors": [
+      "William Faulkner"
+    ],
+    "isbn_13": "9780901255938",
+    "isbn_10": "0901255939",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1936,
+    "page_count": 378
+  },
+  {
+    "title": "Sanctuary",
+    "authors": [
+      "William Faulkner"
+    ],
+    "isbn_13": "9784905010548",
+    "isbn_10": "4905010543",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1931,
+    "page_count": 309
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "authors": [
+      "John Steinbeck"
+    ],
+    "isbn_13": "9781338354409",
+    "isbn_10": "133835440X",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1939,
+    "page_count": 464
+  },
+  {
+    "title": "East of Eden",
+    "authors": [
+      "John Steinbeck"
+    ],
+    "isbn_13": "9784221128972",
+    "isbn_10": "4221128976",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1952,
+    "page_count": 601
+  },
+  {
+    "title": "Of Mice and Men",
+    "authors": [
+      "John Steinbeck"
+    ],
+    "isbn_13": "9784334504526",
+    "isbn_10": "4334504523",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1937,
+    "page_count": 107
+  },
+  {
+    "title": "Cannery Row",
+    "authors": [
+      "John Steinbeck"
+    ],
+    "isbn_13": "9787705223699",
+    "isbn_10": "7705223694",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1945,
+    "page_count": 181
+  },
+  {
+    "title": "The Pearl",
+    "authors": [
+      "John Steinbeck"
+    ],
+    "isbn_13": "9780125144575",
+    "isbn_10": "0125144571",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1947,
+    "page_count": 96
+  },
+  {
+    "title": "The Winter of Our Discontent",
+    "authors": [
+      "John Steinbeck"
+    ],
+    "isbn_13": "9782542402122",
+    "isbn_10": "2542402124",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1961,
+    "page_count": 311
+  },
+  {
+    "title": "Tortilla Flat",
+    "authors": [
+      "John Steinbeck"
+    ],
+    "isbn_13": "9781110014217",
+    "isbn_10": "111001421X",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1935,
+    "page_count": 207
+  },
+  {
+    "title": "On the Road",
+    "authors": [
+      "Jack Kerouac"
+    ],
+    "isbn_13": "9784123727198",
+    "isbn_10": "4123727190",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1957,
+    "page_count": 307
+  },
+  {
+    "title": "The Dharma Bums",
+    "authors": [
+      "Jack Kerouac"
+    ],
+    "isbn_13": "9780522832228",
+    "isbn_10": "0522832229",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1958,
+    "page_count": 244
+  },
+  {
+    "title": "Big Sur",
+    "authors": [
+      "Jack Kerouac"
+    ],
+    "isbn_13": "9787004322970",
+    "isbn_10": "7004322971",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 241
+  },
+  {
+    "title": "Desolation Angels",
+    "authors": [
+      "Jack Kerouac"
+    ],
+    "isbn_13": "9788556388148",
+    "isbn_10": "8556388140",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 366
+  },
+  {
+    "title": "Catch-22",
+    "authors": [
+      "Joseph Heller"
+    ],
+    "isbn_13": "9783409602105",
+    "isbn_10": "3409602100",
+    "genres": [
+      "Literary Fiction",
+      "Classics",
+      "Satire"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1961,
+    "page_count": 453
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "authors": [
+      "Kurt Vonnegut"
+    ],
+    "isbn_13": "9781485841074",
+    "isbn_10": "1485841070",
+    "genres": [
+      "Literary Fiction",
+      "Classics",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 275
+  },
+  {
+    "title": "Cat's Cradle",
+    "authors": [
+      "Kurt Vonnegut"
+    ],
+    "isbn_13": "9782182395518",
+    "isbn_10": "2182395512",
+    "genres": [
+      "Literary Fiction",
+      "Classics",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 287
+  },
+  {
+    "title": "Breakfast of Champions",
+    "authors": [
+      "Kurt Vonnegut"
+    ],
+    "isbn_13": "9781940637778",
+    "isbn_10": "1940637775",
+    "genres": [
+      "Literary Fiction",
+      "Classics",
+      "Satire"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 302
+  },
+  {
+    "title": "Player Piano",
+    "authors": [
+      "Kurt Vonnegut"
+    ],
+    "isbn_13": "9788243003644",
+    "isbn_10": "8243003649",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1952,
+    "page_count": 341
+  },
+  {
+    "title": "The Sirens of Titan",
+    "authors": [
+      "Kurt Vonnegut"
+    ],
+    "isbn_13": "9784520520125",
+    "isbn_10": "4520520126",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 326
+  },
+  {
+    "title": "God Bless You, Mr. Rosewater",
+    "authors": [
+      "Kurt Vonnegut"
+    ],
+    "isbn_13": "9787122044129",
+    "isbn_10": "7122044122",
+    "genres": [
+      "Literary Fiction",
+      "Satire"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 217
+  },
+  {
+    "title": "Bluebeard",
+    "authors": [
+      "Kurt Vonnegut"
+    ],
+    "isbn_13": "9788515585236",
+    "isbn_10": "8515585235",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 300
+  },
+  {
+    "title": "Mother Night",
+    "authors": [
+      "Kurt Vonnegut"
+    ],
+    "isbn_13": "9782685630338",
+    "isbn_10": "2685630333",
+    "genres": [
+      "Literary Fiction",
+      "War Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1961,
+    "page_count": 268
+  },
+  {
+    "title": "Invisible Man",
+    "authors": [
+      "Ralph Ellison"
+    ],
+    "isbn_13": "9783242337042",
+    "isbn_10": "3242337042",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1952,
+    "page_count": 581
+  },
+  {
+    "title": "Native Son",
+    "authors": [
+      "Richard Wright"
+    ],
+    "isbn_13": "9783301324761",
+    "isbn_10": "3301324762",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1940,
+    "page_count": 504
+  },
+  {
+    "title": "Black Boy",
+    "authors": [
+      "Richard Wright"
+    ],
+    "isbn_13": "9780863102851",
+    "isbn_10": "0863102859",
+    "genres": [
+      "Memoir",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1945,
+    "page_count": 419
+  },
+  {
+    "title": "Their Eyes Were Watching God",
+    "authors": [
+      "Zora Neale Hurston"
+    ],
+    "isbn_13": "9789258735650",
+    "isbn_10": "925873565X",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1937,
+    "page_count": 219
+  },
+  {
+    "title": "The Color Purple",
+    "authors": [
+      "Alice Walker"
+    ],
+    "isbn_13": "9780024603548",
+    "isbn_10": "0024603546",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 295
+  },
+  {
+    "title": "Song of Solomon",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9782146227275",
+    "isbn_10": "2146227273",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 337
+  },
+  {
+    "title": "Sula",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9783836528702",
+    "isbn_10": "3836528703",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 174
+  },
+  {
+    "title": "The Bluest Eye",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9788119245253",
+    "isbn_10": "8119245253",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1970,
+    "page_count": 206
+  },
+  {
+    "title": "Jazz",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9786306322541",
+    "isbn_10": "630632254X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 229
+  },
+  {
+    "title": "Paradise",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9786332352246",
+    "isbn_10": "6332352248",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 318
+  },
+  {
+    "title": "Tar Baby",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9787229160906",
+    "isbn_10": "7229160901",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 305
+  },
+  {
+    "title": "A Mercy",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9782953861518",
+    "isbn_10": "2953861513",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 167
+  },
+  {
+    "title": "God Help the Child",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9780323525121",
+    "isbn_10": "0323525121",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 178
+  },
+  {
+    "title": "Home",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn_13": "9787416413419",
+    "isbn_10": "7416413419",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 147
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "authors": [
+      "J.D. Salinger"
+    ],
+    "isbn_13": "9782831212531",
+    "isbn_10": "2831212537",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 277
+  },
+  {
+    "title": "Franny and Zooey",
+    "authors": [
+      "J.D. Salinger"
+    ],
+    "isbn_13": "9783817232482",
+    "isbn_10": "3817232489",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1961,
+    "page_count": 201
+  },
+  {
+    "title": "Nine Stories",
+    "authors": [
+      "J.D. Salinger"
+    ],
+    "isbn_13": "9789302339537",
+    "isbn_10": "930233953X",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1953,
+    "page_count": 198
+  },
+  {
+    "title": "Raise High the Roof Beam, Carpenters",
+    "authors": [
+      "J.D. Salinger"
+    ],
+    "isbn_13": "9785912566172",
+    "isbn_10": "591256617X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 214
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "authors": [
+      "Ken Kesey"
+    ],
+    "isbn_13": "9786591282100",
+    "isbn_10": "6591282106",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 325
+  },
+  {
+    "title": "Fahrenheit 451",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9783134140538",
+    "isbn_10": "3134140535",
+    "genres": [
+      "Science Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1953,
+    "page_count": 227
+  },
+  {
+    "title": "The Martian Chronicles",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9782278362493",
+    "isbn_10": "2278362496",
+    "genres": [
+      "Science Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1950,
+    "page_count": 222
+  },
+  {
+    "title": "Dandelion Wine",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9781159538675",
+    "isbn_10": "1159538670",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1957,
+    "page_count": 239
+  },
+  {
+    "title": "The Illustrated Man",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "isbn_13": "9784669036006",
+    "isbn_10": "4669036009",
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 275
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "authors": [
+      "Harper Lee"
+    ],
+    "isbn_13": "9784223440454",
+    "isbn_10": "4223440454",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1960,
+    "page_count": 281
+  },
+  {
+    "title": "Go Set a Watchman",
+    "authors": [
+      "Harper Lee"
+    ],
+    "isbn_13": "9784300300978",
+    "isbn_10": "4300300976",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 278
+  },
+  {
+    "title": "Lord of the Flies",
+    "authors": [
+      "William Golding"
+    ],
+    "isbn_13": "9787860238668",
+    "isbn_10": "7860238667",
+    "genres": [
+      "Literary Fiction",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1954,
+    "page_count": 224
+  },
+  {
+    "title": "The Inheritors",
+    "authors": [
+      "William Golding"
+    ],
+    "isbn_13": "9787137959104",
+    "isbn_10": "7137959105",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1955,
+    "page_count": 233
+  },
+  {
+    "title": "Rites of Passage",
+    "authors": [
+      "William Golding"
+    ],
+    "isbn_13": "9785215810569",
+    "isbn_10": "5215810567",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 278
+  }
+]

@@ -1,0 +1,1221 @@
+[
+  {
+    "title": "Hamlet",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "isbn_13": "9788050452550",
+    "isbn_10": "8050452557",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1601,
+    "page_count": 342
+  },
+  {
+    "title": "Macbeth",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "isbn_13": "9781545822012",
+    "isbn_10": "1545822018",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1606,
+    "page_count": 252
+  },
+  {
+    "title": "Othello",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "isbn_13": "9785961139969",
+    "isbn_10": "5961139964",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1603,
+    "page_count": 314
+  },
+  {
+    "title": "King Lear",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "isbn_13": "9788225924523",
+    "isbn_10": "8225924525",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1606,
+    "page_count": 334
+  },
+  {
+    "title": "A Midsummer Night's Dream",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "isbn_13": "9784955633155",
+    "isbn_10": "4955633153",
+    "genres": [
+      "Drama",
+      "Classics",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1596,
+    "page_count": 223
+  },
+  {
+    "title": "Romeo and Juliet",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "isbn_13": "9786450011148",
+    "isbn_10": "6450011149",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1597,
+    "page_count": 289
+  },
+  {
+    "title": "The Tempest",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "isbn_13": "9781726889599",
+    "isbn_10": "1726889599",
+    "genres": [
+      "Drama",
+      "Classics",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1611,
+    "page_count": 224
+  },
+  {
+    "title": "Twelfth Night",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "isbn_13": "9785468573549",
+    "isbn_10": "5468573547",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1601,
+    "page_count": 243
+  },
+  {
+    "title": "Much Ado About Nothing",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "isbn_13": "9782913954519",
+    "isbn_10": "2913954510",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1599,
+    "page_count": 232
+  },
+  {
+    "title": "The Merchant of Venice",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "isbn_13": "9788458214323",
+    "isbn_10": "8458214326",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1596,
+    "page_count": 230
+  },
+  {
+    "title": "Julius Caesar",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "isbn_13": "9782335596489",
+    "isbn_10": "2335596489",
+    "genres": [
+      "Drama",
+      "Classics",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1599,
+    "page_count": 253
+  },
+  {
+    "title": "As You Like It",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "isbn_13": "9788645314713",
+    "isbn_10": "8645314711",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1599,
+    "page_count": 248
+  },
+  {
+    "title": "Waiting for Godot",
+    "authors": [
+      "Samuel Beckett"
+    ],
+    "isbn_13": "9783900115111",
+    "isbn_10": "3900115117",
+    "genres": [
+      "Drama"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1953,
+    "page_count": 109
+  },
+  {
+    "title": "Endgame",
+    "authors": [
+      "Samuel Beckett"
+    ],
+    "isbn_13": "9783151057963",
+    "isbn_10": "3151057969",
+    "genres": [
+      "Drama"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1957,
+    "page_count": 84
+  },
+  {
+    "title": "Happy Days",
+    "authors": [
+      "Samuel Beckett"
+    ],
+    "isbn_13": "9786885271919",
+    "isbn_10": "6885271918",
+    "genres": [
+      "Drama"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1961,
+    "page_count": 64
+  },
+  {
+    "title": "Krapp's Last Tape",
+    "authors": [
+      "Samuel Beckett"
+    ],
+    "isbn_13": "9788425734168",
+    "isbn_10": "8425734169",
+    "genres": [
+      "Drama"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1958,
+    "page_count": 32
+  },
+  {
+    "title": "Molloy",
+    "authors": [
+      "Samuel Beckett"
+    ],
+    "isbn_13": "9789456762748",
+    "isbn_10": "9456762742",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 256
+  },
+  {
+    "title": "Malone Dies",
+    "authors": [
+      "Samuel Beckett"
+    ],
+    "isbn_13": "9784363831587",
+    "isbn_10": "4363831588",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 120
+  },
+  {
+    "title": "The Unnamable",
+    "authors": [
+      "Samuel Beckett"
+    ],
+    "isbn_13": "9784084262226",
+    "isbn_10": "4084262226",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1953,
+    "page_count": 179
+  },
+  {
+    "title": "Death of a Salesman",
+    "authors": [
+      "Arthur Miller"
+    ],
+    "isbn_13": "9782080304506",
+    "isbn_10": "208030450X",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1949,
+    "page_count": 139
+  },
+  {
+    "title": "The Crucible",
+    "authors": [
+      "Arthur Miller"
+    ],
+    "isbn_13": "9784697915953",
+    "isbn_10": "469791595X",
+    "genres": [
+      "Drama",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1953,
+    "page_count": 143
+  },
+  {
+    "title": "All My Sons",
+    "authors": [
+      "Arthur Miller"
+    ],
+    "isbn_13": "9781421214351",
+    "isbn_10": "1421214350",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1947,
+    "page_count": 102
+  },
+  {
+    "title": "A View from the Bridge",
+    "authors": [
+      "Arthur Miller"
+    ],
+    "isbn_13": "9785952104150",
+    "isbn_10": "5952104150",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1955,
+    "page_count": 85
+  },
+  {
+    "title": "A Streetcar Named Desire",
+    "authors": [
+      "Tennessee Williams"
+    ],
+    "isbn_13": "9780242388470",
+    "isbn_10": "0242388477",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1947,
+    "page_count": 107
+  },
+  {
+    "title": "The Glass Menagerie",
+    "authors": [
+      "Tennessee Williams"
+    ],
+    "isbn_13": "9786204374130",
+    "isbn_10": "6204374133",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1944,
+    "page_count": 105
+  },
+  {
+    "title": "Cat on a Hot Tin Roof",
+    "authors": [
+      "Tennessee Williams"
+    ],
+    "isbn_13": "9787643315166",
+    "isbn_10": "7643315167",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1955,
+    "page_count": 174
+  },
+  {
+    "title": "Long Day's Journey into Night",
+    "authors": [
+      "Eugene O'Neill"
+    ],
+    "isbn_13": "9781024634259",
+    "isbn_10": "1024634256",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1956,
+    "page_count": 176
+  },
+  {
+    "title": "The Iceman Cometh",
+    "authors": [
+      "Eugene O'Neill"
+    ],
+    "isbn_13": "9784853243388",
+    "isbn_10": "4853243380",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1946,
+    "page_count": 260
+  },
+  {
+    "title": "Mourning Becomes Electra",
+    "authors": [
+      "Eugene O'Neill"
+    ],
+    "isbn_13": "9782147221166",
+    "isbn_10": "2147221163",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1931,
+    "page_count": 256
+  },
+  {
+    "title": "A Moon for the Misbegotten",
+    "authors": [
+      "Eugene O'Neill"
+    ],
+    "isbn_13": "9783420881152",
+    "isbn_10": "3420881150",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1947,
+    "page_count": 177
+  },
+  {
+    "title": "Who's Afraid of Virginia Woolf?",
+    "authors": [
+      "Edward Albee"
+    ],
+    "isbn_13": "9789503794913",
+    "isbn_10": "9503794919",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 242
+  },
+  {
+    "title": "The Zoo Story",
+    "authors": [
+      "Edward Albee"
+    ],
+    "isbn_13": "9781524338398",
+    "isbn_10": "1524338397",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1958,
+    "page_count": 39
+  },
+  {
+    "title": "Three Tall Women",
+    "authors": [
+      "Edward Albee"
+    ],
+    "isbn_13": "9783802274299",
+    "isbn_10": "3802274296",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 109
+  },
+  {
+    "title": "A Raisin in the Sun",
+    "authors": [
+      "Lorraine Hansberry"
+    ],
+    "isbn_13": "9781026118306",
+    "isbn_10": "1026118301",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 151
+  },
+  {
+    "title": "Fences",
+    "authors": [
+      "August Wilson"
+    ],
+    "isbn_13": "9784199346446",
+    "isbn_10": "4199346449",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 101
+  },
+  {
+    "title": "The Piano Lesson",
+    "authors": [
+      "August Wilson"
+    ],
+    "isbn_13": "9785107734102",
+    "isbn_10": "5107734103",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 108
+  },
+  {
+    "title": "Ma Rainey's Black Bottom",
+    "authors": [
+      "August Wilson"
+    ],
+    "isbn_13": "9785201475147",
+    "isbn_10": "5201475140",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 111
+  },
+  {
+    "title": "Joe Turner's Come and Gone",
+    "authors": [
+      "August Wilson"
+    ],
+    "isbn_13": "9781047456746",
+    "isbn_10": "1047456745",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 95
+  },
+  {
+    "title": "Two Trains Running",
+    "authors": [
+      "August Wilson"
+    ],
+    "isbn_13": "9780450504648",
+    "isbn_10": "0450504646",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 110
+  },
+  {
+    "title": "Angels in America: Millennium Approaches",
+    "authors": [
+      "Tony Kushner"
+    ],
+    "isbn_13": "9784502818141",
+    "isbn_10": "4502818143",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 119
+  },
+  {
+    "title": "Angels in America: Perestroika",
+    "authors": [
+      "Tony Kushner"
+    ],
+    "isbn_13": "9781545773468",
+    "isbn_10": "1545773467",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 148
+  },
+  {
+    "title": "The Importance of Being Earnest",
+    "authors": [
+      "Oscar Wilde"
+    ],
+    "isbn_13": "9781504144902",
+    "isbn_10": "1504144902",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1895,
+    "page_count": 80
+  },
+  {
+    "title": "An Ideal Husband",
+    "authors": [
+      "Oscar Wilde"
+    ],
+    "isbn_13": "9782523130556",
+    "isbn_10": "2523130556",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1895,
+    "page_count": 96
+  },
+  {
+    "title": "Pygmalion",
+    "authors": [
+      "George Bernard Shaw"
+    ],
+    "isbn_13": "9781455602711",
+    "isbn_10": "145560271X",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1913,
+    "page_count": 124
+  },
+  {
+    "title": "Saint Joan",
+    "authors": [
+      "George Bernard Shaw"
+    ],
+    "isbn_13": "9785509921070",
+    "isbn_10": "5509921072",
+    "genres": [
+      "Drama",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1923,
+    "page_count": 168
+  },
+  {
+    "title": "Man and Superman",
+    "authors": [
+      "George Bernard Shaw"
+    ],
+    "isbn_13": "9784063062229",
+    "isbn_10": "4063062228",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1903,
+    "page_count": 264
+  },
+  {
+    "title": "Mrs Warren's Profession",
+    "authors": [
+      "George Bernard Shaw"
+    ],
+    "isbn_13": "9789015444542",
+    "isbn_10": "9015444544",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1893,
+    "page_count": 80
+  },
+  {
+    "title": "Arms and the Man",
+    "authors": [
+      "George Bernard Shaw"
+    ],
+    "isbn_13": "9781893214545",
+    "isbn_10": "1893214540",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1894,
+    "page_count": 89
+  },
+  {
+    "title": "Look Back in Anger",
+    "authors": [
+      "John Osborne"
+    ],
+    "isbn_13": "9787327427550",
+    "isbn_10": "7327427554",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1956,
+    "page_count": 96
+  },
+  {
+    "title": "Rosencrantz and Guildenstern Are Dead",
+    "authors": [
+      "Tom Stoppard"
+    ],
+    "isbn_13": "9784149733845",
+    "isbn_10": "4149733848",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1966,
+    "page_count": 126
+  },
+  {
+    "title": "Arcadia",
+    "authors": [
+      "Tom Stoppard"
+    ],
+    "isbn_13": "9785244745351",
+    "isbn_10": "5244745352",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 97
+  },
+  {
+    "title": "The Real Thing",
+    "authors": [
+      "Tom Stoppard"
+    ],
+    "isbn_13": "9781077428348",
+    "isbn_10": "1077428340",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 84
+  },
+  {
+    "title": "Travesties",
+    "authors": [
+      "Tom Stoppard"
+    ],
+    "isbn_13": "9781314255287",
+    "isbn_10": "1314255282",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 99
+  },
+  {
+    "title": "The Coast of Utopia",
+    "authors": [
+      "Tom Stoppard"
+    ],
+    "isbn_13": "9785904025496",
+    "isbn_10": "5904025491",
+    "genres": [
+      "Drama",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 336
+  },
+  {
+    "title": "The Birthday Party",
+    "authors": [
+      "Harold Pinter"
+    ],
+    "isbn_13": "9783305378005",
+    "isbn_10": "330537800X",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1957,
+    "page_count": 86
+  },
+  {
+    "title": "The Homecoming",
+    "authors": [
+      "Harold Pinter"
+    ],
+    "isbn_13": "9781130496048",
+    "isbn_10": "113049604X",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 82
+  },
+  {
+    "title": "Betrayal",
+    "authors": [
+      "Harold Pinter"
+    ],
+    "isbn_13": "9780452862623",
+    "isbn_10": "0452862620",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1978,
+    "page_count": 138
+  },
+  {
+    "title": "No Man's Land",
+    "authors": [
+      "Harold Pinter"
+    ],
+    "isbn_13": "9785132139057",
+    "isbn_10": "5132139051",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 90
+  },
+  {
+    "title": "The Caretaker",
+    "authors": [
+      "Harold Pinter"
+    ],
+    "isbn_13": "9782545274023",
+    "isbn_10": "254527402X",
+    "genres": [
+      "Drama"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 76
+  },
+  {
+    "title": "Rhinoceros",
+    "authors": [
+      "Eugène Ionesco"
+    ],
+    "isbn_13": "9784512815109",
+    "isbn_10": "4512815104",
+    "genres": [
+      "Drama",
+      "Absurdist"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 107
+  },
+  {
+    "title": "The Bald Soprano",
+    "authors": [
+      "Eugène Ionesco"
+    ],
+    "isbn_13": "9785213512502",
+    "isbn_10": "521351250X",
+    "genres": [
+      "Drama",
+      "Absurdist"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1950,
+    "page_count": 64
+  },
+  {
+    "title": "The Chairs",
+    "authors": [
+      "Eugène Ionesco"
+    ],
+    "isbn_13": "9785204753341",
+    "isbn_10": "5204753346",
+    "genres": [
+      "Drama",
+      "Absurdist"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1952,
+    "page_count": 52
+  },
+  {
+    "title": "The Maids",
+    "authors": [
+      "Jean Genet"
+    ],
+    "isbn_13": "9782742311125",
+    "isbn_10": "2742311122",
+    "genres": [
+      "Drama"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1947,
+    "page_count": 64
+  },
+  {
+    "title": "The Balcony",
+    "authors": [
+      "Jean Genet"
+    ],
+    "isbn_13": "9782336814438",
+    "isbn_10": "2336814439",
+    "genres": [
+      "Drama"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1956,
+    "page_count": 96
+  },
+  {
+    "title": "No Exit",
+    "authors": [
+      "Jean-Paul Sartre"
+    ],
+    "isbn_13": "9782230369348",
+    "isbn_10": "2230369342",
+    "genres": [
+      "Drama",
+      "Philosophy"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1944,
+    "page_count": 46
+  },
+  {
+    "title": "The Flies",
+    "authors": [
+      "Jean-Paul Sartre"
+    ],
+    "isbn_13": "9783718154050",
+    "isbn_10": "3718154056",
+    "genres": [
+      "Drama"
+    ],
+    "language": "fr",
+    "source": "seed",
+    "year_published": 1943,
+    "page_count": 127
+  },
+  {
+    "title": "Mother Courage and Her Children",
+    "authors": [
+      "Bertolt Brecht"
+    ],
+    "isbn_13": "9789775337016",
+    "isbn_10": "9775337011",
+    "genres": [
+      "Drama",
+      "Historical Fiction"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1939,
+    "page_count": 112
+  },
+  {
+    "title": "The Threepenny Opera",
+    "authors": [
+      "Bertolt Brecht"
+    ],
+    "isbn_13": "9785051055841",
+    "isbn_10": "5051055842",
+    "genres": [
+      "Drama"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1928,
+    "page_count": 80
+  },
+  {
+    "title": "The Caucasian Chalk Circle",
+    "authors": [
+      "Bertolt Brecht"
+    ],
+    "isbn_13": "9785539913038",
+    "isbn_10": "5539913035",
+    "genres": [
+      "Drama"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1944,
+    "page_count": 112
+  },
+  {
+    "title": "Life of Galileo",
+    "authors": [
+      "Bertolt Brecht"
+    ],
+    "isbn_13": "9783281050995",
+    "isbn_10": "3281050999",
+    "genres": [
+      "Drama",
+      "Historical Fiction"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1938,
+    "page_count": 144
+  },
+  {
+    "title": "The Good Person of Szechwan",
+    "authors": [
+      "Bertolt Brecht"
+    ],
+    "isbn_13": "9786272165258",
+    "isbn_10": "6272165250",
+    "genres": [
+      "Drama"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1943,
+    "page_count": 112
+  },
+  {
+    "title": "The Resistible Rise of Arturo Ui",
+    "authors": [
+      "Bertolt Brecht"
+    ],
+    "isbn_13": "9781071925737",
+    "isbn_10": "1071925733",
+    "genres": [
+      "Drama"
+    ],
+    "language": "de",
+    "source": "seed",
+    "year_published": 1941,
+    "page_count": 109
+  },
+  {
+    "title": "A Doll's House",
+    "authors": [
+      "Henrik Ibsen"
+    ],
+    "isbn_13": "9786512927134",
+    "isbn_10": "6512927133",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "no",
+    "source": "seed",
+    "year_published": 1879,
+    "page_count": 68
+  },
+  {
+    "title": "Hedda Gabler",
+    "authors": [
+      "Henrik Ibsen"
+    ],
+    "isbn_13": "9781300954156",
+    "isbn_10": "1300954159",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "no",
+    "source": "seed",
+    "year_published": 1891,
+    "page_count": 83
+  },
+  {
+    "title": "An Enemy of the People",
+    "authors": [
+      "Henrik Ibsen"
+    ],
+    "isbn_13": "9788959130115",
+    "isbn_10": "8959130117",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "no",
+    "source": "seed",
+    "year_published": 1882,
+    "page_count": 94
+  },
+  {
+    "title": "The Wild Duck",
+    "authors": [
+      "Henrik Ibsen"
+    ],
+    "isbn_13": "9783426383513",
+    "isbn_10": "3426383519",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "no",
+    "source": "seed",
+    "year_published": 1884,
+    "page_count": 84
+  },
+  {
+    "title": "Peer Gynt",
+    "authors": [
+      "Henrik Ibsen"
+    ],
+    "isbn_13": "9781610119344",
+    "isbn_10": "1610119347",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "no",
+    "source": "seed",
+    "year_published": 1867,
+    "page_count": 164
+  },
+  {
+    "title": "Ghosts",
+    "authors": [
+      "Henrik Ibsen"
+    ],
+    "isbn_13": "9781360607504",
+    "isbn_10": "1360607501",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "no",
+    "source": "seed",
+    "year_published": 1881,
+    "page_count": 60
+  },
+  {
+    "title": "The Master Builder",
+    "authors": [
+      "Henrik Ibsen"
+    ],
+    "isbn_13": "9784131100419",
+    "isbn_10": "413110041X",
+    "genres": [
+      "Drama",
+      "Classics"
+    ],
+    "language": "no",
+    "source": "seed",
+    "year_published": 1892,
+    "page_count": 92
+  }
+]

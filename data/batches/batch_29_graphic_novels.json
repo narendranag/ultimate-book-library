@@ -1,0 +1,811 @@
+[
+  {
+    "title": "Maus",
+    "authors": [
+      "Art Spiegelman"
+    ],
+    "isbn_13": "9785320386393",
+    "isbn_10": "5320386397",
+    "genres": [
+      "Graphic Novel",
+      "Memoir",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 296
+  },
+  {
+    "title": "Persepolis",
+    "authors": [
+      "Marjane Satrapi"
+    ],
+    "isbn_13": "9780955440526",
+    "isbn_10": "0955440521",
+    "genres": [
+      "Graphic Novel",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 160
+  },
+  {
+    "title": "Watchmen",
+    "authors": [
+      "Alan Moore"
+    ],
+    "isbn_13": "9787355118451",
+    "isbn_10": "7355118455",
+    "genres": [
+      "Graphic Novel",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 416
+  },
+  {
+    "title": "V for Vendetta",
+    "authors": [
+      "Alan Moore"
+    ],
+    "isbn_13": "9786905404075",
+    "isbn_10": "6905404071",
+    "genres": [
+      "Graphic Novel",
+      "Dystopian"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 296
+  },
+  {
+    "title": "From Hell",
+    "authors": [
+      "Alan Moore"
+    ],
+    "isbn_13": "9782861851724",
+    "isbn_10": "2861851724",
+    "genres": [
+      "Graphic Novel",
+      "Historical Fiction",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 572
+  },
+  {
+    "title": "The League of Extraordinary Gentlemen",
+    "authors": [
+      "Alan Moore"
+    ],
+    "isbn_13": "9785563241725",
+    "isbn_10": "5563241726",
+    "genres": [
+      "Graphic Novel",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 176
+  },
+  {
+    "title": "Batman: The Dark Knight Returns",
+    "authors": [
+      "Frank Miller"
+    ],
+    "isbn_13": "9782139142356",
+    "isbn_10": "2139142357",
+    "genres": [
+      "Graphic Novel",
+      "Superhero"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 224
+  },
+  {
+    "title": "Sin City",
+    "authors": [
+      "Frank Miller"
+    ],
+    "isbn_13": "9781684314836",
+    "isbn_10": "1684314836",
+    "genres": [
+      "Graphic Novel",
+      "Noir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 208
+  },
+  {
+    "title": "Batman: Year One",
+    "authors": [
+      "Frank Miller"
+    ],
+    "isbn_13": "9780411551285",
+    "isbn_10": "0411551280",
+    "genres": [
+      "Graphic Novel",
+      "Superhero"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 136
+  },
+  {
+    "title": "300",
+    "authors": [
+      "Frank Miller"
+    ],
+    "isbn_13": "9780043350133",
+    "isbn_10": "0043350135",
+    "genres": [
+      "Graphic Novel",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 88
+  },
+  {
+    "title": "Sandman: Preludes & Nocturnes",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9780120507375",
+    "isbn_10": "0120507374",
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 240
+  },
+  {
+    "title": "Sandman: The Doll's House",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9782101404222",
+    "isbn_10": "2101404222",
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 232
+  },
+  {
+    "title": "Sandman: Dream Country",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9783182623496",
+    "isbn_10": "3182623494",
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 160
+  },
+  {
+    "title": "Sandman: Season of Mists",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9780575935105",
+    "isbn_10": "0575935103",
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 192
+  },
+  {
+    "title": "Sandman: A Game of You",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9780184222429",
+    "isbn_10": "0184222427",
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 192
+  },
+  {
+    "title": "Sandman: Fables & Reflections",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9789553532992",
+    "isbn_10": "9553532993",
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 264
+  },
+  {
+    "title": "Sandman: Brief Lives",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9783191481599",
+    "isbn_10": "3191481591",
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 168
+  },
+  {
+    "title": "Sandman: World's End",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9782787373096",
+    "isbn_10": "2787373097",
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 168
+  },
+  {
+    "title": "Sandman: The Kindly Ones",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9789163043901",
+    "isbn_10": "9163043904",
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 352
+  },
+  {
+    "title": "Sandman: The Wake",
+    "authors": [
+      "Neil Gaiman"
+    ],
+    "isbn_13": "9781206954380",
+    "isbn_10": "1206954388",
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 192
+  },
+  {
+    "title": "Fun Home",
+    "authors": [
+      "Alison Bechdel"
+    ],
+    "isbn_13": "9784951265916",
+    "isbn_10": "4951265915",
+    "genres": [
+      "Graphic Novel",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 232
+  },
+  {
+    "title": "Are You My Mother?",
+    "authors": [
+      "Alison Bechdel"
+    ],
+    "isbn_13": "9780567272133",
+    "isbn_10": "0567272133",
+    "genres": [
+      "Graphic Novel",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 286
+  },
+  {
+    "title": "Blankets",
+    "authors": [
+      "Craig Thompson"
+    ],
+    "isbn_13": "9782522357022",
+    "isbn_10": "2522357026",
+    "genres": [
+      "Graphic Novel",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 592
+  },
+  {
+    "title": "Habibi",
+    "authors": [
+      "Craig Thompson"
+    ],
+    "isbn_13": "9788539399314",
+    "isbn_10": "8539399318",
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 672
+  },
+  {
+    "title": "Jimmy Corrigan, the Smartest Kid on Earth",
+    "authors": [
+      "Chris Ware"
+    ],
+    "isbn_13": "9789081844024",
+    "isbn_10": "9081844024",
+    "genres": [
+      "Graphic Novel",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 380
+  },
+  {
+    "title": "Building Stories",
+    "authors": [
+      "Chris Ware"
+    ],
+    "isbn_13": "9784130988506",
+    "isbn_10": "4130988506",
+    "genres": [
+      "Graphic Novel",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 260
+  },
+  {
+    "title": "Rusty Brown",
+    "authors": [
+      "Chris Ware"
+    ],
+    "isbn_13": "9782924420584",
+    "isbn_10": "292442058X",
+    "genres": [
+      "Graphic Novel",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 356
+  },
+  {
+    "title": "Saga Vol. 1",
+    "authors": [
+      "Brian K. Vaughan"
+    ],
+    "isbn_13": "9788035015008",
+    "isbn_10": "8035015001",
+    "genres": [
+      "Graphic Novel",
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 160
+  },
+  {
+    "title": "Y: The Last Man Vol. 1",
+    "authors": [
+      "Brian K. Vaughan"
+    ],
+    "isbn_13": "9782691424815",
+    "isbn_10": "2691424812",
+    "genres": [
+      "Graphic Novel",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 128
+  },
+  {
+    "title": "Paper Girls Vol. 1",
+    "authors": [
+      "Brian K. Vaughan"
+    ],
+    "isbn_13": "9780632414734",
+    "isbn_10": "0632414731",
+    "genres": [
+      "Graphic Novel",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 144
+  },
+  {
+    "title": "The Walking Dead Vol. 1",
+    "authors": [
+      "Robert Kirkman"
+    ],
+    "isbn_13": "9786521232335",
+    "isbn_10": "6521232339",
+    "genres": [
+      "Graphic Novel",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 144
+  },
+  {
+    "title": "Invincible Vol. 1",
+    "authors": [
+      "Robert Kirkman"
+    ],
+    "isbn_13": "9780026301824",
+    "isbn_10": "0026301822",
+    "genres": [
+      "Graphic Novel",
+      "Superhero"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 128
+  },
+  {
+    "title": "Ghost World",
+    "authors": [
+      "Daniel Clowes"
+    ],
+    "isbn_13": "9785124121350",
+    "isbn_10": "5124121351",
+    "genres": [
+      "Graphic Novel",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 80
+  },
+  {
+    "title": "Patience",
+    "authors": [
+      "Daniel Clowes"
+    ],
+    "isbn_13": "9784420465878",
+    "isbn_10": "4420465875",
+    "genres": [
+      "Graphic Novel",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 180
+  },
+  {
+    "title": "Palestine",
+    "authors": [
+      "Joe Sacco"
+    ],
+    "isbn_13": "9785551711643",
+    "isbn_10": "5551711641",
+    "genres": [
+      "Graphic Novel",
+      "Journalism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 285
+  },
+  {
+    "title": "Safe Area Goražde",
+    "authors": [
+      "Joe Sacco"
+    ],
+    "isbn_13": "9783414215291",
+    "isbn_10": "3414215292",
+    "genres": [
+      "Graphic Novel",
+      "Journalism"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 227
+  },
+  {
+    "title": "Pyongyang",
+    "authors": [
+      "Guy Delisle"
+    ],
+    "isbn_13": "9781182648952",
+    "isbn_10": "1182648959",
+    "genres": [
+      "Graphic Novel",
+      "Memoir",
+      "Travel"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 176
+  },
+  {
+    "title": "Shenzhen",
+    "authors": [
+      "Guy Delisle"
+    ],
+    "isbn_13": "9784516092292",
+    "isbn_10": "4516092298",
+    "genres": [
+      "Graphic Novel",
+      "Memoir",
+      "Travel"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 148
+  },
+  {
+    "title": "Burma Chronicles",
+    "authors": [
+      "Guy Delisle"
+    ],
+    "isbn_13": "9784153251182",
+    "isbn_10": "4153251186",
+    "genres": [
+      "Graphic Novel",
+      "Memoir",
+      "Travel"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 261
+  },
+  {
+    "title": "March: Book One",
+    "authors": [
+      "John Lewis"
+    ],
+    "isbn_13": "9786467672257",
+    "isbn_10": "6467672259",
+    "genres": [
+      "Graphic Novel",
+      "Memoir",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 128
+  },
+  {
+    "title": "March: Book Two",
+    "authors": [
+      "John Lewis"
+    ],
+    "isbn_13": "9787468314085",
+    "isbn_10": "746831408X",
+    "genres": [
+      "Graphic Novel",
+      "Memoir",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 192
+  },
+  {
+    "title": "March: Book Three",
+    "authors": [
+      "John Lewis"
+    ],
+    "isbn_13": "9785024330449",
+    "isbn_10": "5024330447",
+    "genres": [
+      "Graphic Novel",
+      "Memoir",
+      "History"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 256
+  },
+  {
+    "title": "My Favorite Thing Is Monsters",
+    "authors": [
+      "Emil Ferris"
+    ],
+    "isbn_13": "9786544826757",
+    "isbn_10": "6544826758",
+    "genres": [
+      "Graphic Novel",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 386
+  },
+  {
+    "title": "Sabrina",
+    "authors": [
+      "Nick Drnaso"
+    ],
+    "isbn_13": "9780318042312",
+    "isbn_10": "0318042312",
+    "genres": [
+      "Graphic Novel",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 204
+  },
+  {
+    "title": "Killing and Dying",
+    "authors": [
+      "Adrian Tomine"
+    ],
+    "isbn_13": "9781954039537",
+    "isbn_10": "1954039530",
+    "genres": [
+      "Graphic Novel",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 128
+  },
+  {
+    "title": "The Loneliness of the Long-Distance Cartoonist",
+    "authors": [
+      "Adrian Tomine"
+    ],
+    "isbn_13": "9783588059127",
+    "isbn_10": "3588059121",
+    "genres": [
+      "Graphic Novel",
+      "Memoir"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 168
+  },
+  {
+    "title": "Seconds",
+    "authors": [
+      "Bryan Lee O'Malley"
+    ],
+    "isbn_13": "9780055820433",
+    "isbn_10": "0055820433",
+    "genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 336
+  },
+  {
+    "title": "Scott Pilgrim Vol. 1",
+    "authors": [
+      "Bryan Lee O'Malley"
+    ],
+    "isbn_13": "9781403154712",
+    "isbn_10": "1403154716",
+    "genres": [
+      "Graphic Novel",
+      "Comedy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 168
+  },
+  {
+    "title": "Black Hole",
+    "authors": [
+      "Charles Burns"
+    ],
+    "isbn_13": "9780680623140",
+    "isbn_10": "0680623140",
+    "genres": [
+      "Graphic Novel",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 368
+  },
+  {
+    "title": "Asterios Polyp",
+    "authors": [
+      "David Mazzucchelli"
+    ],
+    "isbn_13": "9785345260401",
+    "isbn_10": "5345260400",
+    "genres": [
+      "Graphic Novel",
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 344
+  }
+]
