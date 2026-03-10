@@ -10,6 +10,7 @@ COPY data/ data/
 
 RUN uv sync --no-dev --extra api --frozen
 
-EXPOSE 8000
+ENV PORT=8000
+EXPOSE ${PORT}
 
-CMD ["uv", "run", "booklib", "serve", "--host", "0.0.0.0", "--port", "8000"]
+CMD uv run booklib serve --host 0.0.0.0 --port ${PORT}
