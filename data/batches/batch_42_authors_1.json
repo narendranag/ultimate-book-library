@@ -1,0 +1,1506 @@
+[
+  {
+    "title": "The Secret Adversary",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9780495308034",
+    "isbn_10": "049530803X",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1922,
+    "page_count": 282
+  },
+  {
+    "title": "The Man in the Brown Suit",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9784239411202",
+    "isbn_10": "4239411203",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1924,
+    "page_count": 312
+  },
+  {
+    "title": "The Secret of Chimneys",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9780433392514",
+    "isbn_10": "0433392517",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1925,
+    "page_count": 290
+  },
+  {
+    "title": "The Murder at the Vicarage",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9788118332244",
+    "isbn_10": "8118332241",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1930,
+    "page_count": 288
+  },
+  {
+    "title": "The Thirteen Problems",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9780913455234",
+    "isbn_10": "0913455237",
+    "genres": [
+      "Mystery",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1932,
+    "page_count": 288
+  },
+  {
+    "title": "Why Didn't They Ask Evans?",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9782242514255",
+    "isbn_10": "2242514253",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1934,
+    "page_count": 256
+  },
+  {
+    "title": "Three Act Tragedy",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9780421871106",
+    "isbn_10": "0421871105",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1935,
+    "page_count": 256
+  },
+  {
+    "title": "Cards on the Table",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9785781472475",
+    "isbn_10": "5781472479",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1936,
+    "page_count": 240
+  },
+  {
+    "title": "Dumb Witness",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9784140108802",
+    "isbn_10": "4140108800",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1937,
+    "page_count": 320
+  },
+  {
+    "title": "Appointment with Death",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9780536307842",
+    "isbn_10": "0536307849",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1938,
+    "page_count": 256
+  },
+  {
+    "title": "Hercule Poirot's Christmas",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9788110563455",
+    "isbn_10": "8110563457",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1938,
+    "page_count": 256
+  },
+  {
+    "title": "Sad Cypress",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9782699080181",
+    "isbn_10": "2699080187",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1940,
+    "page_count": 224
+  },
+  {
+    "title": "One, Two, Buckle My Shoe",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9781430214397",
+    "isbn_10": "1430214392",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1940,
+    "page_count": 256
+  },
+  {
+    "title": "N or M?",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9781954339644",
+    "isbn_10": "195433964X",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1941,
+    "page_count": 224
+  },
+  {
+    "title": "The Body in the Library",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9785432304841",
+    "isbn_10": "5432304848",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1942,
+    "page_count": 218
+  },
+  {
+    "title": "Death Comes as the End",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9781111175511",
+    "isbn_10": "1111175519",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1944,
+    "page_count": 223
+  },
+  {
+    "title": "Sparkling Cyanide",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9783576273221",
+    "isbn_10": "3576273220",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1945,
+    "page_count": 227
+  },
+  {
+    "title": "The Hollow",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9781240199112",
+    "isbn_10": "1240199112",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1946,
+    "page_count": 290
+  },
+  {
+    "title": "Taken at the Flood",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9784402409555",
+    "isbn_10": "4402409551",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1948,
+    "page_count": 240
+  },
+  {
+    "title": "They Came to Baghdad",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9788218983841",
+    "isbn_10": "8218983848",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 224
+  },
+  {
+    "title": "Mrs McGinty's Dead",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9788135443701",
+    "isbn_10": "8135443706",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1952,
+    "page_count": 243
+  },
+  {
+    "title": "They Do It with Mirrors",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9786234534306",
+    "isbn_10": "6234534309",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1952,
+    "page_count": 199
+  },
+  {
+    "title": "A Pocket Full of Rye",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9785275044423",
+    "isbn_10": "5275044429",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1953,
+    "page_count": 222
+  },
+  {
+    "title": "Destination Unknown",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9786835124425",
+    "isbn_10": "6835124423",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1954,
+    "page_count": 192
+  },
+  {
+    "title": "Hickory Dickory Dock",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9784403071058",
+    "isbn_10": "4403071058",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1955,
+    "page_count": 248
+  },
+  {
+    "title": "Dead Man's Folly",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9780935052305",
+    "isbn_10": "0935052305",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1956,
+    "page_count": 256
+  },
+  {
+    "title": "Cat Among the Pigeons",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9784295138228",
+    "isbn_10": "4295138223",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 224
+  },
+  {
+    "title": "The Pale Horse",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9785200550852",
+    "isbn_10": "5200550858",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1961,
+    "page_count": 256
+  },
+  {
+    "title": "The Mirror Crack'd from Side to Side",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9785653334047",
+    "isbn_10": "5653334049",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 256
+  },
+  {
+    "title": "The Clocks",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9780114305376",
+    "isbn_10": "0114305374",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 256
+  },
+  {
+    "title": "A Caribbean Mystery",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9783339569592",
+    "isbn_10": "3339569592",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1964,
+    "page_count": 256
+  },
+  {
+    "title": "At Bertram's Hotel",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9780971225053",
+    "isbn_10": "0971225052",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 272
+  },
+  {
+    "title": "Third Girl",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9780455404349",
+    "isbn_10": "0455404348",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1966,
+    "page_count": 256
+  },
+  {
+    "title": "Endless Night",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9782240535320",
+    "isbn_10": "2240535326",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1967,
+    "page_count": 224
+  },
+  {
+    "title": "By the Pricking of My Thumbs",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9781785714221",
+    "isbn_10": "1785714228",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1968,
+    "page_count": 268
+  },
+  {
+    "title": "Hallowe'en Party",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9780042593029",
+    "isbn_10": "0042593026",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 248
+  },
+  {
+    "title": "Passenger to Frankfurt",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9786504244317",
+    "isbn_10": "6504244316",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1970,
+    "page_count": 272
+  },
+  {
+    "title": "Nemesis",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9786010227538",
+    "isbn_10": "6010227534",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1971,
+    "page_count": 256
+  },
+  {
+    "title": "Elephants Can Remember",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9782608450203",
+    "isbn_10": "2608450202",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 256
+  },
+  {
+    "title": "Postern of Fate",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9787514453782",
+    "isbn_10": "7514453784",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 256
+  },
+  {
+    "title": "Sleeping Murder",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn_13": "9785421835547",
+    "isbn_10": "5421835545",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1976,
+    "page_count": 224
+  },
+  {
+    "title": "Foundation",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9782524761506",
+    "isbn_10": "2524761509",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 244
+  },
+  {
+    "title": "Foundation and Empire",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9781057591475",
+    "isbn_10": "1057591475",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1952,
+    "page_count": 247
+  },
+  {
+    "title": "Second Foundation",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9780946195008",
+    "isbn_10": "0946195005",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1953,
+    "page_count": 210
+  },
+  {
+    "title": "Foundation's Edge",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9785521450961",
+    "isbn_10": "5521450963",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 367
+  },
+  {
+    "title": "Foundation and Earth",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9780452923423",
+    "isbn_10": "0452923425",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 356
+  },
+  {
+    "title": "Prelude to Foundation",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9781107781351",
+    "isbn_10": "1107781353",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 403
+  },
+  {
+    "title": "Forward the Foundation",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9782320453582",
+    "isbn_10": "232045358X",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 415
+  },
+  {
+    "title": "I, Robot",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9780554314914",
+    "isbn_10": "0554314916",
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1950,
+    "page_count": 253
+  },
+  {
+    "title": "The Caves of Steel",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9782360029181",
+    "isbn_10": "2360029185",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1954,
+    "page_count": 224
+  },
+  {
+    "title": "The Naked Sun",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9780221545306",
+    "isbn_10": "0221545301",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1957,
+    "page_count": 187
+  },
+  {
+    "title": "The Robots of Dawn",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9781808524400",
+    "isbn_10": "1808524403",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 435
+  },
+  {
+    "title": "Robots and Empire",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9781103010431",
+    "isbn_10": "1103010433",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 383
+  },
+  {
+    "title": "The End of Eternity",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9783411403554",
+    "isbn_10": "3411403551",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1955,
+    "page_count": 191
+  },
+  {
+    "title": "Pebble in the Sky",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9784155131697",
+    "isbn_10": "4155131692",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1950,
+    "page_count": 223
+  },
+  {
+    "title": "The Stars, Like Dust",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9780194359108",
+    "isbn_10": "0194359107",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1951,
+    "page_count": 218
+  },
+  {
+    "title": "The Currents of Space",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9784031614177",
+    "isbn_10": "4031614179",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1952,
+    "page_count": 217
+  },
+  {
+    "title": "The Gods Themselves",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9787604347304",
+    "isbn_10": "7604347304",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 288
+  },
+  {
+    "title": "Nightfall",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9786505004446",
+    "isbn_10": "6505004440",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 339
+  },
+  {
+    "title": "The Bicentennial Man",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9783301363616",
+    "isbn_10": "330136361X",
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1976,
+    "page_count": 211
+  },
+  {
+    "title": "Nemesis",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "isbn_13": "9785517035523",
+    "isbn_10": "5517035523",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 364
+  },
+  {
+    "title": "Do Androids Dream of Electric Sheep?",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9782636220519",
+    "isbn_10": "2636220518",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1968,
+    "page_count": 210
+  },
+  {
+    "title": "The Man in the High Castle",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9784640793447",
+    "isbn_10": "4640793448",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 239
+  },
+  {
+    "title": "A Scanner Darkly",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9789700942803",
+    "isbn_10": "9700942805",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 220
+  },
+  {
+    "title": "Ubik",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9784555773435",
+    "isbn_10": "4555773438",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 202
+  },
+  {
+    "title": "VALIS",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9789141475540",
+    "isbn_10": "9141475542",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 227
+  },
+  {
+    "title": "The Three Stigmata of Palmer Eldritch",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9785331105341",
+    "isbn_10": "5331105343",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 230
+  },
+  {
+    "title": "Flow My Tears, the Policeman Said",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9787095714913",
+    "isbn_10": "7095714916",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 204
+  },
+  {
+    "title": "Time Out of Joint",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9785512501245",
+    "isbn_10": "5512501240",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1959,
+    "page_count": 224
+  },
+  {
+    "title": "Martian Time-Slip",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9786009775101",
+    "isbn_10": "6009775108",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1964,
+    "page_count": 220
+  },
+  {
+    "title": "The Simulacra",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9782245354599",
+    "isbn_10": "2245354591",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1964,
+    "page_count": 192
+  },
+  {
+    "title": "Dr. Bloodmoney",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9789582104924",
+    "isbn_10": "9582104929",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 256
+  },
+  {
+    "title": "Now Wait for Last Year",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9781420452174",
+    "isbn_10": "1420452177",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1966,
+    "page_count": 214
+  },
+  {
+    "title": "Galactic Pot-Healer",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9782082001502",
+    "isbn_10": "2082001504",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 143
+  },
+  {
+    "title": "Our Friends from Frolix 8",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9785579201799",
+    "isbn_10": "5579201796",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1970,
+    "page_count": 190
+  },
+  {
+    "title": "We Can Build You",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9785569737864",
+    "isbn_10": "5569737863",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 243
+  },
+  {
+    "title": "A Maze of Death",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9785223152248",
+    "isbn_10": "5223152247",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1970,
+    "page_count": 192
+  },
+  {
+    "title": "Clans of the Alphane Moon",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9781343125407",
+    "isbn_10": "1343125405",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1964,
+    "page_count": 253
+  },
+  {
+    "title": "The Penultimate Truth",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9780519733354",
+    "isbn_10": "0519733355",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1964,
+    "page_count": 174
+  },
+  {
+    "title": "The World Jones Made",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9783420296505",
+    "isbn_10": "3420296509",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1956,
+    "page_count": 199
+  },
+  {
+    "title": "Eye in the Sky",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9783547344509",
+    "isbn_10": "3547344506",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1957,
+    "page_count": 254
+  },
+  {
+    "title": "Solar Lottery",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9781440544811",
+    "isbn_10": "1440544816",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1955,
+    "page_count": 188
+  },
+  {
+    "title": "The Cosmic Puppets",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9789431130487",
+    "isbn_10": "9431130483",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1957,
+    "page_count": 128
+  },
+  {
+    "title": "Counter-Clock World",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9780331476354",
+    "isbn_10": "0331476355",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1967,
+    "page_count": 160
+  },
+  {
+    "title": "The Divine Invasion",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9782329049397",
+    "isbn_10": "2329049390",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 239
+  },
+  {
+    "title": "The Transmigration of Timothy Archer",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9783647800165",
+    "isbn_10": "3647800163",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 256
+  },
+  {
+    "title": "Radio Free Albemuth",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "isbn_13": "9785441717809",
+    "isbn_10": "5441717807",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 224
+  },
+  {
+    "title": "A Wizard of Earthsea",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9781424164530",
+    "isbn_10": "1424164532",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1968,
+    "page_count": 183
+  },
+  {
+    "title": "The Tombs of Atuan",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9780567153357",
+    "isbn_10": "0567153355",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1970,
+    "page_count": 163
+  },
+  {
+    "title": "The Farthest Shore",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9783230453075",
+    "isbn_10": "3230453077",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 197
+  },
+  {
+    "title": "Tehanu",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9781042842032",
+    "isbn_10": "1042842035",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 226
+  },
+  {
+    "title": "Tales from Earthsea",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9783540693017",
+    "isbn_10": "3540693017",
+    "genres": [
+      "Fantasy",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 280
+  },
+  {
+    "title": "The Other Wind",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9788512928258",
+    "isbn_10": "8512928255",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 211
+  },
+  {
+    "title": "The Left Hand of Darkness",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9789101634628",
+    "isbn_10": "9101634623",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 286
+  },
+  {
+    "title": "The Dispossessed",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9785473428599",
+    "isbn_10": "5473428592",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 387
+  },
+  {
+    "title": "The Lathe of Heaven",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9789984222981",
+    "isbn_10": "9984222985",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1971,
+    "page_count": 184
+  },
+  {
+    "title": "The Word for World Is Forest",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9780217950534",
+    "isbn_10": "0217950531",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 189
+  },
+  {
+    "title": "The Telling",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9784100552270",
+    "isbn_10": "4100552270",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 264
+  },
+  {
+    "title": "Always Coming Home",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9783205878094",
+    "isbn_10": "3205878094",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 525
+  },
+  {
+    "title": "The Beginning Place",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9784041467602",
+    "isbn_10": "4041467608",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 183
+  }
+]

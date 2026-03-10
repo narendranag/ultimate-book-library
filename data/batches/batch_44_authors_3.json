@@ -1,0 +1,1554 @@
+[
+  {
+    "title": "Secrets",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9786537273087",
+    "isbn_10": "6537273080",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 384
+  },
+  {
+    "title": "Wanderlust",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9789641711605",
+    "isbn_10": "9641711601",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 464
+  },
+  {
+    "title": "Fine Things",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9784312924285",
+    "isbn_10": "4312924287",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 384
+  },
+  {
+    "title": "Kaleidoscope",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9783210745909",
+    "isbn_10": "3210745900",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 480
+  },
+  {
+    "title": "Zoya",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9780507158367",
+    "isbn_10": "0507158369",
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 448
+  },
+  {
+    "title": "Daddy",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9789047462231",
+    "isbn_10": "9047462238",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 384
+  },
+  {
+    "title": "Message from Nam",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9781442624627",
+    "isbn_10": "1442624620",
+    "genres": [
+      "Romance",
+      "War Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 448
+  },
+  {
+    "title": "Heartbeat",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9781194613054",
+    "isbn_10": "1194613055",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 384
+  },
+  {
+    "title": "No Greater Love",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9782584800337",
+    "isbn_10": "2584800330",
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 384
+  },
+  {
+    "title": "Jewels",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9785276134543",
+    "isbn_10": "5276134545",
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 480
+  },
+  {
+    "title": "Mixed Blessings",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9781047008518",
+    "isbn_10": "1047008513",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 384
+  },
+  {
+    "title": "Vanished",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9787451511552",
+    "isbn_10": "7451511553",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 384
+  },
+  {
+    "title": "Accident",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9782706739316",
+    "isbn_10": "2706739312",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 320
+  },
+  {
+    "title": "The Gift",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9788164012459",
+    "isbn_10": "8164012459",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 288
+  },
+  {
+    "title": "Wings",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9784652112489",
+    "isbn_10": "4652112483",
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 416
+  },
+  {
+    "title": "Lightning",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9784240259053",
+    "isbn_10": "4240259053",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 384
+  },
+  {
+    "title": "Five Days in Paris",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9780120751242",
+    "isbn_10": "0120751240",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 284
+  },
+  {
+    "title": "Malice",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9780336936549",
+    "isbn_10": "0336936540",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 310
+  },
+  {
+    "title": "Silent Honor",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9783462130744",
+    "isbn_10": "3462130749",
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 384
+  },
+  {
+    "title": "The Ranch",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9784010349823",
+    "isbn_10": "4010349824",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 320
+  },
+  {
+    "title": "Special Delivery",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9784935026540",
+    "isbn_10": "4935026545",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 288
+  },
+  {
+    "title": "The Ghost",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9784442919809",
+    "isbn_10": "4442919801",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 384
+  },
+  {
+    "title": "The Long Road Home",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9781051927249",
+    "isbn_10": "1051927242",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 384
+  },
+  {
+    "title": "Mirror Image",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9789195103277",
+    "isbn_10": "9195103279",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 316
+  },
+  {
+    "title": "Bittersweet",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9782463136151",
+    "isbn_10": "2463136154",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 384
+  },
+  {
+    "title": "Granny Dan",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9780902967212",
+    "isbn_10": "0902967215",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 224
+  },
+  {
+    "title": "Irresistible Forces",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9784606903064",
+    "isbn_10": "4606903066",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 304
+  },
+  {
+    "title": "The Wedding",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9786524213126",
+    "isbn_10": "6524213122",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 326
+  },
+  {
+    "title": "The House on Hope Street",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9788474125511",
+    "isbn_10": "8474125510",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 260
+  },
+  {
+    "title": "Leap of Faith",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9784317510940",
+    "isbn_10": "4317510944",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 288
+  },
+  {
+    "title": "The Kiss",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9784062248044",
+    "isbn_10": "4062248042",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 288
+  },
+  {
+    "title": "Lone Eagle",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9789545617836",
+    "isbn_10": "9545617837",
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 400
+  },
+  {
+    "title": "The Cottage",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9780282554477",
+    "isbn_10": "0282554475",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 384
+  },
+  {
+    "title": "Sunset in St. Tropez",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9785441177535",
+    "isbn_10": "5441177535",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 224
+  },
+  {
+    "title": "Answered Prayers",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9781855302426",
+    "isbn_10": "185530242X",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 288
+  },
+  {
+    "title": "Dating Game",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9785493765346",
+    "isbn_10": "5493765349",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 288
+  },
+  {
+    "title": "Johnny Angel",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9781543503067",
+    "isbn_10": "1543503063",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 194
+  },
+  {
+    "title": "Safe Harbour",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9784092122253",
+    "isbn_10": "409212225X",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 336
+  },
+  {
+    "title": "The Inimitable Jeeves",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9783646469257",
+    "isbn_10": "3646469250",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1923,
+    "page_count": 233
+  },
+  {
+    "title": "Carry On, Jeeves",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9780348243925",
+    "isbn_10": "0348243928",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1925,
+    "page_count": 287
+  },
+  {
+    "title": "Very Good, Jeeves",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9781794033009",
+    "isbn_10": "1794033009",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1930,
+    "page_count": 288
+  },
+  {
+    "title": "Thank You, Jeeves",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9781908302939",
+    "isbn_10": "1908302933",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1934,
+    "page_count": 256
+  },
+  {
+    "title": "Right Ho, Jeeves",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9788235546265",
+    "isbn_10": "8235546264",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1934,
+    "page_count": 304
+  },
+  {
+    "title": "The Code of the Woosters",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9783602407217",
+    "isbn_10": "3602407217",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1938,
+    "page_count": 304
+  },
+  {
+    "title": "Joy in the Morning",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9781550320459",
+    "isbn_10": "1550320459",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1946,
+    "page_count": 272
+  },
+  {
+    "title": "The Mating Season",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9789236515557",
+    "isbn_10": "923651555X",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1949,
+    "page_count": 272
+  },
+  {
+    "title": "Ring for Jeeves",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9780575211421",
+    "isbn_10": "0575211423",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1953,
+    "page_count": 216
+  },
+  {
+    "title": "Jeeves and the Feudal Spirit",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9789557637914",
+    "isbn_10": "9557637919",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1954,
+    "page_count": 256
+  },
+  {
+    "title": "Jeeves in the Offing",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9783310886557",
+    "isbn_10": "3310886557",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1960,
+    "page_count": 224
+  },
+  {
+    "title": "Stiff Upper Lip, Jeeves",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9785919717096",
+    "isbn_10": "5919717092",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1963,
+    "page_count": 224
+  },
+  {
+    "title": "Much Obliged, Jeeves",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9784427520082",
+    "isbn_10": "4427520081",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1971,
+    "page_count": 192
+  },
+  {
+    "title": "Aunts Aren't Gentlemen",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9783430081191",
+    "isbn_10": "343008119X",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 192
+  },
+  {
+    "title": "Leave It to Psmith",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9785531612205",
+    "isbn_10": "5531612206",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1923,
+    "page_count": 256
+  },
+  {
+    "title": "Something Fresh",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9785049395355",
+    "isbn_10": "5049395356",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1915,
+    "page_count": 320
+  },
+  {
+    "title": "Summer Lightning",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9782261203031",
+    "isbn_10": "2261203039",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1929,
+    "page_count": 288
+  },
+  {
+    "title": "Heavy Weather",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9786487451207",
+    "isbn_10": "6487451207",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1933,
+    "page_count": 288
+  },
+  {
+    "title": "Uncle Fred in the Springtime",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9780583187008",
+    "isbn_10": "0583187005",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1939,
+    "page_count": 256
+  },
+  {
+    "title": "Full Moon",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9781220881754",
+    "isbn_10": "1220881759",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1947,
+    "page_count": 252
+  },
+  {
+    "title": "Pigs Have Wings",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9783054816810",
+    "isbn_10": "3054816818",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1952,
+    "page_count": 224
+  },
+  {
+    "title": "Galahad at Blandings",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9782439026356",
+    "isbn_10": "2439026352",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1965,
+    "page_count": 224
+  },
+  {
+    "title": "A Pelican at Blandings",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9787751282053",
+    "isbn_10": "7751282053",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 223
+  },
+  {
+    "title": "Sunset at Blandings",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9781023230889",
+    "isbn_10": "1023230887",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 192
+  },
+  {
+    "title": "The Luck of the Bodkins",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9781581311129",
+    "isbn_10": "1581311125",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1935,
+    "page_count": 306
+  },
+  {
+    "title": "Laughing Gas",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9787023533111",
+    "isbn_10": "7023533117",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1936,
+    "page_count": 256
+  },
+  {
+    "title": "Piccadilly Jim",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9788900067453",
+    "isbn_10": "8900067451",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1917,
+    "page_count": 320
+  },
+  {
+    "title": "A Damsel in Distress",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9784025592023",
+    "isbn_10": "4025592029",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1919,
+    "page_count": 284
+  },
+  {
+    "title": "The Girl on the Boat",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9783050750347",
+    "isbn_10": "3050750340",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1922,
+    "page_count": 256
+  },
+  {
+    "title": "Bill the Conqueror",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn_13": "9780369180643",
+    "isbn_10": "036918064X",
+    "genres": [
+      "Humor",
+      "Classics"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1924,
+    "page_count": 288
+  },
+  {
+    "title": "In Evil Hour",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "isbn_13": "9781085678018",
+    "isbn_10": "1085678016",
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 183
+  },
+  {
+    "title": "Big Mama's Funeral",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "isbn_13": "9786651558930",
+    "isbn_10": "6651558935",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 146
+  },
+  {
+    "title": "Eyes of a Blue Dog",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "isbn_13": "9785187571239",
+    "isbn_10": "5187571230",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1947,
+    "page_count": 170
+  },
+  {
+    "title": "The Story of a Shipwrecked Sailor",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "isbn_13": "9781084394315",
+    "isbn_10": "1084394316",
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1970,
+    "page_count": 106
+  },
+  {
+    "title": "Innocent Eréndira",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "isbn_13": "9782367630045",
+    "isbn_10": "2367630046",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 183
+  },
+  {
+    "title": "The Autumn of the Patriarch",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "isbn_13": "9786453532534",
+    "isbn_10": "6453532530",
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 269
+  },
+  {
+    "title": "News of a Kidnapping",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "isbn_13": "9787031542778",
+    "isbn_10": "7031542774",
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 291
+  },
+  {
+    "title": "Living to Tell the Tale",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "isbn_13": "9786503557944",
+    "isbn_10": "6503557949",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 483
+  },
+  {
+    "title": "Memories of My Melancholy Whores",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "isbn_13": "9783377197405",
+    "isbn_10": "3377197400",
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 115
+  },
+  {
+    "title": "Until August",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "isbn_13": "9784289952113",
+    "isbn_10": "4289952119",
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "es",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 144
+  },
+  {
+    "title": "Hear the Wind Sing",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9783893157143",
+    "isbn_10": "389315714X",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 130
+  },
+  {
+    "title": "Pinball, 1973",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9781050184797",
+    "isbn_10": "1050184793",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 166
+  },
+  {
+    "title": "A Wild Sheep Chase",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9785613478170",
+    "isbn_10": "5613478171",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 299
+  },
+  {
+    "title": "Hard-Boiled Wonderland and the End of the World",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9785349133831",
+    "isbn_10": "5349133837",
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 400
+  },
+  {
+    "title": "Dance Dance Dance",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9780479533094",
+    "isbn_10": "0479533091",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 393
+  },
+  {
+    "title": "South of the Border, West of the Sun",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9781660230143",
+    "isbn_10": "1660230144",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 213
+  },
+  {
+    "title": "The Wind-Up Bird Chronicle",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9784142739196",
+    "isbn_10": "4142739190",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 607
+  },
+  {
+    "title": "Sputnik Sweetheart",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9783702346584",
+    "isbn_10": "3702346589",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 229
+  },
+  {
+    "title": "Kafka on the Shore",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9781325428595",
+    "isbn_10": "1325428590",
+    "genres": [
+      "Literary Fiction",
+      "Fantasy"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 467
+  },
+  {
+    "title": "After Dark",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9784510104786",
+    "isbn_10": "4510104782",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 191
+  },
+  {
+    "title": "1Q84",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9782504333716",
+    "isbn_10": "2504333714",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 925
+  },
+  {
+    "title": "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9782491859510",
+    "isbn_10": "2491859513",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 386
+  },
+  {
+    "title": "Killing Commendatore",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9783531466217",
+    "isbn_10": "3531466216",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 681
+  },
+  {
+    "title": "The City and Its Uncertain Walls",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9786130623258",
+    "isbn_10": "6130623259",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 464
+  },
+  {
+    "title": "Norwegian Wood",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9783611111730",
+    "isbn_10": "3611111732",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 296
+  },
+  {
+    "title": "What I Talk About When I Talk About Running",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9783600640869",
+    "isbn_10": "3600640860",
+    "genres": [
+      "Memoir"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 180
+  },
+  {
+    "title": "Underground",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9780840838445",
+    "isbn_10": "0840838441",
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 309
+  },
+  {
+    "title": "Men Without Women",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9783405619657",
+    "isbn_10": "3405619653",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 228
+  },
+  {
+    "title": "First Person Singular",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9782089526381",
+    "isbn_10": "2089526386",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 241
+  },
+  {
+    "title": "Blind Willow, Sleeping Woman",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9782149725235",
+    "isbn_10": "2149725231",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 333
+  },
+  {
+    "title": "After the Quake",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9785160551531",
+    "isbn_10": "5160551530",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 181
+  },
+  {
+    "title": "The Elephant Vanishes",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "isbn_13": "9785073487361",
+    "isbn_10": "5073487362",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "ja",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 327
+  }
+]

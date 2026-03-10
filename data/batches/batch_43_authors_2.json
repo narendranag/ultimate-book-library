@@ -1,0 +1,1590 @@
+[
+  {
+    "title": "Malafrena",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9780415015714",
+    "isbn_10": "0415015715",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 369
+  },
+  {
+    "title": "Changing Planes",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9780458805495",
+    "isbn_10": "0458805491",
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 246
+  },
+  {
+    "title": "The Birthday of the World",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9783614452342",
+    "isbn_10": "3614452344",
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 362
+  },
+  {
+    "title": "Four Ways to Forgiveness",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9780344034428",
+    "isbn_10": "0344034429",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 228
+  },
+  {
+    "title": "The Wind's Twelve Quarters",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9783150439548",
+    "isbn_10": "315043954X",
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 303
+  },
+  {
+    "title": "Orsinian Tales",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9781341352621",
+    "isbn_10": "1341352625",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1976,
+    "page_count": 179
+  },
+  {
+    "title": "Searoad",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9783606152359",
+    "isbn_10": "3606152353",
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 193
+  },
+  {
+    "title": "Lavinia",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "isbn_13": "9788541618328",
+    "isbn_10": "8541618323",
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 280
+  },
+  {
+    "title": "The Colour of Magic",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9786020133508",
+    "isbn_10": "6020133508",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 288
+  },
+  {
+    "title": "The Light Fantastic",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9781936350100",
+    "isbn_10": "1936350106",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 241
+  },
+  {
+    "title": "Equal Rites",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9789109033249",
+    "isbn_10": "9109033246",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 282
+  },
+  {
+    "title": "Mort",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9789024618323",
+    "isbn_10": "9024618320",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 272
+  },
+  {
+    "title": "Sourcery",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9781261338408",
+    "isbn_10": "1261338405",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 260
+  },
+  {
+    "title": "Wyrd Sisters",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9784806460305",
+    "isbn_10": "4806460303",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 331
+  },
+  {
+    "title": "Pyramids",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9786317971943",
+    "isbn_10": "6317971943",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 358
+  },
+  {
+    "title": "Guards! Guards!",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9784504521162",
+    "isbn_10": "4504521164",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 354
+  },
+  {
+    "title": "Eric",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9781859261866",
+    "isbn_10": "1859261868",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 155
+  },
+  {
+    "title": "Moving Pictures",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9780332566023",
+    "isbn_10": "0332566021",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 393
+  },
+  {
+    "title": "Reaper Man",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9789725403341",
+    "isbn_10": "9725403347",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 285
+  },
+  {
+    "title": "Witches Abroad",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9786323350428",
+    "isbn_10": "6323350424",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 293
+  },
+  {
+    "title": "Small Gods",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9785687427548",
+    "isbn_10": "5687427546",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 347
+  },
+  {
+    "title": "Lords and Ladies",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9783985566983",
+    "isbn_10": "3985566984",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 282
+  },
+  {
+    "title": "Men at Arms",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9784951270354",
+    "isbn_10": "4951270358",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 357
+  },
+  {
+    "title": "Soul Music",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9785544043027",
+    "isbn_10": "5544043027",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 373
+  },
+  {
+    "title": "Interesting Times",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9783847941866",
+    "isbn_10": "3847941860",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 344
+  },
+  {
+    "title": "Maskerade",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9786512394035",
+    "isbn_10": "6512394038",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 360
+  },
+  {
+    "title": "Feet of Clay",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9785001617709",
+    "isbn_10": "5001617707",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 357
+  },
+  {
+    "title": "Hogfather",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9782493483867",
+    "isbn_10": "2493483863",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 354
+  },
+  {
+    "title": "Jingo",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9785042757068",
+    "isbn_10": "5042757066",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 380
+  },
+  {
+    "title": "The Last Continent",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9780375155093",
+    "isbn_10": "0375155090",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 354
+  },
+  {
+    "title": "Carpe Jugulum",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9785305443110",
+    "isbn_10": "5305443113",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 378
+  },
+  {
+    "title": "The Fifth Elephant",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9788212511828",
+    "isbn_10": "8212511820",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 383
+  },
+  {
+    "title": "The Truth",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9782283884249",
+    "isbn_10": "2283884241",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 324
+  },
+  {
+    "title": "Thief of Time",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9789301063587",
+    "isbn_10": "9301063581",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 324
+  },
+  {
+    "title": "The Last Hero",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9785111401960",
+    "isbn_10": "5111401962",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 176
+  },
+  {
+    "title": "The Amazing Maurice and His Educated Rodents",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9789230301712",
+    "isbn_10": "923030171X",
+    "genres": [
+      "Fantasy",
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 272
+  },
+  {
+    "title": "Night Watch",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9784338049115",
+    "isbn_10": "4338049111",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 338
+  },
+  {
+    "title": "The Wee Free Men",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9785442030433",
+    "isbn_10": "5442030430",
+    "genres": [
+      "Fantasy",
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 271
+  },
+  {
+    "title": "Monstrous Regiment",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9783395747446",
+    "isbn_10": "3395747441",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 353
+  },
+  {
+    "title": "A Hat Full of Sky",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9786752114073",
+    "isbn_10": "6752114072",
+    "genres": [
+      "Fantasy",
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 279
+  },
+  {
+    "title": "Going Postal",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9781560273011",
+    "isbn_10": "1560273011",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 361
+  },
+  {
+    "title": "Thud!",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9784034341025",
+    "isbn_10": "4034341025",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 358
+  },
+  {
+    "title": "Wintersmith",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9783512154706",
+    "isbn_10": "3512154700",
+    "genres": [
+      "Fantasy",
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 323
+  },
+  {
+    "title": "Making Money",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9780234324301",
+    "isbn_10": "0234324309",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 394
+  },
+  {
+    "title": "Unseen Academicals",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9781782387718",
+    "isbn_10": "1782387714",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 400
+  },
+  {
+    "title": "I Shall Wear Midnight",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9782604622604",
+    "isbn_10": "2604622602",
+    "genres": [
+      "Fantasy",
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 355
+  },
+  {
+    "title": "Snuff",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9780310300304",
+    "isbn_10": "0310300304",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 378
+  },
+  {
+    "title": "Raising Steam",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9789012332958",
+    "isbn_10": "9012332958",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 361
+  },
+  {
+    "title": "The Shepherd's Crown",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9784803212549",
+    "isbn_10": "4803212546",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 304
+  },
+  {
+    "title": "Good Omens",
+    "authors": [
+      "Terry Pratchett"
+    ],
+    "isbn_13": "9780338193247",
+    "isbn_10": "0338193243",
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 288
+  },
+  {
+    "title": "Along Came a Spider",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9784994272575",
+    "isbn_10": "4994272573",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 435
+  },
+  {
+    "title": "Kiss the Girls",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9781733052153",
+    "isbn_10": "1733052151",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 451
+  },
+  {
+    "title": "Jack & Jill",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9786308509803",
+    "isbn_10": "6308509809",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 432
+  },
+  {
+    "title": "Cat & Mouse",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9784289722327",
+    "isbn_10": "4289722326",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 399
+  },
+  {
+    "title": "Pop Goes the Weasel",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9780425712542",
+    "isbn_10": "0425712540",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 424
+  },
+  {
+    "title": "Roses Are Red",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9782406153467",
+    "isbn_10": "2406153460",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 400
+  },
+  {
+    "title": "Violets Are Blue",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9789332083226",
+    "isbn_10": "9332083223",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 392
+  },
+  {
+    "title": "Four Blind Mice",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9789505279531",
+    "isbn_10": "9505279531",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 358
+  },
+  {
+    "title": "The Big Bad Wolf",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9789745884946",
+    "isbn_10": "9745884944",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 399
+  },
+  {
+    "title": "London Bridges",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9781116572117",
+    "isbn_10": "1116572117",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 391
+  },
+  {
+    "title": "Mary, Mary",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9782568058488",
+    "isbn_10": "256805848X",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 388
+  },
+  {
+    "title": "Cross",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9783034247405",
+    "isbn_10": "3034247400",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 393
+  },
+  {
+    "title": "Double Cross",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9784420594356",
+    "isbn_10": "4420594357",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 373
+  },
+  {
+    "title": "Cross Country",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9780393093131",
+    "isbn_10": "0393093131",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 416
+  },
+  {
+    "title": "Alex Cross's Trial",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9789655950632",
+    "isbn_10": "9655950638",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 371
+  },
+  {
+    "title": "I, Alex Cross",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9782046406633",
+    "isbn_10": "204640663X",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 374
+  },
+  {
+    "title": "Cross Fire",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9785111473288",
+    "isbn_10": "5111473289",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 371
+  },
+  {
+    "title": "Kill Alex Cross",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9788540052598",
+    "isbn_10": "8540052598",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 371
+  },
+  {
+    "title": "Merry Christmas, Alex Cross",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9784275023117",
+    "isbn_10": "4275023110",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 292
+  },
+  {
+    "title": "Cross My Heart",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9789520326821",
+    "isbn_10": "9520326820",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 384
+  },
+  {
+    "title": "Hope to Die",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9780558439088",
+    "isbn_10": "055843908X",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 373
+  },
+  {
+    "title": "Cross Justice",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9785167563834",
+    "isbn_10": "5167563836",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 384
+  },
+  {
+    "title": "Cross the Line",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9783343395231",
+    "isbn_10": "3343395234",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 400
+  },
+  {
+    "title": "The People vs. Alex Cross",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9782133153341",
+    "isbn_10": "2133153349",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 384
+  },
+  {
+    "title": "Target: Alex Cross",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9783231500471",
+    "isbn_10": "3231500478",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 368
+  },
+  {
+    "title": "1st to Die",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9785285564669",
+    "isbn_10": "5285564662",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 361
+  },
+  {
+    "title": "2nd Chance",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9782251679525",
+    "isbn_10": "2251679529",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 400
+  },
+  {
+    "title": "3rd Degree",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9782465812121",
+    "isbn_10": "2465812122",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 346
+  },
+  {
+    "title": "4th of July",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9788484163251",
+    "isbn_10": "8484163253",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 357
+  },
+  {
+    "title": "The 5th Horseman",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9781856605519",
+    "isbn_10": "1856605515",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 360
+  },
+  {
+    "title": "The 6th Target",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9789409525123",
+    "isbn_10": "9409525128",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 388
+  },
+  {
+    "title": "7th Heaven",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9783632414537",
+    "isbn_10": "363241453X",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 368
+  },
+  {
+    "title": "The 8th Confession",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9780107612849",
+    "isbn_10": "0107612844",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 371
+  },
+  {
+    "title": "The 9th Judgment",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9783347723313",
+    "isbn_10": "3347723317",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 304
+  },
+  {
+    "title": "10th Anniversary",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9782547345127",
+    "isbn_10": "2547345129",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 368
+  },
+  {
+    "title": "11th Hour",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9783063386359",
+    "isbn_10": "3063386359",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 372
+  },
+  {
+    "title": "12th of Never",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9783824103119",
+    "isbn_10": "3824103117",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 368
+  },
+  {
+    "title": "Maximum Ride: The Angel Experiment",
+    "authors": [
+      "James Patterson"
+    ],
+    "isbn_13": "9784330809021",
+    "isbn_10": "4330809028",
+    "genres": [
+      "Thriller",
+      "Young Adult",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 422
+  },
+  {
+    "title": "Going Home",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9780691247397",
+    "isbn_10": "0691247390",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 208
+  },
+  {
+    "title": "The Promise",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9783535295356",
+    "isbn_10": "3535295351",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1978,
+    "page_count": 328
+  },
+  {
+    "title": "Season of Passion",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9785112215023",
+    "isbn_10": "511221502X",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 416
+  },
+  {
+    "title": "Summer's End",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9780253795144",
+    "isbn_10": "0253795141",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 255
+  },
+  {
+    "title": "The Ring",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9783228138526",
+    "isbn_10": "3228138526",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 464
+  },
+  {
+    "title": "Palomino",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9786280424217",
+    "isbn_10": "6280424219",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 384
+  },
+  {
+    "title": "Remembrance",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9786223449789",
+    "isbn_10": "622344978X",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 404
+  },
+  {
+    "title": "Crossings",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9783506501394",
+    "isbn_10": "3506501399",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 405
+  },
+  {
+    "title": "Once in a Lifetime",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9782483248803",
+    "isbn_10": "2483248802",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 384
+  },
+  {
+    "title": "Changes",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9787551305426",
+    "isbn_10": "7551305424",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 404
+  },
+  {
+    "title": "Full Circle",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9780902822665",
+    "isbn_10": "0902822667",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 416
+  },
+  {
+    "title": "Family Album",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "isbn_13": "9784064510323",
+    "isbn_10": "4064510321",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 448
+  }
+]
