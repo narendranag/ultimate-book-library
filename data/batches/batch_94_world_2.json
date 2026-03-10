@@ -1,0 +1,1261 @@
+[
+  {
+    "title": "Homegoing",
+    "author": "Yaa Gyasi",
+    "year": 2016,
+    "isbn_13": "9782583094997",
+    "isbn_10": "2583094993",
+    "pages": 300,
+    "genres": [
+      "Literary Fiction",
+      "African Literature",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Transcendent Kingdom",
+    "author": "Yaa Gyasi",
+    "year": 2020,
+    "isbn_13": "9788876544859",
+    "isbn_10": "8876544859",
+    "pages": 264,
+    "genres": [
+      "Literary Fiction",
+      "African Literature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Devil That Danced on the Water",
+    "author": "Aminatta Forna",
+    "year": 2002,
+    "isbn_13": "9783557450467",
+    "isbn_10": "3557450466",
+    "pages": 367,
+    "genres": [
+      "Literary Fiction",
+      "African Literature",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ancestor Stones",
+    "author": "Aminatta Forna",
+    "year": 2006,
+    "isbn_13": "9788739922886",
+    "isbn_10": "8739922881",
+    "pages": 319,
+    "genres": [
+      "Literary Fiction",
+      "African Literature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Memory of Love",
+    "author": "Aminatta Forna",
+    "year": 2010,
+    "isbn_13": "9789312813737",
+    "isbn_10": "9312813730",
+    "pages": 393,
+    "genres": [
+      "Literary Fiction",
+      "African Literature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Hired Man",
+    "author": "Aminatta Forna",
+    "year": 2013,
+    "isbn_13": "9783584125444",
+    "isbn_10": "3584125443",
+    "pages": 283,
+    "genres": [
+      "Literary Fiction",
+      "African Literature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Happiness",
+    "author": "Aminatta Forna",
+    "year": 2018,
+    "isbn_13": "9783145351657",
+    "isbn_10": "3145351655",
+    "pages": 320,
+    "genres": [
+      "Literary Fiction",
+      "African Literature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Red Sorghum",
+    "author": "Mo Yan",
+    "year": 1987,
+    "isbn_13": "9784499590969",
+    "isbn_10": "4499590966",
+    "pages": 359,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "zh"
+  },
+  {
+    "title": "The Garlic Ballads",
+    "author": "Mo Yan",
+    "year": 1988,
+    "isbn_13": "9789013509175",
+    "isbn_10": "9013509174",
+    "pages": 291,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "zh"
+  },
+  {
+    "title": "The Republic of Wine",
+    "author": "Mo Yan",
+    "year": 1992,
+    "isbn_13": "9786729807212",
+    "isbn_10": "6729807210",
+    "pages": 400,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "zh"
+  },
+  {
+    "title": "Big Breasts and Wide Hips",
+    "author": "Mo Yan",
+    "year": 1995,
+    "isbn_13": "9788431708740",
+    "isbn_10": "8431708748",
+    "pages": 532,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "zh"
+  },
+  {
+    "title": "Life and Death Are Wearing Me Out",
+    "author": "Mo Yan",
+    "year": 2006,
+    "isbn_13": "9789135031967",
+    "isbn_10": "9135031967",
+    "pages": 540,
+    "genres": [
+      "Literary Fiction",
+      "Magical Realism"
+    ],
+    "language": "zh"
+  },
+  {
+    "title": "Frog",
+    "author": "Mo Yan",
+    "year": 2009,
+    "isbn_13": "9780791214244",
+    "isbn_10": "0791214242",
+    "pages": 350,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "zh"
+  },
+  {
+    "title": "Sandalwood Death",
+    "author": "Mo Yan",
+    "year": 2001,
+    "isbn_13": "9782714701831",
+    "isbn_10": "2714701838",
+    "pages": 392,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "zh"
+  },
+  {
+    "title": "Change",
+    "author": "Mo Yan",
+    "year": 2010,
+    "isbn_13": "9783245590598",
+    "isbn_10": "3245590593",
+    "pages": 160,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "zh"
+  },
+  {
+    "title": "To Live",
+    "author": "Yu Hua",
+    "year": 1992,
+    "isbn_13": "9783721750201",
+    "isbn_10": "3721750202",
+    "pages": 235,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "zh"
+  },
+  {
+    "title": "Chronicle of a Blood Merchant",
+    "author": "Yu Hua",
+    "year": 1995,
+    "isbn_13": "9782095423803",
+    "isbn_10": "209542380X",
+    "pages": 252,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "zh"
+  },
+  {
+    "title": "Brothers",
+    "author": "Yu Hua",
+    "year": 2005,
+    "isbn_13": "9788503371780",
+    "isbn_10": "8503371789",
+    "pages": 641,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "zh"
+  },
+  {
+    "title": "The Seventh Day",
+    "author": "Yu Hua",
+    "year": 2013,
+    "isbn_13": "9781534232518",
+    "isbn_10": "1534232515",
+    "pages": 225,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "zh"
+  },
+  {
+    "title": "Cries in the Drizzle",
+    "author": "Yu Hua",
+    "year": 1991,
+    "isbn_13": "9781721901326",
+    "isbn_10": "1721901322",
+    "pages": 292,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "zh"
+  },
+  {
+    "title": "The Bridegroom Was a Dog",
+    "author": "Yoko Tawada",
+    "year": 1993,
+    "isbn_13": "9783021212898",
+    "isbn_10": "302121289X",
+    "pages": 112,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja"
+  },
+  {
+    "title": "Where Europe Begins",
+    "author": "Yoko Tawada",
+    "year": 2002,
+    "isbn_13": "9782001330881",
+    "isbn_10": "2001330881",
+    "pages": 208,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "ja"
+  },
+  {
+    "title": "The Naked Eye",
+    "author": "Yoko Tawada",
+    "year": 2004,
+    "isbn_13": "9780443225024",
+    "isbn_10": "0443225023",
+    "pages": 200,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja"
+  },
+  {
+    "title": "Memoirs of a Polar Bear",
+    "author": "Yoko Tawada",
+    "year": 2011,
+    "isbn_13": "9789489910918",
+    "isbn_10": "9489910910",
+    "pages": 312,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja"
+  },
+  {
+    "title": "The Emissary",
+    "author": "Yoko Tawada",
+    "year": 2014,
+    "isbn_13": "9788048713427",
+    "isbn_10": "8048713421",
+    "pages": 138,
+    "genres": [
+      "Literary Fiction",
+      "Science Fiction"
+    ],
+    "language": "ja"
+  },
+  {
+    "title": "Scattered All Over the Earth",
+    "author": "Yoko Tawada",
+    "year": 2022,
+    "isbn_13": "9789200884054",
+    "isbn_10": "9200884052",
+    "pages": 304,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja"
+  },
+  {
+    "title": "The Vegetarian",
+    "author": "Han Kang",
+    "year": 2007,
+    "isbn_13": "9785449602534",
+    "isbn_10": "5449602534",
+    "pages": 188,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ko"
+  },
+  {
+    "title": "Human Acts",
+    "author": "Han Kang",
+    "year": 2014,
+    "isbn_13": "9786931337118",
+    "isbn_10": "6931337117",
+    "pages": 216,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "ko"
+  },
+  {
+    "title": "The White Book",
+    "author": "Han Kang",
+    "year": 2016,
+    "isbn_13": "9789422542015",
+    "isbn_10": "9422542017",
+    "pages": 160,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ko"
+  },
+  {
+    "title": "Greek Lessons",
+    "author": "Han Kang",
+    "year": 2023,
+    "isbn_13": "9782242864152",
+    "isbn_10": "2242864154",
+    "pages": 187,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ko"
+  },
+  {
+    "title": "We Do Not Part",
+    "author": "Han Kang",
+    "year": 2021,
+    "isbn_13": "9788037145406",
+    "isbn_10": "8037145402",
+    "pages": 280,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ko"
+  },
+  {
+    "title": "A Room Where the Star-Spangled Banner Cannot Be Heard",
+    "author": "Hideo Levy",
+    "year": 1992,
+    "isbn_13": "9785179026853",
+    "isbn_10": "5179026854",
+    "pages": 180,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja"
+  },
+  {
+    "title": "The Gate of the Country of Stars",
+    "author": "Hideo Levy",
+    "year": 2003,
+    "isbn_13": "9784392493244",
+    "isbn_10": "4392493246",
+    "pages": 256,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja"
+  },
+  {
+    "title": "Convenience Store Woman",
+    "author": "Sayaka Murata",
+    "year": 2016,
+    "isbn_13": "9782031525721",
+    "isbn_10": "2031525724",
+    "pages": 163,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja"
+  },
+  {
+    "title": "Earthlings",
+    "author": "Sayaka Murata",
+    "year": 2018,
+    "isbn_13": "9781232451310",
+    "isbn_10": "1232451319",
+    "pages": 238,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja"
+  },
+  {
+    "title": "Life Ceremony",
+    "author": "Sayaka Murata",
+    "year": 2019,
+    "isbn_13": "9785024936306",
+    "isbn_10": "5024936309",
+    "pages": 198,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "ja"
+  },
+  {
+    "title": "Breasts and Eggs",
+    "author": "Mieko Kawakami",
+    "year": 2020,
+    "isbn_13": "9783292424631",
+    "isbn_10": "329242463X",
+    "pages": 430,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja"
+  },
+  {
+    "title": "Heaven",
+    "author": "Mieko Kawakami",
+    "year": 2009,
+    "isbn_13": "9785401481313",
+    "isbn_10": "5401481317",
+    "pages": 194,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja"
+  },
+  {
+    "title": "All the Lovers in the Night",
+    "author": "Mieko Kawakami",
+    "year": 2011,
+    "isbn_13": "9784627561427",
+    "isbn_10": "4627561428",
+    "pages": 224,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ja"
+  },
+  {
+    "title": "Leo Africanus",
+    "author": "Amin Maalouf",
+    "year": 1986,
+    "isbn_13": "9781172505357",
+    "isbn_10": "1172505354",
+    "pages": 346,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Samarkand",
+    "author": "Amin Maalouf",
+    "year": 1988,
+    "isbn_13": "9782710254164",
+    "isbn_10": "2710254165",
+    "pages": 311,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "The Rock of Tanios",
+    "author": "Amin Maalouf",
+    "year": 1993,
+    "isbn_13": "9783417153194",
+    "isbn_10": "3417153190",
+    "pages": 279,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Ports of Call",
+    "author": "Amin Maalouf",
+    "year": 1996,
+    "isbn_13": "9788628018621",
+    "isbn_10": "8628018621",
+    "pages": 341,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Balthasar's Odyssey",
+    "author": "Amin Maalouf",
+    "year": 2000,
+    "isbn_13": "9781488538926",
+    "isbn_10": "148853892X",
+    "pages": 391,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "The Crusades Through Arab Eyes",
+    "author": "Amin Maalouf",
+    "year": 1983,
+    "isbn_13": "9788505882826",
+    "isbn_10": "8505882829",
+    "pages": 293,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "History"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "In the Name of Identity",
+    "author": "Amin Maalouf",
+    "year": 1996,
+    "isbn_13": "9780554458168",
+    "isbn_10": "0554458160",
+    "pages": 164,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Non-Fiction"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "The Gardens of Light",
+    "author": "Amin Maalouf",
+    "year": 1991,
+    "isbn_13": "9780038016259",
+    "isbn_10": "0038016254",
+    "pages": 261,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Adrift",
+    "author": "Amin Maalouf",
+    "year": 2020,
+    "isbn_13": "9786937191103",
+    "isbn_10": "6937191108",
+    "pages": 256,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Non-Fiction"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "The Story of Zahra",
+    "author": "Hanan al-Shaykh",
+    "year": 1980,
+    "isbn_13": "9783114980147",
+    "isbn_10": "3114980144",
+    "pages": 247,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar"
+  },
+  {
+    "title": "Women of Sand and Myrrh",
+    "author": "Hanan al-Shaykh",
+    "year": 1989,
+    "isbn_13": "9780025041387",
+    "isbn_10": "0025041381",
+    "pages": 323,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar"
+  },
+  {
+    "title": "Beirut Blues",
+    "author": "Hanan al-Shaykh",
+    "year": 1992,
+    "isbn_13": "9788054785548",
+    "isbn_10": "8054785549",
+    "pages": 359,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar"
+  },
+  {
+    "title": "Only in London",
+    "author": "Hanan al-Shaykh",
+    "year": 2001,
+    "isbn_13": "9782494442016",
+    "isbn_10": "2494442011",
+    "pages": 305,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar"
+  },
+  {
+    "title": "One Thousand and One Nights",
+    "author": "Hanan al-Shaykh",
+    "year": 2011,
+    "isbn_13": "9780423407501",
+    "isbn_10": "0423407508",
+    "pages": 317,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "ar"
+  },
+  {
+    "title": "Cevdet Bey and His Sons",
+    "author": "Orhan Pamuk",
+    "year": 1982,
+    "isbn_13": "9781845658243",
+    "isbn_10": "1845658243",
+    "pages": 550,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "tr"
+  },
+  {
+    "title": "The Silent House",
+    "author": "Orhan Pamuk",
+    "year": 1983,
+    "isbn_13": "9784328210907",
+    "isbn_10": "4328210907",
+    "pages": 334,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "tr"
+  },
+  {
+    "title": "In a Green Night",
+    "author": "Derek Walcott",
+    "year": 1962,
+    "isbn_13": "9787593457602",
+    "isbn_10": "7593457606",
+    "pages": 88,
+    "genres": [
+      "Poetry",
+      "Caribbean Literature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Castaway",
+    "author": "Derek Walcott",
+    "year": 1965,
+    "isbn_13": "9781358799211",
+    "isbn_10": "1358799210",
+    "pages": 64,
+    "genres": [
+      "Poetry",
+      "Caribbean Literature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Another Life",
+    "author": "Derek Walcott",
+    "year": 1973,
+    "isbn_13": "9787574721548",
+    "isbn_10": "7574721543",
+    "pages": 153,
+    "genres": [
+      "Poetry",
+      "Caribbean Literature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Star-Apple Kingdom",
+    "author": "Derek Walcott",
+    "year": 1979,
+    "isbn_13": "9789337443445",
+    "isbn_10": "9337443442",
+    "pages": 58,
+    "genres": [
+      "Poetry",
+      "Caribbean Literature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Midsummer",
+    "author": "Derek Walcott",
+    "year": 1984,
+    "isbn_13": "9785936873331",
+    "isbn_10": "593687333X",
+    "pages": 53,
+    "genres": [
+      "Poetry",
+      "Caribbean Literature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Arkansas Testament",
+    "author": "Derek Walcott",
+    "year": 1987,
+    "isbn_13": "9781661560201",
+    "isbn_10": "1661560209",
+    "pages": 117,
+    "genres": [
+      "Poetry",
+      "Caribbean Literature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Omeros",
+    "author": "Derek Walcott",
+    "year": 1990,
+    "isbn_13": "9783022570928",
+    "isbn_10": "3022570922",
+    "pages": 325,
+    "genres": [
+      "Poetry",
+      "Caribbean Literature",
+      "Epic",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Bounty",
+    "author": "Derek Walcott",
+    "year": 1997,
+    "isbn_13": "9781241841461",
+    "isbn_10": "1241841469",
+    "pages": 79,
+    "genres": [
+      "Poetry",
+      "Caribbean Literature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Tiepolo's Hound",
+    "author": "Derek Walcott",
+    "year": 2000,
+    "isbn_13": "9780975283387",
+    "isbn_10": "0975283388",
+    "pages": 164,
+    "genres": [
+      "Poetry",
+      "Caribbean Literature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "White Egrets",
+    "author": "Derek Walcott",
+    "year": 2010,
+    "isbn_13": "9782852673021",
+    "isbn_10": "2852673022",
+    "pages": 86,
+    "genres": [
+      "Poetry",
+      "Caribbean Literature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Breath, Eyes, Memory",
+    "author": "Edwidge Danticat",
+    "year": 1994,
+    "isbn_13": "9780364430354",
+    "isbn_10": "0364430357",
+    "pages": 234,
+    "genres": [
+      "Literary Fiction",
+      "Caribbean Literature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Krik? Krak!",
+    "author": "Edwidge Danticat",
+    "year": 1995,
+    "isbn_13": "9783062064944",
+    "isbn_10": "3062064948",
+    "pages": 224,
+    "genres": [
+      "Literary Fiction",
+      "Caribbean Literature",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Farming of Bones",
+    "author": "Edwidge Danticat",
+    "year": 1998,
+    "isbn_13": "9785839203372",
+    "isbn_10": "5839203373",
+    "pages": 312,
+    "genres": [
+      "Literary Fiction",
+      "Caribbean Literature",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Dew Breaker",
+    "author": "Edwidge Danticat",
+    "year": 2004,
+    "isbn_13": "9781470312190",
+    "isbn_10": "1470312190",
+    "pages": 244,
+    "genres": [
+      "Literary Fiction",
+      "Caribbean Literature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Brother, I'm Dying",
+    "author": "Edwidge Danticat",
+    "year": 2007,
+    "isbn_13": "9784637252100",
+    "isbn_10": "4637252106",
+    "pages": 272,
+    "genres": [
+      "Literary Fiction",
+      "Caribbean Literature",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Create Dangerously",
+    "author": "Edwidge Danticat",
+    "year": 2010,
+    "isbn_13": "9785531503282",
+    "isbn_10": "5531503283",
+    "pages": 189,
+    "genres": [
+      "Literary Fiction",
+      "Caribbean Literature",
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Claire of the Sea Light",
+    "author": "Edwidge Danticat",
+    "year": 2013,
+    "isbn_13": "9788153914801",
+    "isbn_10": "8153914807",
+    "pages": 256,
+    "genres": [
+      "Literary Fiction",
+      "Caribbean Literature"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Everything Inside",
+    "author": "Edwidge Danticat",
+    "year": 2019,
+    "isbn_13": "9784332523314",
+    "isbn_10": "4332523313",
+    "pages": 224,
+    "genres": [
+      "Literary Fiction",
+      "Caribbean Literature",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bliss",
+    "author": "Peter Carey",
+    "year": 1981,
+    "isbn_13": "9785221426143",
+    "isbn_10": "5221426146",
+    "pages": 304,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Illywhacker",
+    "author": "Peter Carey",
+    "year": 1985,
+    "isbn_13": "9784014381331",
+    "isbn_10": "401438133X",
+    "pages": 600,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Oscar and Lucinda",
+    "author": "Peter Carey",
+    "year": 1988,
+    "isbn_13": "9784110802525",
+    "isbn_10": "4110802520",
+    "pages": 518,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Tax Inspector",
+    "author": "Peter Carey",
+    "year": 1991,
+    "isbn_13": "9789301671744",
+    "isbn_10": "9301671748",
+    "pages": 310,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Unusual Life of Tristan Smith",
+    "author": "Peter Carey",
+    "year": 1994,
+    "isbn_13": "9785775081201",
+    "isbn_10": "5775081201",
+    "pages": 398,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Jack Maggs",
+    "author": "Peter Carey",
+    "year": 1997,
+    "isbn_13": "9787408964875",
+    "isbn_10": "7408964873",
+    "pages": 326,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "True History of the Kelly Gang",
+    "author": "Peter Carey",
+    "year": 2000,
+    "isbn_13": "9783618575412",
+    "isbn_10": "3618575415",
+    "pages": 355,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "My Life as a Fake",
+    "author": "Peter Carey",
+    "year": 2003,
+    "isbn_13": "9787164400150",
+    "isbn_10": "7164400155",
+    "pages": 274,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Theft: A Love Story",
+    "author": "Peter Carey",
+    "year": 2006,
+    "isbn_13": "9780505530769",
+    "isbn_10": "0505530764",
+    "pages": 271,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "His Illegal Self",
+    "author": "Peter Carey",
+    "year": 2008,
+    "isbn_13": "9786300650510",
+    "isbn_10": "6300650510",
+    "pages": 262,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Parrot and Olivier in America",
+    "author": "Peter Carey",
+    "year": 2009,
+    "isbn_13": "9780143342199",
+    "isbn_10": "0143342198",
+    "pages": 379,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Chemistry of Tears",
+    "author": "Peter Carey",
+    "year": 2012,
+    "isbn_13": "9782003373015",
+    "isbn_10": "2003373019",
+    "pages": 251,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Amnesia",
+    "author": "Peter Carey",
+    "year": 2014,
+    "isbn_13": "9780269016554",
+    "isbn_10": "0269016557",
+    "pages": 384,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Long Way from Home",
+    "author": "Peter Carey",
+    "year": 2017,
+    "isbn_13": "9784946404832",
+    "isbn_10": "4946404831",
+    "pages": 291,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "An Open Swimmer",
+    "author": "Tim Winton",
+    "year": 1982,
+    "isbn_13": "9783420583971",
+    "isbn_10": "3420583977",
+    "pages": 175,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Shallows",
+    "author": "Tim Winton",
+    "year": 1984,
+    "isbn_13": "9780531804599",
+    "isbn_10": "0531804598",
+    "pages": 248,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "That Eye, the Sky",
+    "author": "Tim Winton",
+    "year": 1986,
+    "isbn_13": "9783154638596",
+    "isbn_10": "3154638593",
+    "pages": 173,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "In the Winter Dark",
+    "author": "Tim Winton",
+    "year": 1988,
+    "isbn_13": "9782010218248",
+    "isbn_10": "2010218243",
+    "pages": 150,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Cloudstreet",
+    "author": "Tim Winton",
+    "year": 1991,
+    "isbn_13": "9782175787221",
+    "isbn_10": "2175787229",
+    "pages": 426,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Riders",
+    "author": "Tim Winton",
+    "year": 1994,
+    "isbn_13": "9784271652465",
+    "isbn_10": "4271652465",
+    "pages": 377,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dirt Music",
+    "author": "Tim Winton",
+    "year": 2001,
+    "isbn_13": "9780044831303",
+    "isbn_10": "0044831304",
+    "pages": 411,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Breath",
+    "author": "Tim Winton",
+    "year": 2008,
+    "isbn_13": "9780213030520",
+    "isbn_10": "0213030524",
+    "pages": 218,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Eyrie",
+    "author": "Tim Winton",
+    "year": 2013,
+    "isbn_13": "9788410313613",
+    "isbn_10": "8410313613",
+    "pages": 424,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Shepherd's Hut",
+    "author": "Tim Winton",
+    "year": 2018,
+    "isbn_13": "9785144041355",
+    "isbn_10": "5144041358",
+    "pages": 265,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Juice",
+    "author": "Tim Winton",
+    "year": 2024,
+    "isbn_13": "9782908563368",
+    "isbn_10": "2908563368",
+    "pages": 496,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Turning",
+    "author": "Tim Winton",
+    "year": 2004,
+    "isbn_13": "9780353200715",
+    "isbn_10": "0353200712",
+    "pages": 318,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sons of Dust",
+    "author": "Arnaldur Indri\u00f0ason",
+    "year": 1997,
+    "isbn_13": "9786023333455",
+    "isbn_10": "602333345X",
+    "pages": 320,
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "language": "is"
+  }
+]
