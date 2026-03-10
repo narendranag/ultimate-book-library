@@ -1,0 +1,853 @@
+[
+  {
+    "title": "The Star Diaries",
+    "author": "Stanis\u0142aw Lem",
+    "year": 1957,
+    "isbn_13": "9783832535247",
+    "isbn_10": "383253524X",
+    "pages": 332,
+    "genres": [
+      "Science Fiction",
+      "Humor"
+    ],
+    "language": "pl"
+  },
+  {
+    "title": "The Cyberiad",
+    "author": "Stanis\u0142aw Lem",
+    "year": 1965,
+    "isbn_13": "9788838445903",
+    "isbn_10": "8838445904",
+    "pages": 295,
+    "genres": [
+      "Science Fiction",
+      "Humor"
+    ],
+    "language": "pl"
+  },
+  {
+    "title": "The Futurological Congress",
+    "author": "Stanis\u0142aw Lem",
+    "year": 1971,
+    "isbn_13": "9789325144743",
+    "isbn_10": "9325144748",
+    "pages": 149,
+    "genres": [
+      "Science Fiction",
+      "Satire"
+    ],
+    "language": "pl"
+  },
+  {
+    "title": "His Master's Voice",
+    "author": "Stanis\u0142aw Lem",
+    "year": 1968,
+    "isbn_13": "9784189181026",
+    "isbn_10": "418918102X",
+    "pages": 199,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "pl"
+  },
+  {
+    "title": "Tales of Pirx the Pilot",
+    "author": "Stanis\u0142aw Lem",
+    "year": 1968,
+    "isbn_13": "9782243443219",
+    "isbn_10": "2243443211",
+    "pages": 302,
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "pl"
+  },
+  {
+    "title": "Return from the Stars",
+    "author": "Stanis\u0142aw Lem",
+    "year": 1961,
+    "isbn_13": "9784441115707",
+    "isbn_10": "4441115702",
+    "pages": 236,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "pl"
+  },
+  {
+    "title": "The Investigation",
+    "author": "Stanis\u0142aw Lem",
+    "year": 1959,
+    "isbn_13": "9785153111612",
+    "isbn_10": "5153111611",
+    "pages": 192,
+    "genres": [
+      "Science Fiction",
+      "Mystery"
+    ],
+    "language": "pl"
+  },
+  {
+    "title": "Memoirs Found in a Bathtub",
+    "author": "Stanis\u0142aw Lem",
+    "year": 1961,
+    "isbn_13": "9785912222559",
+    "isbn_10": "591222255X",
+    "pages": 196,
+    "genres": [
+      "Science Fiction",
+      "Satire"
+    ],
+    "language": "pl"
+  },
+  {
+    "title": "Fiasco",
+    "author": "Stanis\u0142aw Lem",
+    "year": 1986,
+    "isbn_13": "9780402382645",
+    "isbn_10": "040238264X",
+    "pages": 311,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "pl"
+  },
+  {
+    "title": "Eden",
+    "author": "Stanis\u0142aw Lem",
+    "year": 1959,
+    "isbn_13": "9789253077403",
+    "isbn_10": "9253077402",
+    "pages": 253,
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "pl"
+  },
+  {
+    "title": "The Knight in the Panther's Skin",
+    "author": "Shota Rustaveli",
+    "year": 1207,
+    "isbn_13": "9783380794462",
+    "isbn_10": "3380794466",
+    "pages": 1600,
+    "genres": [
+      "Poetry",
+      "Classic",
+      "Epic"
+    ],
+    "language": "ka"
+  },
+  {
+    "title": "Shahnameh",
+    "author": "Ferdowsi",
+    "year": 1010,
+    "isbn_13": "9789683183019",
+    "isbn_10": "9683183013",
+    "pages": 2000,
+    "genres": [
+      "Poetry",
+      "Classic",
+      "Epic"
+    ],
+    "language": "fa"
+  },
+  {
+    "title": "The Rubaiyat",
+    "author": "Omar Khayyam",
+    "year": 1120,
+    "isbn_13": "9789402281002",
+    "isbn_10": "9402281009",
+    "pages": 108,
+    "genres": [
+      "Poetry",
+      "Classic"
+    ],
+    "language": "fa"
+  },
+  {
+    "title": "Masnavi",
+    "author": "Rumi",
+    "year": 1273,
+    "isbn_13": "9786444139438",
+    "isbn_10": "6444139430",
+    "pages": 1200,
+    "genres": [
+      "Poetry",
+      "Classic",
+      "Philosophy"
+    ],
+    "language": "fa"
+  },
+  {
+    "title": "The Divan of Hafiz",
+    "author": "Hafiz",
+    "year": 1390,
+    "isbn_13": "9788351331301",
+    "isbn_10": "8351331302",
+    "pages": 500,
+    "genres": [
+      "Poetry",
+      "Classic"
+    ],
+    "language": "fa"
+  },
+  {
+    "title": "The Mahabharata",
+    "author": "Vyasa",
+    "year": -400,
+    "isbn_13": "9780951003954",
+    "isbn_10": "0951003951",
+    "pages": 2000,
+    "genres": [
+      "Epic",
+      "Classic",
+      "Mythology"
+    ],
+    "language": "sa"
+  },
+  {
+    "title": "The Ramayana",
+    "author": "Valmiki",
+    "year": -500,
+    "isbn_13": "9786032110924",
+    "isbn_10": "6032110928",
+    "pages": 1500,
+    "genres": [
+      "Epic",
+      "Classic",
+      "Mythology"
+    ],
+    "language": "sa"
+  },
+  {
+    "title": "Panchatantra",
+    "author": "Vishnu Sharma",
+    "year": -200,
+    "isbn_13": "9783051443613",
+    "isbn_10": "305144361X",
+    "pages": 300,
+    "genres": [
+      "Fable",
+      "Classic"
+    ],
+    "language": "sa"
+  },
+  {
+    "title": "Arthashastra",
+    "author": "Kautilya",
+    "year": -300,
+    "isbn_13": "9784025309171",
+    "isbn_10": "4025309178",
+    "pages": 400,
+    "genres": [
+      "Non-Fiction",
+      "Classic",
+      "Politics"
+    ],
+    "language": "sa"
+  },
+  {
+    "title": "Kamasutra",
+    "author": "Vatsyayana",
+    "year": 300,
+    "isbn_13": "9780616810835",
+    "isbn_10": "0616810830",
+    "pages": 200,
+    "genres": [
+      "Non-Fiction",
+      "Classic"
+    ],
+    "language": "sa"
+  },
+  {
+    "title": "Abhijnanasakuntalam",
+    "author": "Kalidasa",
+    "year": 400,
+    "isbn_13": "9787028411018",
+    "isbn_10": "7028411011",
+    "pages": 150,
+    "genres": [
+      "Drama",
+      "Classic"
+    ],
+    "language": "sa"
+  },
+  {
+    "title": "Meghaduta",
+    "author": "Kalidasa",
+    "year": 400,
+    "isbn_13": "9784424714521",
+    "isbn_10": "4424714524",
+    "pages": 111,
+    "genres": [
+      "Poetry",
+      "Classic"
+    ],
+    "language": "sa"
+  },
+  {
+    "title": "The Iliad",
+    "author": "Homer",
+    "year": -750,
+    "isbn_13": "9788836161034",
+    "isbn_10": "8836161030",
+    "pages": 683,
+    "genres": [
+      "Poetry",
+      "Classic",
+      "Epic"
+    ],
+    "language": "el"
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "year": -725,
+    "isbn_13": "9785441344661",
+    "isbn_10": "5441344660",
+    "pages": 541,
+    "genres": [
+      "Poetry",
+      "Classic",
+      "Epic",
+      "Adventure"
+    ],
+    "language": "el"
+  },
+  {
+    "title": "The Aeneid",
+    "author": "Virgil",
+    "year": -19,
+    "isbn_13": "9788873534723",
+    "isbn_10": "8873534727",
+    "pages": 400,
+    "genres": [
+      "Poetry",
+      "Classic",
+      "Epic"
+    ],
+    "language": "la"
+  },
+  {
+    "title": "Metamorphoses",
+    "author": "Ovid",
+    "year": 8,
+    "isbn_13": "9782340183285",
+    "isbn_10": "2340183285",
+    "pages": 723,
+    "genres": [
+      "Poetry",
+      "Classic"
+    ],
+    "language": "la"
+  },
+  {
+    "title": "The Canterbury Tales",
+    "author": "Geoffrey Chaucer",
+    "year": 1400,
+    "isbn_13": "9785895044926",
+    "isbn_10": "589504492X",
+    "pages": 504,
+    "genres": [
+      "Poetry",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Gargantua and Pantagruel",
+    "author": "Fran\u00e7ois Rabelais",
+    "year": 1534,
+    "isbn_13": "9782928063404",
+    "isbn_10": "2928063407",
+    "pages": 670,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Humor"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "The Essays",
+    "author": "Michel de Montaigne",
+    "year": 1580,
+    "isbn_13": "9788543232041",
+    "isbn_10": "8543232041",
+    "pages": 1264,
+    "genres": [
+      "Non-Fiction",
+      "Classic",
+      "Philosophy"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Paradise Lost",
+    "author": "John Milton",
+    "year": 1667,
+    "isbn_13": "9789567341337",
+    "isbn_10": "9567341333",
+    "pages": 453,
+    "genres": [
+      "Poetry",
+      "Classic",
+      "Epic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Pilgrim's Progress",
+    "author": "John Bunyan",
+    "year": 1678,
+    "isbn_13": "9780525021698",
+    "isbn_10": "0525021693",
+    "pages": 314,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Robinson Crusoe",
+    "author": "Daniel Defoe",
+    "year": 1719,
+    "isbn_13": "9780408071154",
+    "isbn_10": "0408071151",
+    "pages": 320,
+    "genres": [
+      "Adventure",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Gulliver's Travels",
+    "author": "Jonathan Swift",
+    "year": 1726,
+    "isbn_13": "9782023261248",
+    "isbn_10": "2023261247",
+    "pages": 352,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Satire"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Tom Jones",
+    "author": "Henry Fielding",
+    "year": 1749,
+    "isbn_13": "9785241411143",
+    "isbn_10": "5241411148",
+    "pages": 976,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Tristram Shandy",
+    "author": "Laurence Sterne",
+    "year": 1759,
+    "isbn_13": "9785036140586",
+    "isbn_10": "5036140588",
+    "pages": 640,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Humor"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Candide",
+    "author": "Voltaire",
+    "year": 1759,
+    "isbn_13": "9781053722507",
+    "isbn_10": "1053722503",
+    "pages": 144,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Satire"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Les Liaisons dangereuses",
+    "author": "Pierre Choderlos de Laclos",
+    "year": 1782,
+    "isbn_13": "9784933703436",
+    "isbn_10": "4933703437",
+    "pages": 432,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Villette",
+    "author": "Charlotte Bront\u00eb",
+    "year": 1853,
+    "isbn_13": "9783073555769",
+    "isbn_10": "3073555766",
+    "pages": 488,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Hard Times",
+    "author": "Charles Dickens",
+    "year": 1854,
+    "isbn_13": "9788348250325",
+    "isbn_10": "8348250323",
+    "pages": 352,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Nicholas Nickleby",
+    "author": "Charles Dickens",
+    "year": 1839,
+    "isbn_13": "9784512851459",
+    "isbn_10": "4512851458",
+    "pages": 816,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dombey and Son",
+    "author": "Charles Dickens",
+    "year": 1848,
+    "isbn_13": "9784013225766",
+    "isbn_10": "4013225761",
+    "pages": 940,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Barnaby Rudge",
+    "author": "Charles Dickens",
+    "year": 1841,
+    "isbn_13": "9783073296341",
+    "isbn_10": "3073296347",
+    "pages": 656,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Edwin Drood",
+    "author": "Charles Dickens",
+    "year": 1870,
+    "isbn_13": "9788265106415",
+    "isbn_10": "8265106415",
+    "pages": 288,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ninety-Three",
+    "author": "Victor Hugo",
+    "year": 1874,
+    "isbn_13": "9789059505100",
+    "isbn_10": "9059505104",
+    "pages": 294,
+    "genres": [
+      "Historical Fiction",
+      "Classic"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Salammb\u00f4",
+    "author": "Gustave Flaubert",
+    "year": 1862,
+    "isbn_13": "9784405555532",
+    "isbn_10": "4405555539",
+    "pages": 422,
+    "genres": [
+      "Historical Fiction",
+      "Classic"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Bouvard and P\u00e9cuchet",
+    "author": "Gustave Flaubert",
+    "year": 1881,
+    "isbn_13": "9787834700054",
+    "isbn_10": "7834700054",
+    "pages": 337,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Humor"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Twenty Years After",
+    "author": "Alexandre Dumas",
+    "year": 1845,
+    "isbn_13": "9780222152022",
+    "isbn_10": "0222152023",
+    "pages": 808,
+    "genres": [
+      "Adventure",
+      "Classic"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "The Man in the Iron Mask",
+    "author": "Alexandre Dumas",
+    "year": 1847,
+    "isbn_13": "9785184059792",
+    "isbn_10": "5184059799",
+    "pages": 474,
+    "genres": [
+      "Adventure",
+      "Classic",
+      "Historical Fiction"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Nana",
+    "author": "\u00c9mile Zola",
+    "year": 1880,
+    "isbn_13": "9783134543285",
+    "isbn_10": "313454328X",
+    "pages": 465,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "L'Assommoir",
+    "author": "\u00c9mile Zola",
+    "year": 1877,
+    "isbn_13": "9784375918498",
+    "isbn_10": "4375918494",
+    "pages": 516,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Th\u00e9r\u00e8se Raquin",
+    "author": "\u00c9mile Zola",
+    "year": 1867,
+    "isbn_13": "9785781061181",
+    "isbn_10": "5781061186",
+    "pages": 256,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Thriller"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "The Belly of Paris",
+    "author": "\u00c9mile Zola",
+    "year": 1873,
+    "isbn_13": "9780119294163",
+    "isbn_10": "0119294163",
+    "pages": 389,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "P\u00e8re Goriot",
+    "author": "Honor\u00e9 de Balzac",
+    "year": 1835,
+    "isbn_13": "9784581908634",
+    "isbn_10": "4581908632",
+    "pages": 320,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Eug\u00e9nie Grandet",
+    "author": "Honor\u00e9 de Balzac",
+    "year": 1833,
+    "isbn_13": "9780372939436",
+    "isbn_10": "0372939430",
+    "pages": 226,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Lost Illusions",
+    "author": "Honor\u00e9 de Balzac",
+    "year": 1837,
+    "isbn_13": "9785242092129",
+    "isbn_10": "5242092129",
+    "pages": 660,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Cousin Bette",
+    "author": "Honor\u00e9 de Balzac",
+    "year": 1846,
+    "isbn_13": "9781280454837",
+    "isbn_10": "1280454830",
+    "pages": 448,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "The Red and the Black",
+    "author": "Stendhal",
+    "year": 1830,
+    "isbn_13": "9785765551448",
+    "isbn_10": "5765551440",
+    "pages": 576,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "The Charterhouse of Parma",
+    "author": "Stendhal",
+    "year": 1839,
+    "isbn_13": "9788285531051",
+    "isbn_10": "8285531053",
+    "pages": 508,
+    "genres": [
+      "Literary Fiction",
+      "Classic",
+      "Historical Fiction"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Dangerous Liaisons",
+    "author": "Pierre Choderlos de Laclos",
+    "year": 1782,
+    "isbn_13": "9788389432551",
+    "isbn_10": "8389432559",
+    "pages": 432,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Billy Budd",
+    "author": "Herman Melville",
+    "year": 1924,
+    "isbn_13": "9789742520557",
+    "isbn_10": "9742520550",
+    "pages": 96,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Typee",
+    "author": "Herman Melville",
+    "year": 1846,
+    "isbn_13": "9784221323438",
+    "isbn_10": "4221323437",
+    "pages": 316,
+    "genres": [
+      "Adventure",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Twice-Told Tales",
+    "author": "Nathaniel Hawthorne",
+    "year": 1837,
+    "isbn_13": "9783549364208",
+    "isbn_10": "3549364209",
+    "pages": 296,
+    "genres": [
+      "Short Stories",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Complete Tales and Poems",
+    "author": "Edgar Allan Poe",
+    "year": 1938,
+    "isbn_13": "9787120143633",
+    "isbn_10": "7120143633",
+    "pages": 1062,
+    "genres": [
+      "Short Stories",
+      "Classic",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Raven and Other Poems",
+    "author": "Edgar Allan Poe",
+    "year": 1845,
+    "isbn_13": "9782079114437",
+    "isbn_10": "2079114438",
+    "pages": 100,
+    "genres": [
+      "Poetry",
+      "Classic"
+    ],
+    "language": "en"
+  }
+]
