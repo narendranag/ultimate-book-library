@@ -1,0 +1,1605 @@
+[
+  {
+    "title": "Ice Cold",
+    "authors": [
+      "Tess Gerritsen"
+    ],
+    "isbn_13": "9789459956564",
+    "isbn_10": "9459956564",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Medical Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 372
+  },
+  {
+    "title": "The Silent Girl",
+    "authors": [
+      "Tess Gerritsen"
+    ],
+    "isbn_13": "9781418414801",
+    "isbn_10": "1418414808",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Medical Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 340
+  },
+  {
+    "title": "Last to Die",
+    "authors": [
+      "Tess Gerritsen"
+    ],
+    "isbn_13": "9783043231020",
+    "isbn_10": "3043231023",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Medical Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 340
+  },
+  {
+    "title": "Die Again",
+    "authors": [
+      "Tess Gerritsen"
+    ],
+    "isbn_13": "9787456910053",
+    "isbn_10": "7456910057",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Medical Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 384
+  },
+  {
+    "title": "Playing with Fire",
+    "authors": [
+      "Tess Gerritsen"
+    ],
+    "isbn_13": "9789025113391",
+    "isbn_10": "9025113397",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Medical Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 256
+  },
+  {
+    "title": "I Know a Secret",
+    "authors": [
+      "Tess Gerritsen"
+    ],
+    "isbn_13": "9783031404153",
+    "isbn_10": "3031404157",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Medical Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 336
+  },
+  {
+    "title": "The Shape of Night",
+    "authors": [
+      "Tess Gerritsen"
+    ],
+    "isbn_13": "9784204433512",
+    "isbn_10": "4204433510",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Medical Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 288
+  },
+  {
+    "title": "Choose Me",
+    "authors": [
+      "Tess Gerritsen"
+    ],
+    "isbn_13": "9782414454266",
+    "isbn_10": "2414454261",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Medical Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 320
+  },
+  {
+    "title": "Listen to Me",
+    "authors": [
+      "Tess Gerritsen"
+    ],
+    "isbn_13": "9781505526295",
+    "isbn_10": "1505526299",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Medical Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 336
+  },
+  {
+    "title": "The Spy Coast",
+    "authors": [
+      "Tess Gerritsen"
+    ],
+    "isbn_13": "9781142420123",
+    "isbn_10": "1142420124",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Medical Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 352
+  },
+  {
+    "title": "The Lantern Man",
+    "authors": [
+      "Tess Gerritsen"
+    ],
+    "isbn_13": "9782330827168",
+    "isbn_10": "2330827164",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Medical Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 352
+  },
+  {
+    "title": "Irish Thoroughbred",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9783258542959",
+    "isbn_10": "3258542953",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 156
+  },
+  {
+    "title": "Blithe Images",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9783380354024",
+    "isbn_10": "3380354023",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 188
+  },
+  {
+    "title": "Song of the West",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9785025423126",
+    "isbn_10": "5025423120",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 188
+  },
+  {
+    "title": "Born in Fire",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9787075729241",
+    "isbn_10": "7075729241",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 384
+  },
+  {
+    "title": "Born in Ice",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9781430428459",
+    "isbn_10": "1430428457",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 400
+  },
+  {
+    "title": "Born in Shame",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9788812812141",
+    "isbn_10": "8812812147",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 384
+  },
+  {
+    "title": "Montana Sky",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9781430321743",
+    "isbn_10": "1430321741",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 467
+  },
+  {
+    "title": "Sanctuary",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9789456204415",
+    "isbn_10": "9456204413",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 465
+  },
+  {
+    "title": "Homeport",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9781113674869",
+    "isbn_10": "1113674865",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 432
+  },
+  {
+    "title": "River's End",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9784615673781",
+    "isbn_10": "4615673787",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 464
+  },
+  {
+    "title": "Carolina Moon",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9788960132108",
+    "isbn_10": "8960132101",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 432
+  },
+  {
+    "title": "The Villa",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9781251659810",
+    "isbn_10": "1251659810",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 461
+  },
+  {
+    "title": "Midnight Bayou",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9783136357149",
+    "isbn_10": "3136357140",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 352
+  },
+  {
+    "title": "Chesapeake Blue",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9781320549035",
+    "isbn_10": "1320549039",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 352
+  },
+  {
+    "title": "Birthright",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9789038123127",
+    "isbn_10": "9038123124",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 480
+  },
+  {
+    "title": "Northern Lights",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9782201450945",
+    "isbn_10": "2201450943",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 480
+  },
+  {
+    "title": "Blue Smoke",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9783307823251",
+    "isbn_10": "3307823256",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 464
+  },
+  {
+    "title": "Angels Fall",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9781800282537",
+    "isbn_10": "1800282532",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 399
+  },
+  {
+    "title": "High Noon",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9783021563303",
+    "isbn_10": "3021563309",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 432
+  },
+  {
+    "title": "Tribute",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9783253554803",
+    "isbn_10": "3253554805",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 432
+  },
+  {
+    "title": "Black Hills",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9784034333297",
+    "isbn_10": "4034333294",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 480
+  },
+  {
+    "title": "The Search",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9784125595634",
+    "isbn_10": "4125595631",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 496
+  },
+  {
+    "title": "Chasing Fire",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9781227432027",
+    "isbn_10": "122743202X",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 464
+  },
+  {
+    "title": "The Witness",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9785615209314",
+    "isbn_10": "5615209313",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 488
+  },
+  {
+    "title": "Whiskey Beach",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9781341035074",
+    "isbn_10": "1341035077",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 496
+  },
+  {
+    "title": "The Collector",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9782064112721",
+    "isbn_10": "2064112723",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 464
+  },
+  {
+    "title": "The Liar",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9782228554305",
+    "isbn_10": "2228554308",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 496
+  },
+  {
+    "title": "The Obsession",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9781390134919",
+    "isbn_10": "1390134911",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 448
+  },
+  {
+    "title": "Come Sundown",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9781545854174",
+    "isbn_10": "1545854173",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 464
+  },
+  {
+    "title": "Shelter in Place",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9783250850120",
+    "isbn_10": "3250850128",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 448
+  },
+  {
+    "title": "Under Currents",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9783151220046",
+    "isbn_10": "3151220045",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 448
+  },
+  {
+    "title": "Hideaway",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9788406150123",
+    "isbn_10": "8406150122",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 448
+  },
+  {
+    "title": "Legacy",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9780161352545",
+    "isbn_10": "0161352545",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 400
+  },
+  {
+    "title": "Nightwork",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9784033338279",
+    "isbn_10": "4033338276",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 464
+  },
+  {
+    "title": "Identity",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9784245215269",
+    "isbn_10": "4245215267",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 480
+  },
+  {
+    "title": "Coming Home",
+    "authors": [
+      "Nora Roberts"
+    ],
+    "isbn_13": "9784774639437",
+    "isbn_10": "4774639435",
+    "genres": [
+      "Romance"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 416
+  },
+  {
+    "title": "One for the Money",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9784137483493",
+    "isbn_10": "4137483493",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 290
+  },
+  {
+    "title": "Two for the Dough",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9789622103962",
+    "isbn_10": "9622103960",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 306
+  },
+  {
+    "title": "Three to Get Deadly",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9786100899140",
+    "isbn_10": "6100899140",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 300
+  },
+  {
+    "title": "Four to Score",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9787157353807",
+    "isbn_10": "7157353806",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 293
+  },
+  {
+    "title": "High Five",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9785082473034",
+    "isbn_10": "5082473034",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 292
+  },
+  {
+    "title": "Hot Six",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9780758535115",
+    "isbn_10": "0758535112",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 292
+  },
+  {
+    "title": "Seven Up",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9781961483347",
+    "isbn_10": "1961483343",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 309
+  },
+  {
+    "title": "Hard Eight",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9786049328015",
+    "isbn_10": "6049328013",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 309
+  },
+  {
+    "title": "To the Nines",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9789025348908",
+    "isbn_10": "9025348904",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 312
+  },
+  {
+    "title": "Ten Big Ones",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9781528825054",
+    "isbn_10": "1528825055",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 302
+  },
+  {
+    "title": "Eleven on Top",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9786931700189",
+    "isbn_10": "6931700189",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 310
+  },
+  {
+    "title": "Twelve Sharp",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9781323653579",
+    "isbn_10": "1323653570",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 310
+  },
+  {
+    "title": "Lean Mean Thirteen",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9785034573157",
+    "isbn_10": "5034573156",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 305
+  },
+  {
+    "title": "Fearless Fourteen",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9784255380506",
+    "isbn_10": "4255380503",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 322
+  },
+  {
+    "title": "Finger Lickin' Fifteen",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9788403033122",
+    "isbn_10": "8403033125",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 312
+  },
+  {
+    "title": "Sizzling Sixteen",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9785053571929",
+    "isbn_10": "5053571929",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 309
+  },
+  {
+    "title": "Smokin' Seventeen",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9784230233445",
+    "isbn_10": "4230233442",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 293
+  },
+  {
+    "title": "Explosive Eighteen",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9783255761247",
+    "isbn_10": "3255761247",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 307
+  },
+  {
+    "title": "Notorious Nineteen",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9780541797119",
+    "isbn_10": "0541797115",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 315
+  },
+  {
+    "title": "Takedown Twenty",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9784313452558",
+    "isbn_10": "4313452559",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 307
+  },
+  {
+    "title": "Top Secret Twenty-One",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9782454045417",
+    "isbn_10": "2454045419",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 305
+  },
+  {
+    "title": "Tricky Twenty-Two",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9781613153536",
+    "isbn_10": "1613153538",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 286
+  },
+  {
+    "title": "Turbo Twenty-Three",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9782032118106",
+    "isbn_10": "2032118106",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 307
+  },
+  {
+    "title": "Look Alive Twenty-Five",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9784523011187",
+    "isbn_10": "4523011184",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 294
+  },
+  {
+    "title": "Twisted Twenty-Six",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9787946431532",
+    "isbn_10": "7946431538",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 293
+  },
+  {
+    "title": "Fortune and Glory",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9785517899538",
+    "isbn_10": "5517899536",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 290
+  },
+  {
+    "title": "Game On",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9785772952436",
+    "isbn_10": "5772952439",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 305
+  },
+  {
+    "title": "Going Rogue",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9784074370641",
+    "isbn_10": "4074370646",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 294
+  },
+  {
+    "title": "Dirty Thirty",
+    "authors": [
+      "Janet Evanovich"
+    ],
+    "isbn_13": "9788853369635",
+    "isbn_10": "8853369639",
+    "genres": [
+      "Mystery",
+      "Humor"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 304
+  },
+  {
+    "title": "Where Are the Children?",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9782175235920",
+    "isbn_10": "2175235920",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 224
+  },
+  {
+    "title": "A Stranger Is Watching",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9785293348404",
+    "isbn_10": "529334840X",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 302
+  },
+  {
+    "title": "The Cradle Will Fall",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9785310943940",
+    "isbn_10": "5310943943",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 308
+  },
+  {
+    "title": "A Cry in the Night",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9784225523643",
+    "isbn_10": "4225523640",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 317
+  },
+  {
+    "title": "Stillwatch",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9781265194390",
+    "isbn_10": "1265194394",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1984,
+    "page_count": 302
+  },
+  {
+    "title": "Weep No More, My Lady",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9785384423409",
+    "isbn_10": "5384423404",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 342
+  },
+  {
+    "title": "While My Pretty One Sleeps",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9781413591071",
+    "isbn_10": "1413591078",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 318
+  },
+  {
+    "title": "Loves Music, Loves to Dance",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9784583122434",
+    "isbn_10": "4583122438",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1991,
+    "page_count": 320
+  },
+  {
+    "title": "All Around the Town",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9787920109204",
+    "isbn_10": "7920109205",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 307
+  },
+  {
+    "title": "I'll Be Seeing You",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9783701752447",
+    "isbn_10": "3701752443",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 317
+  },
+  {
+    "title": "Remember Me",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9781851481774",
+    "isbn_10": "185148177X",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 306
+  },
+  {
+    "title": "Let Me Call You Sweetheart",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9783689512842",
+    "isbn_10": "3689512840",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 305
+  },
+  {
+    "title": "Moonlight Becomes You",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9785800035674",
+    "isbn_10": "5800035679",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 306
+  },
+  {
+    "title": "Pretend You Don't See Her",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9783712502307",
+    "isbn_10": "3712502303",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 322
+  },
+  {
+    "title": "You Belong to Me",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9789745038240",
+    "isbn_10": "9745038245",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 317
+  },
+  {
+    "title": "We'll Meet Again",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9784559369504",
+    "isbn_10": "455936950X",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 320
+  },
+  {
+    "title": "Before I Say Goodbye",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9781545608159",
+    "isbn_10": "1545608156",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 321
+  },
+  {
+    "title": "On the Street Where You Live",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9789293312458",
+    "isbn_10": "929331245X",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 317
+  },
+  {
+    "title": "Daddy's Little Girl",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9785353009306",
+    "isbn_10": "5353009304",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 289
+  },
+  {
+    "title": "The Second Time Around",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9781403203113",
+    "isbn_10": "1403203113",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 305
+  },
+  {
+    "title": "Nighttime Is My Time",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9784151352157",
+    "isbn_10": "4151352155",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2004,
+    "page_count": 352
+  },
+  {
+    "title": "No Place Like Home",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9780851192093",
+    "isbn_10": "0851192092",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 384
+  },
+  {
+    "title": "Two Little Girls in Blue",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9784254138450",
+    "isbn_10": "4254138458",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 323
+  },
+  {
+    "title": "Where Are You Now?",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9787072156361",
+    "isbn_10": "7072156364",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 302
+  }
+]

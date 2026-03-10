@@ -1,0 +1,583 @@
+[
+  {
+    "title": "Just Take My Heart",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9781144748027",
+    "isbn_10": "114474802X",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 302
+  },
+  {
+    "title": "The Shadow of Your Smile",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9787301829141",
+    "isbn_10": "7301829140",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 306
+  },
+  {
+    "title": "I'll Walk Alone",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9788844456009",
+    "isbn_10": "8844456001",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 286
+  },
+  {
+    "title": "The Lost Years",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9780430354409",
+    "isbn_10": "0430354401",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 304
+  },
+  {
+    "title": "Daddy's Gone A Hunting",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9786607371903",
+    "isbn_10": "6607371906",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 288
+  },
+  {
+    "title": "I've Got You Under My Skin",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9780644314381",
+    "isbn_10": "0644314389",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 320
+  },
+  {
+    "title": "The Melody Lingers On",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9786109226756",
+    "isbn_10": "6109226750",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 304
+  },
+  {
+    "title": "All By Myself, Alone",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9781000242676",
+    "isbn_10": "1000242676",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 305
+  },
+  {
+    "title": "I've Got My Eyes on You",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9787895345942",
+    "isbn_10": "789534594X",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 300
+  },
+  {
+    "title": "Kiss the Girls and Make Them Cry",
+    "authors": [
+      "Mary Higgins Clark"
+    ],
+    "isbn_13": "9782628149040",
+    "isbn_10": "2628149044",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 336
+  },
+  {
+    "title": "Interview with the Vampire",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9788495328403",
+    "isbn_10": "8495328402",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1976,
+    "page_count": 340
+  },
+  {
+    "title": "The Vampire Lestat",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9781233546961",
+    "isbn_10": "1233546961",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 481
+  },
+  {
+    "title": "The Queen of the Damned",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9782850922046",
+    "isbn_10": "2850922048",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1988,
+    "page_count": 448
+  },
+  {
+    "title": "The Tale of the Body Thief",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9783500007083",
+    "isbn_10": "3500007082",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 430
+  },
+  {
+    "title": "Memnoch the Devil",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9784423319840",
+    "isbn_10": "4423319845",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 354
+  },
+  {
+    "title": "The Vampire Armand",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9784832988484",
+    "isbn_10": "4832988484",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 384
+  },
+  {
+    "title": "Merrick",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9787470551102",
+    "isbn_10": "7470551107",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 307
+  },
+  {
+    "title": "Blood and Gold",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9787393407753",
+    "isbn_10": "7393407752",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 471
+  },
+  {
+    "title": "Blackwood Farm",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9789029062343",
+    "isbn_10": "9029062347",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 527
+  },
+  {
+    "title": "Blood Canticle",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9783819371202",
+    "isbn_10": "3819371206",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 305
+  },
+  {
+    "title": "Prince Lestat",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9787044158454",
+    "isbn_10": "7044158455",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 472
+  },
+  {
+    "title": "Prince Lestat and the Realms of Atlantis",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9781253410754",
+    "isbn_10": "1253410755",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 464
+  },
+  {
+    "title": "Blood Communion",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9780259490319",
+    "isbn_10": "0259490318",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 249
+  },
+  {
+    "title": "The Witching Hour",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9781879900493",
+    "isbn_10": "1879900491",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 965
+  },
+  {
+    "title": "Lasher",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9784176236951",
+    "isbn_10": "4176236957",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 577
+  },
+  {
+    "title": "Taltos",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9780530313887",
+    "isbn_10": "053031388X",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 467
+  },
+  {
+    "title": "The Mummy",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9787583355567",
+    "isbn_10": "7583355567",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1989,
+    "page_count": 436
+  },
+  {
+    "title": "Servant of the Bones",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9789538053146",
+    "isbn_10": "9538053141",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 403
+  },
+  {
+    "title": "Violin",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9780154107800",
+    "isbn_10": "0154107808",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 289
+  },
+  {
+    "title": "Pandora",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9781719935470",
+    "isbn_10": "1719935475",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 353
+  },
+  {
+    "title": "Vittorio the Vampire",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9787705502589",
+    "isbn_10": "7705502585",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 292
+  },
+  {
+    "title": "Christ the Lord: Out of Egypt",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9788561691752",
+    "isbn_10": "8561691751",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 321
+  },
+  {
+    "title": "Christ the Lord: The Road to Cana",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9783304650423",
+    "isbn_10": "3304650423",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 242
+  },
+  {
+    "title": "The Wolf Gift",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9788508016211",
+    "isbn_10": "8508016212",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 406
+  },
+  {
+    "title": "The Wolves of Midwinter",
+    "authors": [
+      "Anne Rice"
+    ],
+    "isbn_13": "9785656328401",
+    "isbn_10": "5656328406",
+    "genres": [
+      "Horror",
+      "Gothic",
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 464
+  }
+]

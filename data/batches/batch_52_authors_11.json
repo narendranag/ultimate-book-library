@@ -1,0 +1,1534 @@
+[
+  {
+    "title": "The Shining",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9788128318023",
+    "isbn_10": "8128318020",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 447
+  },
+  {
+    "title": "It",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9781700301062",
+    "isbn_10": "1700301063",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 1138
+  },
+  {
+    "title": "The Stand",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9785483022046",
+    "isbn_10": "5483022041",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1978,
+    "page_count": 1153
+  },
+  {
+    "title": "Carrie",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9783957554604",
+    "isbn_10": "3957554608",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1974,
+    "page_count": 199
+  },
+  {
+    "title": "Salem's Lot",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9789102304452",
+    "isbn_10": "9102304457",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1975,
+    "page_count": 439
+  },
+  {
+    "title": "Pet Sematary",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9789380428529",
+    "isbn_10": "9380428529",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 374
+  },
+  {
+    "title": "Misery",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9783953069393",
+    "isbn_10": "395306939X",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 310
+  },
+  {
+    "title": "The Dead Zone",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9781433233401",
+    "isbn_10": "1433233401",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1979,
+    "page_count": 428
+  },
+  {
+    "title": "Different Seasons",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9780514805643",
+    "isbn_10": "0514805641",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 527
+  },
+  {
+    "title": "Night Shift",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9788013054210",
+    "isbn_10": "8013054217",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1978,
+    "page_count": 336
+  },
+  {
+    "title": "Skeleton Crew",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9780620544702",
+    "isbn_10": "0620544708",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 512
+  },
+  {
+    "title": "Four Past Midnight",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9783915996439",
+    "isbn_10": "3915996432",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1990,
+    "page_count": 763
+  },
+  {
+    "title": "Nightmares & Dreamscapes",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9785030533209",
+    "isbn_10": "5030533206",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1993,
+    "page_count": 816
+  },
+  {
+    "title": "Everything's Eventual",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9784638635353",
+    "isbn_10": "4638635350",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 459
+  },
+  {
+    "title": "Just After Sunset",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9780306122170",
+    "isbn_10": "0306122170",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 367
+  },
+  {
+    "title": "Full Dark, No Stars",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9786453950338",
+    "isbn_10": "6453950332",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 368
+  },
+  {
+    "title": "The Bazaar of Bad Dreams",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9789541700495",
+    "isbn_10": "9541700497",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 495
+  },
+  {
+    "title": "Duma Key",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9789704205119",
+    "isbn_10": "9704205112",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2008,
+    "page_count": 611
+  },
+  {
+    "title": "Doctor Sleep",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9784413161770",
+    "isbn_10": "4413161777",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 531
+  },
+  {
+    "title": "Mr. Mercedes",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9782070082049",
+    "isbn_10": "2070082040",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 436
+  },
+  {
+    "title": "Finders Keepers",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9782074244269",
+    "isbn_10": "2074244266",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 434
+  },
+  {
+    "title": "End of Watch",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9782344407349",
+    "isbn_10": "2344407340",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2016,
+    "page_count": 431
+  },
+  {
+    "title": "The Outsider",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9782449205253",
+    "isbn_10": "244920525X",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 561
+  },
+  {
+    "title": "Elevation",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9781093549249",
+    "isbn_10": "1093549246",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 146
+  },
+  {
+    "title": "If It Bleeds",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9780007514670",
+    "isbn_10": "0007514670",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2020,
+    "page_count": 448
+  },
+  {
+    "title": "Later",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9783068204474",
+    "isbn_10": "306820447X",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 248
+  },
+  {
+    "title": "Billy Summers",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9786525581040",
+    "isbn_10": "6525581044",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2021,
+    "page_count": 514
+  },
+  {
+    "title": "Fairy Tale",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9783178022548",
+    "isbn_10": "3178022546",
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2022,
+    "page_count": 608
+  },
+  {
+    "title": "Holly",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9783026204263",
+    "isbn_10": "3026204269",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2023,
+    "page_count": 449
+  },
+  {
+    "title": "You Like It Darker",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9780103141497",
+    "isbn_10": "0103141499",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2024,
+    "page_count": 512
+  },
+  {
+    "title": "Joyland",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9781540968944",
+    "isbn_10": "1540968944",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 283
+  },
+  {
+    "title": "The Colorado Kid",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9782468261728",
+    "isbn_10": "2468261720",
+    "genres": [
+      "Mystery"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 184
+  },
+  {
+    "title": "Blaze",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9786468260163",
+    "isbn_10": "6468260167",
+    "genres": [
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 302
+  },
+  {
+    "title": "Dolores Claiborne",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9781341207198",
+    "isbn_10": "1341207196",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 305
+  },
+  {
+    "title": "Gerald's Game",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9782324089626",
+    "isbn_10": "2324089629",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1992,
+    "page_count": 332
+  },
+  {
+    "title": "Rose Madder",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9781922322746",
+    "isbn_10": "1922322741",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 420
+  },
+  {
+    "title": "Desperation",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9785241622921",
+    "isbn_10": "5241622926",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 547
+  },
+  {
+    "title": "The Regulators",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9786928305984",
+    "isbn_10": "6928305983",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 475
+  },
+  {
+    "title": "The Girl Who Loved Tom Gordon",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9780139758249",
+    "isbn_10": "0139758240",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 224
+  },
+  {
+    "title": "From a Buick 8",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9782529880356",
+    "isbn_10": "2529880352",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 356
+  },
+  {
+    "title": "Lisey's Story",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9782323838102",
+    "isbn_10": "2323838105",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2006,
+    "page_count": 513
+  },
+  {
+    "title": "The Tommyknockers",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9785272950444",
+    "isbn_10": "5272950445",
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1987,
+    "page_count": 558
+  },
+  {
+    "title": "Insomnia",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9785515371357",
+    "isbn_10": "5515371356",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1994,
+    "page_count": 787
+  },
+  {
+    "title": "Hearts in Atlantis",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9782342019032",
+    "isbn_10": "2342019033",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 523
+  },
+  {
+    "title": "Dreamcatcher",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9788371835179",
+    "isbn_10": "8371835175",
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 620
+  },
+  {
+    "title": "Under the Dome",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9780693200925",
+    "isbn_10": "0693200928",
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 1074
+  },
+  {
+    "title": "Revival",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9780849354304",
+    "isbn_10": "0849354307",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 405
+  },
+  {
+    "title": "Sleeping Beauties",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9780441518425",
+    "isbn_10": "0441518427",
+    "genres": [
+      "Horror"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 702
+  },
+  {
+    "title": "The Institute",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn_13": "9784193733990",
+    "isbn_10": "4193733998",
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2019,
+    "page_count": 561
+  },
+  {
+    "title": "The Hobbit",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "isbn_13": "9784570315313",
+    "isbn_10": "4570315313",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1937,
+    "page_count": 310
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "isbn_13": "9782957011100",
+    "isbn_10": "2957011107",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1954,
+    "page_count": 423
+  },
+  {
+    "title": "The Two Towers",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "isbn_13": "9786659123291",
+    "isbn_10": "6659123296",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1954,
+    "page_count": 352
+  },
+  {
+    "title": "The Return of the King",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "isbn_13": "9788935814572",
+    "isbn_10": "8935814571",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1955,
+    "page_count": 416
+  },
+  {
+    "title": "The Silmarillion",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "isbn_13": "9789004022201",
+    "isbn_10": "9004022201",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 365
+  },
+  {
+    "title": "Unfinished Tales",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "isbn_13": "9781524232900",
+    "isbn_10": "1524232904",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1980,
+    "page_count": 472
+  },
+  {
+    "title": "The Children of Húrin",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "isbn_13": "9789647492072",
+    "isbn_10": "9647492073",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2007,
+    "page_count": 313
+  },
+  {
+    "title": "Beren and Lúthien",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "isbn_13": "9788101582540",
+    "isbn_10": "8101582541",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 288
+  },
+  {
+    "title": "The Fall of Gondolin",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "isbn_13": "9783113650898",
+    "isbn_10": "3113650895",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 304
+  },
+  {
+    "title": "The Adventures of Tom Bombadil",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "isbn_13": "9783527430512",
+    "isbn_10": "3527430512",
+    "genres": [
+      "Fantasy",
+      "Poetry"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1962,
+    "page_count": 64
+  },
+  {
+    "title": "Tree and Leaf",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "isbn_13": "9788133250615",
+    "isbn_10": "8133250617",
+    "genres": [
+      "Fantasy",
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1964,
+    "page_count": 112
+  },
+  {
+    "title": "Smith of Wootton Major",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "isbn_13": "9782147049524",
+    "isbn_10": "2147049522",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1967,
+    "page_count": 48
+  },
+  {
+    "title": "Farmer Giles of Ham",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "isbn_13": "9783141066326",
+    "isbn_10": "3141066329",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1949,
+    "page_count": 79
+  },
+  {
+    "title": "Roverandom",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "isbn_13": "9781474244565",
+    "isbn_10": "1474244564",
+    "genres": [
+      "Fantasy",
+      "Children's"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 106
+  },
+  {
+    "title": "The Letters of J.R.R. Tolkien",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "isbn_13": "9783031104251",
+    "isbn_10": "3031104250",
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 463
+  },
+  {
+    "title": "On Fairy-Stories",
+    "authors": [
+      "J.R.R. Tolkien"
+    ],
+    "isbn_13": "9785214193106",
+    "isbn_10": "5214193106",
+    "genres": [
+      "Essays"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1947,
+    "page_count": 72
+  },
+  {
+    "title": "A Game of Thrones",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "isbn_13": "9783805430845",
+    "isbn_10": "3805430841",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 694
+  },
+  {
+    "title": "A Clash of Kings",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "isbn_13": "9780851593319",
+    "isbn_10": "0851593313",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 768
+  },
+  {
+    "title": "A Storm of Swords",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "isbn_13": "9781398166660",
+    "isbn_10": "1398166669",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 973
+  },
+  {
+    "title": "A Feast for Crows",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "isbn_13": "9782184555347",
+    "isbn_10": "2184555347",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2005,
+    "page_count": 753
+  },
+  {
+    "title": "A Dance with Dragons",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "isbn_13": "9782128424456",
+    "isbn_10": "2128424453",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2011,
+    "page_count": 1016
+  },
+  {
+    "title": "Fire & Blood",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "isbn_13": "9786896299186",
+    "isbn_10": "6896299185",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2018,
+    "page_count": 736
+  },
+  {
+    "title": "The World of Ice & Fire",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "isbn_13": "9787737139722",
+    "isbn_10": "7737139729",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 336
+  },
+  {
+    "title": "A Knight of the Seven Kingdoms",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "isbn_13": "9786676335882",
+    "isbn_10": "6676335883",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 368
+  },
+  {
+    "title": "Dreamsongs Volume I",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "isbn_13": "9785306194677",
+    "isbn_10": "5306194672",
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 672
+  },
+  {
+    "title": "Dreamsongs Volume II",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "isbn_13": "9784413455138",
+    "isbn_10": "4413455134",
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 640
+  },
+  {
+    "title": "Nightflyers",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "isbn_13": "9784275064486",
+    "isbn_10": "4275064488",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1985,
+    "page_count": 352
+  },
+  {
+    "title": "Tuf Voyaging",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "isbn_13": "9783530731569",
+    "isbn_10": "3530731560",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1986,
+    "page_count": 391
+  },
+  {
+    "title": "The Armageddon Rag",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "isbn_13": "9785726634166",
+    "isbn_10": "5726634160",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1983,
+    "page_count": 350
+  },
+  {
+    "title": "Fevre Dream",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "isbn_13": "9782598311768",
+    "isbn_10": "2598311760",
+    "genres": [
+      "Horror",
+      "Historical Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1982,
+    "page_count": 350
+  },
+  {
+    "title": "Dying of the Light",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "isbn_13": "9789712716126",
+    "isbn_10": "9712716120",
+    "genres": [
+      "Science Fiction"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1977,
+    "page_count": 365
+  },
+  {
+    "title": "Windhaven",
+    "authors": [
+      "George R.R. Martin"
+    ],
+    "isbn_13": "9783644395022",
+    "isbn_10": "3644395020",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1981,
+    "page_count": 332
+  },
+  {
+    "title": "Assassin's Apprentice",
+    "authors": [
+      "Robin Hobb"
+    ],
+    "isbn_13": "9780655557593",
+    "isbn_10": "0655557598",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1995,
+    "page_count": 435
+  },
+  {
+    "title": "Royal Assassin",
+    "authors": [
+      "Robin Hobb"
+    ],
+    "isbn_13": "9783537283139",
+    "isbn_10": "353728313X",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1996,
+    "page_count": 564
+  },
+  {
+    "title": "Assassin's Quest",
+    "authors": [
+      "Robin Hobb"
+    ],
+    "isbn_13": "9787731302016",
+    "isbn_10": "7731302016",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1997,
+    "page_count": 757
+  },
+  {
+    "title": "Ship of Magic",
+    "authors": [
+      "Robin Hobb"
+    ],
+    "isbn_13": "9785036517456",
+    "isbn_10": "5036517458",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1998,
+    "page_count": 880
+  },
+  {
+    "title": "The Mad Ship",
+    "authors": [
+      "Robin Hobb"
+    ],
+    "isbn_13": "9781523533619",
+    "isbn_10": "1523533617",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1999,
+    "page_count": 906
+  },
+  {
+    "title": "Ship of Destiny",
+    "authors": [
+      "Robin Hobb"
+    ],
+    "isbn_13": "9781455482467",
+    "isbn_10": "1455482463",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2000,
+    "page_count": 789
+  },
+  {
+    "title": "Fool's Errand",
+    "authors": [
+      "Robin Hobb"
+    ],
+    "isbn_13": "9783912142266",
+    "isbn_10": "3912142262",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2001,
+    "page_count": 661
+  },
+  {
+    "title": "Golden Fool",
+    "authors": [
+      "Robin Hobb"
+    ],
+    "isbn_13": "9783675943070",
+    "isbn_10": "3675943070",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2002,
+    "page_count": 681
+  },
+  {
+    "title": "Fool's Fate",
+    "authors": [
+      "Robin Hobb"
+    ],
+    "isbn_13": "9785052465328",
+    "isbn_10": "5052465327",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2003,
+    "page_count": 814
+  },
+  {
+    "title": "Dragon Keeper",
+    "authors": [
+      "Robin Hobb"
+    ],
+    "isbn_13": "9780272424582",
+    "isbn_10": "0272424587",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2009,
+    "page_count": 553
+  },
+  {
+    "title": "Dragon Haven",
+    "authors": [
+      "Robin Hobb"
+    ],
+    "isbn_13": "9783459232307",
+    "isbn_10": "3459232307",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2010,
+    "page_count": 508
+  },
+  {
+    "title": "City of Dragons",
+    "authors": [
+      "Robin Hobb"
+    ],
+    "isbn_13": "9782540081299",
+    "isbn_10": "2540081290",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2012,
+    "page_count": 343
+  },
+  {
+    "title": "Blood of Dragons",
+    "authors": [
+      "Robin Hobb"
+    ],
+    "isbn_13": "9783268455584",
+    "isbn_10": "3268455581",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2013,
+    "page_count": 335
+  },
+  {
+    "title": "Fool's Assassin",
+    "authors": [
+      "Robin Hobb"
+    ],
+    "isbn_13": "9785635627402",
+    "isbn_10": "5635627404",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2014,
+    "page_count": 668
+  },
+  {
+    "title": "Fool's Quest",
+    "authors": [
+      "Robin Hobb"
+    ],
+    "isbn_13": "9781131269009",
+    "isbn_10": "1131269004",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2015,
+    "page_count": 768
+  },
+  {
+    "title": "Assassin's Fate",
+    "authors": [
+      "Robin Hobb"
+    ],
+    "isbn_13": "9784920832309",
+    "isbn_10": "4920832303",
+    "genres": [
+      "Fantasy"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 2017,
+    "page_count": 920
+  },
+  {
+    "title": "Master and Commander",
+    "authors": [
+      "Patrick O'Brian"
+    ],
+    "isbn_13": "9782451429906",
+    "isbn_10": "2451429909",
+    "genres": [
+      "Historical Fiction",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1969,
+    "page_count": 412
+  },
+  {
+    "title": "Post Captain",
+    "authors": [
+      "Patrick O'Brian"
+    ],
+    "isbn_13": "9784547381020",
+    "isbn_10": "454738102X",
+    "genres": [
+      "Historical Fiction",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1972,
+    "page_count": 496
+  },
+  {
+    "title": "HMS Surprise",
+    "authors": [
+      "Patrick O'Brian"
+    ],
+    "isbn_13": "9785624496910",
+    "isbn_10": "5624496915",
+    "genres": [
+      "Historical Fiction",
+      "Adventure"
+    ],
+    "language": "en",
+    "source": "seed",
+    "year_published": 1973,
+    "page_count": 379
+  }
+]

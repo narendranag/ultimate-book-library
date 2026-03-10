@@ -97,6 +97,22 @@
       "page_count": 368
     },
     {
+      "title": "1356",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9788125122432",
+      "isbn_10": "8125122435",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2012,
+      "page_count": 367
+    },
+    {
       "title": "1491",
       "authors": [
         "Charles C. Mann"
@@ -275,6 +291,22 @@
       "source": "seed",
       "year_published": 2018,
       "page_count": 372
+    },
+    {
+      "title": "21: The Final Unfinished Voyage of Jack Aubrey",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9784024237055",
+      "isbn_10": "4024237055",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2004,
+      "page_count": 128
     },
     {
       "title": "23 Things They Don't Tell You About Capitalism",
@@ -783,6 +815,22 @@
       "page_count": 856
     },
     {
+      "title": "A Cry in the Night",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9784225523643",
+      "isbn_10": "4225523640",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1982,
+      "page_count": 317
+    },
+    {
       "title": "A Damsel in Distress",
       "authors": [
         "P.G. Wodehouse"
@@ -988,6 +1036,23 @@
       "page_count": 68
     },
     {
+      "title": "A Faint Cold Fear",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9780126002942",
+      "isbn_10": "0126002940",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2003,
+      "page_count": 400
+    },
+    {
       "title": "A Fair Maiden",
       "authors": [
         "Joyce Carol Oates"
@@ -1100,6 +1165,21 @@
       "language": "en",
       "page_count": 613,
       "source": "seed"
+    },
+    {
+      "title": "A Gambling Man",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9783952424179",
+      "isbn_10": "395242417X",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2021,
+      "page_count": 416
     },
     {
       "title": "A Game of Thrones",
@@ -1243,6 +1323,36 @@
       "source": "seed",
       "year_published": 1945,
       "page_count": 895
+    },
+    {
+      "title": "A Knight of the Seven Kingdoms",
+      "authors": [
+        "George R.R. Martin"
+      ],
+      "isbn_13": "9786676335882",
+      "isbn_10": "6676335883",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 368
+    },
+    {
+      "title": "A Knight of the Word",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9782414185221",
+      "isbn_10": "2414185228",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1998,
+      "page_count": 397
     },
     {
       "title": "A Life in Movies",
@@ -1526,6 +1636,21 @@
       "page_count": 223
     },
     {
+      "title": "A Minute to Midnight",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9787705311037",
+      "isbn_10": "7705311038",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2019,
+      "page_count": 416
+    },
+    {
       "title": "A Month of Sundays",
       "authors": [
         "John Updike"
@@ -1776,6 +1901,21 @@
       "page_count": 304
     },
     {
+      "title": "A Princess of Landover",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9783053670178",
+      "isbn_10": "3053670178",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 352
+    },
+    {
       "title": "A Prisoner of Birth",
       "authors": [
         "Jeffrey Archer"
@@ -1998,6 +2138,22 @@
       "language": "en",
       "page_count": 973,
       "source": "seed"
+    },
+    {
+      "title": "A Stranger Is Watching",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9785293348404",
+      "isbn_10": "529334840X",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1977,
+      "page_count": 302
     },
     {
       "title": "A Streetcar Named Desire",
@@ -2511,6 +2667,21 @@
       "page_count": 394
     },
     {
+      "title": "Absolute Power",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9780014892419",
+      "isbn_10": "0014892413",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1996,
+      "page_count": 469
+    },
+    {
       "title": "Absolution",
       "authors": [
         "Jeff VanderMeer"
@@ -2729,6 +2900,23 @@
       "source": "seed",
       "year_published": 2023,
       "page_count": 352
+    },
+    {
+      "title": "After That Night",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9780222954411",
+      "isbn_10": "0222954418",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2023,
+      "page_count": 416
     },
     {
       "title": "After the Fire",
@@ -3013,6 +3201,38 @@
       "page_count": 398
     },
     {
+      "title": "All Around the Town",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9787920109204",
+      "isbn_10": "7920109205",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1992,
+      "page_count": 307
+    },
+    {
+      "title": "All By Myself, Alone",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9781000242676",
+      "isbn_10": "1000242676",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 305
+    },
+    {
       "title": "All My Sons",
       "authors": [
         "Arthur Miller"
@@ -3187,6 +3407,22 @@
       "source": "seed",
       "year_published": 2017,
       "page_count": 264
+    },
+    {
+      "title": "Alone",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9783844805840",
+      "isbn_10": "3844805842",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2005,
+      "page_count": 400
     },
     {
       "title": "Along Came a Spider",
@@ -3887,6 +4123,21 @@
       "source": "seed"
     },
     {
+      "title": "Angel Fire East",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9781370432240",
+      "isbn_10": "1370432240",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1999,
+      "page_count": 397
+    },
+    {
       "title": "Angela's Ashes",
       "authors": [
         "Frank McCourt"
@@ -3918,6 +4169,22 @@
       "language": "en",
       "page_count": 616,
       "source": "seed"
+    },
+    {
+      "title": "Angels Fall",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9781800282537",
+      "isbn_10": "1800282532",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2006,
+      "page_count": 399
     },
     {
       "title": "Angels Flight",
@@ -4141,6 +4408,21 @@
       "page_count": 519
     },
     {
+      "title": "Antrax",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9788051280497",
+      "isbn_10": "8051280490",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 419
+    },
+    {
       "title": "Anxious People",
       "authors": [
         "Fredrik Backman"
@@ -4295,6 +4577,21 @@
       "source": "seed",
       "year_published": 1965,
       "page_count": 80
+    },
+    {
+      "title": "Armageddon's Children",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9780031950925",
+      "isbn_10": "0031950922",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2006,
+      "page_count": 371
     },
     {
       "title": "Arms and the Man",
@@ -4519,6 +4816,21 @@
       "language": "en",
       "page_count": 435,
       "source": "seed"
+    },
+    {
+      "title": "Assassin's Fate",
+      "authors": [
+        "Robin Hobb"
+      ],
+      "isbn_13": "9784920832309",
+      "isbn_10": "4920832303",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 920
     },
     {
       "title": "Assassin's Quest",
@@ -4865,6 +5177,22 @@
       "page_count": 384
     },
     {
+      "title": "Azincourt",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9788352120386",
+      "isbn_10": "8352120387",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 437
+    },
+    {
       "title": "Babel",
       "authors": [
         "R.F. Kuang"
@@ -5167,6 +5495,21 @@
       "page_count": 361
     },
     {
+      "title": "Bearers of the Black Staff",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9784263850251",
+      "isbn_10": "4263850254",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2010,
+      "page_count": 416
+    },
+    {
       "title": "Beartown",
       "authors": [
         "Fredrik Backman"
@@ -5276,6 +5619,38 @@
       "source": "seed",
       "year_published": 2014,
       "page_count": 1077
+    },
+    {
+      "title": "Before I Say Goodbye",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9781545608159",
+      "isbn_10": "1545608156",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2000,
+      "page_count": 321
+    },
+    {
+      "title": "Before She Disappeared",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9785120142700",
+      "isbn_10": "5120142702",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2021,
+      "page_count": 400
     },
     {
       "title": "Before the Coffee Gets Cold",
@@ -5475,6 +5850,21 @@
       "source": "seed",
       "year_published": 2003,
       "page_count": 590
+    },
+    {
+      "title": "Beren and Lúthien",
+      "authors": [
+        "J.R.R. Tolkien"
+      ],
+      "isbn_13": "9788101582540",
+      "isbn_10": "8101582541",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 288
     },
     {
       "title": "Berlin Diary",
@@ -5697,6 +6087,23 @@
       "page_count": 240
     },
     {
+      "title": "Beyond Reach",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9784033431048",
+      "isbn_10": "4033431047",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2007,
+      "page_count": 448
+    },
+    {
       "title": "Big Bang",
       "authors": [
         "Simon Singh"
@@ -5903,6 +6310,22 @@
       "page_count": 554
     },
     {
+      "title": "Birthright",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9789038123127",
+      "isbn_10": "9038123124",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2003,
+      "page_count": 480
+    },
+    {
       "title": "Bittersweet",
       "authors": [
         "Susan Cain"
@@ -5964,6 +6387,22 @@
       "source": "seed",
       "year_published": 1999,
       "page_count": 386
+    },
+    {
+      "title": "Black Hills",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9784034333297",
+      "isbn_10": "4034333294",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 480
     },
     {
       "title": "Black Hole",
@@ -6124,6 +6563,23 @@
       "page_count": 182
     },
     {
+      "title": "Blackwood Farm",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9789029062343",
+      "isbn_10": "9029062347",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2002,
+      "page_count": 527
+    },
+    {
       "title": "Blankets",
       "authors": [
         "Craig Thompson"
@@ -6138,6 +6594,21 @@
       "source": "seed",
       "year_published": 2003,
       "page_count": 592
+    },
+    {
+      "title": "Blaze",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9786468260163",
+      "isbn_10": "6468260167",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2007,
+      "page_count": 302
     },
     {
       "title": "Bleak House",
@@ -6251,6 +6722,23 @@
       "page_count": 352
     },
     {
+      "title": "Blindsighted",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9784525340179",
+      "isbn_10": "4525340177",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 384
+    },
+    {
       "title": "Blink",
       "authors": [
         "Malcolm Gladwell"
@@ -6281,6 +6769,21 @@
       "source": "seed",
       "year_published": 2022,
       "page_count": 224
+    },
+    {
+      "title": "Blithe Images",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9783380354024",
+      "isbn_10": "3380354023",
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1982,
+      "page_count": 188
     },
     {
       "title": "Blitzscaling",
@@ -6315,6 +6818,57 @@
       "page_count": 738
     },
     {
+      "title": "Blood and Gold",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9787393407753",
+      "isbn_10": "7393407752",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 471
+    },
+    {
+      "title": "Blood Canticle",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9783819371202",
+      "isbn_10": "3819371206",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2003,
+      "page_count": 305
+    },
+    {
+      "title": "Blood Communion",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9780259490319",
+      "isbn_10": "0259490318",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 249
+    },
+    {
       "title": "Blood Meridian",
       "authors": [
         "Cormac McCarthy"
@@ -6332,6 +6886,21 @@
       "source": "seed"
     },
     {
+      "title": "Blood of Dragons",
+      "authors": [
+        "Robin Hobb"
+      ],
+      "isbn_13": "9783268455584",
+      "isbn_10": "3268455581",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 335
+    },
+    {
       "title": "Blood of Elves",
       "authors": [
         "Andrzej Sapkowski"
@@ -6346,6 +6915,38 @@
       "language": "pl",
       "page_count": 320,
       "source": "seed"
+    },
+    {
+      "title": "Bloodfire Quest",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9785842093304",
+      "isbn_10": "5842093308",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 384
+    },
+    {
+      "title": "Bloodstream",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9786232200920",
+      "isbn_10": "6232200926",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1998,
+      "page_count": 344
     },
     {
       "title": "Blow Fly",
@@ -6379,6 +6980,22 @@
       "source": "seed",
       "year_published": 1959,
       "page_count": 277
+    },
+    {
+      "title": "Blue at the Mizzen",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9789410545752",
+      "isbn_10": "9410545757",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1999,
+      "page_count": 261
     },
     {
       "title": "Blue Highways",
@@ -6460,6 +7077,22 @@
       "page_count": 227
     },
     {
+      "title": "Blue Smoke",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9783307823251",
+      "isbn_10": "3307823256",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2005,
+      "page_count": 464
+    },
+    {
       "title": "Bluebeard",
       "authors": [
         "Kurt Vonnegut"
@@ -6519,6 +7152,23 @@
       "source": "seed",
       "year_published": 1981,
       "page_count": 301
+    },
+    {
+      "title": "Body Double",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9782191212295",
+      "isbn_10": "2191212298",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2004,
+      "page_count": 340
     },
     {
       "title": "Body of Evidence",
@@ -6632,6 +7282,51 @@
       "source": "seed",
       "year_published": 2016,
       "page_count": 289
+    },
+    {
+      "title": "Born in Fire",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9787075729241",
+      "isbn_10": "7075729241",
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1994,
+      "page_count": 384
+    },
+    {
+      "title": "Born in Ice",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9781430428459",
+      "isbn_10": "1430428457",
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1995,
+      "page_count": 400
+    },
+    {
+      "title": "Born in Shame",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9788812812141",
+      "isbn_10": "8812812147",
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1996,
+      "page_count": 384
     },
     {
       "title": "Born in the U.S.A.",
@@ -7076,6 +7771,23 @@
       "page_count": 324
     },
     {
+      "title": "Broken",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9784412753846",
+      "isbn_10": "4412753840",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2010,
+      "page_count": 384
+    },
+    {
       "title": "Broken Harbor",
       "authors": [
         "Tana French"
@@ -7478,6 +8190,22 @@
       "page_count": 240
     },
     {
+      "title": "Carolina Moon",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9788960132108",
+      "isbn_10": "8960132101",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2000,
+      "page_count": 432
+    },
+    {
       "title": "Carpe Jugulum",
       "authors": [
         "Terry Pratchett"
@@ -7715,6 +8443,22 @@
       "page_count": 448
     },
     {
+      "title": "Catch Me",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9785286335350",
+      "isbn_10": "5286335357",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2012,
+      "page_count": 400
+    },
+    {
       "title": "Catch-22",
       "authors": [
         "Joseph Heller"
@@ -7927,6 +8671,22 @@
       "page_count": 184
     },
     {
+      "title": "Chasing Fire",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9781227432027",
+      "isbn_10": "122743202X",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2011,
+      "page_count": 464
+    },
+    {
       "title": "Check & Mate",
       "authors": [
         "Ali Hazelwood"
@@ -7956,6 +8716,21 @@
       "source": "seed",
       "year_published": 2000,
       "page_count": 276
+    },
+    {
+      "title": "Chesapeake Blue",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9781320549035",
+      "isbn_10": "1320549039",
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2002,
+      "page_count": 352
     },
     {
       "title": "Chetan Bhagat: Five Point Someone",
@@ -8131,6 +8906,23 @@
       "page_count": 264
     },
     {
+      "title": "Choose Me",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9782414454266",
+      "isbn_10": "2414454261",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2021,
+      "page_count": 320
+    },
+    {
       "title": "Christ Stopped at Eboli",
       "authors": [
         "Carlo Levi"
@@ -8145,6 +8937,36 @@
       "source": "seed",
       "year_published": 1945,
       "page_count": 268
+    },
+    {
+      "title": "Christ the Lord: Out of Egypt",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9788561691752",
+      "isbn_10": "8561691751",
+      "genres": [
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2005,
+      "page_count": 321
+    },
+    {
+      "title": "Christ the Lord: The Road to Cana",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9783304650423",
+      "isbn_10": "3304650423",
+      "genres": [
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 242
     },
     {
       "title": "Christine",
@@ -8368,6 +9190,21 @@
       "page_count": 340
     },
     {
+      "title": "City of Dragons",
+      "authors": [
+        "Robin Hobb"
+      ],
+      "isbn_13": "9782540081299",
+      "isbn_10": "2540081290",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2012,
+      "page_count": 343
+    },
+    {
       "title": "City of Illusions",
       "authors": [
         "Ursula K. Le Guin"
@@ -8427,6 +9264,22 @@
       "source": "seed",
       "year_published": 1964,
       "page_count": 253
+    },
+    {
+      "title": "Clarissa Oakes",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9787456791188",
+      "isbn_10": "745679118X",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1992,
+      "page_count": 255
     },
     {
       "title": "Claudius the God",
@@ -8778,6 +9631,22 @@
       "page_count": 169
     },
     {
+      "title": "Come Sundown",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9781545854174",
+      "isbn_10": "1545854173",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 464
+    },
+    {
       "title": "Cometh the Hour",
       "authors": [
         "Jeffrey Archer"
@@ -9095,6 +9964,22 @@
       "page_count": 284
     },
     {
+      "title": "Cop Town",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9784423470725",
+      "isbn_10": "4423470721",
+      "genres": [
+        "Thriller",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 400
+    },
+    {
       "title": "Coraline",
       "authors": [
         "Neil Gaiman"
@@ -9255,6 +10140,22 @@
       "page_count": 224
     },
     {
+      "title": "Crash & Burn",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9788440493958",
+      "isbn_10": "8440493959",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 384
+    },
+    {
       "title": "Crazy Hair",
       "authors": [
         "Neil Gaiman"
@@ -9332,6 +10233,23 @@
       "language": "ru",
       "page_count": 430,
       "source": "seed"
+    },
+    {
+      "title": "Criminal",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9783442951031",
+      "isbn_10": "3442951038",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2012,
+      "page_count": 432
     },
     {
       "title": "Crisis",
@@ -9813,6 +10731,38 @@
       "page_count": 384
     },
     {
+      "title": "Daddy's Gone A Hunting",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9786607371903",
+      "isbn_10": "6607371906",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 288
+    },
+    {
+      "title": "Daddy's Little Girl",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9785353009306",
+      "isbn_10": "5353009304",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2002,
+      "page_count": 289
+    },
+    {
       "title": "Daisy Jones & The Six",
       "authors": [
         "Taylor Jenkins Reid"
@@ -10079,6 +11029,21 @@
       "source": "seed",
       "year_published": 1987,
       "page_count": 248
+    },
+    {
+      "title": "Daylight",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9782562613591",
+      "isbn_10": "2562613597",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2020,
+      "page_count": 400
     },
     {
       "title": "Deacon King Kong",
@@ -10380,6 +11345,22 @@
       "page_count": 139
     },
     {
+      "title": "Death of Kings",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9784927946221",
+      "isbn_10": "4927946223",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2011,
+      "page_count": 313
+    },
+    {
       "title": "Death on the Nile",
       "authors": [
         "Agatha Christie"
@@ -10574,6 +11555,21 @@
       "page_count": 439
     },
     {
+      "title": "Deliver Us from Evil",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9784225035542",
+      "isbn_10": "4225035549",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2010,
+      "page_count": 400
+    },
+    {
       "title": "Demian",
       "authors": [
         "Hermann Hesse"
@@ -10749,6 +11745,37 @@
       "page_count": 366
     },
     {
+      "title": "Desolation Island",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9780102947366",
+      "isbn_10": "0102947368",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1978,
+      "page_count": 325
+    },
+    {
+      "title": "Desperation",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9785241622921",
+      "isbn_10": "5241622926",
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1996,
+      "page_count": 547
+    },
+    {
       "title": "Destination Unknown",
       "authors": [
         "Agatha Christie"
@@ -10918,6 +11945,23 @@
       "page_count": 220
     },
     {
+      "title": "Die Again",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9787456910053",
+      "isbn_10": "7456910057",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 384
+    },
+    {
       "title": "Die Trying",
       "authors": [
         "Lee Child"
@@ -10931,6 +11975,22 @@
       "source": "seed",
       "year_published": 1998,
       "page_count": 532
+    },
+    {
+      "title": "Different Seasons",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9780514805643",
+      "isbn_10": "0514805641",
+      "genres": [
+        "Horror",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1982,
+      "page_count": 527
     },
     {
       "title": "Difficult Daughters",
@@ -10995,6 +12055,22 @@
       "source": "seed",
       "year_published": 2019,
       "page_count": 284
+    },
+    {
+      "title": "Dirty Thirty",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9788853369635",
+      "isbn_10": "8853369639",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2023,
+      "page_count": 304
     },
     {
       "title": "Discipline and Punish",
@@ -11153,6 +12229,21 @@
       "source": "seed"
     },
     {
+      "title": "Divine Justice",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9780536397546",
+      "isbn_10": "0536397546",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 387
+    },
+    {
       "title": "Djinn Patrol on the Purple Line",
       "authors": [
         "Deepa Anappara"
@@ -11280,6 +12371,22 @@
       "language": "ru",
       "page_count": 592,
       "source": "seed"
+    },
+    {
+      "title": "Dolores Claiborne",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9781341207198",
+      "isbn_10": "1341207196",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1992,
+      "page_count": 305
     },
     {
       "title": "Domain-Driven Design",
@@ -11489,6 +12596,36 @@
       "page_count": 541
     },
     {
+      "title": "Dragon Haven",
+      "authors": [
+        "Robin Hobb"
+      ],
+      "isbn_13": "9783459232307",
+      "isbn_10": "3459232307",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2010,
+      "page_count": 508
+    },
+    {
+      "title": "Dragon Keeper",
+      "authors": [
+        "Robin Hobb"
+      ],
+      "isbn_13": "9780272424582",
+      "isbn_10": "0272424587",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 553
+    },
+    {
       "title": "Dragon Tears",
       "authors": [
         "Dean Koontz"
@@ -11554,6 +12691,21 @@
       "page_count": 256
     },
     {
+      "title": "Dream Town",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9784543034548",
+      "isbn_10": "4543034546",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2022,
+      "page_count": 432
+    },
+    {
       "title": "Dreamcatcher",
       "authors": [
         "Stephen King"
@@ -11601,6 +12753,38 @@
       "source": "seed",
       "year_published": 1995,
       "page_count": 442
+    },
+    {
+      "title": "Dreamsongs Volume I",
+      "authors": [
+        "George R.R. Martin"
+      ],
+      "isbn_13": "9785306194677",
+      "isbn_10": "5306194672",
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2003,
+      "page_count": 672
+    },
+    {
+      "title": "Dreamsongs Volume II",
+      "authors": [
+        "George R.R. Martin"
+      ],
+      "isbn_13": "9784413455138",
+      "isbn_10": "4413455134",
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2003,
+      "page_count": 640
     },
     {
       "title": "Drive",
@@ -11682,6 +12866,21 @@
       "source": "seed",
       "year_published": 1923,
       "page_count": 80
+    },
+    {
+      "title": "Duma Key",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9789704205119",
+      "isbn_10": "9704205112",
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 611
     },
     {
       "title": "Dumb Witness",
@@ -11776,6 +12975,21 @@
       "source": "seed",
       "year_published": 2009,
       "page_count": 814
+    },
+    {
+      "title": "Dying of the Light",
+      "authors": [
+        "George R.R. Martin"
+      ],
+      "isbn_13": "9789712716126",
+      "isbn_10": "9712716120",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1977,
+      "page_count": 365
     },
     {
       "title": "e: The Story of a Number",
@@ -12130,6 +13344,22 @@
       "page_count": 256
     },
     {
+      "title": "Elevation",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9781093549249",
+      "isbn_10": "1093549246",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 146
+    },
+    {
       "title": "Eleven Minutes",
       "authors": [
         "Paulo Coelho"
@@ -12143,6 +13373,22 @@
       "source": "seed",
       "year_published": 2003,
       "page_count": 315
+    },
+    {
+      "title": "Eleven on Top",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9786931700189",
+      "isbn_10": "6931700189",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2005,
+      "page_count": 310
     },
     {
       "title": "Elizabeth Costello",
@@ -12256,6 +13502,36 @@
       "page_count": 351
     },
     {
+      "title": "End Game",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9781957701455",
+      "isbn_10": "1957701455",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 400
+    },
+    {
+      "title": "End of Watch",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9782344407349",
+      "isbn_10": "2344407340",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2016,
+      "page_count": 431
+    },
+    {
       "title": "End Zone",
       "authors": [
         "Don DeLillo"
@@ -12350,6 +13626,22 @@
       "source": "seed",
       "year_published": 1997,
       "page_count": 247
+    },
+    {
+      "title": "Enemy of God",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9782922468441",
+      "isbn_10": "2922468445",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1996,
+      "page_count": 414
     },
     {
       "title": "England's Dreaming",
@@ -12592,6 +13884,22 @@
       "page_count": 292
     },
     {
+      "title": "Everything's Eventual",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9784638635353",
+      "isbn_10": "4638635350",
+      "genres": [
+        "Horror",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2002,
+      "page_count": 459
+    },
+    {
       "title": "Evicted",
       "authors": [
         "Matthew Desmond"
@@ -12622,6 +13930,22 @@
       "language": "en",
       "page_count": 256,
       "source": "seed"
+    },
+    {
+      "title": "Excalibur",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9783060710355",
+      "isbn_10": "306071035X",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1997,
+      "page_count": 434
     },
     {
       "title": "Exercised",
@@ -12702,6 +14026,22 @@
       "source": "seed",
       "year_published": 2017,
       "page_count": 231
+    },
+    {
+      "title": "Explosive Eighteen",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9783255761247",
+      "isbn_10": "3255761247",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2011,
+      "page_count": 307
     },
     {
       "title": "Eye in the Sky",
@@ -12831,6 +14171,23 @@
       "page_count": 400
     },
     {
+      "title": "Faithless",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9782824508801",
+      "isbn_10": "2824508809",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2005,
+      "page_count": 416
+    },
+    {
       "title": "Fall of Giants",
       "authors": [
         "Ken Follett"
@@ -12859,6 +14216,23 @@
       "source": "seed",
       "year_published": 2019,
       "page_count": 883
+    },
+    {
+      "title": "Fallen",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9783805775113",
+      "isbn_10": "3805775113",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2011,
+      "page_count": 400
     },
     {
       "title": "Falling Man",
@@ -12891,6 +14265,23 @@
       "source": "seed",
       "year_published": 2005,
       "page_count": 386
+    },
+    {
+      "title": "False Witness",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9787125161182",
+      "isbn_10": "7125161189",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2021,
+      "page_count": 464
     },
     {
       "title": "Family Album",
@@ -12988,6 +14379,21 @@
       "language": "en",
       "page_count": 275,
       "source": "seed"
+    },
+    {
+      "title": "Farmer Giles of Ham",
+      "authors": [
+        "J.R.R. Tolkien"
+      ],
+      "isbn_13": "9783141066326",
+      "isbn_10": "3141066329",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1949,
+      "page_count": 79
     },
     {
       "title": "Farnham's Freehold",
@@ -13117,6 +14523,38 @@
       "page_count": 391
     },
     {
+      "title": "Fear Nothing",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9782647108431",
+      "isbn_10": "2647108439",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 400
+    },
+    {
+      "title": "Fearless Fourteen",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9784255380506",
+      "isbn_10": "4255380503",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 322
+    },
+    {
       "title": "Feel the Noise",
       "authors": [
         "Gareth Murphy"
@@ -13229,6 +14667,22 @@
       "page_count": 400
     },
     {
+      "title": "Fevre Dream",
+      "authors": [
+        "George R.R. Martin"
+      ],
+      "isbn_13": "9782598311768",
+      "isbn_10": "2598311760",
+      "genres": [
+        "Horror",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1982,
+      "page_count": 350
+    },
+    {
       "title": "Ficciones",
       "authors": [
         "Jorge Luis Borges"
@@ -13295,6 +14749,37 @@
       "page_count": 528
     },
     {
+      "title": "Find Her",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9780115571534",
+      "isbn_10": "0115571531",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2016,
+      "page_count": 400
+    },
+    {
+      "title": "Finders Keepers",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9782074244269",
+      "isbn_10": "2074244266",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 434
+    },
+    {
       "title": "Finding the Mother Tree",
       "authors": [
         "Suzanne Simard"
@@ -13325,6 +14810,37 @@
       "source": "seed",
       "year_published": 1987,
       "page_count": 384
+    },
+    {
+      "title": "Finger Lickin' Fifteen",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9788403033122",
+      "isbn_10": "8403033125",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 312
+    },
+    {
+      "title": "Fire & Blood",
+      "authors": [
+        "George R.R. Martin"
+      ],
+      "isbn_13": "9786896299186",
+      "isbn_10": "6896299185",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 736
     },
     {
       "title": "Fire on the Mountain",
@@ -13389,6 +14905,36 @@
       "source": "seed",
       "year_published": 1984,
       "page_count": 438
+    },
+    {
+      "title": "First Family",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9780346082526",
+      "isbn_10": "0346082528",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 418
+    },
+    {
+      "title": "First King of Shannara",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9785931226323",
+      "isbn_10": "593122632X",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1996,
+      "page_count": 534
     },
     {
       "title": "First Person Singular",
@@ -13680,6 +15226,66 @@
       "page_count": 157
     },
     {
+      "title": "Fool's Assassin",
+      "authors": [
+        "Robin Hobb"
+      ],
+      "isbn_13": "9785635627402",
+      "isbn_10": "5635627404",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 668
+    },
+    {
+      "title": "Fool's Errand",
+      "authors": [
+        "Robin Hobb"
+      ],
+      "isbn_13": "9783912142266",
+      "isbn_10": "3912142262",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 661
+    },
+    {
+      "title": "Fool's Fate",
+      "authors": [
+        "Robin Hobb"
+      ],
+      "isbn_13": "9785052465328",
+      "isbn_10": "5052465327",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2003,
+      "page_count": 814
+    },
+    {
+      "title": "Fool's Quest",
+      "authors": [
+        "Robin Hobb"
+      ],
+      "isbn_13": "9781131269009",
+      "isbn_10": "1131269004",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 768
+    },
+    {
       "title": "Fooled by Randomness",
       "authors": [
         "Nassim Nicholas Taleb"
@@ -13694,6 +15300,22 @@
       "source": "seed",
       "year_published": 2001,
       "page_count": 368
+    },
+    {
+      "title": "Fools and Mortals",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9781347411810",
+      "isbn_10": "134741181X",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 348
     },
     {
       "title": "For Whom the Bell Tolls",
@@ -13757,6 +15379,22 @@
       "source": "seed",
       "year_published": 2013,
       "page_count": 128
+    },
+    {
+      "title": "Fortune and Glory",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9785517899538",
+      "isbn_10": "5517899536",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2020,
+      "page_count": 290
     },
     {
       "title": "Forward the Foundation",
@@ -13868,6 +15506,22 @@
       "page_count": 358
     },
     {
+      "title": "Four Past Midnight",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9783915996439",
+      "isbn_10": "3915996432",
+      "genres": [
+        "Horror",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1990,
+      "page_count": 763
+    },
+    {
       "title": "Four Quartets",
       "authors": [
         "T.S. Eliot"
@@ -13881,6 +15535,22 @@
       "source": "seed",
       "year_published": 1943,
       "page_count": 48
+    },
+    {
+      "title": "Four to Score",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9787157353807",
+      "isbn_10": "7157353806",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1998,
+      "page_count": 293
     },
     {
       "title": "Four Ways to Forgiveness",
@@ -13911,6 +15581,23 @@
       "source": "seed",
       "year_published": 1993,
       "page_count": 328
+    },
+    {
+      "title": "Fractured",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9784512818483",
+      "isbn_10": "4512818480",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 432
     },
     {
       "title": "Fragile Things",
@@ -14102,6 +15789,21 @@
       "source": "seed",
       "year_published": 1990,
       "page_count": 357
+    },
+    {
+      "title": "From a Buick 8",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9782529880356",
+      "isbn_10": "2529880352",
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2002,
+      "page_count": 356
     },
     {
       "title": "From a Far and Lovely Country",
@@ -14297,6 +15999,22 @@
       "page_count": 416
     },
     {
+      "title": "Full Dark, No Stars",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9786453950338",
+      "isbn_10": "6453950332",
+      "genres": [
+        "Horror",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2010,
+      "page_count": 368
+    },
+    {
       "title": "Full Moon",
       "authors": [
         "P.G. Wodehouse"
@@ -14470,6 +16188,22 @@
       "source": "seed",
       "year_published": 2022,
       "page_count": 352
+    },
+    {
+      "title": "Game On",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9785772952436",
+      "isbn_10": "5772952439",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2021,
+      "page_count": 305
     },
     {
       "title": "Game, Set and Match: Berlin Game",
@@ -14703,6 +16437,22 @@
       "page_count": 344
     },
     {
+      "title": "Gerald's Game",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9782324089626",
+      "isbn_10": "2324089629",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1992,
+      "page_count": 332
+    },
+    {
       "title": "Germinal",
       "authors": [
         "Emile Zola"
@@ -14908,6 +16658,23 @@
       "source": "seed",
       "year_published": 2015,
       "page_count": 279
+    },
+    {
+      "title": "Girl, Forgotten",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9785386857134",
+      "isbn_10": "5386857134",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2022,
+      "page_count": 432
     },
     {
       "title": "Gitanjali",
@@ -15151,6 +16918,22 @@
       "source": "seed"
     },
     {
+      "title": "Going Rogue",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9784074370641",
+      "isbn_10": "4074370646",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2022,
+      "page_count": 294
+    },
+    {
       "title": "Going Solo",
       "authors": [
         "Roald Dahl"
@@ -15183,6 +16966,21 @@
       "page_count": 323
     },
     {
+      "title": "Golden Fool",
+      "authors": [
+        "Robin Hobb"
+      ],
+      "isbn_13": "9783675943070",
+      "isbn_10": "3675943070",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2002,
+      "page_count": 681
+    },
+    {
       "title": "Golden Fox",
       "authors": [
         "Wilbur Smith"
@@ -15213,6 +17011,22 @@
       "language": "en",
       "page_count": 272,
       "source": "seed"
+    },
+    {
+      "title": "Gone",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9786420318369",
+      "isbn_10": "642031836X",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2006,
+      "page_count": 384
     },
     {
       "title": "Gone Girl",
@@ -15405,6 +17219,23 @@
       "source": "seed",
       "year_published": 2015,
       "page_count": 45
+    },
+    {
+      "title": "Gravity",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9789634759546",
+      "isbn_10": "9634759548",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1999,
+      "page_count": 341
     },
     {
       "title": "Gravity's Rainbow",
@@ -15982,6 +17813,22 @@
       "page_count": 400
     },
     {
+      "title": "Hard Eight",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9786049328015",
+      "isbn_10": "6049328013",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2002,
+      "page_count": 309
+    },
+    {
       "title": "Hard to Be a God",
       "authors": [
         "Arkady Strugatsky",
@@ -16190,6 +18037,23 @@
       "source": "seed"
     },
     {
+      "title": "Harvest",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9785421609148",
+      "isbn_10": "5421609146",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1996,
+      "page_count": 340
+    },
+    {
       "title": "Haunted",
       "authors": [
         "Chuck Palahniuk"
@@ -16311,6 +18175,21 @@
       "source": "seed",
       "year_published": 1991,
       "page_count": 384
+    },
+    {
+      "title": "Hearts in Atlantis",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9782342019032",
+      "isbn_10": "2342019033",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1999,
+      "page_count": 523
     },
     {
       "title": "Heat and Dust",
@@ -16456,6 +18335,21 @@
       "page_count": 301
     },
     {
+      "title": "Hell's Corner",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9788888355689",
+      "isbn_10": "8888355685",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2010,
+      "page_count": 416
+    },
+    {
       "title": "Helter Skelter",
       "authors": [
         "Vincent Bugliosi"
@@ -16565,6 +18459,22 @@
       "page_count": 352
     },
     {
+      "title": "Hide",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9788445862155",
+      "isbn_10": "8445862154",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2007,
+      "page_count": 384
+    },
+    {
       "title": "Hideaway",
       "authors": [
         "Nora Roberts"
@@ -16610,6 +18520,38 @@
       "source": "seed",
       "year_published": 2000,
       "page_count": 323
+    },
+    {
+      "title": "High Five",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9785082473034",
+      "isbn_10": "5082473034",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1999,
+      "page_count": 292
+    },
+    {
+      "title": "High Noon",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9783021563303",
+      "isbn_10": "3021563309",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2007,
+      "page_count": 432
     },
     {
       "title": "High-Rise",
@@ -16775,6 +18717,22 @@
       "page_count": 368
     },
     {
+      "title": "HMS Surprise",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9785624496910",
+      "isbn_10": "5624496915",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1973,
+      "page_count": 379
+    },
+    {
       "title": "Hogfather",
       "authors": [
         "Terry Pratchett"
@@ -16899,6 +18857,22 @@
       "source": "seed",
       "year_published": 2017,
       "page_count": 275
+    },
+    {
+      "title": "Homeport",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9781113674869",
+      "isbn_10": "1113674865",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1998,
+      "page_count": 432
     },
     {
       "title": "Homesick for Another World",
@@ -17028,6 +19002,37 @@
       "source": "seed",
       "year_published": 2015,
       "page_count": 400
+    },
+    {
+      "title": "Hot Six",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9780758535115",
+      "isbn_10": "0758535112",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2000,
+      "page_count": 292
+    },
+    {
+      "title": "Hour Game",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9780254637351",
+      "isbn_10": "0254637353",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2004,
+      "page_count": 470
     },
     {
       "title": "House of Chains",
@@ -17546,6 +19551,23 @@
       "page_count": 356
     },
     {
+      "title": "I Know a Secret",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9783031404153",
+      "isbn_10": "3031404157",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 336
+    },
+    {
       "title": "I Know Why the Caged Bird Sings",
       "authors": [
         "Maya Angelou"
@@ -17655,6 +19677,38 @@
       "page_count": 312
     },
     {
+      "title": "I'll Be Seeing You",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9783701752447",
+      "isbn_10": "3701752443",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1993,
+      "page_count": 317
+    },
+    {
+      "title": "I'll Walk Alone",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9788844456009",
+      "isbn_10": "8844456001",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2011,
+      "page_count": 286
+    },
+    {
       "title": "I'm a Stranger Here Myself",
       "authors": [
         "Bill Bryson"
@@ -17669,6 +19723,38 @@
       "source": "seed",
       "year_published": 1998,
       "page_count": 304
+    },
+    {
+      "title": "I've Got My Eyes on You",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9787895345942",
+      "isbn_10": "789534594X",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 300
+    },
+    {
+      "title": "I've Got You Under My Skin",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9780644314381",
+      "isbn_10": "0644314389",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 320
     },
     {
       "title": "I, Alex Cross",
@@ -17717,6 +19803,23 @@
       "language": "en",
       "page_count": 224,
       "source": "seed"
+    },
+    {
+      "title": "Ice Cold",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9789459956564",
+      "isbn_10": "9459956564",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2010,
+      "page_count": 372
     },
     {
       "title": "Iceberg",
@@ -17861,6 +19964,21 @@
       "language": "en",
       "page_count": 576,
       "source": "seed"
+    },
+    {
+      "title": "Ilse Witch",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9786003012004",
+      "isbn_10": "6003012005",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2000,
+      "page_count": 400
     },
     {
       "title": "Imagined Communities",
@@ -18404,6 +20522,23 @@
       "page_count": 290
     },
     {
+      "title": "Indelible",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9780051065814",
+      "isbn_10": "0051065819",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2004,
+      "page_count": 400
+    },
+    {
       "title": "India After Gandhi",
       "authors": [
         "Ramachandra Guha"
@@ -18614,6 +20749,21 @@
       "page_count": 183
     },
     {
+      "title": "Insomnia",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9785515371357",
+      "isbn_10": "5515371356",
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1994,
+      "page_count": 787
+    },
+    {
       "title": "Insurgent",
       "authors": [
         "Veronica Roth"
@@ -18741,6 +20891,23 @@
       "source": "seed",
       "year_published": 2009,
       "page_count": 384
+    },
+    {
+      "title": "Interview with the Vampire",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9788495328403",
+      "isbn_10": "8495328402",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1976,
+      "page_count": 340
     },
     {
       "title": "Interworld",
@@ -18873,6 +21040,21 @@
       "source": "seed",
       "year_published": 1935,
       "page_count": 223
+    },
+    {
+      "title": "Irish Thoroughbred",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9783258542959",
+      "isbn_10": "3258542953",
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1981,
+      "page_count": 156
     },
     {
       "title": "Irresistible Forces",
@@ -19201,6 +21383,21 @@
       "page_count": 532
     },
     {
+      "title": "Jarka Ruus",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9780234594537",
+      "isbn_10": "0234594535",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2003,
+      "page_count": 384
+    },
+    {
       "title": "Jaya",
       "authors": [
         "Devdutt Pattanaik"
@@ -19423,6 +21620,21 @@
       "page_count": 272
     },
     {
+      "title": "Joyland",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9781540968944",
+      "isbn_10": "1540968944",
+      "genres": [
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 283
+    },
+    {
       "title": "Jude the Obscure",
       "authors": [
         "Thomas Hardy"
@@ -19503,6 +21715,22 @@
       "source": "seed"
     },
     {
+      "title": "Just After Sunset",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9780306122170",
+      "isbn_10": "0306122170",
+      "genres": [
+        "Horror",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 367
+    },
+    {
       "title": "Just Kids",
       "authors": [
         "Patti Smith"
@@ -19552,6 +21780,22 @@
       "source": "seed",
       "year_published": 1902,
       "page_count": 201
+    },
+    {
+      "title": "Just Take My Heart",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9781144748027",
+      "isbn_10": "114474802X",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 302
     },
     {
       "title": "Justice",
@@ -19860,6 +22104,21 @@
       "page_count": 264
     },
     {
+      "title": "King and Maxwell",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9780125164030",
+      "isbn_10": "0125164033",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 416
+    },
+    {
       "title": "King Lear",
       "authors": [
         "William Shakespeare"
@@ -19922,6 +22181,39 @@
       "source": "seed",
       "year_published": 1995,
       "page_count": 451
+    },
+    {
+      "title": "Kiss the Girls and Make Them Cry",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9782628149040",
+      "isbn_10": "2628149044",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2019,
+      "page_count": 336
+    },
+    {
+      "title": "Kisscut",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9780205474011",
+      "isbn_10": "0205474012",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2002,
+      "page_count": 384
     },
     {
       "title": "Kissinger",
@@ -20241,6 +22533,23 @@
       "page_count": 304
     },
     {
+      "title": "Lasher",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9784176236951",
+      "isbn_10": "4176236957",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1993,
+      "page_count": 577
+    },
+    {
       "title": "Last Argument of Kings",
       "authors": [
         "Joe Abercrombie"
@@ -20273,6 +22582,38 @@
       "source": "seed",
       "year_published": 2011,
       "page_count": 432
+    },
+    {
+      "title": "Last Man Standing",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9788282427135",
+      "isbn_10": "8282427136",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 480
+    },
+    {
+      "title": "Last to Die",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9783043231020",
+      "isbn_10": "3043231023",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2012,
+      "page_count": 340
     },
     {
       "title": "Later",
@@ -20367,6 +22708,22 @@
       "source": "seed",
       "year_published": 1955,
       "page_count": 117
+    },
+    {
+      "title": "Lean Mean Thirteen",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9785034573157",
+      "isbn_10": "5034573156",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2007,
+      "page_count": 305
     },
     {
       "title": "Leap of Faith",
@@ -20526,6 +22883,22 @@
       "source": "seed",
       "year_published": 2022,
       "page_count": 485
+    },
+    {
+      "title": "Let Me Call You Sweetheart",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9783689512842",
+      "isbn_10": "3689512840",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1995,
+      "page_count": 305
     },
     {
       "title": "Let the Right One In",
@@ -20864,6 +23237,23 @@
       "page_count": 75
     },
     {
+      "title": "Life Support",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9783635449727",
+      "isbn_10": "3635449725",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1997,
+      "page_count": 368
+    },
+    {
       "title": "Life, the Universe and Everything",
       "authors": [
         "Douglas Adams"
@@ -20992,6 +23382,38 @@
       "source": "seed"
     },
     {
+      "title": "Lisey's Story",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9782323838102",
+      "isbn_10": "2323838105",
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2006,
+      "page_count": 513
+    },
+    {
+      "title": "Listen to Me",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9781505526295",
+      "isbn_10": "1505526299",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2022,
+      "page_count": 336
+    },
+    {
       "title": "Listen to This",
       "authors": [
         "Alex Ross"
@@ -21069,6 +23491,22 @@
       "source": "seed",
       "year_published": 1954,
       "page_count": 213
+    },
+    {
+      "title": "Live to Tell",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9780712423441",
+      "isbn_10": "0712423443",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2010,
+      "page_count": 384
     },
     {
       "title": "Livid",
@@ -21229,6 +23667,36 @@
       "page_count": 176
     },
     {
+      "title": "Long Road to Mercy",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9783620555143",
+      "isbn_10": "3620555141",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 400
+    },
+    {
+      "title": "Long Shadows",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9785315079309",
+      "isbn_10": "5315079309",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2022,
+      "page_count": 384
+    },
+    {
       "title": "Long Walk to Freedom",
       "authors": [
         "Nelson Mandela"
@@ -21264,6 +23732,22 @@
       "page_count": 184
     },
     {
+      "title": "Look Alive Twenty-Five",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9784523011187",
+      "isbn_10": "4523011184",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 294
+    },
+    {
       "title": "Look Back in Anger",
       "authors": [
         "John Osborne"
@@ -21277,6 +23761,22 @@
       "source": "seed",
       "year_published": 1956,
       "page_count": 96
+    },
+    {
+      "title": "Look for Me",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9785473524222",
+      "isbn_10": "5473524222",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 400
     },
     {
       "title": "Looking for Alaska",
@@ -21482,6 +23982,38 @@
       "page_count": 357
     },
     {
+      "title": "Love You More",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9787093871526",
+      "isbn_10": "7093871526",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2011,
+      "page_count": 384
+    },
+    {
+      "title": "Loves Music, Loves to Dance",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9784583122434",
+      "isbn_10": "4583122438",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1991,
+      "page_count": 320
+    },
+    {
       "title": "Lucy by the Sea",
       "authors": [
         "Elizabeth Strout"
@@ -21638,6 +24170,21 @@
       "source": "seed",
       "year_published": 2001,
       "page_count": 385
+    },
+    {
+      "title": "Magic Kingdom for Sale—Sold!",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9784400866718",
+      "isbn_10": "4400866718",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1986,
+      "page_count": 324
     },
     {
       "title": "Make Me",
@@ -22150,6 +24697,22 @@
       "page_count": 773
     },
     {
+      "title": "Master and Commander",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9782451429906",
+      "isbn_10": "2451429909",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1969,
+      "page_count": 412
+    },
+    {
       "title": "Matilda",
       "authors": [
         "Roald Dahl"
@@ -22265,6 +24828,23 @@
       "page_count": 281
     },
     {
+      "title": "Memnoch the Devil",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9784423319840",
+      "isbn_10": "4423319845",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1995,
+      "page_count": 354
+    },
+    {
       "title": "Memoirs of a Geisha",
       "authors": [
         "Arthur Golden"
@@ -22344,6 +24924,21 @@
       "page_count": 430
     },
     {
+      "title": "Memory Man",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9787302905066",
+      "isbn_10": "7302905061",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 400
+    },
+    {
       "title": "Men at Arms",
       "authors": [
         "Terry Pratchett"
@@ -22390,6 +24985,38 @@
       "source": "seed",
       "year_published": 2014,
       "page_count": 228
+    },
+    {
+      "title": "Mercy",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9781580646642",
+      "isbn_10": "1580646646",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2021,
+      "page_count": 400
+    },
+    {
+      "title": "Merrick",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9787470551102",
+      "isbn_10": "7470551107",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2000,
+      "page_count": 307
     },
     {
       "title": "Merry Christmas, Alex Cross",
@@ -22579,6 +25206,22 @@
       "source": "seed",
       "year_published": 2014,
       "page_count": 464
+    },
+    {
+      "title": "Midnight Bayou",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9783136357149",
+      "isbn_10": "3136357140",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 352
     },
     {
       "title": "Midnight in the Garden of Good and Evil",
@@ -23087,6 +25730,38 @@
       "page_count": 75
     },
     {
+      "title": "Montana Sky",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9781430321743",
+      "isbn_10": "1430321741",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1996,
+      "page_count": 467
+    },
+    {
+      "title": "Moonlight Becomes You",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9785800035674",
+      "isbn_10": "5800035679",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1996,
+      "page_count": 306
+    },
+    {
       "title": "Moonraker",
       "authors": [
         "Ian Fleming"
@@ -23149,6 +25824,21 @@
       "source": "seed",
       "year_published": 2001,
       "page_count": 227
+    },
+    {
+      "title": "Morgawr",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9783153331054",
+      "isbn_10": "3153331057",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2002,
+      "page_count": 384
     },
     {
       "title": "Mort",
@@ -23326,6 +26016,21 @@
       "source": "seed",
       "year_published": 1919,
       "page_count": 288
+    },
+    {
+      "title": "Mr. Mercedes",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9782070082049",
+      "isbn_10": "2070082040",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 436
     },
     {
       "title": "Mr. Murder",
@@ -24124,6 +26829,22 @@
       "source": "seed"
     },
     {
+      "title": "Never Tell",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9780561344348",
+      "isbn_10": "0561344345",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2019,
+      "page_count": 400
+    },
+    {
       "title": "Neverwhere",
       "authors": [
         "Neil Gaiman"
@@ -24300,6 +27021,22 @@
       "page_count": 384
     },
     {
+      "title": "Night Shift",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9788013054210",
+      "isbn_10": "8013054217",
+      "genres": [
+        "Horror",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1978,
+      "page_count": 336
+    },
+    {
       "title": "Night Sky with Exit Wounds",
       "authors": [
         "Ocean Vuong"
@@ -24376,6 +27113,53 @@
       "source": "seed",
       "year_published": 1990,
       "page_count": 339
+    },
+    {
+      "title": "Nightflyers",
+      "authors": [
+        "George R.R. Martin"
+      ],
+      "isbn_13": "9784275064486",
+      "isbn_10": "4275064488",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1985,
+      "page_count": 352
+    },
+    {
+      "title": "Nightmares & Dreamscapes",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9785030533209",
+      "isbn_10": "5030533206",
+      "genres": [
+        "Horror",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1993,
+      "page_count": 816
+    },
+    {
+      "title": "Nighttime Is My Time",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9784151352157",
+      "isbn_10": "4151352155",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2004,
+      "page_count": 352
     },
     {
       "title": "Nightwork",
@@ -24650,6 +27434,22 @@
       "page_count": 759
     },
     {
+      "title": "No Place Like Home",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9780851192093",
+      "isbn_10": "0851192092",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2005,
+      "page_count": 384
+    },
+    {
       "title": "No Plan B",
       "authors": [
         "Lee Child"
@@ -24807,6 +27607,22 @@
       "source": "seed",
       "year_published": 1818,
       "page_count": 260
+    },
+    {
+      "title": "Northern Lights",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9782201450945",
+      "isbn_10": "2201450943",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2004,
+      "page_count": 480
     },
     {
       "title": "Norwegian Wood",
@@ -24983,6 +27799,22 @@
       "source": "seed",
       "year_published": 2019,
       "page_count": 320
+    },
+    {
+      "title": "Notorious Nineteen",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9780541797119",
+      "isbn_10": "0541797115",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2012,
+      "page_count": 315
     },
     {
       "title": "Nova",
@@ -25469,6 +28301,21 @@
       "page_count": 256
     },
     {
+      "title": "On Fairy-Stories",
+      "authors": [
+        "J.R.R. Tolkien"
+      ],
+      "isbn_13": "9785214193106",
+      "isbn_10": "5214193106",
+      "genres": [
+        "Essays"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1947,
+      "page_count": 72
+    },
+    {
       "title": "On Fire",
       "authors": [
         "Naomi Klein"
@@ -25632,6 +28479,22 @@
       "source": "seed"
     },
     {
+      "title": "On the Street Where You Live",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9789293312458",
+      "isbn_10": "929331245X",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 317
+    },
+    {
       "title": "On the Way to the Wedding",
       "authors": [
         "Julia Quinn"
@@ -25774,6 +28637,22 @@
       "source": "seed",
       "year_published": 1962,
       "page_count": 325
+    },
+    {
+      "title": "One for the Money",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9784137483493",
+      "isbn_10": "4137483493",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1994,
+      "page_count": 290
     },
     {
       "title": "One Hundred Years of Solitude",
@@ -25948,6 +28827,37 @@
       "language": "sv",
       "page_count": 439,
       "source": "seed"
+    },
+    {
+      "title": "One Step Too Far",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9784472695728",
+      "isbn_10": "4472695723",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2022,
+      "page_count": 400
+    },
+    {
+      "title": "One Summer",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9783433280805",
+      "isbn_10": "3433280800",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2011,
+      "page_count": 337
     },
     {
       "title": "One Summer: America, 1927",
@@ -26617,6 +29527,23 @@
       "source": "seed",
       "year_published": 1981,
       "page_count": 384
+    },
+    {
+      "title": "Pandora",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9781719935470",
+      "isbn_10": "1719935475",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1998,
+      "page_count": 353
     },
     {
       "title": "Paper Girls Vol. 1",
@@ -27347,6 +30274,23 @@
       "page_count": 490
     },
     {
+      "title": "Pieces of Her",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9783593119304",
+      "isbn_10": "3593119307",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 448
+    },
+    {
       "title": "Pigeon Feathers",
       "authors": [
         "John Updike"
@@ -27584,6 +30528,23 @@
       "source": "seed",
       "year_published": 1992,
       "page_count": 91
+    },
+    {
+      "title": "Playing with Fire",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9789025113391",
+      "isbn_10": "9025113397",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 256
     },
     {
       "title": "Please Kill Me",
@@ -27829,6 +30790,22 @@
       "source": "seed"
     },
     {
+      "title": "Post Captain",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9784547381020",
+      "isbn_10": "454738102X",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1972,
+      "page_count": 496
+    },
+    {
       "title": "Postcolonial Love Poem",
       "authors": [
         "Natalie Diaz"
@@ -28036,6 +31013,39 @@
       "page_count": 421
     },
     {
+      "title": "Pretend You Don't See Her",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9783712502307",
+      "isbn_10": "3712502303",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1997,
+      "page_count": 322
+    },
+    {
+      "title": "Pretty Girls",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9781522234111",
+      "isbn_10": "152223411X",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 416
+    },
+    {
       "title": "Prey",
       "authors": [
         "Michael Crichton"
@@ -28101,6 +31111,40 @@
       "language": "en",
       "page_count": 240,
       "source": "seed"
+    },
+    {
+      "title": "Prince Lestat",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9787044158454",
+      "isbn_10": "7044158455",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 472
+    },
+    {
+      "title": "Prince Lestat and the Realms of Atlantis",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9781253410754",
+      "isbn_10": "1253410755",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2016,
+      "page_count": 464
     },
     {
       "title": "Prisoners of Geography",
@@ -29010,6 +32054,21 @@
       "page_count": 421
     },
     {
+      "title": "Redemption",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9787105343096",
+      "isbn_10": "7105343095",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2019,
+      "page_count": 400
+    },
+    {
       "title": "Redshirts",
       "authors": [
         "John Scalzi"
@@ -29089,6 +32148,22 @@
       "source": "seed",
       "year_published": 2009,
       "page_count": 356
+    },
+    {
+      "title": "Remember Me",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9781851481774",
+      "isbn_10": "185148177X",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1994,
+      "page_count": 306
     },
     {
       "title": "Remembrance",
@@ -29389,6 +32464,22 @@
       "page_count": 1232
     },
     {
+      "title": "Right Behind You",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9782366860962",
+      "isbn_10": "236686096X",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 416
+    },
+    {
       "title": "Right Ho, Jeeves",
       "authors": [
         "P.G. Wodehouse"
@@ -29566,6 +32657,22 @@
       "page_count": 172
     },
     {
+      "title": "River's End",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9784615673781",
+      "isbn_10": "4615673787",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1999,
+      "page_count": 464
+    },
+    {
       "title": "Roadside Picnic",
       "authors": [
         "Arkady Strugatsky",
@@ -29722,6 +32829,21 @@
       "page_count": 176
     },
     {
+      "title": "Rose Madder",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9781922322746",
+      "isbn_10": "1922322741",
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1995,
+      "page_count": 420
+    },
+    {
       "title": "Rosemary's Baby",
       "authors": [
         "Ira Levin"
@@ -29767,6 +32889,22 @@
       "source": "seed",
       "year_published": 2000,
       "page_count": 400
+    },
+    {
+      "title": "Roverandom",
+      "authors": [
+        "J.R.R. Tolkien"
+      ],
+      "isbn_13": "9781474244565",
+      "isbn_10": "1474244564",
+      "genres": [
+        "Fantasy",
+        "Children's"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1998,
+      "page_count": 106
     },
     {
       "title": "Royal Assassin",
@@ -29876,6 +33014,21 @@
       "source": "seed",
       "year_published": 2002,
       "page_count": 315
+    },
+    {
+      "title": "Running with the Demon",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9780674142923",
+      "isbn_10": "0674142926",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1997,
+      "page_count": 448
     },
     {
       "title": "Running with the Kenyans",
@@ -30211,6 +33364,22 @@
       "page_count": 309
     },
     {
+      "title": "Sanctuary",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9789456204415",
+      "isbn_10": "9456204413",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1997,
+      "page_count": 465
+    },
+    {
       "title": "Sand County Almanac",
       "authors": [
         "Aldo Leopold"
@@ -30437,6 +33606,21 @@
       "page_count": 192
     },
     {
+      "title": "Saving Faith",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9783429396930",
+      "isbn_10": "342939693X",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1999,
+      "page_count": 451
+    },
+    {
       "title": "Saving Fish from Drowning",
       "authors": [
         "Amy Tan"
@@ -30465,6 +33649,22 @@
       "source": "seed",
       "year_published": 2010,
       "page_count": 324
+    },
+    {
+      "title": "Say Goodbye",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9781843742487",
+      "isbn_10": "1843742489",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 384
     },
     {
       "title": "Say Nothing",
@@ -30990,6 +34190,23 @@
       "page_count": 304
     },
     {
+      "title": "Servant of the Bones",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9789538053146",
+      "isbn_10": "9538053141",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1996,
+      "page_count": 403
+    },
+    {
       "title": "Seven Brief Lessons on Physics",
       "authors": [
         "Carlo Rovelli"
@@ -31038,6 +34255,22 @@
       "source": "seed",
       "year_published": 1926,
       "page_count": 672
+    },
+    {
+      "title": "Seven Up",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9781961483347",
+      "isbn_10": "1961483343",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 309
     },
     {
       "title": "Seveneves",
@@ -31265,6 +34498,278 @@
       "source": "seed"
     },
     {
+      "title": "Sharpe's Company",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9785316387014",
+      "isbn_10": "5316387015",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1982,
+      "page_count": 280
+    },
+    {
+      "title": "Sharpe's Devil",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9785371492425",
+      "isbn_10": "5371492429",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1992,
+      "page_count": 280
+    },
+    {
+      "title": "Sharpe's Eagle",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9784912381860",
+      "isbn_10": "4912381861",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1981,
+      "page_count": 272
+    },
+    {
+      "title": "Sharpe's Enemy",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9783531441863",
+      "isbn_10": "3531441868",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1984,
+      "page_count": 349
+    },
+    {
+      "title": "Sharpe's Fortress",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9784445242010",
+      "isbn_10": "4445242012",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1999,
+      "page_count": 368
+    },
+    {
+      "title": "Sharpe's Gold",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9782503515441",
+      "isbn_10": "2503515444",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1981,
+      "page_count": 252
+    },
+    {
+      "title": "Sharpe's Honour",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9781356831753",
+      "isbn_10": "1356831753",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1985,
+      "page_count": 320
+    },
+    {
+      "title": "Sharpe's Prey",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9783342251965",
+      "isbn_10": "3342251964",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 261
+    },
+    {
+      "title": "Sharpe's Regiment",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9785624143425",
+      "isbn_10": "5624143427",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1986,
+      "page_count": 304
+    },
+    {
+      "title": "Sharpe's Revenge",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9782181801430",
+      "isbn_10": "2181801436",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1989,
+      "page_count": 349
+    },
+    {
+      "title": "Sharpe's Rifles",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9786355530829",
+      "isbn_10": "6355530827",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1988,
+      "page_count": 304
+    },
+    {
+      "title": "Sharpe's Siege",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9780057156240",
+      "isbn_10": "0057156247",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1987,
+      "page_count": 319
+    },
+    {
+      "title": "Sharpe's Sword",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9786095000835",
+      "isbn_10": "6095000831",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1983,
+      "page_count": 319
+    },
+    {
+      "title": "Sharpe's Tiger",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9780042058047",
+      "isbn_10": "004205804X",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1997,
+      "page_count": 358
+    },
+    {
+      "title": "Sharpe's Trafalgar",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9783007959113",
+      "isbn_10": "300795911X",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2000,
+      "page_count": 307
+    },
+    {
+      "title": "Sharpe's Triumph",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9782829983153",
+      "isbn_10": "2829983157",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1998,
+      "page_count": 372
+    },
+    {
+      "title": "Sharpe's Waterloo",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9781271503230",
+      "isbn_10": "1271503239",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1990,
+      "page_count": 378
+    },
+    {
       "title": "She Said",
       "authors": [
         "Jodi Kantor"
@@ -31279,6 +34784,22 @@
       "source": "seed",
       "year_published": 2019,
       "page_count": 320
+    },
+    {
+      "title": "Shelter in Place",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9783250850120",
+      "isbn_10": "3250850128",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 448
     },
     {
       "title": "Shenzhen",
@@ -31328,6 +34849,36 @@
       "source": "seed",
       "year_published": 2010,
       "page_count": 326
+    },
+    {
+      "title": "Ship of Destiny",
+      "authors": [
+        "Robin Hobb"
+      ],
+      "isbn_13": "9781455482467",
+      "isbn_10": "1455482463",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2000,
+      "page_count": 789
+    },
+    {
+      "title": "Ship of Magic",
+      "authors": [
+        "Robin Hobb"
+      ],
+      "isbn_13": "9785036517456",
+      "isbn_10": "5036517458",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1998,
+      "page_count": 880
     },
     {
       "title": "Shock",
@@ -31556,6 +35107,36 @@
       "page_count": 209
     },
     {
+      "title": "Simple Genius",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9781752150885",
+      "isbn_10": "1752150880",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2007,
+      "page_count": 402
+    },
+    {
+      "title": "Simply Lies",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9782025530373",
+      "isbn_10": "2025530374",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2023,
+      "page_count": 400
+    },
+    {
       "title": "Simulacra and Simulation",
       "authors": [
         "Jean Baudrillard"
@@ -31735,6 +35316,38 @@
       "page_count": 471
     },
     {
+      "title": "Sizzling Sixteen",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9785053571929",
+      "isbn_10": "5053571929",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2010,
+      "page_count": 309
+    },
+    {
+      "title": "Skeleton Crew",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9780620544702",
+      "isbn_10": "0620544708",
+      "genres": [
+        "Horror",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1985,
+      "page_count": 512
+    },
+    {
       "title": "Skin in the Game",
       "authors": [
         "Nassim Nicholas Taleb"
@@ -31784,6 +35397,21 @@
       "language": "en",
       "page_count": 275,
       "source": "seed"
+    },
+    {
+      "title": "Sleeping Beauties",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9780441518425",
+      "isbn_10": "0441518427",
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 702
     },
     {
       "title": "Sleeping Murder",
@@ -31947,6 +35575,21 @@
       "page_count": 374
     },
     {
+      "title": "Smith of Wootton Major",
+      "authors": [
+        "J.R.R. Tolkien"
+      ],
+      "isbn_13": "9782147049524",
+      "isbn_10": "2147049522",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1967,
+      "page_count": 48
+    },
+    {
       "title": "Smoke and Mirrors",
       "authors": [
         "Neil Gaiman"
@@ -31977,6 +35620,22 @@
       "source": "seed",
       "year_published": 2014,
       "page_count": 254
+    },
+    {
+      "title": "Smokin' Seventeen",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9784230233445",
+      "isbn_10": "4230233442",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2011,
+      "page_count": 293
     },
     {
       "title": "Snow Country",
@@ -32282,6 +35941,21 @@
       "page_count": 432
     },
     {
+      "title": "Song of the West",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9785025423126",
+      "isbn_10": "5025423120",
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1982,
+      "page_count": 188
+    },
+    {
       "title": "Songs of Enchantment",
       "authors": [
         "Ben Okri"
@@ -32530,6 +36204,21 @@
       "source": "seed",
       "year_published": 1995,
       "page_count": 283
+    },
+    {
+      "title": "Split Second",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9786294403543",
+      "isbn_10": "6294403545",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2003,
+      "page_count": 436
     },
     {
       "title": "Spook",
@@ -32913,6 +36602,22 @@
       "page_count": 168
     },
     {
+      "title": "Still Alive",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9783874264204",
+      "isbn_10": "3874264203",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2023,
+      "page_count": 384
+    },
+    {
       "title": "Still Life",
       "authors": [
         "Louise Penny"
@@ -32944,6 +36649,22 @@
       "page_count": 401
     },
     {
+      "title": "Stillwatch",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9781265194390",
+      "isbn_10": "1265194394",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1984,
+      "page_count": 302
+    },
+    {
       "title": "Stillwell and the American Experience in China",
       "authors": [
         "Barbara Tuchman"
@@ -32957,6 +36678,21 @@
       "source": "seed",
       "year_published": 1971,
       "page_count": 621
+    },
+    {
+      "title": "Stone Cold",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9786143511115",
+      "isbn_10": "614351111X",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2007,
+      "page_count": 402
     },
     {
       "title": "Stone Mattress",
@@ -33038,6 +36774,21 @@
       "source": "seed",
       "year_published": 1997,
       "page_count": 466
+    },
+    {
+      "title": "Straken",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9785302265470",
+      "isbn_10": "5302265478",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2005,
+      "page_count": 386
     },
     {
       "title": "Strange Pilgrims",
@@ -33511,6 +37262,38 @@
       "page_count": 956
     },
     {
+      "title": "Sword of Kings",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9789456309028",
+      "isbn_10": "9456309029",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2019,
+      "page_count": 336
+    },
+    {
+      "title": "Sword Song",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9785627504247",
+      "isbn_10": "5627504242",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2007,
+      "page_count": 331
+    },
+    {
       "title": "Sycamore Row",
       "authors": [
         "John Grisham"
@@ -33618,6 +37401,22 @@
       "page_count": 375
     },
     {
+      "title": "Takedown Twenty",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9784313452558",
+      "isbn_10": "4313452559",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 307
+    },
+    {
       "title": "Taken at the Flood",
       "authors": [
         "Agatha Christie"
@@ -33698,6 +37497,23 @@
       "page_count": 400
     },
     {
+      "title": "Taltos",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9780530313887",
+      "isbn_10": "053031388X",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1994,
+      "page_count": 467
+    },
+    {
       "title": "Tamas",
       "authors": [
         "Bhisham Sahni"
@@ -33714,6 +37530,21 @@
       "source": "seed",
       "year_published": 1974,
       "page_count": 280
+    },
+    {
+      "title": "Tanequil",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9785443083018",
+      "isbn_10": "5443083015",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2004,
+      "page_count": 384
     },
     {
       "title": "Tao Te Ching",
@@ -33886,6 +37717,22 @@
       "source": "seed",
       "year_published": 1990,
       "page_count": 226
+    },
+    {
+      "title": "Ten Big Ones",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9781528825054",
+      "isbn_10": "1528825055",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2004,
+      "page_count": 302
     },
     {
       "title": "Tender Is the Flesh",
@@ -34094,6 +37941,21 @@
       "page_count": 360
     },
     {
+      "title": "The 6:20 Man",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9785450233390",
+      "isbn_10": "5450233396",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2022,
+      "page_count": 400
+    },
+    {
       "title": "The 6th Target",
       "authors": [
         "James Patterson"
@@ -34237,6 +38099,22 @@
       "language": "en",
       "page_count": 318,
       "source": "seed"
+    },
+    {
+      "title": "The Adventures of Tom Bombadil",
+      "authors": [
+        "J.R.R. Tolkien"
+      ],
+      "isbn_13": "9783527430512",
+      "isbn_10": "3527430512",
+      "genres": [
+        "Fantasy",
+        "Poetry"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1962,
+      "page_count": 64
     },
     {
       "title": "The Adventures of Tom Sawyer",
@@ -34738,6 +38616,23 @@
       "page_count": 358
     },
     {
+      "title": "The Apprentice",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9786905405423",
+      "isbn_10": "6905405426",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2002,
+      "page_count": 340
+    },
+    {
       "title": "The Aquitaine Progression",
       "authors": [
         "Robert Ludlum"
@@ -34818,6 +38713,21 @@
       "source": "seed",
       "year_published": 2005,
       "page_count": 409
+    },
+    {
+      "title": "The Armageddon Rag",
+      "authors": [
+        "George R.R. Martin"
+      ],
+      "isbn_13": "9785726634166",
+      "isbn_10": "5726634160",
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1983,
+      "page_count": 350
     },
     {
       "title": "The Art Book",
@@ -35322,6 +39232,22 @@
       "page_count": 361
     },
     {
+      "title": "The Bazaar of Bad Dreams",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9789541700495",
+      "isbn_10": "9541700497",
+      "genres": [
+        "Horror",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 495
+    },
+    {
       "title": "The Bean Trees",
       "authors": [
         "Barbara Kingsolver"
@@ -35675,6 +39601,21 @@
       "page_count": 512
     },
     {
+      "title": "The Black Elfstone",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9785508358747",
+      "isbn_10": "5508358749",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 356
+    },
+    {
       "title": "The Black Ice",
       "authors": [
         "Michael Connelly"
@@ -35706,6 +39647,21 @@
       "source": "seed",
       "year_published": 2007,
       "page_count": 366
+    },
+    {
+      "title": "The Black Unicorn",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9781303454905",
+      "isbn_10": "1303454904",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1987,
+      "page_count": 304
     },
     {
       "title": "The Blade Itself",
@@ -35982,6 +39938,22 @@
       "source": "seed",
       "year_published": 2014,
       "page_count": 624
+    },
+    {
+      "title": "The Bone Garden",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9781520743516",
+      "isbn_10": "1520743513",
+      "genres": [
+        "Thriller",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2007,
+      "page_count": 384
     },
     {
       "title": "The Bone Season",
@@ -36521,6 +40493,22 @@
       "source": "seed"
     },
     {
+      "title": "The Burning Land",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9780141714448",
+      "isbn_10": "0141714441",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 331
+    },
+    {
       "title": "The Burning Plain",
       "authors": [
         "Juan Rulfo"
@@ -36630,6 +40618,21 @@
       "source": "seed",
       "year_published": 1928,
       "page_count": 43
+    },
+    {
+      "title": "The Camel Club",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9780443314759",
+      "isbn_10": "0443314756",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2005,
+      "page_count": 448
     },
     {
       "title": "The Candy House",
@@ -36992,6 +40995,21 @@
       "page_count": 215
     },
     {
+      "title": "The Children of Húrin",
+      "authors": [
+        "J.R.R. Tolkien"
+      ],
+      "isbn_13": "9789647492072",
+      "isbn_10": "9647492073",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2007,
+      "page_count": 313
+    },
+    {
       "title": "The Children of Men",
       "authors": [
         "P.D. James"
@@ -37022,6 +41040,21 @@
       "source": "seed",
       "year_published": 2005,
       "page_count": 417
+    },
+    {
+      "title": "The Christmas Train",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9782731781762",
+      "isbn_10": "2731781769",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2002,
+      "page_count": 258
     },
     {
       "title": "The Circadian Code",
@@ -37387,6 +41420,37 @@
       "page_count": 736
     },
     {
+      "title": "The Collector",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9782064112721",
+      "isbn_10": "2064112723",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 464
+    },
+    {
+      "title": "The Collectors",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9783132100923",
+      "isbn_10": "3132100927",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2006,
+      "page_count": 434
+    },
+    {
       "title": "The Color of Law",
       "authors": [
         "Richard Rothstein"
@@ -37451,6 +41515,21 @@
       "language": "en",
       "page_count": 300,
       "source": "seed"
+    },
+    {
+      "title": "The Colorado Kid",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9782468261728",
+      "isbn_10": "2468261720",
+      "genres": [
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2005,
+      "page_count": 184
     },
     {
       "title": "The Colors of All the Cattle",
@@ -37575,6 +41654,22 @@
       "source": "seed",
       "year_published": 2021,
       "page_count": 396
+    },
+    {
+      "title": "The Commodore",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9784524005505",
+      "isbn_10": "4524005501",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1994,
+      "page_count": 281
     },
     {
       "title": "The Communist Manifesto",
@@ -37813,6 +41908,22 @@
       "source": "seed",
       "year_published": 1978,
       "page_count": 299
+    },
+    {
+      "title": "The Cradle Will Fall",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9785310943940",
+      "isbn_10": "5310943943",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1980,
+      "page_count": 308
     },
     {
       "title": "The Crippled God",
@@ -38130,6 +42241,21 @@
       "source": "seed",
       "year_published": 2007,
       "page_count": 353
+    },
+    {
+      "title": "The Darkling Child",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9785531885326",
+      "isbn_10": "5531885326",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 304
     },
     {
       "title": "The Daughter of Doctor Moreau",
@@ -38837,6 +42963,21 @@
       "page_count": 175
     },
     {
+      "title": "The Druid of Shannara",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9781503536579",
+      "isbn_10": "1503536572",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1991,
+      "page_count": 423
+    },
+    {
       "title": "The Duke and I",
       "authors": [
         "Julia Quinn"
@@ -38944,6 +43085,21 @@
       "source": "seed",
       "year_published": 2006,
       "page_count": 451
+    },
+    {
+      "title": "The Edge",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9789434532479",
+      "isbn_10": "9434532477",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2023,
+      "page_count": 416
     },
     {
       "title": "The Edible Woman",
@@ -39072,6 +43228,51 @@
       "page_count": 386
     },
     {
+      "title": "The Elf Queen of Shannara",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9783735065131",
+      "isbn_10": "3735065139",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1992,
+      "page_count": 405
+    },
+    {
+      "title": "The Elfstones of Shannara",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9785202743429",
+      "isbn_10": "5202743424",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1982,
+      "page_count": 564
+    },
+    {
+      "title": "The Elves of Cintra",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9786908881552",
+      "isbn_10": "6908881555",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2007,
+      "page_count": 394
+    },
+    {
       "title": "The Emperor of All Maladies",
       "authors": [
         "Siddhartha Mukherjee"
@@ -39119,6 +43320,22 @@
       "source": "seed",
       "year_published": 2012,
       "page_count": 175
+    },
+    {
+      "title": "The Empty Throne",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9782314154082",
+      "isbn_10": "2314154088",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 337
     },
     {
       "title": "The Enchantress of Florence",
@@ -39215,6 +43432,21 @@
       "source": "seed",
       "year_published": 1945,
       "page_count": 196
+    },
+    {
+      "title": "The Escape",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9789474568117",
+      "isbn_10": "9474568111",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 432
     },
     {
       "title": "The Ethics of Ambiguity",
@@ -39394,6 +43626,21 @@
       "page_count": 489
     },
     {
+      "title": "The Fall of Gondolin",
+      "authors": [
+        "J.R.R. Tolkien"
+      ],
+      "isbn_13": "9783113650898",
+      "isbn_10": "3113650895",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 304
+    },
+    {
       "title": "The Fall of Hyperion",
       "authors": [
         "Dan Simmons"
@@ -39408,6 +43655,21 @@
       "language": "en",
       "page_count": 517,
       "source": "seed"
+    },
+    {
+      "title": "The Fallen",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9788431757731",
+      "isbn_10": "8431757736",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 384
     },
     {
       "title": "The Falls",
@@ -39439,6 +43701,22 @@
       "source": "seed",
       "year_published": 1991,
       "page_count": 500
+    },
+    {
+      "title": "The Far Side of the World",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9781262556740",
+      "isbn_10": "1262556740",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1984,
+      "page_count": 366
     },
     {
       "title": "The Farewell Waltz",
@@ -39858,6 +44136,37 @@
       "page_count": 563
     },
     {
+      "title": "The Fix",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9786502262740",
+      "isbn_10": "6502262740",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 384
+    },
+    {
+      "title": "The Flame Bearer",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9789324577917",
+      "isbn_10": "9324577913",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2016,
+      "page_count": 305
+    },
+    {
       "title": "The Flatshare",
       "authors": [
         "Beth O'Leary"
@@ -39986,6 +44295,53 @@
       "source": "seed",
       "year_published": 2008,
       "page_count": 368
+    },
+    {
+      "title": "The Forgotten",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9780664455811",
+      "isbn_10": "0664455816",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2012,
+      "page_count": 416
+    },
+    {
+      "title": "The Fort",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9785493312144",
+      "isbn_10": "549331214X",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2010,
+      "page_count": 464
+    },
+    {
+      "title": "The Fortune of War",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9784431030423",
+      "isbn_10": "4431030425",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1979,
+      "page_count": 329
     },
     {
       "title": "The Fountains of Paradise",
@@ -40459,6 +44815,21 @@
       "page_count": 400
     },
     {
+      "title": "The Girl Who Loved Tom Gordon",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9780139758249",
+      "isbn_10": "0139758240",
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1999,
+      "page_count": 224
+    },
+    {
       "title": "The Girl Who Played with Fire",
       "authors": [
         "Stieg Larsson"
@@ -40853,6 +45224,23 @@
       "source": "seed"
     },
     {
+      "title": "The Good Daughter",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9780204057031",
+      "isbn_10": "0204057035",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2017,
+      "page_count": 528
+    },
+    {
       "title": "The Good Doctor",
       "authors": [
         "Damon Galgut"
@@ -41238,6 +45626,21 @@
       "page_count": 220
     },
     {
+      "title": "The Guilty",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9780311835300",
+      "isbn_10": "0311835309",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 416
+    },
+    {
       "title": "The Gulag Archipelago",
       "authors": [
         "Aleksandr Solzhenitsyn"
@@ -41268,6 +45671,21 @@
       "source": "seed",
       "year_published": 1962,
       "page_count": 511
+    },
+    {
+      "title": "The Gypsy Morph",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9780754440741",
+      "isbn_10": "0754440745",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 393
     },
     {
       "title": "The Halloween Tree",
@@ -41587,6 +46005,21 @@
       "page_count": 192
     },
     {
+      "title": "The High Druid's Blade",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9781101650110",
+      "isbn_10": "1101650117",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 304
+    },
+    {
       "title": "The High Window",
       "authors": [
         "Raymond Chandler"
@@ -41664,6 +46097,21 @@
       "source": "seed",
       "year_published": -411,
       "page_count": 648
+    },
+    {
+      "title": "The Hit",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9788920918148",
+      "isbn_10": "8920918147",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 416
     },
     {
       "title": "The Hitchhiker's Guide to the Galaxy",
@@ -42014,6 +46462,22 @@
       "source": "seed",
       "year_published": 1831,
       "page_count": 508
+    },
+    {
+      "title": "The Hundred Days",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9781442257238",
+      "isbn_10": "1442257237",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1998,
+      "page_count": 280
     },
     {
       "title": "The Hundred Secret Senses",
@@ -42416,6 +46880,21 @@
       "page_count": 233
     },
     {
+      "title": "The Innocent",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9784080802204",
+      "isbn_10": "408080220X",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2012,
+      "page_count": 400
+    },
+    {
       "title": "The Innocent Man",
       "authors": [
         "John Grisham"
@@ -42572,6 +47051,22 @@
       "language": "en",
       "page_count": 151,
       "source": "seed"
+    },
+    {
+      "title": "The Ionian Mission",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9787447495453",
+      "isbn_10": "744749545X",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1981,
+      "page_count": 367
     },
     {
       "title": "The IPCRESS File",
@@ -42796,6 +47291,40 @@
       "page_count": 226
     },
     {
+      "title": "The Keepsake",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9783536017360",
+      "isbn_10": "3536017363",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 340
+    },
+    {
+      "title": "The Kept Woman",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9789556092554",
+      "isbn_10": "9556092552",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2016,
+      "page_count": 496
+    },
+    {
       "title": "The Key",
       "authors": [
         "Jun'ichirō Tanizaki"
@@ -42841,6 +47370,22 @@
       "source": "seed",
       "year_published": 2013,
       "page_count": 352
+    },
+    {
+      "title": "The Killing Hour",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9782483583386",
+      "isbn_10": "2483583385",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2003,
+      "page_count": 416
     },
     {
       "title": "The Killing Moon",
@@ -43046,6 +47591,23 @@
       "page_count": 525
     },
     {
+      "title": "The Lantern Man",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9782330827168",
+      "isbn_10": "2330827164",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2024,
+      "page_count": 352
+    },
+    {
       "title": "The Last Burden",
       "authors": [
         "Upamanyu Chatterjee"
@@ -43124,6 +47686,21 @@
       "page_count": 432
     },
     {
+      "title": "The Last Druid",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9780054453021",
+      "isbn_10": "005445302X",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2020,
+      "page_count": 384
+    },
+    {
       "title": "The Last Graduate",
       "authors": [
         "Naomi Novik"
@@ -43153,6 +47730,37 @@
       "source": "seed",
       "year_published": 2001,
       "page_count": 176
+    },
+    {
+      "title": "The Last Kingdom",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9787911409030",
+      "isbn_10": "791140903X",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2004,
+      "page_count": 333
+    },
+    {
+      "title": "The Last Mile",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9781372455179",
+      "isbn_10": "1372455175",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2016,
+      "page_count": 432
     },
     {
       "title": "The Last Mughal",
@@ -43280,6 +47888,23 @@
       "source": "seed",
       "year_published": 2022,
       "page_count": 192
+    },
+    {
+      "title": "The Last Widow",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9784319724598",
+      "isbn_10": "4319724593",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2019,
+      "page_count": 432
     },
     {
       "title": "The Lathe of Heaven",
@@ -43440,6 +48065,37 @@
       "page_count": 448
     },
     {
+      "title": "The Letter of Marque",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9785213540338",
+      "isbn_10": "5213540333",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1988,
+      "page_count": 284
+    },
+    {
+      "title": "The Letters of J.R.R. Tolkien",
+      "authors": [
+        "J.R.R. Tolkien"
+      ],
+      "isbn_13": "9783031104251",
+      "isbn_10": "3031104250",
+      "genres": [
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1981,
+      "page_count": 463
+    },
+    {
       "title": "The Letters of Vincent van Gogh",
       "authors": [
         "Vincent van Gogh"
@@ -43455,6 +48111,22 @@
       "source": "seed",
       "year_published": 1914,
       "page_count": 512
+    },
+    {
+      "title": "The Liar",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9782228554305",
+      "isbn_10": "2228554308",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 496
     },
     {
       "title": "The Liar's Dictionary",
@@ -43904,6 +48576,22 @@
       "page_count": 399
     },
     {
+      "title": "The Lords of the North",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9781545845226",
+      "isbn_10": "1545845220",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2006,
+      "page_count": 318
+    },
+    {
       "title": "The Lost City of Z",
       "authors": [
         "David Grann"
@@ -43986,6 +48674,22 @@
       "source": "seed",
       "year_published": 1995,
       "page_count": 393
+    },
+    {
+      "title": "The Lost Years",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9780430354409",
+      "isbn_10": "0430354401",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2012,
+      "page_count": 304
     },
     {
       "title": "The Lottery and Other Stories",
@@ -44098,6 +48802,21 @@
       "source": "seed",
       "year_published": 2017,
       "page_count": 384
+    },
+    {
+      "title": "The Mad Ship",
+      "authors": [
+        "Robin Hobb"
+      ],
+      "isbn_13": "9781523533619",
+      "isbn_10": "1523533617",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1999,
+      "page_count": 906
     },
     {
       "title": "The Magic Mountain",
@@ -44602,6 +49321,22 @@
       "page_count": 312
     },
     {
+      "title": "The Mauritius Command",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9783880320246",
+      "isbn_10": "3880320241",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1977,
+      "page_count": 272
+    },
+    {
       "title": "The Mayor of Casterbridge",
       "authors": [
         "Thomas Hardy"
@@ -44651,6 +49386,21 @@
       "page_count": 133
     },
     {
+      "title": "The Measure of the Magic",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9786170714428",
+      "isbn_10": "6170714425",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2011,
+      "page_count": 384
+    },
+    {
       "title": "The Mediterranean Caper",
       "authors": [
         "Clive Cussler"
@@ -44665,6 +49415,22 @@
       "source": "seed",
       "year_published": 1973,
       "page_count": 287
+    },
+    {
+      "title": "The Melody Lingers On",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9786109226756",
+      "isbn_10": "6109226750",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 304
     },
     {
       "title": "The Memory of Love",
@@ -44696,6 +49462,23 @@
       "source": "seed",
       "year_published": 1994,
       "page_count": 274
+    },
+    {
+      "title": "The Mephisto Club",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9785045940313",
+      "isbn_10": "5045940317",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2006,
+      "page_count": 353
     },
     {
       "title": "The Merchant of Venice",
@@ -45064,6 +49847,23 @@
       "page_count": 233
     },
     {
+      "title": "The Mummy",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9787583355567",
+      "isbn_10": "7583355567",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1989,
+      "page_count": 436
+    },
+    {
       "title": "The Murder at the Vicarage",
       "authors": [
         "Agatha Christie"
@@ -45335,6 +50135,22 @@
       "page_count": 217
     },
     {
+      "title": "The Neighbor",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9780214158599",
+      "isbn_10": "0214158594",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 384
+    },
+    {
       "title": "The New Jim Crow",
       "authors": [
         "Michelle Alexander"
@@ -45366,6 +50182,22 @@
       "source": "seed",
       "year_published": 2018,
       "page_count": 336
+    },
+    {
+      "title": "The Next Accident",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9783398149254",
+      "isbn_10": "3398149251",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 400
     },
     {
       "title": "The Nickel Boys",
@@ -45540,6 +50372,22 @@
       "page_count": 511
     },
     {
+      "title": "The Nutmeg of Consolation",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9785451928271",
+      "isbn_10": "5451928274",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1991,
+      "page_count": 315
+    },
+    {
       "title": "The Oath of the Vayuputras",
       "authors": [
         "Amish Tripathi"
@@ -45587,6 +50435,22 @@
       "source": "seed",
       "year_published": 2016,
       "page_count": 328
+    },
+    {
+      "title": "The Obsession",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9781390134919",
+      "isbn_10": "1390134911",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2016,
+      "page_count": 448
     },
     {
       "title": "The Ocean at the End of the Lane",
@@ -45881,6 +50745,22 @@
       "page_count": 295
     },
     {
+      "title": "The Other Daughter",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9784290469297",
+      "isbn_10": "4290469299",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1999,
+      "page_count": 416
+    },
+    {
       "title": "The Other Wind",
       "authors": [
         "Ursula K. Le Guin"
@@ -45944,6 +50824,22 @@
       "source": "seed"
     },
     {
+      "title": "The Pagan Lord",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9784014059582",
+      "isbn_10": "4014059588",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 336
+    },
+    {
       "title": "The Painter of Signs",
       "authors": [
         "R.K. Narayan"
@@ -45990,6 +50886,22 @@
       "source": "seed",
       "year_published": 1961,
       "page_count": 256
+    },
+    {
+      "title": "The Pale Horseman",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9782860149204",
+      "isbn_10": "2860149201",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2005,
+      "page_count": 384
     },
     {
       "title": "The Pallbearers Club",
@@ -46274,6 +51186,22 @@
       "source": "seed",
       "year_published": 1967,
       "page_count": 191
+    },
+    {
+      "title": "The Perfect Husband",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9780045535385",
+      "isbn_10": "0045535388",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1998,
+      "page_count": 400
     },
     {
       "title": "The Perfect Storm",
@@ -46944,6 +51872,23 @@
       "page_count": 219
     },
     {
+      "title": "The Queen of the Damned",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9782850922046",
+      "isbn_10": "2850922048",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1988,
+      "page_count": 448
+    },
+    {
       "title": "The Quest",
       "authors": [
         "Wilbur Smith"
@@ -47165,6 +52110,21 @@
       "page_count": 448
     },
     {
+      "title": "The Regulators",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9786928305984",
+      "isbn_10": "6928305983",
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1996,
+      "page_count": 475
+    },
+    {
       "title": "The Relentless Moon",
       "authors": [
         "Mary Robinette Kowal"
@@ -47371,6 +52331,22 @@
       "source": "seed",
       "year_published": 2010,
       "page_count": 389
+    },
+    {
+      "title": "The Reverse of the Medal",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9786234115215",
+      "isbn_10": "6234115217",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1986,
+      "page_count": 261
     },
     {
       "title": "The Riddle of the Sands",
@@ -47959,6 +52935,21 @@
       "page_count": 400
     },
     {
+      "title": "The Scions of Shannara",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9781374188198",
+      "isbn_10": "1374188190",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1990,
+      "page_count": 406
+    },
+    {
       "title": "The Scorch Trials",
       "authors": [
         "James Dashner"
@@ -48008,6 +52999,22 @@
       "page_count": 279
     },
     {
+      "title": "The Search",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9784125595634",
+      "isbn_10": "4125595631",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2010,
+      "page_count": 496
+    },
+    {
       "title": "The Searcher",
       "authors": [
         "Tana French"
@@ -48038,6 +53045,22 @@
       "source": "seed",
       "year_published": 1949,
       "page_count": 832
+    },
+    {
+      "title": "The Second Time Around",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9781403203113",
+      "isbn_10": "1403203113",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2003,
+      "page_count": 305
     },
     {
       "title": "The Second World War",
@@ -48358,6 +53381,22 @@
       "page_count": 487
     },
     {
+      "title": "The Shadow of Your Smile",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9787301829141",
+      "isbn_10": "7301829140",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2010,
+      "page_count": 306
+    },
+    {
       "title": "The Shadow over Innsmouth",
       "authors": [
         "H.P. Lovecraft"
@@ -48402,6 +53441,23 @@
       "source": "seed",
       "year_published": 2012,
       "page_count": 426
+    },
+    {
+      "title": "The Shape of Night",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9784204433512",
+      "isbn_10": "4204433510",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2019,
+      "page_count": 288
     },
     {
       "title": "The Shepherd's Crown",
@@ -48549,6 +53605,23 @@
       "page_count": 464
     },
     {
+      "title": "The Silent Girl",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9781418414801",
+      "isbn_10": "1418414808",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2011,
+      "page_count": 340
+    },
+    {
       "title": "The Silent Patient",
       "authors": [
         "Alex Michaelides"
@@ -48564,6 +53637,23 @@
       "language": "en",
       "page_count": 325,
       "source": "seed"
+    },
+    {
+      "title": "The Silent Wife",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9786558179856",
+      "isbn_10": "6558179857",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2020,
+      "page_count": 464
     },
     {
       "title": "The Silk Roads",
@@ -48631,6 +53721,21 @@
       "page_count": 260
     },
     {
+      "title": "The Simple Truth",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9786024375584",
+      "isbn_10": "6024375581",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1998,
+      "page_count": 470
+    },
+    {
       "title": "The Simulacra",
       "authors": [
         "Philip K. Dick"
@@ -48644,6 +53749,23 @@
       "source": "seed",
       "year_published": 1964,
       "page_count": 192
+    },
+    {
+      "title": "The Sinner",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9780452052703",
+      "isbn_10": "045205270X",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2003,
+      "page_count": 340
     },
     {
       "title": "The Sins of the Father",
@@ -48692,6 +53814,36 @@
       "source": "seed",
       "year_published": 2014,
       "page_count": 319
+    },
+    {
+      "title": "The Sixth Man",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9780495034797",
+      "isbn_10": "0495034797",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2011,
+      "page_count": 432
+    },
+    {
+      "title": "The Skaar Invasion",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9781322340142",
+      "isbn_10": "1322340145",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 352
     },
     {
       "title": "The Snail on the Slope",
@@ -48889,6 +54041,21 @@
       "page_count": 96
     },
     {
+      "title": "The Sorcerer's Daughter",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9782250024517",
+      "isbn_10": "2250024510",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2016,
+      "page_count": 320
+    },
+    {
       "title": "The Soul of a New Machine",
       "authors": [
         "Tracy Kidder"
@@ -49077,6 +54244,23 @@
       "page_count": 202
     },
     {
+      "title": "The Spy Coast",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9781142420123",
+      "isbn_10": "1142420124",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2023,
+      "page_count": 352
+    },
+    {
       "title": "The Spy Who Came in from the Cold",
       "authors": [
         "John le Carre"
@@ -49218,6 +54402,21 @@
       "source": "seed",
       "year_published": 1972,
       "page_count": 145
+    },
+    {
+      "title": "The Stiehl Assassin",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9782550715412",
+      "isbn_10": "2550715411",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2019,
+      "page_count": 368
     },
     {
       "title": "The Stone Sky",
@@ -49553,6 +54752,55 @@
       "page_count": 432
     },
     {
+      "title": "The Surgeon",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9781113333421",
+      "isbn_10": "1113333421",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 356
+    },
+    {
+      "title": "The Surgeon's Mate",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9783300407434",
+      "isbn_10": "3300407435",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1980,
+      "page_count": 382
+    },
+    {
+      "title": "The Survivors Club",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9785083114196",
+      "isbn_10": "5083114194",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2002,
+      "page_count": 416
+    },
+    {
       "title": "The Switch",
       "authors": [
         "Beth O'Leary"
@@ -49664,6 +54912,23 @@
       "page_count": 338
     },
     {
+      "title": "The Tale of the Body Thief",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9783500007083",
+      "isbn_10": "3500007082",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1992,
+      "page_count": 430
+    },
+    {
       "title": "The Talented Mr. Ripley",
       "authors": [
         "Patricia Highsmith"
@@ -49679,6 +54944,36 @@
       "language": "en",
       "page_count": 290,
       "source": "seed"
+    },
+    {
+      "title": "The Talismans of Shannara",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9785695800548",
+      "isbn_10": "5695800544",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1993,
+      "page_count": 453
+    },
+    {
+      "title": "The Tangle Box",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9782155223527",
+      "isbn_10": "2155223528",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1994,
+      "page_count": 312
     },
     {
       "title": "The Tao of Pooh",
@@ -49712,6 +55007,21 @@
       "source": "seed",
       "year_published": 2011,
       "page_count": 285
+    },
+    {
+      "title": "The Target",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9783263210454",
+      "isbn_10": "3263210459",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 416
     },
     {
       "title": "The Tattooist of Auschwitz",
@@ -49969,6 +55279,22 @@
       "page_count": 496
     },
     {
+      "title": "The Third Victim",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9784247924657",
+      "isbn_10": "4247924656",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 400
+    },
+    {
       "title": "The Thirteen Problems",
       "authors": [
         "Agatha Christie"
@@ -49983,6 +55309,22 @@
       "source": "seed",
       "year_published": 1932,
       "page_count": 288
+    },
+    {
+      "title": "The Thirteen-Gun Salute",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9783414426147",
+      "isbn_10": "3414426145",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1989,
+      "page_count": 319
     },
     {
       "title": "The Thirty-Nine Steps",
@@ -50239,6 +55581,22 @@
       "language": "en",
       "page_count": 163,
       "source": "seed"
+    },
+    {
+      "title": "The Tommyknockers",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9785272950444",
+      "isbn_10": "5272950445",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1987,
+      "page_count": 558
     },
     {
       "title": "The Topeka School",
@@ -50792,6 +56150,40 @@
       "page_count": 589
     },
     {
+      "title": "The Vampire Armand",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9784832988484",
+      "isbn_10": "4832988484",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1998,
+      "page_count": 384
+    },
+    {
+      "title": "The Vampire Lestat",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9781233546961",
+      "isbn_10": "1233546961",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1985,
+      "page_count": 481
+    },
+    {
       "title": "The Vanishing Half",
       "authors": [
         "Brit Bennett"
@@ -50886,6 +56278,22 @@
       "source": "seed",
       "year_published": 2016,
       "page_count": 544
+    },
+    {
+      "title": "The Villa",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9781251659810",
+      "isbn_10": "1251659810",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2001,
+      "page_count": 461
     },
     {
       "title": "The Village",
@@ -51417,6 +56825,21 @@
       "page_count": 304
     },
     {
+      "title": "The Whole Truth",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9786141301954",
+      "isbn_10": "6141301959",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 419
+    },
+    {
       "title": "The Widows of Eastwick",
       "authors": [
         "John Updike"
@@ -51544,6 +56967,37 @@
       "page_count": 361
     },
     {
+      "title": "The Wine-Dark Sea",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9781014055439",
+      "isbn_10": "1014055431",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1993,
+      "page_count": 261
+    },
+    {
+      "title": "The Winner",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9781531286033",
+      "isbn_10": "1531286038",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1997,
+      "page_count": 527
+    },
+    {
       "title": "The Winner Stands Alone",
       "authors": [
         "Paulo Coelho"
@@ -51573,6 +57027,22 @@
       "source": "seed",
       "year_published": 2022,
       "page_count": 720
+    },
+    {
+      "title": "The Winter King",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9783075391556",
+      "isbn_10": "3075391557",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1995,
+      "page_count": 431
     },
     {
       "title": "The Winter of Our Discontent",
@@ -51652,6 +57122,21 @@
       "source": "seed",
       "year_published": 2009,
       "page_count": 390
+    },
+    {
+      "title": "The Wishsong of Shannara",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9788489120594",
+      "isbn_10": "8489120595",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1985,
+      "page_count": 470
     },
     {
       "title": "The Witch Elm",
@@ -51734,6 +57219,23 @@
       "page_count": 307
     },
     {
+      "title": "The Witching Hour",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9781879900493",
+      "isbn_10": "1879900491",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1990,
+      "page_count": 965
+    },
+    {
       "title": "The Witness",
       "authors": [
         "Nora Roberts"
@@ -51766,6 +57268,23 @@
       "page_count": 240
     },
     {
+      "title": "The Wolf Gift",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9788508016211",
+      "isbn_10": "8508016212",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2012,
+      "page_count": 406
+    },
+    {
       "title": "The Wolves in the Walls",
       "authors": [
         "Neil Gaiman"
@@ -51779,6 +57298,23 @@
       "source": "seed",
       "year_published": 2003,
       "page_count": 64
+    },
+    {
+      "title": "The Wolves of Midwinter",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9785656328401",
+      "isbn_10": "5656328406",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 464
     },
     {
       "title": "The Woman in Black",
@@ -52002,6 +57538,21 @@
       "page_count": 199
     },
     {
+      "title": "The World of Ice & Fire",
+      "authors": [
+        "George R.R. Martin"
+      ],
+      "isbn_13": "9787737139722",
+      "isbn_10": "7737139729",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 336
+    },
+    {
       "title": "The World of Nagaraj",
       "authors": [
         "R.K. Narayan"
@@ -52147,6 +57698,22 @@
       "source": "seed",
       "year_published": 2009,
       "page_count": 431
+    },
+    {
+      "title": "The Yellow Admiral",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9782887353448",
+      "isbn_10": "2887353446",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1996,
+      "page_count": 261
     },
     {
       "title": "The Zahir",
@@ -52370,6 +57937,23 @@
       "page_count": 213
     },
     {
+      "title": "This Is Why We Lied",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9781204539664",
+      "isbn_10": "1204539669",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2024,
+      "page_count": 400
+    },
+    {
       "title": "This Is Your Brain on Music",
       "authors": [
         "Daniel Levitin"
@@ -52555,6 +58139,22 @@
       "source": "seed",
       "year_published": 1991,
       "page_count": 109
+    },
+    {
+      "title": "Three to Get Deadly",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9786100899140",
+      "isbn_10": "6100899140",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1997,
+      "page_count": 300
     },
     {
       "title": "Throne of Jade",
@@ -52857,6 +58457,22 @@
       "source": "seed"
     },
     {
+      "title": "To the Nines",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9789025348908",
+      "isbn_10": "9025348904",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2003,
+      "page_count": 312
+    },
+    {
       "title": "Toll the Hounds",
       "authors": [
         "Steven Erikson"
@@ -52937,6 +58553,22 @@
       "page_count": 246
     },
     {
+      "title": "Top Secret Twenty-One",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9782454045417",
+      "isbn_10": "2454045419",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2014,
+      "page_count": 305
+    },
+    {
       "title": "Tortilla Flat",
       "authors": [
         "John Steinbeck"
@@ -52951,6 +58583,37 @@
       "source": "seed",
       "year_published": 1935,
       "page_count": 207
+    },
+    {
+      "title": "Total Control",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9780284608154",
+      "isbn_10": "0284608157",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1997,
+      "page_count": 528
+    },
+    {
+      "title": "Touch & Go",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9782515436765",
+      "isbn_10": "2515436765",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 384
     },
     {
       "title": "Touching the Void",
@@ -53161,6 +58824,22 @@
       "page_count": 99
     },
     {
+      "title": "Treason's Harbour",
+      "authors": [
+        "Patrick O'Brian"
+      ],
+      "isbn_13": "9784110082156",
+      "isbn_10": "4110082153",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1983,
+      "page_count": 288
+    },
+    {
       "title": "Treasure",
       "authors": [
         "Clive Cussler"
@@ -53209,6 +58888,22 @@
       "page_count": 531
     },
     {
+      "title": "Tree and Leaf",
+      "authors": [
+        "J.R.R. Tolkien"
+      ],
+      "isbn_13": "9788133250615",
+      "isbn_10": "8133250617",
+      "genres": [
+        "Fantasy",
+        "Essays"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1964,
+      "page_count": 112
+    },
+    {
       "title": "Tremor",
       "authors": [
         "Teju Cole"
@@ -53254,6 +58949,22 @@
       "page_count": 192
     },
     {
+      "title": "Tribute",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9783253554803",
+      "isbn_10": "3253554805",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 432
+    },
+    {
       "title": "Trick Mirror",
       "authors": [
         "Jia Tolentino"
@@ -53267,6 +58978,22 @@
       "source": "seed",
       "year_published": 2019,
       "page_count": 303
+    },
+    {
+      "title": "Tricky Twenty-Two",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9781613153536",
+      "isbn_10": "1613153538",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 286
     },
     {
       "title": "Trigger Warning",
@@ -53330,6 +59057,21 @@
       "source": "seed",
       "year_published": 2003,
       "page_count": 484
+    },
+    {
+      "title": "True Blue",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9789827410414",
+      "isbn_10": "9827410415",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 434
     },
     {
       "title": "Truly Madly Guilty",
@@ -53442,6 +59184,21 @@
       "page_count": 139
     },
     {
+      "title": "Tuf Voyaging",
+      "authors": [
+        "George R.R. Martin"
+      ],
+      "isbn_13": "9783530731569",
+      "isbn_10": "3530731560",
+      "genres": [
+        "Science Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1986,
+      "page_count": 391
+    },
+    {
       "title": "Tunnel in the Sky",
       "authors": [
         "Robert A. Heinlein"
@@ -53455,6 +59212,22 @@
       "source": "seed",
       "year_published": 1955,
       "page_count": 262
+    },
+    {
+      "title": "Turbo Twenty-Three",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9782032118106",
+      "isbn_10": "2032118106",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2016,
+      "page_count": 307
     },
     {
       "title": "Turn a Blind Eye",
@@ -53520,6 +59293,22 @@
       "page_count": 416
     },
     {
+      "title": "Twelve Sharp",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9781323653579",
+      "isbn_10": "1323653570",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2006,
+      "page_count": 310
+    },
+    {
       "title": "Twenty Love Poems and a Song of Despair",
       "authors": [
         "Pablo Neruda"
@@ -53552,6 +59341,38 @@
       "source": "seed"
     },
     {
+      "title": "Twisted Twenty-Six",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9787946431532",
+      "isbn_10": "7946431538",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2019,
+      "page_count": 293
+    },
+    {
+      "title": "Two for the Dough",
+      "authors": [
+        "Janet Evanovich"
+      ],
+      "isbn_13": "9789622103962",
+      "isbn_10": "9622103960",
+      "genres": [
+        "Mystery",
+        "Humor"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1996,
+      "page_count": 306
+    },
+    {
       "title": "Two Leaves and a Bud",
       "authors": [
         "Mulk Raj Anand"
@@ -53567,6 +59388,22 @@
       "source": "seed",
       "year_published": 1937,
       "page_count": 276
+    },
+    {
+      "title": "Two Little Girls in Blue",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9784254138450",
+      "isbn_10": "4254138458",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2006,
+      "page_count": 323
     },
     {
       "title": "Two Lives",
@@ -53810,6 +59647,22 @@
       "page_count": 234
     },
     {
+      "title": "Under Currents",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9783151220046",
+      "isbn_10": "3151220045",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2019,
+      "page_count": 448
+    },
+    {
       "title": "Under Heaven",
       "authors": [
         "Guy Gavriel Kay"
@@ -54021,6 +59874,38 @@
       "source": "seed"
     },
     {
+      "title": "Undone",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9784286619019",
+      "isbn_10": "428661901X",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2009,
+      "page_count": 464
+    },
+    {
+      "title": "Unfinished Tales",
+      "authors": [
+        "J.R.R. Tolkien"
+      ],
+      "isbn_13": "9781524232900",
+      "isbn_10": "1524232904",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1980,
+      "page_count": 472
+    },
+    {
       "title": "Unnatural Death",
       "authors": [
         "Patricia Cornwell"
@@ -54053,6 +59938,23 @@
       "source": "seed",
       "year_published": 1997,
       "page_count": 339
+    },
+    {
+      "title": "Unseen",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "isbn_13": "9786220614364",
+      "isbn_10": "6220614364",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime Fiction"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 400
     },
     {
       "title": "Unseen Academicals",
@@ -54310,6 +60212,23 @@
       "source": "seed"
     },
     {
+      "title": "Vanish",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "isbn_13": "9783950168075",
+      "isbn_10": "3950168079",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Medical Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2005,
+      "page_count": 384
+    },
+    {
       "title": "Vanished",
       "authors": [
         "Danielle Steel"
@@ -54548,6 +60467,23 @@
       "page_count": 392
     },
     {
+      "title": "Violin",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9780154107800",
+      "isbn_10": "0154107808",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1997,
+      "page_count": 289
+    },
+    {
       "title": "Viral",
       "authors": [
         "Robin Cook"
@@ -54578,6 +60514,23 @@
       "source": "seed",
       "year_published": 1991,
       "page_count": 396
+    },
+    {
+      "title": "Vittorio the Vampire",
+      "authors": [
+        "Anne Rice"
+      ],
+      "isbn_13": "9787705502589",
+      "isbn_10": "7705502585",
+      "genres": [
+        "Horror",
+        "Gothic",
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1999,
+      "page_count": 292
     },
     {
       "title": "Vixen 03",
@@ -54726,6 +60679,21 @@
       "page_count": 276
     },
     {
+      "title": "Walk the Wire",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9780010355857",
+      "isbn_10": "0010355855",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2020,
+      "page_count": 432
+    },
+    {
       "title": "Wanderlust",
       "authors": [
         "Danielle Steel"
@@ -54790,6 +60758,22 @@
       "page_count": 448
     },
     {
+      "title": "War Lord",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9787542141255",
+      "isbn_10": "7542141252",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2020,
+      "page_count": 336
+    },
+    {
       "title": "War of Lanka",
       "authors": [
         "Amish Tripathi"
@@ -54804,6 +60788,22 @@
       "source": "seed",
       "year_published": 2022,
       "page_count": 404
+    },
+    {
+      "title": "War of the Wolf",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9781562120108",
+      "isbn_10": "1562120107",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2018,
+      "page_count": 336
     },
     {
       "title": "Warbreaker",
@@ -54821,6 +60821,21 @@
       "source": "seed"
     },
     {
+      "title": "Wards of Faerie",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9784503353924",
+      "isbn_10": "4503353926",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2012,
+      "page_count": 371
+    },
+    {
       "title": "Warlock",
       "authors": [
         "Wilbur Smith"
@@ -54835,6 +60850,22 @@
       "source": "seed",
       "year_published": 2001,
       "page_count": 530
+    },
+    {
+      "title": "Warriors of the Storm",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "isbn_13": "9780416553628",
+      "isbn_10": "0416553621",
+      "genres": [
+        "Historical Fiction",
+        "Adventure"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2015,
+      "page_count": 304
     },
     {
       "title": "Watchers",
@@ -55012,6 +61043,22 @@
       "page_count": 226
     },
     {
+      "title": "We'll Meet Again",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9784559369504",
+      "isbn_10": "455936950X",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1999,
+      "page_count": 320
+    },
+    {
       "title": "Weapons of Math Destruction",
       "authors": [
         "Cathy O'Neil"
@@ -55042,6 +61089,22 @@
       "source": "seed",
       "year_published": 2020,
       "page_count": 207
+    },
+    {
+      "title": "Weep No More, My Lady",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9785384423409",
+      "isbn_10": "5384423404",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1987,
+      "page_count": 342
     },
     {
       "title": "Weep Not, Child",
@@ -55330,6 +61393,54 @@
       "page_count": 313
     },
     {
+      "title": "When You See Me",
+      "authors": [
+        "Lisa Gardner"
+      ],
+      "isbn_13": "9787234597452",
+      "isbn_10": "723459745X",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2020,
+      "page_count": 416
+    },
+    {
+      "title": "Where Are the Children?",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9782175235920",
+      "isbn_10": "2175235920",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1975,
+      "page_count": 224
+    },
+    {
+      "title": "Where Are You Now?",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9787072156361",
+      "isbn_10": "7072156364",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2008,
+      "page_count": 302
+    },
+    {
       "title": "Where the Crawdads Sing",
       "authors": [
         "Delia Owens"
@@ -55425,6 +61536,22 @@
       "page_count": 496
     },
     {
+      "title": "While My Pretty One Sleeps",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9781413591071",
+      "isbn_10": "1413591078",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1989,
+      "page_count": 318
+    },
+    {
       "title": "Whirlwind",
       "authors": [
         "James Clavell"
@@ -55439,6 +61566,22 @@
       "source": "seed",
       "year_published": 1986,
       "page_count": 1147
+    },
+    {
+      "title": "Whiskey Beach",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "isbn_13": "9781341035074",
+      "isbn_10": "1341035077",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 496
     },
     {
       "title": "White Holes",
@@ -55713,6 +61856,21 @@
       "page_count": 224
     },
     {
+      "title": "Windhaven",
+      "authors": [
+        "George R.R. Martin"
+      ],
+      "isbn_13": "9783644395022",
+      "isbn_10": "3644395020",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1981,
+      "page_count": 332
+    },
+    {
       "title": "Wings",
       "authors": [
         "Danielle Steel"
@@ -55793,6 +61951,36 @@
       "page_count": 323
     },
     {
+      "title": "Wish You Well",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9781802166248",
+      "isbn_10": "1802166246",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2000,
+      "page_count": 401
+    },
+    {
+      "title": "Witch Wraith",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9784025569391",
+      "isbn_10": "4025569396",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2013,
+      "page_count": 368
+    },
+    {
       "title": "Witches Abroad",
       "authors": [
         "Terry Pratchett"
@@ -55807,6 +61995,21 @@
       "source": "seed",
       "year_published": 1991,
       "page_count": 293
+    },
+    {
+      "title": "Witches' Brew",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9783235122310",
+      "isbn_10": "3235122311",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1995,
+      "page_count": 324
     },
     {
       "title": "Without Fail",
@@ -55854,6 +62057,21 @@
       "source": "seed",
       "year_published": 1997,
       "page_count": 787
+    },
+    {
+      "title": "Wizard at Large",
+      "authors": [
+        "Terry Brooks"
+      ],
+      "isbn_13": "9783031574009",
+      "isbn_10": "3031574001",
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1988,
+      "page_count": 341
     },
     {
       "title": "Wizard of the Crow",
@@ -56223,6 +62441,38 @@
       "page_count": 422
     },
     {
+      "title": "You Belong to Me",
+      "authors": [
+        "Mary Higgins Clark"
+      ],
+      "isbn_13": "9789745038240",
+      "isbn_10": "9745038245",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 1998,
+      "page_count": 317
+    },
+    {
+      "title": "You Like It Darker",
+      "authors": [
+        "Stephen King"
+      ],
+      "isbn_13": "9780103141497",
+      "isbn_10": "0103141499",
+      "genres": [
+        "Horror",
+        "Short Stories"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2024,
+      "page_count": 512
+    },
+    {
       "title": "You Love Me",
       "authors": [
         "Caroline Kepnes"
@@ -56347,6 +62597,21 @@
       "source": "seed",
       "year_published": 1974,
       "page_count": 540
+    },
+    {
+      "title": "Zero Day",
+      "authors": [
+        "David Baldacci"
+      ],
+      "isbn_13": "9789533611020",
+      "isbn_10": "9533611022",
+      "genres": [
+        "Thriller"
+      ],
+      "language": "en",
+      "source": "seed",
+      "year_published": 2011,
+      "page_count": 432
     },
     {
       "title": "Zero Hour",
