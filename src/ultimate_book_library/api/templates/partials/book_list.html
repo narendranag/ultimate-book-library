@@ -1,27 +1,41 @@
 {% if books %}
 <div class="book-grid">
     {% for book in books %}
-    <article>
-        <header>
-            <a href="/book/{{ book.isbn_13 or book.isbn_10 or '' }}">
-                <strong>{{ book.title }}</strong>
-            </a>
-        </header>
-        <p class="book-authors">{{ book.authors | join(", ") }}</p>
-        {% if book.year_published %}
-        <p><small>{{ book.year_published }}</small></p>
-        {% endif %}
-        <p>
-            {% for genre in book.genres[:3] %}
-            <span class="genre-tag">{{ genre }}</span>
-            {% endfor %}
-        </p>
-        {% if book.page_count %}
-        <p><small>{{ book.page_count }} pages</small></p>
-        {% endif %}
-    </article>
+    <a href="/book/{{ book.isbn_13 or book.isbn_10 or '' }}" class="book-card">
+        <div class="book-cover">
+            {% if book.isbn_13 %}
+            <img src="https://covers.openlibrary.org/b/isbn/{{ book.isbn_13 }}-M.jpg"
+                 alt="Cover of {{ book.title }}"
+                 loading="lazy"
+                 onerror="this.parentElement.classList.add('no-cover')">
+            {% endif %}
+            <div class="cover-placeholder">
+                <span class="placeholder-title">{{ book.title }}</span>
+                <span class="placeholder-author">{{ book.authors[0] }}</span>
+            </div>
+        </div>
+        <div class="book-info">
+            <h4 class="book-title">{{ book.title }}</h4>
+            <p class="book-authors">{{ book.authors | join(", ") }}</p>
+            <div class="book-meta">
+                {% if book.year_published %}
+                <span class="book-year">{{ book.year_published }}</span>
+                {% endif %}
+                {% if book.page_count %}
+                <span class="book-pages">{{ book.page_count }}p</span>
+                {% endif %}
+            </div>
+            <div class="book-genres">
+                {% for genre in book.genres[:2] %}
+                <span class="genre-tag">{{ genre }}</span>
+                {% endfor %}
+            </div>
+        </div>
+    </a>
     {% endfor %}
 </div>
 {% else %}
-<p>No books found.</p>
+<div class="empty-state">
+    <p>No books found matching your search.</p>
+</div>
 {% endif %}

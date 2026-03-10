@@ -3,61 +3,83 @@
 {% block title %}{{ book.title }} - Ultimate Book Library{% endblock %}
 
 {% block content %}
-<article>
-    <header>
-        <hgroup>
-            <h1>{{ book.title }}</h1>
-            <p>by {{ book.authors | join(", ") }}</p>
-        </hgroup>
-    </header>
+<a href="/" class="back-link">&larr; Back to library</a>
 
-    <div class="grid">
-        <div>
+<article class="book-detail">
+    <div class="detail-layout">
+        <div class="detail-cover">
             {% if book.isbn_13 %}
-            <figure>
+            <div class="cover-wrapper">
                 <img src="https://covers.openlibrary.org/b/isbn/{{ book.isbn_13 }}-L.jpg"
                      alt="Cover of {{ book.title }}"
                      loading="lazy"
-                     onerror="this.style.display='none'">
-            </figure>
+                     onerror="this.parentElement.classList.add('no-cover')">
+                <div class="cover-placeholder large">
+                    <span class="placeholder-title">{{ book.title }}</span>
+                    <span class="placeholder-author">{{ book.authors[0] }}</span>
+                </div>
+            </div>
+            {% else %}
+            <div class="cover-wrapper no-cover">
+                <div class="cover-placeholder large">
+                    <span class="placeholder-title">{{ book.title }}</span>
+                    <span class="placeholder-author">{{ book.authors[0] }}</span>
+                </div>
+            </div>
             {% endif %}
         </div>
-        <div>
-            <table>
-                {% if book.year_published %}
-                <tr><th>Year</th><td>{{ book.year_published }}</td></tr>
-                {% endif %}
-                {% if book.isbn_13 %}
-                <tr><th>ISBN-13</th><td>{{ book.isbn_13 }}</td></tr>
-                {% endif %}
-                {% if book.isbn_10 %}
-                <tr><th>ISBN-10</th><td>{{ book.isbn_10 }}</td></tr>
-                {% endif %}
-                <tr><th>Language</th><td>{{ book.language }}</td></tr>
-                {% if book.page_count %}
-                <tr><th>Pages</th><td>{{ book.page_count }}</td></tr>
-                {% endif %}
-                {% if book.genres %}
-                <tr>
-                    <th>Genres</th>
-                    <td>
-                        {% for genre in book.genres %}
-                        <span class="genre-tag">{{ genre }}</span>
-                        {% endfor %}
-                    </td>
-                </tr>
-                {% endif %}
-            </table>
+
+        <div class="detail-info">
+            <hgroup>
+                <h1>{{ book.title }}</h1>
+                <p class="detail-authors">by {{ book.authors | join(", ") }}</p>
+            </hgroup>
+
+            {% if book.genres %}
+            <div class="detail-genres">
+                {% for genre in book.genres %}
+                <span class="genre-tag">{{ genre }}</span>
+                {% endfor %}
+            </div>
+            {% endif %}
 
             {% if book.description %}
-            <h3>Description</h3>
-            <p>{{ book.description }}</p>
+            <div class="detail-description">
+                <p>{{ book.description }}</p>
+            </div>
             {% endif %}
+
+            <div class="detail-metadata">
+                {% if book.year_published %}
+                <div class="meta-item">
+                    <span class="meta-label">Published</span>
+                    <span class="meta-value">{{ book.year_published }}</span>
+                </div>
+                {% endif %}
+                {% if book.page_count %}
+                <div class="meta-item">
+                    <span class="meta-label">Pages</span>
+                    <span class="meta-value">{{ book.page_count }}</span>
+                </div>
+                {% endif %}
+                <div class="meta-item">
+                    <span class="meta-label">Language</span>
+                    <span class="meta-value">{{ book.language | upper }}</span>
+                </div>
+                {% if book.isbn_13 %}
+                <div class="meta-item">
+                    <span class="meta-label">ISBN-13</span>
+                    <span class="meta-value">{{ book.isbn_13 }}</span>
+                </div>
+                {% endif %}
+                {% if book.isbn_10 %}
+                <div class="meta-item">
+                    <span class="meta-label">ISBN-10</span>
+                    <span class="meta-value">{{ book.isbn_10 }}</span>
+                </div>
+                {% endif %}
+            </div>
         </div>
     </div>
-
-    <footer>
-        <a href="/" role="button" class="outline">Back to library</a>
-    </footer>
 </article>
 {% endblock %}

@@ -1,14 +1,17 @@
 {% extends "base.html" %}
 
 {% block content %}
-<section>
+<section class="hero">
     <h1>Browse Books</h1>
+    <p class="hero-subtitle">{{ total }} books in the collection</p>
+</section>
 
+<section class="search-bar">
     <div class="grid">
         <div>
             <input type="search"
                    name="q"
-                   placeholder="Search books..."
+                   placeholder="Search by title, author, or genre..."
                    hx-get="/search-results"
                    hx-trigger="input changed delay:300ms, search"
                    hx-target="#book-results"
@@ -39,11 +42,9 @@
             </select>
         </div>
     </div>
-
-    <p><small>{{ total }} books in the collection</small></p>
-
-    <div id="book-results">
-        {% include "partials/book_list.html" %}
-    </div>
 </section>
+
+<div id="book-results">
+    {% include "partials/book_list.html" %}
+</div>
 {% endblock %}
