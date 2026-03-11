@@ -1,0 +1,493 @@
+[
+  {
+    "title": "A Winter Haunting",
+    "author": "Dan Simmons",
+    "year": 2002,
+    "isbn_13": "9781922145017",
+    "isbn_10": "1922145014",
+    "pages": 377,
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Black Hills",
+    "author": "Dan Simmons",
+    "year": 2010,
+    "isbn_13": "9789724448770",
+    "isbn_10": "9724448770",
+    "pages": 487,
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Fifth Heart",
+    "author": "Dan Simmons",
+    "year": 2015,
+    "isbn_13": "9784691527558",
+    "isbn_10": "4691527552",
+    "pages": 617,
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Count Karlstein",
+    "author": "Philip Pullman",
+    "year": 1982,
+    "isbn_13": "9789161327447",
+    "isbn_10": "916132744X",
+    "pages": 242,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Ruby in the Smoke",
+    "author": "Philip Pullman",
+    "year": 1985,
+    "isbn_13": "9785944336132",
+    "isbn_10": "5944336134",
+    "pages": 230,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Shadow in the North",
+    "author": "Philip Pullman",
+    "year": 1986,
+    "isbn_13": "9780624290247",
+    "isbn_10": "0624290244",
+    "pages": 330,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Tiger in the Well",
+    "author": "Philip Pullman",
+    "year": 1990,
+    "isbn_13": "9782042641489",
+    "isbn_10": "2042641480",
+    "pages": 407,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Tin Princess",
+    "author": "Philip Pullman",
+    "year": 1994,
+    "isbn_13": "9783109534393",
+    "isbn_10": "3109534393",
+    "pages": 289,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Northern Lights",
+    "author": "Philip Pullman",
+    "year": 1995,
+    "isbn_13": "9785154315040",
+    "isbn_10": "5154315042",
+    "pages": 399,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Lyra's Oxford",
+    "author": "Philip Pullman",
+    "year": 2003,
+    "isbn_13": "9788112054203",
+    "isbn_10": "8112054204",
+    "pages": 64,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Once Upon a Time in the North",
+    "author": "Philip Pullman",
+    "year": 2008,
+    "isbn_13": "9783354301962",
+    "isbn_10": "335430196X",
+    "pages": 95,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Good Man Jesus and the Scoundrel Christ",
+    "author": "Philip Pullman",
+    "year": 2010,
+    "isbn_13": "9783415657342",
+    "isbn_10": "3415657346",
+    "pages": 245,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Many Waters",
+    "author": "Madeleine L'Engle",
+    "year": 1986,
+    "isbn_13": "9787092940520",
+    "isbn_10": "7092940527",
+    "pages": 310,
+    "genres": [
+      "Fantasy",
+      "Young Adult",
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "An Acceptable Time",
+    "author": "Madeleine L'Engle",
+    "year": 1989,
+    "isbn_13": "9783186437754",
+    "isbn_10": "3186437751",
+    "pages": 343,
+    "genres": [
+      "Fantasy",
+      "Young Adult",
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Arm of the Starfish",
+    "author": "Madeleine L'Engle",
+    "year": 1965,
+    "isbn_13": "9783683029438",
+    "isbn_10": "3683029432",
+    "pages": 243,
+    "genres": [
+      "Fantasy",
+      "Young Adult",
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dragons in the Waters",
+    "author": "Madeleine L'Engle",
+    "year": 1976,
+    "isbn_13": "9786523914291",
+    "isbn_10": "652391429X",
+    "pages": 326,
+    "genres": [
+      "Fantasy",
+      "Young Adult",
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A House Like a Lotus",
+    "author": "Madeleine L'Engle",
+    "year": 1984,
+    "isbn_13": "9786290832743",
+    "isbn_10": "6290832748",
+    "pages": 308,
+    "genres": [
+      "Fantasy",
+      "Young Adult",
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Young Unicorns",
+    "author": "Madeleine L'Engle",
+    "year": 1968,
+    "isbn_13": "9780123156846",
+    "isbn_10": "0123156841",
+    "pages": 295,
+    "genres": [
+      "Fantasy",
+      "Young Adult",
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Ring of Endless Light",
+    "author": "Madeleine L'Engle",
+    "year": 1980,
+    "isbn_13": "9789163524288",
+    "isbn_10": "9163524284",
+    "pages": 324,
+    "genres": [
+      "Fantasy",
+      "Young Adult",
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Meet the Austins",
+    "author": "Madeleine L'Engle",
+    "year": 1960,
+    "isbn_13": "9783453560147",
+    "isbn_10": "3453560140",
+    "pages": 189,
+    "genres": [
+      "Fantasy",
+      "Young Adult",
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Moon by Night",
+    "author": "Madeleine L'Engle",
+    "year": 1963,
+    "isbn_13": "9780361456623",
+    "isbn_10": "0361456621",
+    "pages": 274,
+    "genres": [
+      "Fantasy",
+      "Young Adult",
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Troubling a Star",
+    "author": "Madeleine L'Engle",
+    "year": 1994,
+    "isbn_13": "9785185311943",
+    "isbn_10": "5185311940",
+    "pages": 311,
+    "genres": [
+      "Fantasy",
+      "Young Adult",
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Small Rain",
+    "author": "Madeleine L'Engle",
+    "year": 1945,
+    "isbn_13": "9785102224288",
+    "isbn_10": "5102224281",
+    "pages": 368,
+    "genres": [
+      "Fantasy",
+      "Young Adult",
+      "Children's"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Artemis Fowl",
+    "author": "Eoin Colfer",
+    "year": 2001,
+    "isbn_13": "9780119666731",
+    "isbn_10": "011966673X",
+    "pages": 277,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Artemis Fowl: The Arctic Incident",
+    "author": "Eoin Colfer",
+    "year": 2002,
+    "isbn_13": "9782011071347",
+    "isbn_10": "2011071343",
+    "pages": 277,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Artemis Fowl: The Eternity Code",
+    "author": "Eoin Colfer",
+    "year": 2003,
+    "isbn_13": "9789385590252",
+    "isbn_10": "938559025X",
+    "pages": 309,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Artemis Fowl: The Opal Deception",
+    "author": "Eoin Colfer",
+    "year": 2005,
+    "isbn_13": "9787253033559",
+    "isbn_10": "7253033553",
+    "pages": 342,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Artemis Fowl: The Lost Colony",
+    "author": "Eoin Colfer",
+    "year": 2006,
+    "isbn_13": "9781448110452",
+    "isbn_10": "1448110452",
+    "pages": 342,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Artemis Fowl: The Time Paradox",
+    "author": "Eoin Colfer",
+    "year": 2008,
+    "isbn_13": "9781948850414",
+    "isbn_10": "1948850412",
+    "pages": 400,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Artemis Fowl: The Atlantis Complex",
+    "author": "Eoin Colfer",
+    "year": 2010,
+    "isbn_13": "9789435924396",
+    "isbn_10": "9435924396",
+    "pages": 368,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Artemis Fowl: The Last Guardian",
+    "author": "Eoin Colfer",
+    "year": 2012,
+    "isbn_13": "9785841125105",
+    "isbn_10": "5841125102",
+    "pages": 318,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Supernaturalist",
+    "author": "Eoin Colfer",
+    "year": 2004,
+    "isbn_13": "9788172205157",
+    "isbn_10": "8172205156",
+    "pages": 267,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Airman",
+    "author": "Eoin Colfer",
+    "year": 2008,
+    "isbn_13": "9786274958322",
+    "isbn_10": "6274958320",
+    "pages": 412,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Plugged",
+    "author": "Eoin Colfer",
+    "year": 2011,
+    "isbn_13": "9787165846650",
+    "isbn_10": "7165846657",
+    "pages": 288,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Screwed",
+    "author": "Eoin Colfer",
+    "year": 2013,
+    "isbn_13": "9788353086223",
+    "isbn_10": "8353086220",
+    "pages": 352,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Highfire",
+    "author": "Eoin Colfer",
+    "year": 2020,
+    "isbn_13": "9780459301835",
+    "isbn_10": "0459301834",
+    "pages": 400,
+    "genres": [
+      "Fantasy",
+      "Young Adult"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "In Between the Sheets",
+    "author": "Ian McEwan",
+    "year": 1978,
+    "isbn_13": "9782484942069",
+    "isbn_10": "2484942060",
+    "pages": 152,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  }
+]
