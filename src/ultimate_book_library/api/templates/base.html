@@ -1,35 +1,33 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="light">
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% block title %}Ultimate Book Library{% endblock %}</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/static/styles.css">
     <script src="https://unpkg.com/htmx.org@2.0.4"></script>
 </head>
 <body>
-    <nav class="site-nav container">
-        <ul>
-            <li>
-                <a href="/" class="site-brand">
-                    <span class="brand-icon">&#128218;</span>
-                    <strong>Ultimate Book Library</strong>
-                </a>
-            </li>
-        </ul>
-        <ul>
-            <li><a href="/">Browse</a></li>
-            <li><a href="/api/stats">API</a></li>
-            <li><a href="/docs">Docs</a></li>
-        </ul>
+    <a href="#content" class="skip-link">Skip to content</a>
+
+    <header class="site-header">
+        <a href="/" class="site-title">Ultimate Book Library</a>
+    </header>
+
+    <nav class="top-nav">
+        <a href="/" class="nav-link">Browse</a>
+        <a href="/api/stats" class="nav-link">API</a>
+        <a href="/docs" class="nav-link">Docs</a>
     </nav>
 
-    <main class="container">
+    <main id="content" class="container">
         {% block content %}{% endblock %}
     </main>
 
-    <footer class="container site-footer">
+    <footer class="site-footer container">
         <p>Ultimate Book Library &mdash; A curated collection of the best books in the world.</p>
         <p class="footer-links">
             <a href="/api/stats">API Stats</a> &middot;
