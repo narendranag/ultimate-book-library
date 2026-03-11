@@ -1,0 +1,1178 @@
+[
+  {
+    "title": "Millennium",
+    "author": "Tom Holland",
+    "year": 2008,
+    "isbn_13": "9787412417343",
+    "isbn_10": "7412417344",
+    "pages": 576,
+    "genres": [
+      "Non-Fiction",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "In the Shadow of the Sword",
+    "author": "Tom Holland",
+    "year": 2012,
+    "isbn_13": "9788785251923",
+    "isbn_10": "8785251926",
+    "pages": 526,
+    "genres": [
+      "Non-Fiction",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dynasty",
+    "author": "Tom Holland",
+    "year": 2015,
+    "isbn_13": "9783100742421",
+    "isbn_10": "3100742424",
+    "pages": 512,
+    "genres": [
+      "Non-Fiction",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dominion",
+    "author": "Tom Holland",
+    "year": 2019,
+    "isbn_13": "9785971032984",
+    "isbn_10": "5971032987",
+    "pages": 624,
+    "genres": [
+      "Non-Fiction",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Pax",
+    "author": "Tom Holland",
+    "year": 2023,
+    "isbn_13": "9786296841053",
+    "isbn_10": "629684105X",
+    "pages": 512,
+    "genres": [
+      "Non-Fiction",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "V\u00e9ra (Mrs. Vladimir Nabokov)",
+    "author": "Stacy Schiff",
+    "year": 1999,
+    "isbn_13": "9789233429048",
+    "isbn_10": "9233429040",
+    "pages": 456,
+    "genres": [
+      "Non-Fiction",
+      "Biography",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Great Improvisation",
+    "author": "Stacy Schiff",
+    "year": 2005,
+    "isbn_13": "9788345273426",
+    "isbn_10": "8345273427",
+    "pages": 488,
+    "genres": [
+      "Non-Fiction",
+      "Biography",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Cleopatra",
+    "author": "Stacy Schiff",
+    "year": 2010,
+    "isbn_13": "9789134338333",
+    "isbn_10": "9134338330",
+    "pages": 448,
+    "genres": [
+      "Non-Fiction",
+      "Biography",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Witches",
+    "author": "Stacy Schiff",
+    "year": 2015,
+    "isbn_13": "9786235335940",
+    "isbn_10": "6235335945",
+    "pages": 498,
+    "genres": [
+      "Non-Fiction",
+      "Biography",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Revolutionary: Samuel Adams",
+    "author": "Stacy Schiff",
+    "year": 2022,
+    "isbn_13": "9781178527254",
+    "isbn_10": "1178527256",
+    "pages": 432,
+    "genres": [
+      "Non-Fiction",
+      "Biography",
+      "History"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Agent Zigzag",
+    "author": "Ben Macintyre",
+    "year": 2007,
+    "isbn_13": "9783015081813",
+    "isbn_10": "3015081810",
+    "pages": 372,
+    "genres": [
+      "Non-Fiction",
+      "History",
+      "Spy Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Operation Mincemeat",
+    "author": "Ben Macintyre",
+    "year": 2010,
+    "isbn_13": "9783212313847",
+    "isbn_10": "3212313845",
+    "pages": 399,
+    "genres": [
+      "Non-Fiction",
+      "History",
+      "Spy Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Double Cross",
+    "author": "Ben Macintyre",
+    "year": 2012,
+    "isbn_13": "9781689873420",
+    "isbn_10": "1689873425",
+    "pages": 398,
+    "genres": [
+      "Non-Fiction",
+      "History",
+      "Spy Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Spy Among Friends",
+    "author": "Ben Macintyre",
+    "year": 2014,
+    "isbn_13": "9788034592081",
+    "isbn_10": "8034592080",
+    "pages": 384,
+    "genres": [
+      "Non-Fiction",
+      "History",
+      "Spy Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Rogue Heroes",
+    "author": "Ben Macintyre",
+    "year": 2016,
+    "isbn_13": "9786300651463",
+    "isbn_10": "6300651460",
+    "pages": 384,
+    "genres": [
+      "Non-Fiction",
+      "History",
+      "Spy Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Spy and the Traitor",
+    "author": "Ben Macintyre",
+    "year": 2018,
+    "isbn_13": "9783467554156",
+    "isbn_10": "3467554155",
+    "pages": 368,
+    "genres": [
+      "Non-Fiction",
+      "History",
+      "Spy Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Agent Sonya",
+    "author": "Ben Macintyre",
+    "year": 2020,
+    "isbn_13": "9780102426267",
+    "isbn_10": "0102426260",
+    "pages": 416,
+    "genres": [
+      "Non-Fiction",
+      "History",
+      "Spy Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Colditz",
+    "author": "Ben Macintyre",
+    "year": 2022,
+    "isbn_13": "9783632319528",
+    "isbn_10": "3632319522",
+    "pages": 384,
+    "genres": [
+      "Non-Fiction",
+      "History",
+      "Spy Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "SAS: Rogue Heroes",
+    "author": "Ben Macintyre",
+    "year": 2016,
+    "isbn_13": "9785007131551",
+    "isbn_10": "5007131556",
+    "pages": 400,
+    "genres": [
+      "Non-Fiction",
+      "History",
+      "Spy Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Masker",
+    "author": "Torrey Peters",
+    "year": 2016,
+    "isbn_13": "9782451054320",
+    "isbn_10": "2451054323",
+    "pages": 128,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Antarctica",
+    "author": "Claire Keegan",
+    "year": 1999,
+    "isbn_13": "9782610658390",
+    "isbn_10": "2610658394",
+    "pages": 224,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Walk the Blue Fields",
+    "author": "Claire Keegan",
+    "year": 2007,
+    "isbn_13": "9787014344733",
+    "isbn_10": "7014344730",
+    "pages": 192,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Foster",
+    "author": "Claire Keegan",
+    "year": 2010,
+    "isbn_13": "9786754131443",
+    "isbn_10": "6754131445",
+    "pages": 89,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Small Things Like These",
+    "author": "Claire Keegan",
+    "year": 2021,
+    "isbn_13": "9787200278231",
+    "isbn_10": "7200278233",
+    "pages": 116,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Small Bees' Honey",
+    "author": "George Makana Clark",
+    "year": 1997,
+    "isbn_13": "9788735094686",
+    "isbn_10": "8735094680",
+    "pages": 192,
+    "genres": [
+      "Literary Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Suder",
+    "author": "Percival Everett",
+    "year": 1983,
+    "isbn_13": "9786229202180",
+    "isbn_10": "6229202189",
+    "pages": 208,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Cutting Lisa",
+    "author": "Percival Everett",
+    "year": 1986,
+    "isbn_13": "9782544099184",
+    "isbn_10": "2544099185",
+    "pages": 164,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Walk Me to the Distance",
+    "author": "Percival Everett",
+    "year": 1985,
+    "isbn_13": "9784240232216",
+    "isbn_10": "4240232211",
+    "pages": 168,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "For Her Dark Skin",
+    "author": "Percival Everett",
+    "year": 1990,
+    "isbn_13": "9788780503126",
+    "isbn_10": "8780503123",
+    "pages": 179,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Zulus",
+    "author": "Percival Everett",
+    "year": 1990,
+    "isbn_13": "9783339634337",
+    "isbn_10": "3339634336",
+    "pages": 230,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "God's Country",
+    "author": "Percival Everett",
+    "year": 1994,
+    "isbn_13": "9781583368367",
+    "isbn_10": "158336836X",
+    "pages": 219,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Watershed",
+    "author": "Percival Everett",
+    "year": 1996,
+    "isbn_13": "9784421176278",
+    "isbn_10": "4421176278",
+    "pages": 227,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Big Picture",
+    "author": "Percival Everett",
+    "year": 1996,
+    "isbn_13": "9785807184320",
+    "isbn_10": "5807184324",
+    "pages": 179,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Frenzy",
+    "author": "Percival Everett",
+    "year": 1997,
+    "isbn_13": "9781424404421",
+    "isbn_10": "1424404423",
+    "pages": 192,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Glyph",
+    "author": "Percival Everett",
+    "year": 1999,
+    "isbn_13": "9787301468289",
+    "isbn_10": "7301468283",
+    "pages": 293,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "American Desert",
+    "author": "Percival Everett",
+    "year": 2004,
+    "isbn_13": "9780294244649",
+    "isbn_10": "0294244645",
+    "pages": 229,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Damned If I Do",
+    "author": "Percival Everett",
+    "year": 2004,
+    "isbn_13": "9787266086160",
+    "isbn_10": "7266086164",
+    "pages": 181,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Wounded",
+    "author": "Percival Everett",
+    "year": 2005,
+    "isbn_13": "9782054143124",
+    "isbn_10": "2054143121",
+    "pages": 210,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "I Am Not Sidney Poitier",
+    "author": "Percival Everett",
+    "year": 2009,
+    "isbn_13": "9789555903349",
+    "isbn_10": "9555903347",
+    "pages": 234,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Assumption",
+    "author": "Percival Everett",
+    "year": 2011,
+    "isbn_13": "9782504862315",
+    "isbn_10": "2504862313",
+    "pages": 222,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Percival Everett by Virgil Russell",
+    "author": "Percival Everett",
+    "year": 2013,
+    "isbn_13": "9785288275708",
+    "isbn_10": "5288275701",
+    "pages": 240,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "So Much Blue",
+    "author": "Percival Everett",
+    "year": 2017,
+    "isbn_13": "9789528234067",
+    "isbn_10": "9528234069",
+    "pages": 224,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Telephone",
+    "author": "Percival Everett",
+    "year": 2020,
+    "isbn_13": "9784452082746",
+    "isbn_10": "4452082749",
+    "pages": 210,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dr. No",
+    "author": "Percival Everett",
+    "year": 2022,
+    "isbn_13": "9789743410000",
+    "isbn_10": "9743410004",
+    "pages": 208,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Mario and the Magician",
+    "author": "Thomas Mann",
+    "year": 1930,
+    "isbn_13": "9780047075551",
+    "isbn_10": "0047075557",
+    "pages": 48,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de"
+  },
+  {
+    "title": "Beware of Pity",
+    "author": "Stefan Zweig",
+    "year": 1939,
+    "isbn_13": "9788042348458",
+    "isbn_10": "8042348459",
+    "pages": 400,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de"
+  },
+  {
+    "title": "The Royal Game",
+    "author": "Stefan Zweig",
+    "year": 1942,
+    "isbn_13": "9782264300331",
+    "isbn_10": "2264300334",
+    "pages": 96,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de"
+  },
+  {
+    "title": "The Post-Office Girl",
+    "author": "Stefan Zweig",
+    "year": 1982,
+    "isbn_13": "9785012439239",
+    "isbn_10": "5012439235",
+    "pages": 256,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de"
+  },
+  {
+    "title": "Letter from an Unknown Woman",
+    "author": "Stefan Zweig",
+    "year": 1922,
+    "isbn_13": "9781283844130",
+    "isbn_10": "1283844138",
+    "pages": 80,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de"
+  },
+  {
+    "title": "Amok",
+    "author": "Stefan Zweig",
+    "year": 1922,
+    "isbn_13": "9787790403822",
+    "isbn_10": "7790403825",
+    "pages": 128,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de"
+  },
+  {
+    "title": "Confusion",
+    "author": "Stefan Zweig",
+    "year": 1927,
+    "isbn_13": "9788320305425",
+    "isbn_10": "8320305421",
+    "pages": 144,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de"
+  },
+  {
+    "title": "Twenty-Four Hours in the Life of a Woman",
+    "author": "Stefan Zweig",
+    "year": 1927,
+    "isbn_13": "9780155454040",
+    "isbn_10": "0155454043",
+    "pages": 96,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de"
+  },
+  {
+    "title": "Journey into the Past",
+    "author": "Stefan Zweig",
+    "year": 1929,
+    "isbn_13": "9785083066297",
+    "isbn_10": "5083066294",
+    "pages": 96,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de"
+  },
+  {
+    "title": "The World of Yesterday",
+    "author": "Stefan Zweig",
+    "year": 1942,
+    "isbn_13": "9784636270266",
+    "isbn_10": "4636270265",
+    "pages": 455,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "de"
+  },
+  {
+    "title": "Heart of a Dog",
+    "author": "Mikhail Bulgakov",
+    "year": 1925,
+    "isbn_13": "9782504413135",
+    "isbn_10": "2504413130",
+    "pages": 128,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "ru"
+  },
+  {
+    "title": "Near to the Wild Heart",
+    "author": "Clarice Lispector",
+    "year": 1943,
+    "isbn_13": "9783995513960",
+    "isbn_10": "3995513967",
+    "pages": 185,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "pt"
+  },
+  {
+    "title": "The Besieged City",
+    "author": "Clarice Lispector",
+    "year": 1949,
+    "isbn_13": "9787092090133",
+    "isbn_10": "7092090131",
+    "pages": 190,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "pt"
+  },
+  {
+    "title": "The Apple in the Dark",
+    "author": "Clarice Lispector",
+    "year": 1961,
+    "isbn_13": "9780119816136",
+    "isbn_10": "0119816131",
+    "pages": 361,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "pt"
+  },
+  {
+    "title": "The Passion According to G.H.",
+    "author": "Clarice Lispector",
+    "year": 1964,
+    "isbn_13": "9789113956466",
+    "isbn_10": "9113956462",
+    "pages": 159,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "pt"
+  },
+  {
+    "title": "An Apprenticeship",
+    "author": "Clarice Lispector",
+    "year": 1969,
+    "isbn_13": "9787272432821",
+    "isbn_10": "7272432822",
+    "pages": 119,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "pt"
+  },
+  {
+    "title": "The Hour of the Star",
+    "author": "Clarice Lispector",
+    "year": 1977,
+    "isbn_13": "9786253304553",
+    "isbn_10": "6253304550",
+    "pages": 96,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "pt"
+  },
+  {
+    "title": "Agua Viva",
+    "author": "Clarice Lispector",
+    "year": 1973,
+    "isbn_13": "9784391541748",
+    "isbn_10": "4391541749",
+    "pages": 84,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "pt"
+  },
+  {
+    "title": "A Breath of Life",
+    "author": "Clarice Lispector",
+    "year": 1978,
+    "isbn_13": "9785051631816",
+    "isbn_10": "5051631812",
+    "pages": 148,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "pt"
+  },
+  {
+    "title": "The Complete Stories",
+    "author": "Clarice Lispector",
+    "year": 2015,
+    "isbn_13": "9788402414113",
+    "isbn_10": "8402414114",
+    "pages": 645,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "pt"
+  },
+  {
+    "title": "A Little Lumpen Novelita",
+    "author": "Roberto Bola\u00f1o",
+    "year": 2002,
+    "isbn_13": "9789955918226",
+    "isbn_10": "9955918226",
+    "pages": 94,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "es"
+  },
+  {
+    "title": "What Just Happened",
+    "author": "James Gleick",
+    "year": 2002,
+    "isbn_13": "9783643948786",
+    "isbn_10": "3643948785",
+    "pages": 272,
+    "genres": [
+      "Non-Fiction",
+      "Science"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Time Travel",
+    "author": "James Gleick",
+    "year": 2016,
+    "isbn_13": "9781070004235",
+    "isbn_10": "1070004236",
+    "pages": 352,
+    "genres": [
+      "Non-Fiction",
+      "Science"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Mystery Train",
+    "author": "Greil Marcus",
+    "year": 1975,
+    "isbn_13": "9781027553335",
+    "isbn_10": "1027553333",
+    "pages": 282,
+    "genres": [
+      "Non-Fiction",
+      "Music"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Lipstick Traces",
+    "author": "Greil Marcus",
+    "year": 1989,
+    "isbn_13": "9784104094257",
+    "isbn_10": "4104094250",
+    "pages": 496,
+    "genres": [
+      "Non-Fiction",
+      "Music"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dead Elvis",
+    "author": "Greil Marcus",
+    "year": 1991,
+    "isbn_13": "9783357374963",
+    "isbn_10": "3357374961",
+    "pages": 233,
+    "genres": [
+      "Non-Fiction",
+      "Music"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Old, Weird America",
+    "author": "Greil Marcus",
+    "year": 1997,
+    "isbn_13": "9783260013324",
+    "isbn_10": "3260013325",
+    "pages": 311,
+    "genres": [
+      "Non-Fiction",
+      "Music"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Like a Rolling Stone",
+    "author": "Greil Marcus",
+    "year": 2005,
+    "isbn_13": "9784398922328",
+    "isbn_10": "4398922325",
+    "pages": 282,
+    "genres": [
+      "Non-Fiction",
+      "Music"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Biographical Dictionary of Film",
+    "author": "David Thomson",
+    "year": 1975,
+    "isbn_13": "9787733344243",
+    "isbn_10": "7733344244",
+    "pages": 1024,
+    "genres": [
+      "Non-Fiction",
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Rosebud",
+    "author": "David Thomson",
+    "year": 1996,
+    "isbn_13": "9784700247118",
+    "isbn_10": "4700247113",
+    "pages": 579,
+    "genres": [
+      "Non-Fiction",
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Whole Equation",
+    "author": "David Thomson",
+    "year": 2004,
+    "isbn_13": "9784394549116",
+    "isbn_10": "4394549115",
+    "pages": 416,
+    "genres": [
+      "Non-Fiction",
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The New Biographical Dictionary of Film",
+    "author": "David Thomson",
+    "year": 2010,
+    "isbn_13": "9789795714156",
+    "isbn_10": "9795714156",
+    "pages": 1104,
+    "genres": [
+      "Non-Fiction",
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Big Screen",
+    "author": "David Thomson",
+    "year": 2012,
+    "isbn_13": "9782543421016",
+    "isbn_10": "2543421014",
+    "pages": 592,
+    "genres": [
+      "Non-Fiction",
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "How to Watch a Movie",
+    "author": "David Thomson",
+    "year": 2015,
+    "isbn_13": "9785042183508",
+    "isbn_10": "5042183504",
+    "pages": 256,
+    "genres": [
+      "Non-Fiction",
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Television: A Biography",
+    "author": "David Thomson",
+    "year": 2016,
+    "isbn_13": "9788700188501",
+    "isbn_10": "8700188505",
+    "pages": 544,
+    "genres": [
+      "Non-Fiction",
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "I Lost It at the Movies",
+    "author": "Pauline Kael",
+    "year": 1965,
+    "isbn_13": "9787132205800",
+    "isbn_10": "7132205808",
+    "pages": 365,
+    "genres": [
+      "Non-Fiction",
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Kiss Kiss Bang Bang",
+    "author": "Pauline Kael",
+    "year": 1968,
+    "isbn_13": "9785302947833",
+    "isbn_10": "5302947833",
+    "pages": 404,
+    "genres": [
+      "Non-Fiction",
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Going Steady",
+    "author": "Pauline Kael",
+    "year": 1970,
+    "isbn_13": "9782821590052",
+    "isbn_10": "2821590052",
+    "pages": 321,
+    "genres": [
+      "Non-Fiction",
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Citizen Kane Book",
+    "author": "Pauline Kael",
+    "year": 1971,
+    "isbn_13": "9785057525560",
+    "isbn_10": "5057525566",
+    "pages": 440,
+    "genres": [
+      "Non-Fiction",
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Deeper into Movies",
+    "author": "Pauline Kael",
+    "year": 1973,
+    "isbn_13": "9780301602479",
+    "isbn_10": "0301602475",
+    "pages": 458,
+    "genres": [
+      "Non-Fiction",
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Reeling",
+    "author": "Pauline Kael",
+    "year": 1976,
+    "isbn_13": "9781555154141",
+    "isbn_10": "1555154141",
+    "pages": 490,
+    "genres": [
+      "Non-Fiction",
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "When the Lights Go Down",
+    "author": "Pauline Kael",
+    "year": 1980,
+    "isbn_13": "9787405933898",
+    "isbn_10": "7405933890",
+    "pages": 592,
+    "genres": [
+      "Non-Fiction",
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Taking It All In",
+    "author": "Pauline Kael",
+    "year": 1984,
+    "isbn_13": "9782187724924",
+    "isbn_10": "218772492X",
+    "pages": 528,
+    "genres": [
+      "Non-Fiction",
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "State of the Art",
+    "author": "Pauline Kael",
+    "year": 1985,
+    "isbn_13": "9782481020227",
+    "isbn_10": "2481020224",
+    "pages": 384,
+    "genres": [
+      "Non-Fiction",
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Hooked",
+    "author": "Pauline Kael",
+    "year": 1989,
+    "isbn_13": "9785676235376",
+    "isbn_10": "5676235378",
+    "pages": 384,
+    "genres": [
+      "Non-Fiction",
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Movie Love",
+    "author": "Pauline Kael",
+    "year": 1991,
+    "isbn_13": "9780053514532",
+    "isbn_10": "0053514531",
+    "pages": 384,
+    "genres": [
+      "Non-Fiction",
+      "Cinema"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "For Keeps",
+    "author": "Pauline Kael",
+    "year": 1994,
+    "isbn_13": "9781560136255",
+    "isbn_10": "156013625X",
+    "pages": 1291,
+    "genres": [
+      "Non-Fiction",
+      "Cinema"
+    ],
+    "language": "en"
+  }
+]
