@@ -1,0 +1,1321 @@
+[
+  {
+    "title": "Antonina",
+    "author": "Wilkie Collins",
+    "year": 1850,
+    "isbn_13": "9789470249034",
+    "isbn_10": "9470249033",
+    "pages": 432,
+    "genres": [
+      "Mystery",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Basil",
+    "author": "Wilkie Collins",
+    "year": 1852,
+    "isbn_13": "9780140613667",
+    "isbn_10": "0140613663",
+    "pages": 312,
+    "genres": [
+      "Mystery",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Hide and Seek",
+    "author": "Wilkie Collins",
+    "year": 1854,
+    "isbn_13": "9784854435249",
+    "isbn_10": "4854435240",
+    "pages": 400,
+    "genres": [
+      "Mystery",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Dead Secret",
+    "author": "Wilkie Collins",
+    "year": 1857,
+    "isbn_13": "9783154187810",
+    "isbn_10": "3154187819",
+    "pages": 384,
+    "genres": [
+      "Mystery",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "No Name",
+    "author": "Wilkie Collins",
+    "year": 1862,
+    "isbn_13": "9783446705821",
+    "isbn_10": "344670582X",
+    "pages": 688,
+    "genres": [
+      "Mystery",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Armadale",
+    "author": "Wilkie Collins",
+    "year": 1866,
+    "isbn_13": "9784749414328",
+    "isbn_10": "4749414323",
+    "pages": 720,
+    "genres": [
+      "Mystery",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Man and Wife",
+    "author": "Wilkie Collins",
+    "year": 1870,
+    "isbn_13": "9783019133723",
+    "isbn_10": "3019133725",
+    "pages": 640,
+    "genres": [
+      "Mystery",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Poor Miss Finch",
+    "author": "Wilkie Collins",
+    "year": 1872,
+    "isbn_13": "9785466561463",
+    "isbn_10": "5466561460",
+    "pages": 352,
+    "genres": [
+      "Mystery",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Law and the Lady",
+    "author": "Wilkie Collins",
+    "year": 1875,
+    "isbn_13": "9787948048479",
+    "isbn_10": "7948048479",
+    "pages": 448,
+    "genres": [
+      "Mystery",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Haunted Hotel",
+    "author": "Wilkie Collins",
+    "year": 1878,
+    "isbn_13": "9782932557746",
+    "isbn_10": "2932557749",
+    "pages": 192,
+    "genres": [
+      "Mystery",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Warden",
+    "author": "Anthony Trollope",
+    "year": 1855,
+    "isbn_13": "9780880872539",
+    "isbn_10": "0880872536",
+    "pages": 247,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Barchester Towers",
+    "author": "Anthony Trollope",
+    "year": 1857,
+    "isbn_13": "9782511081310",
+    "isbn_10": "2511081313",
+    "pages": 532,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Doctor Thorne",
+    "author": "Anthony Trollope",
+    "year": 1858,
+    "isbn_13": "9789044252415",
+    "isbn_10": "9044252410",
+    "pages": 524,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Framley Parsonage",
+    "author": "Anthony Trollope",
+    "year": 1861,
+    "isbn_13": "9784429454927",
+    "isbn_10": "4429454929",
+    "pages": 496,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Small House at Allington",
+    "author": "Anthony Trollope",
+    "year": 1864,
+    "isbn_13": "9788111937057",
+    "isbn_10": "8111937052",
+    "pages": 724,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Last Chronicle of Barset",
+    "author": "Anthony Trollope",
+    "year": 1867,
+    "isbn_13": "9780032513761",
+    "isbn_10": "0032513768",
+    "pages": 932,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Can You Forgive Her?",
+    "author": "Anthony Trollope",
+    "year": 1864,
+    "isbn_13": "9780867524543",
+    "isbn_10": "0867524546",
+    "pages": 848,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Phineas Finn",
+    "author": "Anthony Trollope",
+    "year": 1869,
+    "isbn_13": "9781299455030",
+    "isbn_10": "1299455037",
+    "pages": 743,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Eustace Diamonds",
+    "author": "Anthony Trollope",
+    "year": 1873,
+    "isbn_13": "9784464193713",
+    "isbn_10": "4464193717",
+    "pages": 736,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Phineas Redux",
+    "author": "Anthony Trollope",
+    "year": 1874,
+    "isbn_13": "9782159633872",
+    "isbn_10": "2159633872",
+    "pages": 636,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Prime Minister",
+    "author": "Anthony Trollope",
+    "year": 1876,
+    "isbn_13": "9785485583699",
+    "isbn_10": "5485583696",
+    "pages": 625,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Duke's Children",
+    "author": "Anthony Trollope",
+    "year": 1880,
+    "isbn_13": "9787246316539",
+    "isbn_10": "724631653X",
+    "pages": 640,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Way We Live Now",
+    "author": "Anthony Trollope",
+    "year": 1875,
+    "isbn_13": "9785341091702",
+    "isbn_10": "534109170X",
+    "pages": 896,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "He Knew He Was Right",
+    "author": "Anthony Trollope",
+    "year": 1869,
+    "isbn_13": "9788221403459",
+    "isbn_10": "8221403453",
+    "pages": 848,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Orley Farm",
+    "author": "Anthony Trollope",
+    "year": 1862,
+    "isbn_13": "9789061320555",
+    "isbn_10": "9061320550",
+    "pages": 832,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Claverings",
+    "author": "Anthony Trollope",
+    "year": 1867,
+    "isbn_13": "9783063164780",
+    "isbn_10": "3063164781",
+    "pages": 412,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Alexander's Bridge",
+    "author": "Willa Cather",
+    "year": 1912,
+    "isbn_13": "9780433659273",
+    "isbn_10": "0433659270",
+    "pages": 155,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "O Pioneers!",
+    "author": "Willa Cather",
+    "year": 1913,
+    "isbn_13": "9786011789592",
+    "isbn_10": "6011789596",
+    "pages": 308,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Song of the Lark",
+    "author": "Willa Cather",
+    "year": 1915,
+    "isbn_13": "9786513980428",
+    "isbn_10": "6513980422",
+    "pages": 580,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "My \u00c1ntonia",
+    "author": "Willa Cather",
+    "year": 1918,
+    "isbn_13": "9781618035325",
+    "isbn_10": "1618035320",
+    "pages": 372,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "One of Ours",
+    "author": "Willa Cather",
+    "year": 1922,
+    "isbn_13": "9781452150413",
+    "isbn_10": "1452150412",
+    "pages": 459,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Lost Lady",
+    "author": "Willa Cather",
+    "year": 1923,
+    "isbn_13": "9789022378335",
+    "isbn_10": "9022378330",
+    "pages": 173,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Professor's House",
+    "author": "Willa Cather",
+    "year": 1925,
+    "isbn_13": "9783827257611",
+    "isbn_10": "382725761X",
+    "pages": 283,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "My Mortal Enemy",
+    "author": "Willa Cather",
+    "year": 1926,
+    "isbn_13": "9788403171718",
+    "isbn_10": "8403171717",
+    "pages": 122,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Death Comes for the Archbishop",
+    "author": "Willa Cather",
+    "year": 1927,
+    "isbn_13": "9782665001660",
+    "isbn_10": "2665001664",
+    "pages": 297,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Shadows on the Rock",
+    "author": "Willa Cather",
+    "year": 1931,
+    "isbn_13": "9785131227489",
+    "isbn_10": "5131227483",
+    "pages": 280,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Lucy Gayheart",
+    "author": "Willa Cather",
+    "year": 1935,
+    "isbn_13": "9781009122177",
+    "isbn_10": "1009122174",
+    "pages": 231,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sapphira and the Slave Girl",
+    "author": "Willa Cather",
+    "year": 1940,
+    "isbn_13": "9788353307687",
+    "isbn_10": "8353307686",
+    "pages": 295,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The House of Mirth",
+    "author": "Edith Wharton",
+    "year": 1905,
+    "isbn_13": "9789749664216",
+    "isbn_10": "9749664218",
+    "pages": 329,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Reef",
+    "author": "Edith Wharton",
+    "year": 1912,
+    "isbn_13": "9784929713326",
+    "isbn_10": "4929713328",
+    "pages": 367,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Custom of the Country",
+    "author": "Edith Wharton",
+    "year": 1913,
+    "isbn_13": "9784453024714",
+    "isbn_10": "445302471X",
+    "pages": 594,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Summer",
+    "author": "Edith Wharton",
+    "year": 1917,
+    "isbn_13": "9787710235212",
+    "isbn_10": "7710235219",
+    "pages": 235,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Age of Innocence",
+    "author": "Edith Wharton",
+    "year": 1920,
+    "isbn_13": "9785021441933",
+    "isbn_10": "5021441930",
+    "pages": 364,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Glimpses of the Moon",
+    "author": "Edith Wharton",
+    "year": 1922,
+    "isbn_13": "9784213700568",
+    "isbn_10": "4213700562",
+    "pages": 306,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Son at the Front",
+    "author": "Edith Wharton",
+    "year": 1923,
+    "isbn_13": "9781414156521",
+    "isbn_10": "1414156522",
+    "pages": 426,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Old New York",
+    "author": "Edith Wharton",
+    "year": 1924,
+    "isbn_13": "9788406507439",
+    "isbn_10": "8406507433",
+    "pages": 304,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Mother's Recompense",
+    "author": "Edith Wharton",
+    "year": 1925,
+    "isbn_13": "9789400291720",
+    "isbn_10": "9400291723",
+    "pages": 341,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Twilight Sleep",
+    "author": "Edith Wharton",
+    "year": 1927,
+    "isbn_13": "9788404074162",
+    "isbn_10": "8404074161",
+    "pages": 372,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Children",
+    "author": "Edith Wharton",
+    "year": 1928,
+    "isbn_13": "9780456790281",
+    "isbn_10": "0456790287",
+    "pages": 354,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Hudson River Bracketed",
+    "author": "Edith Wharton",
+    "year": 1929,
+    "isbn_13": "9785484425402",
+    "isbn_10": "5484425402",
+    "pages": 536,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Gods Arrive",
+    "author": "Edith Wharton",
+    "year": 1932,
+    "isbn_13": "9785446193486",
+    "isbn_10": "5446193489",
+    "pages": 431,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Buccaneers",
+    "author": "Edith Wharton",
+    "year": 1938,
+    "isbn_13": "9783454835695",
+    "isbn_10": "3454835690",
+    "pages": 371,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ethan Frome",
+    "author": "Edith Wharton",
+    "year": 1911,
+    "isbn_13": "9781328185587",
+    "isbn_10": "1328185588",
+    "pages": 195,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Main Street",
+    "author": "Sinclair Lewis",
+    "year": 1920,
+    "isbn_13": "9781232993216",
+    "isbn_10": "1232993219",
+    "pages": 451,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Babbitt",
+    "author": "Sinclair Lewis",
+    "year": 1922,
+    "isbn_13": "9784011522584",
+    "isbn_10": "4011522582",
+    "pages": 392,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Arrowsmith",
+    "author": "Sinclair Lewis",
+    "year": 1925,
+    "isbn_13": "9784423165010",
+    "isbn_10": "4423165016",
+    "pages": 461,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Elmer Gantry",
+    "author": "Sinclair Lewis",
+    "year": 1927,
+    "isbn_13": "9789014526751",
+    "isbn_10": "9014526751",
+    "pages": 432,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dodsworth",
+    "author": "Sinclair Lewis",
+    "year": 1929,
+    "isbn_13": "9787219353837",
+    "isbn_10": "7219353832",
+    "pages": 377,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Kingsblood Royal",
+    "author": "Sinclair Lewis",
+    "year": 1947,
+    "isbn_13": "9783843431903",
+    "isbn_10": "3843431905",
+    "pages": 309,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Three Soldiers",
+    "author": "John Dos Passos",
+    "year": 1921,
+    "isbn_13": "9784075608712",
+    "isbn_10": "4075608712",
+    "pages": 433,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Manhattan Transfer",
+    "author": "John Dos Passos",
+    "year": 1925,
+    "isbn_13": "9781033818831",
+    "isbn_10": "1033818835",
+    "pages": 404,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The 42nd Parallel",
+    "author": "John Dos Passos",
+    "year": 1930,
+    "isbn_13": "9787141413302",
+    "isbn_10": "7141413303",
+    "pages": 447,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "1919",
+    "author": "John Dos Passos",
+    "year": 1932,
+    "isbn_13": "9783233752939",
+    "isbn_10": "3233752933",
+    "pages": 473,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Big Money",
+    "author": "John Dos Passos",
+    "year": 1936,
+    "isbn_13": "9782103401113",
+    "isbn_10": "2103401116",
+    "pages": 561,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Adventures of a Young Man",
+    "author": "John Dos Passos",
+    "year": 1939,
+    "isbn_13": "9784575702446",
+    "isbn_10": "4575702444",
+    "pages": 322,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Number One",
+    "author": "John Dos Passos",
+    "year": 1943,
+    "isbn_13": "9781349550067",
+    "isbn_10": "1349550061",
+    "pages": 303,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Grand Design",
+    "author": "John Dos Passos",
+    "year": 1949,
+    "isbn_13": "9784099873608",
+    "isbn_10": "4099873602",
+    "pages": 441,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Midcentury",
+    "author": "John Dos Passos",
+    "year": 1961,
+    "isbn_13": "9785434841825",
+    "isbn_10": "5434841827",
+    "pages": 496,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sister Carrie",
+    "author": "Theodore Dreiser",
+    "year": 1900,
+    "isbn_13": "9781210429546",
+    "isbn_10": "1210429548",
+    "pages": 557,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Jennie Gerhardt",
+    "author": "Theodore Dreiser",
+    "year": 1911,
+    "isbn_13": "9788460210986",
+    "isbn_10": "8460210984",
+    "pages": 723,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Financier",
+    "author": "Theodore Dreiser",
+    "year": 1912,
+    "isbn_13": "9788179328309",
+    "isbn_10": "8179328302",
+    "pages": 779,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Titan",
+    "author": "Theodore Dreiser",
+    "year": 1914,
+    "isbn_13": "9787525263189",
+    "isbn_10": "7525263188",
+    "pages": 551,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The 'Genius'",
+    "author": "Theodore Dreiser",
+    "year": 1915,
+    "isbn_13": "9782024215264",
+    "isbn_10": "2024215269",
+    "pages": 736,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "An American Tragedy",
+    "author": "Theodore Dreiser",
+    "year": 1925,
+    "isbn_13": "9784406014274",
+    "isbn_10": "4406014275",
+    "pages": 856,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Bulwark",
+    "author": "Theodore Dreiser",
+    "year": 1946,
+    "isbn_13": "9786919424571",
+    "isbn_10": "6919424575",
+    "pages": 337,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Stoic",
+    "author": "Theodore Dreiser",
+    "year": 1947,
+    "isbn_13": "9788146695915",
+    "isbn_10": "8146695917",
+    "pages": 310,
+    "genres": [
+      "Literary Fiction",
+      "Classic"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Feast of All Saints",
+    "author": "Anne Rice",
+    "year": 1979,
+    "isbn_13": "9789538682049",
+    "isbn_10": "953868204X",
+    "pages": 571,
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Cry to Heaven",
+    "author": "Anne Rice",
+    "year": 1982,
+    "isbn_13": "9782154846055",
+    "isbn_10": "2154846051",
+    "pages": 522,
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dead Until Dark",
+    "author": "Charlaine Harris",
+    "year": 2001,
+    "isbn_13": "9787144512231",
+    "isbn_10": "7144512237",
+    "pages": 292,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Living Dead in Dallas",
+    "author": "Charlaine Harris",
+    "year": 2002,
+    "isbn_13": "9785364734815",
+    "isbn_10": "536473481X",
+    "pages": 291,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Club Dead",
+    "author": "Charlaine Harris",
+    "year": 2003,
+    "isbn_13": "9785709291003",
+    "isbn_10": "5709291006",
+    "pages": 292,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dead to the World",
+    "author": "Charlaine Harris",
+    "year": 2004,
+    "isbn_13": "9785221480015",
+    "isbn_10": "5221480013",
+    "pages": 291,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dead as a Doornail",
+    "author": "Charlaine Harris",
+    "year": 2005,
+    "isbn_13": "9784152359520",
+    "isbn_10": "4152359523",
+    "pages": 295,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Definitely Dead",
+    "author": "Charlaine Harris",
+    "year": 2006,
+    "isbn_13": "9783841120991",
+    "isbn_10": "3841120994",
+    "pages": 324,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "All Together Dead",
+    "author": "Charlaine Harris",
+    "year": 2007,
+    "isbn_13": "9784424709336",
+    "isbn_10": "4424709334",
+    "pages": 323,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "From Dead to Worse",
+    "author": "Charlaine Harris",
+    "year": 2008,
+    "isbn_13": "9785271923524",
+    "isbn_10": "5271923526",
+    "pages": 350,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dead and Gone",
+    "author": "Charlaine Harris",
+    "year": 2009,
+    "isbn_13": "9789000701056",
+    "isbn_10": "9000701053",
+    "pages": 311,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dead in the Family",
+    "author": "Charlaine Harris",
+    "year": 2010,
+    "isbn_13": "9785822436015",
+    "isbn_10": "5822436018",
+    "pages": 311,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dead Reckoning",
+    "author": "Charlaine Harris",
+    "year": 2011,
+    "isbn_13": "9780949154026",
+    "isbn_10": "0949154027",
+    "pages": 325,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Deadlocked",
+    "author": "Charlaine Harris",
+    "year": 2012,
+    "isbn_13": "9780281940431",
+    "isbn_10": "0281940435",
+    "pages": 325,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dead Ever After",
+    "author": "Charlaine Harris",
+    "year": 2013,
+    "isbn_13": "9784435279194",
+    "isbn_10": "4435279198",
+    "pages": 338,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Bone to Pick",
+    "author": "Charlaine Harris",
+    "year": 1992,
+    "isbn_13": "9787502672416",
+    "isbn_10": "7502672412",
+    "pages": 215,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Real Murders",
+    "author": "Charlaine Harris",
+    "year": 1990,
+    "isbn_13": "9783128610726",
+    "isbn_10": "3128610721",
+    "pages": 203,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Three Bedrooms, One Corpse",
+    "author": "Charlaine Harris",
+    "year": 1994,
+    "isbn_13": "9781733234146",
+    "isbn_10": "1733234147",
+    "pages": 210,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Julius House",
+    "author": "Charlaine Harris",
+    "year": 1995,
+    "isbn_13": "9784743311913",
+    "isbn_10": "4743311913",
+    "pages": 216,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Shakespeare's Landlord",
+    "author": "Charlaine Harris",
+    "year": 1996,
+    "isbn_13": "9780322651210",
+    "isbn_10": "0322651219",
+    "pages": 215,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Shakespeare's Champion",
+    "author": "Charlaine Harris",
+    "year": 1997,
+    "isbn_13": "9780120595372",
+    "isbn_10": "0120595370",
+    "pages": 209,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dead Witch Walking",
+    "author": "Kim Harrison",
+    "year": 2004,
+    "isbn_13": "9783717569565",
+    "isbn_10": "3717569569",
+    "pages": 416,
+    "genres": [
+      "Fantasy",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Good, the Bad, and the Undead",
+    "author": "Kim Harrison",
+    "year": 2005,
+    "isbn_13": "9784182695308",
+    "isbn_10": "4182695306",
+    "pages": 453,
+    "genres": [
+      "Fantasy",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Every Which Way But Dead",
+    "author": "Kim Harrison",
+    "year": 2005,
+    "isbn_13": "9783442712830",
+    "isbn_10": "344271283X",
+    "pages": 501,
+    "genres": [
+      "Fantasy",
+      "Mystery"
+    ],
+    "language": "en"
+  }
+]
