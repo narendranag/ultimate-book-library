@@ -1,0 +1,1258 @@
+[
+  {
+    "title": "Cleaned Out",
+    "author": "Annie Ernaux",
+    "year": 1974,
+    "isbn_13": "9780054492525",
+    "isbn_10": "005449252X",
+    "pages": 128,
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "A Woman's Story",
+    "author": "Annie Ernaux",
+    "year": 1988,
+    "isbn_13": "9784819119627",
+    "isbn_10": "481911962X",
+    "pages": 106,
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "A Man's Place",
+    "author": "Annie Ernaux",
+    "year": 1983,
+    "isbn_13": "9789394099944",
+    "isbn_10": "9394099943",
+    "pages": 99,
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Shame",
+    "author": "Annie Ernaux",
+    "year": 1997,
+    "isbn_13": "9780300421323",
+    "isbn_10": "0300421321",
+    "pages": 112,
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Simple Passion",
+    "author": "Annie Ernaux",
+    "year": 1991,
+    "isbn_13": "9780210560341",
+    "isbn_10": "0210560344",
+    "pages": 76,
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Happening",
+    "author": "Annie Ernaux",
+    "year": 2000,
+    "isbn_13": "9783638133319",
+    "isbn_10": "363813331X",
+    "pages": 96,
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "The Years",
+    "author": "Annie Ernaux",
+    "year": 2008,
+    "isbn_13": "9784889534801",
+    "isbn_10": "4889534805",
+    "pages": 232,
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "A Girl's Story",
+    "author": "Annie Ernaux",
+    "year": 2016,
+    "isbn_13": "9784138035424",
+    "isbn_10": "4138035424",
+    "pages": 176,
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Getting Lost",
+    "author": "Annie Ernaux",
+    "year": 2022,
+    "isbn_13": "9787408525373",
+    "isbn_10": "7408525373",
+    "pages": 240,
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "Look at the Lights, My Love",
+    "author": "Annie Ernaux",
+    "year": 2014,
+    "isbn_13": "9783052243311",
+    "isbn_10": "3052243317",
+    "pages": 68,
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "fr"
+  },
+  {
+    "title": "How to Win at College",
+    "author": "Cal Newport",
+    "year": 2005,
+    "isbn_13": "9785360792246",
+    "isbn_10": "5360792243",
+    "pages": 192,
+    "genres": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "How to Become a Straight-A Student",
+    "author": "Cal Newport",
+    "year": 2006,
+    "isbn_13": "9787393198415",
+    "isbn_10": "7393198411",
+    "pages": 224,
+    "genres": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Utopia for Realists",
+    "author": "Rutger Bregman",
+    "year": 2014,
+    "isbn_13": "9780090043804",
+    "isbn_10": "0090043807",
+    "pages": 336,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Humankind",
+    "author": "Rutger Bregman",
+    "year": 2019,
+    "isbn_13": "9783446714519",
+    "isbn_10": "3446714510",
+    "pages": 480,
+    "genres": [
+      "Non-Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Down Girl",
+    "author": "Kate Manne",
+    "year": 2017,
+    "isbn_13": "9787385401936",
+    "isbn_10": "7385401934",
+    "pages": 368,
+    "genres": [
+      "Non-Fiction",
+      "Philosophy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Entitled",
+    "author": "Kate Manne",
+    "year": 2020,
+    "isbn_13": "9785125562152",
+    "isbn_10": "5125562154",
+    "pages": 288,
+    "genres": [
+      "Non-Fiction",
+      "Philosophy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Unshrinking",
+    "author": "Kate Manne",
+    "year": 2024,
+    "isbn_13": "9785096533281",
+    "isbn_10": "5096533281",
+    "pages": 288,
+    "genres": [
+      "Non-Fiction",
+      "Philosophy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "You Shall Know Our Velocity!",
+    "author": "Dave Eggers",
+    "year": 2002,
+    "isbn_13": "9780259100720",
+    "isbn_10": "0259100729",
+    "pages": 371,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Hologram for the King",
+    "author": "Dave Eggers",
+    "year": 2012,
+    "isbn_13": "9788026202172",
+    "isbn_10": "802620217X",
+    "pages": 312,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Circle",
+    "author": "Dave Eggers",
+    "year": 2013,
+    "isbn_13": "9783886014569",
+    "isbn_10": "3886014563",
+    "pages": 491,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Your Fathers, Where Are They?",
+    "author": "Dave Eggers",
+    "year": 2014,
+    "isbn_13": "9781644112151",
+    "isbn_10": "1644112152",
+    "pages": 211,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Heroes of the Frontier",
+    "author": "Dave Eggers",
+    "year": 2016,
+    "isbn_13": "9780581625090",
+    "isbn_10": "0581625092",
+    "pages": 384,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Monk of Mokha",
+    "author": "Dave Eggers",
+    "year": 2018,
+    "isbn_13": "9789123094516",
+    "isbn_10": "9123094515",
+    "pages": 327,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Parade",
+    "author": "Dave Eggers",
+    "year": 2019,
+    "isbn_13": "9781323056721",
+    "isbn_10": "1323056725",
+    "pages": 208,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Every",
+    "author": "Dave Eggers",
+    "year": 2021,
+    "isbn_13": "9786223512940",
+    "isbn_10": "6223512946",
+    "pages": 576,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Eyes and the Impossible",
+    "author": "Dave Eggers",
+    "year": 2023,
+    "isbn_13": "9785562440334",
+    "isbn_10": "5562440337",
+    "pages": 224,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Nix",
+    "author": "Nathan Hill",
+    "year": 2016,
+    "isbn_13": "9780990502456",
+    "isbn_10": "0990502454",
+    "pages": 620,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Wellness",
+    "author": "Nathan Hill",
+    "year": 2023,
+    "isbn_13": "9783568344731",
+    "isbn_10": "3568344737",
+    "pages": 608,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Animal Dreams",
+    "author": "Barbara Kingsolver",
+    "year": 1990,
+    "isbn_13": "9783885858621",
+    "isbn_10": "3885858629",
+    "pages": 342,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Mohawk",
+    "author": "Richard Russo",
+    "year": 1986,
+    "isbn_13": "9784050787722",
+    "isbn_10": "4050787726",
+    "pages": 416,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Risk Pool",
+    "author": "Richard Russo",
+    "year": 1988,
+    "isbn_13": "9783345335099",
+    "isbn_10": "3345335098",
+    "pages": 479,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Nobody's Fool",
+    "author": "Richard Russo",
+    "year": 1993,
+    "isbn_13": "9780352022615",
+    "isbn_10": "0352022619",
+    "pages": 549,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Straight Man",
+    "author": "Richard Russo",
+    "year": 1997,
+    "isbn_13": "9780504240119",
+    "isbn_10": "0504240110",
+    "pages": 391,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Empire Falls",
+    "author": "Richard Russo",
+    "year": 2001,
+    "isbn_13": "9785534336047",
+    "isbn_10": "5534336043",
+    "pages": 483,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Whore's Child",
+    "author": "Richard Russo",
+    "year": 2002,
+    "isbn_13": "9781233641154",
+    "isbn_10": "1233641153",
+    "pages": 225,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bridge of Sighs",
+    "author": "Richard Russo",
+    "year": 2007,
+    "isbn_13": "9786947452195",
+    "isbn_10": "6947452193",
+    "pages": 528,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "That Old Cape Magic",
+    "author": "Richard Russo",
+    "year": 2009,
+    "isbn_13": "9789262874154",
+    "isbn_10": "9262874157",
+    "pages": 261,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Everybody's Fool",
+    "author": "Richard Russo",
+    "year": 2016,
+    "isbn_13": "9781927529119",
+    "isbn_10": "1927529116",
+    "pages": 485,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Chances Are...",
+    "author": "Richard Russo",
+    "year": 2019,
+    "isbn_13": "9780313053849",
+    "isbn_10": "0313053844",
+    "pages": 290,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Come to Me",
+    "author": "Amy Bloom",
+    "year": 1993,
+    "isbn_13": "9787910817676",
+    "isbn_10": "7910817678",
+    "pages": 176,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Love Invents Us",
+    "author": "Amy Bloom",
+    "year": 1997,
+    "isbn_13": "9785042144356",
+    "isbn_10": "5042144353",
+    "pages": 192,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Blind Man Can See How Much I Love You",
+    "author": "Amy Bloom",
+    "year": 2000,
+    "isbn_13": "9783265383156",
+    "isbn_10": "3265383155",
+    "pages": 192,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Away",
+    "author": "Amy Bloom",
+    "year": 2007,
+    "isbn_13": "9789409741134",
+    "isbn_10": "9409741130",
+    "pages": 304,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Where the God of Love Hangs Out",
+    "author": "Amy Bloom",
+    "year": 2010,
+    "isbn_13": "9785745663321",
+    "isbn_10": "5745663327",
+    "pages": 224,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Lucky Us",
+    "author": "Amy Bloom",
+    "year": 2014,
+    "isbn_13": "9782305796130",
+    "isbn_10": "2305796134",
+    "pages": 256,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "White Houses",
+    "author": "Amy Bloom",
+    "year": 2018,
+    "isbn_13": "9780408867450",
+    "isbn_10": "0408867450",
+    "pages": 256,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "In Love",
+    "author": "Amy Bloom",
+    "year": 2022,
+    "isbn_13": "9780242051220",
+    "isbn_10": "0242051224",
+    "pages": 240,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "All Aunt Hagar's Children",
+    "author": "Edward P. Jones",
+    "year": 2006,
+    "isbn_13": "9781154807721",
+    "isbn_10": "1154807721",
+    "pages": 399,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Miracle at St. Anna",
+    "author": "James McBride",
+    "year": 2002,
+    "isbn_13": "9781540451378",
+    "isbn_10": "1540451379",
+    "pages": 271,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Song Yet Sung",
+    "author": "James McBride",
+    "year": 2008,
+    "isbn_13": "9789259922998",
+    "isbn_10": "9259922999",
+    "pages": 359,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Good Lord Bird",
+    "author": "James McBride",
+    "year": 2013,
+    "isbn_13": "9783442598182",
+    "isbn_10": "3442598187",
+    "pages": 417,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Kill 'Em and Leave",
+    "author": "James McBride",
+    "year": 2016,
+    "isbn_13": "9788822123176",
+    "isbn_10": "8822123177",
+    "pages": 228,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Bluesman",
+    "author": "Andre Dubus III",
+    "year": 1993,
+    "isbn_13": "9787509511145",
+    "isbn_10": "7509511148",
+    "pages": 288,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "House of Sand and Fog",
+    "author": "Andre Dubus III",
+    "year": 1999,
+    "isbn_13": "9784434030031",
+    "isbn_10": "4434030036",
+    "pages": 365,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Garden of Last Days",
+    "author": "Andre Dubus III",
+    "year": 2008,
+    "isbn_13": "9785199304689",
+    "isbn_10": "5199304689",
+    "pages": 537,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Townie",
+    "author": "Andre Dubus III",
+    "year": 2011,
+    "isbn_13": "9780721305127",
+    "isbn_10": "072130512X",
+    "pages": 387,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dirty Love",
+    "author": "Andre Dubus III",
+    "year": 2013,
+    "isbn_13": "9789685540186",
+    "isbn_10": "9685540184",
+    "pages": 320,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Gone So Long",
+    "author": "Andre Dubus III",
+    "year": 2018,
+    "isbn_13": "9783216164353",
+    "isbn_10": "3216164354",
+    "pages": 384,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Such Kindness",
+    "author": "Andre Dubus III",
+    "year": 2023,
+    "isbn_13": "9782089944352",
+    "isbn_10": "2089944353",
+    "pages": 368,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Water Witches",
+    "author": "Chris Bohjalian",
+    "year": 1995,
+    "isbn_13": "9785490312239",
+    "isbn_10": "5490312233",
+    "pages": 320,
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Midwives",
+    "author": "Chris Bohjalian",
+    "year": 1997,
+    "isbn_13": "9786855741244",
+    "isbn_10": "6855741241",
+    "pages": 320,
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Law of Similars",
+    "author": "Chris Bohjalian",
+    "year": 1999,
+    "isbn_13": "9787122260154",
+    "isbn_10": "712226015X",
+    "pages": 288,
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Trans-Sister Radio",
+    "author": "Chris Bohjalian",
+    "year": 2000,
+    "isbn_13": "9785253339770",
+    "isbn_10": "5253339772",
+    "pages": 288,
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Buffalo Soldier",
+    "author": "Chris Bohjalian",
+    "year": 2002,
+    "isbn_13": "9782474705957",
+    "isbn_10": "2474705958",
+    "pages": 320,
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Before You Know Kindness",
+    "author": "Chris Bohjalian",
+    "year": 2004,
+    "isbn_13": "9785550322000",
+    "isbn_10": "5550322006",
+    "pages": 400,
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Double Bind",
+    "author": "Chris Bohjalian",
+    "year": 2007,
+    "isbn_13": "9782366144451",
+    "isbn_10": "2366144453",
+    "pages": 384,
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Skeletons at the Feast",
+    "author": "Chris Bohjalian",
+    "year": 2008,
+    "isbn_13": "9789514983245",
+    "isbn_10": "9514983245",
+    "pages": 384,
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Secrets of Eden",
+    "author": "Chris Bohjalian",
+    "year": 2010,
+    "isbn_13": "9784093127844",
+    "isbn_10": "4093127840",
+    "pages": 384,
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Sandcastle Girls",
+    "author": "Chris Bohjalian",
+    "year": 2012,
+    "isbn_13": "9788239195667",
+    "isbn_10": "8239195660",
+    "pages": 320,
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Close Your Eyes, Hold Hands",
+    "author": "Chris Bohjalian",
+    "year": 2014,
+    "isbn_13": "9788099095633",
+    "isbn_10": "8099095637",
+    "pages": 288,
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Guest Room",
+    "author": "Chris Bohjalian",
+    "year": 2016,
+    "isbn_13": "9781541079151",
+    "isbn_10": "1541079152",
+    "pages": 320,
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Sleepwalker",
+    "author": "Chris Bohjalian",
+    "year": 2017,
+    "isbn_13": "9789457462142",
+    "isbn_10": "9457462142",
+    "pages": 304,
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Flight Attendant",
+    "author": "Chris Bohjalian",
+    "year": 2018,
+    "isbn_13": "9785320005317",
+    "isbn_10": "5320005313",
+    "pages": 368,
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Red Lotus",
+    "author": "Chris Bohjalian",
+    "year": 2020,
+    "isbn_13": "9782570710589",
+    "isbn_10": "2570710581",
+    "pages": 368,
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Hour of the Witch",
+    "author": "Chris Bohjalian",
+    "year": 2021,
+    "isbn_13": "9781322213545",
+    "isbn_10": "1322213549",
+    "pages": 416,
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Lioness",
+    "author": "Chris Bohjalian",
+    "year": 2022,
+    "isbn_13": "9788050420658",
+    "isbn_10": "8050420656",
+    "pages": 368,
+    "genres": [
+      "Literary Fiction",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The King of Lies",
+    "author": "John Hart",
+    "year": 2006,
+    "isbn_13": "9785130513040",
+    "isbn_10": "5130513046",
+    "pages": 311,
+    "genres": [
+      "Thriller",
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Down River",
+    "author": "John Hart",
+    "year": 2007,
+    "isbn_13": "9784470191963",
+    "isbn_10": "4470191966",
+    "pages": 322,
+    "genres": [
+      "Thriller",
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Last Child",
+    "author": "John Hart",
+    "year": 2009,
+    "isbn_13": "9784022124418",
+    "isbn_10": "4022124416",
+    "pages": 373,
+    "genres": [
+      "Thriller",
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Iron House",
+    "author": "John Hart",
+    "year": 2011,
+    "isbn_13": "9786194656124",
+    "isbn_10": "6194656128",
+    "pages": 432,
+    "genres": [
+      "Thriller",
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Redemption Road",
+    "author": "John Hart",
+    "year": 2016,
+    "isbn_13": "9781300145004",
+    "isbn_10": "1300145006",
+    "pages": 432,
+    "genres": [
+      "Thriller",
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Hush",
+    "author": "John Hart",
+    "year": 2018,
+    "isbn_13": "9787209335836",
+    "isbn_10": "7209335833",
+    "pages": 416,
+    "genres": [
+      "Thriller",
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Beach Club",
+    "author": "Elin Hilderbrand",
+    "year": 2000,
+    "isbn_13": "9788163182092",
+    "isbn_10": "816318209X",
+    "pages": 416,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Nantucket Nights",
+    "author": "Elin Hilderbrand",
+    "year": 2002,
+    "isbn_13": "9781143306525",
+    "isbn_10": "1143306521",
+    "pages": 288,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Summer People",
+    "author": "Elin Hilderbrand",
+    "year": 2003,
+    "isbn_13": "9783424039986",
+    "isbn_10": "3424039986",
+    "pages": 320,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Blue Bistro",
+    "author": "Elin Hilderbrand",
+    "year": 2005,
+    "isbn_13": "9780201593013",
+    "isbn_10": "0201593014",
+    "pages": 368,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Barefoot",
+    "author": "Elin Hilderbrand",
+    "year": 2007,
+    "isbn_13": "9785087187301",
+    "isbn_10": "5087187304",
+    "pages": 416,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Summer Affair",
+    "author": "Elin Hilderbrand",
+    "year": 2008,
+    "isbn_13": "9784026415758",
+    "isbn_10": "4026415752",
+    "pages": 384,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Castaways",
+    "author": "Elin Hilderbrand",
+    "year": 2009,
+    "isbn_13": "9786121413257",
+    "isbn_10": "6121413256",
+    "pages": 432,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Island",
+    "author": "Elin Hilderbrand",
+    "year": 2010,
+    "isbn_13": "9789039710043",
+    "isbn_10": "9039710041",
+    "pages": 480,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Silver Girl",
+    "author": "Elin Hilderbrand",
+    "year": 2011,
+    "isbn_13": "9783811890428",
+    "isbn_10": "3811890426",
+    "pages": 416,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Summerland",
+    "author": "Elin Hilderbrand",
+    "year": 2012,
+    "isbn_13": "9784242416676",
+    "isbn_10": "4242416672",
+    "pages": 400,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Beautiful Day",
+    "author": "Elin Hilderbrand",
+    "year": 2013,
+    "isbn_13": "9781500040345",
+    "isbn_10": "1500040344",
+    "pages": 432,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Matchmaker",
+    "author": "Elin Hilderbrand",
+    "year": 2014,
+    "isbn_13": "9784432599318",
+    "isbn_10": "4432599315",
+    "pages": 416,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Rumor",
+    "author": "Elin Hilderbrand",
+    "year": 2015,
+    "isbn_13": "9785436252452",
+    "isbn_10": "543625245X",
+    "pages": 384,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Here's to Us",
+    "author": "Elin Hilderbrand",
+    "year": 2016,
+    "isbn_13": "9782753400313",
+    "isbn_10": "2753400313",
+    "pages": 400,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Identicals",
+    "author": "Elin Hilderbrand",
+    "year": 2017,
+    "isbn_13": "9788413245607",
+    "isbn_10": "8413245606",
+    "pages": 416,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Perfect Couple",
+    "author": "Elin Hilderbrand",
+    "year": 2018,
+    "isbn_13": "9783434005926",
+    "isbn_10": "3434005924",
+    "pages": 432,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Summer of '69",
+    "author": "Elin Hilderbrand",
+    "year": 2019,
+    "isbn_13": "9785501427013",
+    "isbn_10": "5501427011",
+    "pages": 416,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "28 Summers",
+    "author": "Elin Hilderbrand",
+    "year": 2020,
+    "isbn_13": "9784311473098",
+    "isbn_10": "4311473096",
+    "pages": 432,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  }
+]

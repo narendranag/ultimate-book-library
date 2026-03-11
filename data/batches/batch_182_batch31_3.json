@@ -1,0 +1,532 @@
+[
+  {
+    "title": "Golden Girl",
+    "author": "Elin Hilderbrand",
+    "year": 2021,
+    "isbn_13": "9784140380017",
+    "isbn_10": "4140380019",
+    "pages": 400,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Hotel Nantucket",
+    "author": "Elin Hilderbrand",
+    "year": 2022,
+    "isbn_13": "9783642948824",
+    "isbn_10": "3642948820",
+    "pages": 416,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Five-Star Weekend",
+    "author": "Elin Hilderbrand",
+    "year": 2023,
+    "isbn_13": "9782253695431",
+    "isbn_10": "2253695439",
+    "pages": 400,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Swan Song",
+    "author": "Elin Hilderbrand",
+    "year": 2024,
+    "isbn_13": "9780923300524",
+    "isbn_10": "0923300521",
+    "pages": 448,
+    "genres": [
+      "Romance",
+      "Women's Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Cry of the Kalahari",
+    "author": "Delia Owens",
+    "year": 1984,
+    "isbn_13": "9784527545503",
+    "isbn_10": "4527545504",
+    "pages": 341,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Eye of the Elephant",
+    "author": "Delia Owens",
+    "year": 1992,
+    "isbn_13": "9789138940105",
+    "isbn_10": "9138940103",
+    "pages": 305,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "year": 2022,
+    "isbn_13": "9782706244230",
+    "isbn_10": "2706244239",
+    "pages": 400,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Last Family in England",
+    "author": "Matt Haig",
+    "year": 2004,
+    "isbn_13": "9780664404444",
+    "isbn_10": "0664404443",
+    "pages": 288,
+    "genres": [
+      "Literary Fiction",
+      "Fantasy"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "After You'd Gone",
+    "author": "Maggie O'Farrell",
+    "year": 2000,
+    "isbn_13": "9780169112158",
+    "isbn_10": "0169112159",
+    "pages": 256,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "My Lover's Lover",
+    "author": "Maggie O'Farrell",
+    "year": 2002,
+    "isbn_13": "9784352081245",
+    "isbn_10": "4352081243",
+    "pages": 240,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Distance Between Us",
+    "author": "Maggie O'Farrell",
+    "year": 2004,
+    "isbn_13": "9780521743938",
+    "isbn_10": "052174393X",
+    "pages": 288,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Vanishing Act of Esme Lennox",
+    "author": "Maggie O'Farrell",
+    "year": 2006,
+    "isbn_13": "9785981042324",
+    "isbn_10": "5981042321",
+    "pages": 245,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Hand That First Held Mine",
+    "author": "Maggie O'Farrell",
+    "year": 2010,
+    "isbn_13": "9784249770252",
+    "isbn_10": "4249770254",
+    "pages": 352,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Instructions for a Heatwave",
+    "author": "Maggie O'Farrell",
+    "year": 2013,
+    "isbn_13": "9782186971312",
+    "isbn_10": "2186971318",
+    "pages": 318,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "This Must Be the Place",
+    "author": "Maggie O'Farrell",
+    "year": 2016,
+    "isbn_13": "9782617521505",
+    "isbn_10": "2617521503",
+    "pages": 390,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "I Am, I Am, I Am",
+    "author": "Maggie O'Farrell",
+    "year": 2017,
+    "isbn_13": "9785746301239",
+    "isbn_10": "5746301231",
+    "pages": 290,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ralph's Party",
+    "author": "Lisa Jewell",
+    "year": 1999,
+    "isbn_13": "9781303243035",
+    "isbn_10": "1303243039",
+    "pages": 344,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Thirtynothing",
+    "author": "Lisa Jewell",
+    "year": 2000,
+    "isbn_13": "9782075247337",
+    "isbn_10": "207524733X",
+    "pages": 384,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "One-Hit Wonder",
+    "author": "Lisa Jewell",
+    "year": 2001,
+    "isbn_13": "9789901889914",
+    "isbn_10": "9901889911",
+    "pages": 400,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Vince & Joy",
+    "author": "Lisa Jewell",
+    "year": 2005,
+    "isbn_13": "9789414324650",
+    "isbn_10": "9414324653",
+    "pages": 400,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Friend of the Family",
+    "author": "Lisa Jewell",
+    "year": 2003,
+    "isbn_13": "9784842462417",
+    "isbn_10": "4842462413",
+    "pages": 384,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "31 Dream Street",
+    "author": "Lisa Jewell",
+    "year": 2007,
+    "isbn_13": "9783548633510",
+    "isbn_10": "3548633511",
+    "pages": 384,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Making of Us",
+    "author": "Lisa Jewell",
+    "year": 2011,
+    "isbn_13": "9788327110190",
+    "isbn_10": "8327110196",
+    "pages": 432,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The House We Grew Up In",
+    "author": "Lisa Jewell",
+    "year": 2013,
+    "isbn_13": "9784772355537",
+    "isbn_10": "4772355534",
+    "pages": 384,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Third Wife",
+    "author": "Lisa Jewell",
+    "year": 2014,
+    "isbn_13": "9782247654222",
+    "isbn_10": "2247654228",
+    "pages": 432,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Girls in the Garden",
+    "author": "Lisa Jewell",
+    "year": 2016,
+    "isbn_13": "9782305018959",
+    "isbn_10": "2305018952",
+    "pages": 384,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "I Found You",
+    "author": "Lisa Jewell",
+    "year": 2017,
+    "isbn_13": "9785444305102",
+    "isbn_10": "5444305100",
+    "pages": 384,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Then She Was Gone",
+    "author": "Lisa Jewell",
+    "year": 2018,
+    "isbn_13": "9780540592302",
+    "isbn_10": "0540592304",
+    "pages": 384,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Watching You",
+    "author": "Lisa Jewell",
+    "year": 2018,
+    "isbn_13": "9780006294207",
+    "isbn_10": "0006294200",
+    "pages": 400,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Family Upstairs",
+    "author": "Lisa Jewell",
+    "year": 2019,
+    "isbn_13": "9784409763292",
+    "isbn_10": "4409763295",
+    "pages": 352,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Invisible Girl",
+    "author": "Lisa Jewell",
+    "year": 2020,
+    "isbn_13": "9783315312464",
+    "isbn_10": "3315312461",
+    "pages": 400,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Night She Disappeared",
+    "author": "Lisa Jewell",
+    "year": 2021,
+    "isbn_13": "9782373011272",
+    "isbn_10": "237301127X",
+    "pages": 384,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Family Remains",
+    "author": "Lisa Jewell",
+    "year": 2022,
+    "isbn_13": "9784112684044",
+    "isbn_10": "4112684046",
+    "pages": 400,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "None of This Is True",
+    "author": "Lisa Jewell",
+    "year": 2023,
+    "isbn_13": "9782121416748",
+    "isbn_10": "2121416742",
+    "pages": 400,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Handful of Heaven",
+    "author": "Kristin Hannah",
+    "year": 1991,
+    "isbn_13": "9787521122213",
+    "isbn_10": "7521122215",
+    "pages": 384,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Enchantment",
+    "author": "Kristin Hannah",
+    "year": 1992,
+    "isbn_13": "9782829210341",
+    "isbn_10": "2829210347",
+    "pages": 384,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Once in Every Life",
+    "author": "Kristin Hannah",
+    "year": 1992,
+    "isbn_13": "9780251303532",
+    "isbn_10": "0251303536",
+    "pages": 384,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "If You Believe",
+    "author": "Kristin Hannah",
+    "year": 1994,
+    "isbn_13": "9783542122256",
+    "isbn_10": "3542122257",
+    "pages": 368,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "When Lightning Strikes",
+    "author": "Kristin Hannah",
+    "year": 1994,
+    "isbn_13": "9783523854329",
+    "isbn_10": "3523854325",
+    "pages": 352,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Waiting for the Moon",
+    "author": "Kristin Hannah",
+    "year": 1995,
+    "isbn_13": "9789657341155",
+    "isbn_10": "9657341152",
+    "pages": 368,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Home Again",
+    "author": "Kristin Hannah",
+    "year": 1996,
+    "isbn_13": "9782010664113",
+    "isbn_10": "2010664115",
+    "pages": 384,
+    "genres": [
+      "Romance",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  }
+]
