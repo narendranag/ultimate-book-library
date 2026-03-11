@@ -2,6 +2,22 @@
   "version": "1.0",
   "books": [
     {
+      "title": "'48",
+      "year": 1996,
+      "isbn_13": "9785214823553",
+      "isbn_10": "5214823551",
+      "pages": 384,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "'Tis",
       "authors": [
         "Frank McCourt"
@@ -1660,6 +1676,23 @@
       "source": "seed"
     },
     {
+      "title": "A Darker Place",
+      "year": 2009,
+      "isbn_13": "9786245409730",
+      "isbn_10": "6245409731",
+      "pages": 336,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Darker Shade of Magic",
       "year": 2015,
       "isbn_13": "9780109285133",
@@ -2155,6 +2188,22 @@
       "source": "seed"
     },
     {
+      "title": "A Foreigner Carrying in the Crook of His Arm a Tiny Bomb",
+      "year": 2010,
+      "isbn_13": "9781341020704",
+      "isbn_10": "1341020708",
+      "pages": 256,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Amitava Kumar"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Free Life",
       "year": 2007,
       "isbn_13": "9782556234337",
@@ -2276,6 +2325,21 @@
       "language": "en",
       "authors": [
         "Amor Towles"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "A Gesture Life",
+      "year": 1999,
+      "isbn_13": "9783203941813",
+      "isbn_10": "3203941818",
+      "pages": 356,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Chang-rae Lee"
       ],
       "source": "seed"
     },
@@ -2873,6 +2937,22 @@
       "source": "seed"
     },
     {
+      "title": "A Life Apart",
+      "year": 2008,
+      "isbn_13": "9788224021476",
+      "isbn_10": "8224021476",
+      "pages": 368,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Neel Mukherjee"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Life in Movies",
       "authors": [
         "Michael Powell"
@@ -3204,6 +3284,21 @@
       "page_count": 277
     },
     {
+      "title": "A Master of Djinn",
+      "year": 2021,
+      "isbn_13": "9789422204128",
+      "isbn_10": "9422204124",
+      "pages": 396,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "P. Djèlí Clark"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Mathematician's Apology",
       "authors": [
         "G.H. Hardy"
@@ -3328,6 +3423,21 @@
       "language": "en",
       "authors": [
         "Poul Anderson"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "A Million Junes",
+      "year": 2017,
+      "isbn_13": "9783958654105",
+      "isbn_10": "3958654101",
+      "pages": 352,
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "authors": [
+        "Emily Henry"
       ],
       "source": "seed"
     },
@@ -4312,6 +4422,23 @@
       "source": "seed"
     },
     {
+      "title": "A Season in Hell",
+      "year": 1989,
+      "isbn_13": "9784535123069",
+      "isbn_10": "4535123068",
+      "pages": 336,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Serpent's Tooth",
       "year": 2013,
       "isbn_13": "9785448271441",
@@ -4340,6 +4467,22 @@
       "language": "en",
       "authors": [
         "Iris Murdoch"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "A Shilling for Candles",
+      "year": 1936,
+      "isbn_13": "9788544400449",
+      "isbn_10": "8544400449",
+      "pages": 256,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Josephine Tey"
       ],
       "source": "seed"
     },
@@ -5008,6 +5151,22 @@
       "page_count": 480
     },
     {
+      "title": "A Time Outside This Time",
+      "year": 2021,
+      "isbn_13": "9780984238453",
+      "isbn_10": "0984238451",
+      "pages": 272,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Amitava Kumar"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "A Time to Die",
       "year": 1989,
       "isbn_13": "9780419107927",
@@ -5037,6 +5196,22 @@
       ],
       "language": "en",
       "page_count": 515,
+      "source": "seed"
+    },
+    {
+      "title": "A Touch of Infinity",
+      "year": 1960,
+      "isbn_13": "9787212835194",
+      "isbn_10": "7212835195",
+      "pages": 224,
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Harlan Ellison"
+      ],
       "source": "seed"
     },
     {
@@ -5781,6 +5956,22 @@
       ],
       "language": "en",
       "page_count": 341,
+      "source": "seed"
+    },
+    {
+      "title": "Accessory to War",
+      "year": 2018,
+      "isbn_13": "9780457805441",
+      "isbn_10": "0457805444",
+      "pages": 576,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Neil deGrasse Tyson"
+      ],
       "source": "seed"
     },
     {
@@ -6690,6 +6881,22 @@
       "source": "seed"
     },
     {
+      "title": "Age of Anger",
+      "year": 2017,
+      "isbn_13": "9781503075610",
+      "isbn_10": "1503075618",
+      "pages": 406,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Pankaj Mishra"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Age of Iron",
       "authors": [
         "J.M. Coetzee"
@@ -6919,6 +7126,22 @@
       "language": "en",
       "authors": [
         "Max Brand"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Alecto the Ninth",
+      "year": 2024,
+      "isbn_13": "9785134344541",
+      "isbn_10": "5134344541",
+      "pages": 608,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Tamsyn Muir"
       ],
       "source": "seed"
     },
@@ -7485,6 +7708,21 @@
       "source": "seed",
       "year_published": 2017,
       "page_count": 264
+    },
+    {
+      "title": "Aloft",
+      "year": 2004,
+      "isbn_13": "9781135505165",
+      "isbn_10": "1135505160",
+      "pages": 343,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Chang-rae Lee"
+      ],
+      "source": "seed"
     },
     {
       "title": "Alone",
@@ -8095,6 +8333,22 @@
       "page_count": 416
     },
     {
+      "title": "An End to Suffering",
+      "year": 2004,
+      "isbn_13": "9781758951295",
+      "isbn_10": "1758951291",
+      "pages": 424,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Pankaj Mishra"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "An Enemy of the People",
       "authors": [
         "Henrik Ibsen"
@@ -8594,6 +8848,21 @@
       "source": "seed"
     },
     {
+      "title": "Ancient Images",
+      "year": 1989,
+      "isbn_13": "9786113026571",
+      "isbn_10": "6113026577",
+      "pages": 303,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Ancient Light",
       "year": 2012,
       "isbn_13": "9784554002116",
@@ -8859,6 +9128,23 @@
       "source": "seed"
     },
     {
+      "title": "Angel of Death",
+      "year": 1995,
+      "isbn_13": "9784694847349",
+      "isbn_10": "469484734X",
+      "pages": 352,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Angela's Ashes",
       "authors": [
         "Frank McCourt"
@@ -8983,6 +9269,22 @@
       "source": "seed",
       "year_published": 1992,
       "page_count": 148
+    },
+    {
+      "title": "Angry Candy",
+      "year": 1988,
+      "isbn_13": "9784225411049",
+      "isbn_10": "4225411047",
+      "pages": 352,
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Harlan Ellison"
+      ],
+      "source": "seed"
     },
     {
       "title": "Anil's Ghost",
@@ -10106,6 +10408,22 @@
       "page_count": 248
     },
     {
+      "title": "Ash",
+      "year": 2012,
+      "isbn_13": "9781103803279",
+      "isbn_10": "110380327X",
+      "pages": 672,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Ashenden",
       "year": 1928,
       "isbn_13": "9781545184400",
@@ -10438,6 +10756,22 @@
       "language": "en",
       "authors": [
         "Alexander McCall Smith"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Athabasca",
+      "year": 1980,
+      "isbn_13": "9784004259046",
+      "isbn_10": "4004259046",
+      "pages": 256,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
       ],
       "source": "seed"
     },
@@ -11148,6 +11482,23 @@
       "source": "seed"
     },
     {
+      "title": "Bad Company",
+      "year": 2003,
+      "isbn_13": "9782462740113",
+      "isbn_10": "2462740119",
+      "pages": 352,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Bad Feminist",
       "year": 2014,
       "isbn_13": "9785804458257",
@@ -11224,6 +11575,22 @@
       "source": "seed",
       "year_published": 1998,
       "page_count": 529
+    },
+    {
+      "title": "Bahama Crisis",
+      "year": 1980,
+      "isbn_13": "9785731401043",
+      "isbn_10": "5731401044",
+      "pages": 288,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Desmond Bagley"
+      ],
+      "source": "seed"
     },
     {
       "title": "Ball Four",
@@ -11631,6 +11998,22 @@
       "source": "seed"
     },
     {
+      "title": "Bear Island",
+      "year": 1971,
+      "isbn_13": "9785222533345",
+      "isbn_10": "5222533347",
+      "pages": 288,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Bearers of the Black Staff",
       "authors": [
         "Terry Brooks"
@@ -11659,6 +12042,22 @@
       "language": "en",
       "authors": [
         "Fredrik Backman"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Beast",
+      "year": 1991,
+      "isbn_13": "9784645322253",
+      "isbn_10": "4645322254",
+      "pages": 293,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Peter Benchley"
       ],
       "source": "seed"
     },
@@ -11694,6 +12093,21 @@
       "source": "seed"
     },
     {
+      "title": "Beautiful Bastard",
+      "year": 2013,
+      "isbn_13": "9782869395343",
+      "isbn_10": "2869395346",
+      "pages": 304,
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "authors": [
+        "Christina Lauren"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Beautiful Days",
       "authors": [
         "Joyce Carol Oates"
@@ -11708,6 +12122,36 @@
       "source": "seed",
       "year_published": 2018,
       "page_count": 384
+    },
+    {
+      "title": "Beautiful Player",
+      "year": 2013,
+      "isbn_13": "9785507002719",
+      "isbn_10": "550700271X",
+      "pages": 320,
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "authors": [
+        "Christina Lauren"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Beautiful Stranger",
+      "year": 2013,
+      "isbn_13": "9781492326366",
+      "isbn_10": "1492326367",
+      "pages": 304,
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "authors": [
+        "Christina Lauren"
+      ],
+      "source": "seed"
     },
     {
       "title": "Beautiful Tempest",
@@ -11837,6 +12281,22 @@
       "source": "seed",
       "year_published": 2018,
       "page_count": 426
+    },
+    {
+      "title": "Becoming Madame Mao",
+      "year": 2000,
+      "isbn_13": "9781946118059",
+      "isbn_10": "1946118059",
+      "pages": 337,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Anchee Min"
+      ],
+      "source": "seed"
     },
     {
       "title": "Bed of Roses",
@@ -12011,6 +12471,22 @@
       ],
       "language": "en",
       "page_count": 441,
+      "source": "seed"
+    },
+    {
+      "title": "Before We Visit the Goddess",
+      "year": 2016,
+      "isbn_13": "9781540010827",
+      "isbn_10": "154001082X",
+      "pages": 288,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Chitra Banerjee Divakaruni"
+      ],
       "source": "seed"
     },
     {
@@ -12681,6 +13157,22 @@
       "description": "",
       "authors": [
         "Hilary Mantel"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Beyond Einstein",
+      "year": 1987,
+      "isbn_13": "9784704101119",
+      "isbn_10": "4704101113",
+      "pages": 240,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Michio Kaku"
       ],
       "source": "seed"
     },
@@ -14108,6 +14600,22 @@
       "page_count": 471
     },
     {
+      "title": "Blood and Thunder",
+      "year": 2006,
+      "isbn_13": "9788353016060",
+      "isbn_10": "8353016060",
+      "pages": 462,
+      "genres": [
+        "Non-Fiction",
+        "History"
+      ],
+      "language": "en",
+      "authors": [
+        "Hampton Sides"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Blood at the Root",
       "year": 1997,
       "isbn_13": "9787003704500",
@@ -15472,6 +15980,22 @@
       "page_count": 166
     },
     {
+      "title": "Brat Farrar",
+      "year": 1949,
+      "isbn_13": "9780332831350",
+      "isbn_10": "0332831358",
+      "pages": 254,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Josephine Tey"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Brave Companions",
       "year": 1992,
       "isbn_13": "9782581327509",
@@ -15649,6 +16173,22 @@
       ],
       "language": "en",
       "page_count": 303,
+      "source": "seed"
+    },
+    {
+      "title": "Breakheart Pass",
+      "year": 1974,
+      "isbn_13": "9782215318002",
+      "isbn_10": "2215318004",
+      "pages": 205,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
+      ],
       "source": "seed"
     },
     {
@@ -16642,6 +17182,22 @@
       "source": "seed"
     },
     {
+      "title": "Busman's Honeymoon",
+      "year": 1937,
+      "isbn_13": "9782141977182",
+      "isbn_10": "2141977186",
+      "pages": 381,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Dorothy L. Sayers"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "But I Trusted You",
       "year": 2009,
       "isbn_13": "9783470333021",
@@ -16701,6 +17257,21 @@
       "language": "en",
       "authors": [
         "Larry McMurtry"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "By the Book",
+      "year": 2022,
+      "isbn_13": "9788909180412",
+      "isbn_10": "8909180419",
+      "pages": 336,
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "authors": [
+        "Jasmine Guillory"
       ],
       "source": "seed"
     },
@@ -17375,6 +17946,22 @@
       "language": "en",
       "authors": [
         "Peter Robinson"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Cargo of Eagles",
+      "year": 1968,
+      "isbn_13": "9780420558138",
+      "isbn_10": "0420558135",
+      "pages": 224,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Margery Allingham"
       ],
       "source": "seed"
     },
@@ -18563,6 +19150,22 @@
       "source": "seed"
     },
     {
+      "title": "Chatter",
+      "year": 2005,
+      "isbn_13": "9785423123123",
+      "isbn_10": "5423123124",
+      "pages": 296,
+      "genres": [
+        "Non-Fiction",
+        "History"
+      ],
+      "language": "en",
+      "authors": [
+        "Patrick Radden Keefe"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Check & Mate",
       "year": 2023,
       "isbn_13": "9780652696240",
@@ -18924,6 +19527,38 @@
       "source": "seed"
     },
     {
+      "title": "China Dolls",
+      "year": 2014,
+      "isbn_13": "9784311501944",
+      "isbn_10": "4311501948",
+      "pages": 384,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Lisa See"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "China Men",
+      "year": 1980,
+      "isbn_13": "9781907318504",
+      "isbn_10": "1907318501",
+      "pages": 308,
+      "genres": [
+        "Literary Fiction",
+        "Memoir"
+      ],
+      "language": "en",
+      "authors": [
+        "Maxine Hong Kingston"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Chindi",
       "year": 2002,
       "isbn_13": "9788740557466",
@@ -18935,6 +19570,22 @@
       "language": "en",
       "authors": [
         "Jack McDevitt"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Choice",
+      "year": 2023,
+      "isbn_13": "9781475923025",
+      "isbn_10": "1475923028",
+      "pages": 416,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Neel Mukherjee"
       ],
       "source": "seed"
     },
@@ -19271,6 +19922,22 @@
       "language": "en",
       "authors": [
         "Maeve Binchy"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Circus",
+      "year": 1975,
+      "isbn_13": "9785431494345",
+      "isbn_10": "543149434X",
+      "pages": 256,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
       ],
       "source": "seed"
     },
@@ -19888,6 +20555,22 @@
       "source": "seed"
     },
     {
+      "title": "Clouds of Witness",
+      "year": 1926,
+      "isbn_13": "9783022307210",
+      "isbn_10": "3022307214",
+      "pages": 297,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Dorothy L. Sayers"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Cloudstreet",
       "year": 1991,
       "isbn_13": "9782175787221",
@@ -20060,6 +20743,23 @@
       "language": "en",
       "authors": [
         "Stuart MacBride"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Cold Harbour",
+      "year": 1990,
+      "isbn_13": "9786556645384",
+      "isbn_10": "6556645382",
+      "pages": 320,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
       ],
       "source": "seed"
     },
@@ -20718,6 +21418,23 @@
       "source": "seed"
     },
     {
+      "title": "Confessional",
+      "year": 1985,
+      "isbn_13": "9788407060315",
+      "isbn_10": "8407060318",
+      "pages": 304,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Confessions of a Mask",
       "authors": [
         "Yukio Mishima"
@@ -21038,6 +21755,22 @@
       "source": "seed"
     },
     {
+      "title": "Coroner's Pidgin",
+      "year": 1945,
+      "isbn_13": "9781801217590",
+      "isbn_10": "1801217592",
+      "pages": 224,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Margery Allingham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Corrupted",
       "year": 2016,
       "isbn_13": "9783712206434",
@@ -21066,6 +21799,22 @@
       "language": "en",
       "authors": [
         "Clifford D. Simak"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Cosmic Queries",
+      "year": 2021,
+      "isbn_13": "9783382031756",
+      "isbn_10": "3382031759",
+      "pages": 320,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Neil deGrasse Tyson"
       ],
       "source": "seed"
     },
@@ -21470,6 +22219,37 @@
       "source": "seed"
     },
     {
+      "title": "Creatures of the Pool",
+      "year": 2009,
+      "isbn_13": "9785271462863",
+      "isbn_10": "5271462869",
+      "pages": 288,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Creed",
+      "year": 1990,
+      "isbn_13": "9781484143551",
+      "isbn_10": "1484143553",
+      "pages": 384,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Crescent Dawn",
       "year": 2010,
       "isbn_13": "9784725253309",
@@ -21812,6 +22592,21 @@
       "source": "seed",
       "year_published": 2008,
       "page_count": 416
+    },
+    {
+      "title": "Cross Fire",
+      "year": 2018,
+      "isbn_13": "9782134034519",
+      "isbn_10": "2134034518",
+      "pages": 400,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Fonda Lee"
+      ],
+      "source": "seed"
     },
     {
       "title": "Cross Fire",
@@ -22226,6 +23021,21 @@
       "page_count": 357
     },
     {
+      "title": "Cutting for Stone",
+      "year": 2009,
+      "isbn_13": "9783551570970",
+      "isbn_10": "3551570978",
+      "pages": 658,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Abraham Verghese"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Cycles of Time",
       "authors": [
         "Roger Penrose"
@@ -22531,6 +23341,22 @@
       "source": "seed"
     },
     {
+      "title": "Dancers in Mourning",
+      "year": 1937,
+      "isbn_13": "9780610756122",
+      "isbn_10": "0610756126",
+      "pages": 303,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Margery Allingham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Dancing Girls",
       "authors": [
         "Margaret Atwood"
@@ -22732,6 +23558,23 @@
       "language": "en",
       "authors": [
         "Gregg Hurwitz"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Dark Justice",
+      "year": 2004,
+      "isbn_13": "9787561216217",
+      "isbn_10": "756121621X",
+      "pages": 288,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
       ],
       "source": "seed"
     },
@@ -23152,6 +23995,40 @@
       "language": "en",
       "authors": [
         "Faye Kellerman"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Day of Judgment",
+      "year": 1978,
+      "isbn_13": "9784873933337",
+      "isbn_10": "487393333X",
+      "pages": 256,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Day of Reckoning",
+      "year": 2000,
+      "isbn_13": "9780706514476",
+      "isbn_10": "0706514476",
+      "pages": 304,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
       ],
       "source": "seed"
     },
@@ -24312,6 +25189,22 @@
       "source": "seed"
     },
     {
+      "title": "Death of a Ghost",
+      "year": 1934,
+      "isbn_13": "9783092218263",
+      "isbn_10": "3092218267",
+      "pages": 256,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Margery Allingham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Death of a Glutton",
       "year": 1993,
       "isbn_13": "9783550730351",
@@ -24677,6 +25570,22 @@
       ],
       "language": "zh",
       "page_count": 604,
+      "source": "seed"
+    },
+    {
+      "title": "Deathbird Stories",
+      "year": 1975,
+      "isbn_13": "9781212846938",
+      "isbn_10": "121284693X",
+      "pages": 334,
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Harlan Ellison"
+      ],
       "source": "seed"
     },
     {
@@ -26454,6 +27363,22 @@
       "page_count": 305
     },
     {
+      "title": "Domain",
+      "year": 1984,
+      "isbn_13": "9783241731131",
+      "isbn_10": "3241731133",
+      "pages": 384,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Domain-Driven Design",
       "authors": [
         "Eric Evans"
@@ -26900,6 +27825,22 @@
       "source": "seed"
     },
     {
+      "title": "Dragon Bones",
+      "year": 2003,
+      "isbn_13": "9788115362817",
+      "isbn_10": "8115362815",
+      "pages": 358,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Lisa See"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Dragon Haven",
       "authors": [
         "Robin Hobb"
@@ -27249,6 +28190,22 @@
       "source": "seed"
     },
     {
+      "title": "Dreams of Joy",
+      "year": 2011,
+      "isbn_13": "9780464281801",
+      "isbn_10": "0464281805",
+      "pages": 354,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Lisa See"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Dreamsongs Volume I",
       "authors": [
         "George R.R. Martin"
@@ -27342,6 +28299,23 @@
       "language": "en",
       "authors": [
         "Donna Leon"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Drink with the Devil",
+      "year": 1996,
+      "isbn_13": "9788142488733",
+      "isbn_10": "8142488735",
+      "pages": 288,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
       ],
       "source": "seed"
     },
@@ -27458,6 +28432,21 @@
       "source": "seed",
       "year_published": 1996,
       "page_count": 880
+    },
+    {
+      "title": "Drunk on Love",
+      "year": 2022,
+      "isbn_13": "9783898069243",
+      "isbn_10": "3898069242",
+      "pages": 352,
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "authors": [
+        "Jasmine Guillory"
+      ],
+      "source": "seed"
     },
     {
       "title": "Drunkard's Walk",
@@ -28221,6 +29210,23 @@
       "source": "seed"
     },
     {
+      "title": "Edge of Danger",
+      "year": 2001,
+      "isbn_13": "9782323426743",
+      "isbn_10": "2323426746",
+      "pages": 336,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Edge of Eternity",
       "authors": [
         "Ken Follett"
@@ -28396,6 +29402,22 @@
       "language": "en",
       "authors": [
         "Walter Isaacson"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Einstein's Cosmos",
+      "year": 2004,
+      "isbn_13": "9782962597347",
+      "isbn_10": "2962597348",
+      "pages": 239,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Michio Kaku"
       ],
       "source": "seed"
     },
@@ -28662,6 +29684,22 @@
       "language": "en",
       "authors": [
         "Julian Barnes"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Ellison Wonderland",
+      "year": 1962,
+      "isbn_13": "9786958345936",
+      "isbn_10": "6958345939",
+      "pages": 256,
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Harlan Ellison"
       ],
       "source": "seed"
     },
@@ -29000,6 +30038,22 @@
       "source": "seed",
       "year_published": 1984,
       "page_count": 351
+    },
+    {
+      "title": "Empress Orchid",
+      "year": 2004,
+      "isbn_13": "9787354949544",
+      "isbn_10": "7354949541",
+      "pages": 336,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Anchee Min"
+      ],
+      "source": "seed"
     },
     {
       "title": "Empty Smiles",
@@ -30244,6 +31298,38 @@
       "source": "seed"
     },
     {
+      "title": "Exo",
+      "year": 2017,
+      "isbn_13": "9786590704535",
+      "isbn_10": "6590704533",
+      "pages": 384,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Fonda Lee"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Exocet",
+      "year": 1983,
+      "isbn_13": "9783132758353",
+      "isbn_10": "3132758358",
+      "pages": 304,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Exodus from the Long Sun",
       "year": 1996,
       "isbn_13": "9787561262504",
@@ -30386,6 +31472,23 @@
       ],
       "language": "en",
       "page_count": 333,
+      "source": "seed"
+    },
+    {
+      "title": "Eye of the Storm",
+      "year": 1992,
+      "isbn_13": "9789165353640",
+      "isbn_10": "916535364X",
+      "pages": 336,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
       "source": "seed"
     },
     {
@@ -31343,6 +32446,22 @@
       "page_count": 160
     },
     {
+      "title": "Fear Is the Key",
+      "year": 1961,
+      "isbn_13": "9780113155521",
+      "isbn_10": "0113155529",
+      "pages": 288,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Fear No Evil",
       "year": 2021,
       "isbn_13": "9785905351983",
@@ -31899,6 +33018,22 @@
       "language": "en",
       "authors": [
         "Ngaio Marsh"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Final Girls",
+      "year": 2017,
+      "isbn_13": "9780308931107",
+      "isbn_10": "0308931105",
+      "pages": 352,
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Riley Sager"
       ],
       "source": "seed"
     },
@@ -32894,6 +34029,23 @@
       "source": "seed"
     },
     {
+      "title": "Flight of Eagles",
+      "year": 1998,
+      "isbn_13": "9785745153211",
+      "isbn_10": "5745153210",
+      "pages": 336,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Flight of the Nighthawks",
       "year": 2005,
       "isbn_13": "9783020510629",
@@ -33036,6 +34188,22 @@
       "page_count": 204
     },
     {
+      "title": "Flower Net",
+      "year": 1997,
+      "isbn_13": "9783030707279",
+      "isbn_10": "3030707271",
+      "pages": 384,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Lisa See"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Flowers and Shadows",
       "year": 1980,
       "isbn_13": "9789207130505",
@@ -33066,6 +34234,22 @@
       ],
       "language": "en",
       "page_count": 311,
+      "source": "seed"
+    },
+    {
+      "title": "Flowers for the Judge",
+      "year": 1936,
+      "isbn_13": "9785376853207",
+      "isbn_10": "5376853202",
+      "pages": 256,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Margery Allingham"
+      ],
       "source": "seed"
     },
     {
@@ -33103,6 +34287,22 @@
       "source": "seed"
     },
     {
+      "title": "Fluke",
+      "year": 1977,
+      "isbn_13": "9784336373557",
+      "isbn_10": "4336373553",
+      "pages": 224,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Flush",
       "year": 2005,
       "isbn_13": "9781241314231",
@@ -33132,6 +34332,22 @@
       "language": "en",
       "authors": [
         "Kristin Hannah"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Flyaway",
+      "year": 1978,
+      "isbn_13": "9786030029648",
+      "isbn_10": "6030029642",
+      "pages": 320,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Desmond Bagley"
       ],
       "source": "seed"
     },
@@ -33384,6 +34600,22 @@
       "source": "seed",
       "year_published": 2023,
       "page_count": 384
+    },
+    {
+      "title": "Force 10 from Navarone",
+      "year": 1968,
+      "isbn_13": "9780294193527",
+      "isbn_10": "0294193522",
+      "pages": 288,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
+      ],
+      "source": "seed"
     },
     {
       "title": "Force of Nature",
@@ -34433,6 +35665,22 @@
       "source": "seed"
     },
     {
+      "title": "From Eternity to Here",
+      "year": 2010,
+      "isbn_13": "9783940521286",
+      "isbn_10": "3940521280",
+      "pages": 438,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Sean Carroll"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "From Heaven Lake",
       "authors": [
         "Vikram Seth"
@@ -34627,6 +35875,22 @@
       "source": "seed",
       "year_published": 1997,
       "page_count": 483
+    },
+    {
+      "title": "From the Ruins of Empire",
+      "year": 2012,
+      "isbn_13": "9782595841442",
+      "isbn_10": "2595841440",
+      "pages": 356,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Pankaj Mishra"
+      ],
+      "source": "seed"
     },
     {
       "title": "Fugitive Telemetry",
@@ -35342,6 +36606,22 @@
       "source": "seed"
     },
     {
+      "title": "Gaudy Night",
+      "year": 1935,
+      "isbn_13": "9786823123843",
+      "isbn_10": "6823123849",
+      "pages": 501,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Dorothy L. Sayers"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Gauntlgrym",
       "year": 2010,
       "isbn_13": "9784671000323",
@@ -35795,6 +37075,22 @@
       "page_count": 416
     },
     {
+      "title": "Ghost Soldiers",
+      "year": 2001,
+      "isbn_13": "9785282300680",
+      "isbn_10": "5282300680",
+      "pages": 342,
+      "genres": [
+        "Non-Fiction",
+        "History"
+      ],
+      "language": "en",
+      "authors": [
+        "Hampton Sides"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Ghost Story",
       "authors": [
         "Peter Straub"
@@ -35890,6 +37186,21 @@
       "source": "seed"
     },
     {
+      "title": "Ghosts Know",
+      "year": 2011,
+      "isbn_13": "9787542423061",
+      "isbn_10": "754242306X",
+      "pages": 304,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Ghostwritten",
       "authors": [
         "David Mitchell"
@@ -35903,6 +37214,22 @@
       "source": "seed",
       "year_published": 1999,
       "page_count": 426
+    },
+    {
+      "title": "Gideon the Ninth",
+      "year": 2019,
+      "isbn_13": "9782422266073",
+      "isbn_10": "2422266071",
+      "pages": 448,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Tamsyn Muir"
+      ],
+      "source": "seed"
     },
     {
       "title": "Gilead",
@@ -36789,6 +38116,22 @@
       "language": "en",
       "authors": [
         "Enid Blyton"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Goodbye California",
+      "year": 1977,
+      "isbn_13": "9781218904311",
+      "isbn_10": "1218904318",
+      "pages": 320,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
       ],
       "source": "seed"
     },
@@ -38203,6 +39546,22 @@
       "source": "seed"
     },
     {
+      "title": "Harrow the Ninth",
+      "year": 2020,
+      "isbn_13": "9788332132231",
+      "isbn_10": "833213223X",
+      "pages": 512,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Tamsyn Muir"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Harry Potter and the Chamber of Secrets",
       "authors": [
         "J.K. Rowling"
@@ -38445,6 +39804,22 @@
       "page_count": 411
     },
     {
+      "title": "Haunted",
+      "year": 1988,
+      "isbn_13": "9781521156551",
+      "isbn_10": "1521156554",
+      "pages": 352,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Havana Storm",
       "year": 2014,
       "isbn_13": "9784004271017",
@@ -38457,6 +39832,22 @@
       "language": "en",
       "authors": [
         "Clive Cussler"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Have His Carcase",
+      "year": 1932,
+      "isbn_13": "9782255893248",
+      "isbn_10": "2255893241",
+      "pages": 471,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Dorothy L. Sayers"
       ],
       "source": "seed"
     },
@@ -38490,6 +39881,22 @@
       "source": "seed",
       "year_published": 1958,
       "page_count": 276
+    },
+    {
+      "title": "He Who Drowned the World",
+      "year": 2023,
+      "isbn_13": "9780953205431",
+      "isbn_10": "0953205435",
+      "pages": 432,
+      "genres": [
+        "Fantasy",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Shelley Parker-Chan"
+      ],
+      "source": "seed"
     },
     {
       "title": "Headbirths",
@@ -39170,6 +40577,22 @@
       "source": "seed"
     },
     {
+      "title": "Hellhound on His Trail",
+      "year": 2010,
+      "isbn_13": "9783322125064",
+      "isbn_10": "3322125063",
+      "pages": 459,
+      "genres": [
+        "Non-Fiction",
+        "History"
+      ],
+      "language": "en",
+      "authors": [
+        "Hampton Sides"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Hello Stranger",
       "year": 2018,
       "isbn_13": "9783563562116",
@@ -39321,6 +40744,22 @@
       "language": "en",
       "authors": [
         "Beverly Cleary"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Her Fearful Symmetry",
+      "year": 2009,
+      "isbn_13": "9780537664418",
+      "isbn_10": "0537664415",
+      "pages": 406,
+      "genres": [
+        "Literary Fiction",
+        "Romance"
+      ],
+      "language": "en",
+      "authors": [
+        "Audrey Niffenegger"
       ],
       "source": "seed"
     },
@@ -39578,6 +41017,22 @@
       "source": "seed"
     },
     {
+      "title": "Hide My Eyes",
+      "year": 1958,
+      "isbn_13": "9785335821735",
+      "isbn_10": "5335821735",
+      "pages": 224,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Margery Allingham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Hideaway",
       "authors": [
         "Nora Roberts"
@@ -39608,6 +41063,22 @@
       "source": "seed",
       "year_published": 1992,
       "page_count": 359
+    },
+    {
+      "title": "High Citadel",
+      "year": 1965,
+      "isbn_13": "9787417285848",
+      "isbn_10": "7417285843",
+      "pages": 255,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Desmond Bagley"
+      ],
+      "source": "seed"
     },
     {
       "title": "High Fidelity",
@@ -39915,6 +41386,22 @@
       "page_count": 379
     },
     {
+      "title": "HMS Ulysses",
+      "year": 1955,
+      "isbn_13": "9781827094892",
+      "isbn_10": "1827094898",
+      "pages": 320,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Hocus Pocus",
       "year": 1990,
       "isbn_13": "9789145113271",
@@ -40109,6 +41596,22 @@
       "source": "seed"
     },
     {
+      "title": "Home Before Dark",
+      "year": 2020,
+      "isbn_13": "9783891712047",
+      "isbn_10": "3891712042",
+      "pages": 384,
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Riley Sager"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Home Body",
       "authors": [
         "Rupi Kaur"
@@ -40233,6 +41736,23 @@
       "language": "en",
       "authors": [
         "David Lodge"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Homecoming",
+      "year": 2023,
+      "isbn_13": "9781315377650",
+      "isbn_10": "1315377652",
+      "pages": 560,
+      "genres": [
+        "Literary Fiction",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kate Morton"
       ],
       "source": "seed"
     },
@@ -41542,6 +43062,22 @@
       "source": "seed"
     },
     {
+      "title": "Husband of a Fanatic",
+      "year": 2005,
+      "isbn_13": "9784457451448",
+      "isbn_10": "4457451447",
+      "pages": 296,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Amitava Kumar"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Hush Money",
       "year": 1999,
       "isbn_13": "9789089022127",
@@ -41571,6 +43107,22 @@
       ],
       "language": "en",
       "page_count": 482,
+      "source": "seed"
+    },
+    {
+      "title": "Hyperspace",
+      "year": 1994,
+      "isbn_13": "9783776464535",
+      "isbn_10": "3776464537",
+      "pages": 359,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Michio Kaku"
+      ],
       "source": "seed"
     },
     {
@@ -41782,6 +43334,22 @@
       "source": "seed"
     },
     {
+      "title": "I Have No Mouth, and I Must Scream",
+      "year": 1967,
+      "isbn_13": "9784120005152",
+      "isbn_10": "412000515X",
+      "pages": 224,
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Harlan Ellison"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "I Is for Innocent",
       "year": 1992,
       "isbn_13": "9781138578500",
@@ -41846,6 +43414,22 @@
       "source": "seed",
       "year_published": 1969,
       "page_count": 281
+    },
+    {
+      "title": "I Love a Broad Margin to My Life",
+      "year": 2011,
+      "isbn_13": "9782463520455",
+      "isbn_10": "2463520450",
+      "pages": 240,
+      "genres": [
+        "Literary Fiction",
+        "Memoir"
+      ],
+      "language": "en",
+      "authors": [
+        "Maxine Hong Kingston"
+      ],
+      "source": "seed"
     },
     {
       "title": "I Married a Communist",
@@ -42129,6 +43713,22 @@
       "source": "seed",
       "year_published": 2010,
       "page_count": 372
+    },
+    {
+      "title": "Ice Station Zebra",
+      "year": 1963,
+      "isbn_13": "9789104103527",
+      "isbn_10": "910410352X",
+      "pages": 320,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
+      ],
+      "source": "seed"
     },
     {
       "title": "Iceberg",
@@ -42638,6 +44238,22 @@
       "description": "",
       "authors": [
         "Clive Barker"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Immigrant, Montana",
+      "year": 2018,
+      "isbn_13": "9783150744512",
+      "isbn_10": "3150744519",
+      "pages": 256,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Amitava Kumar"
       ],
       "source": "seed"
     },
@@ -43459,6 +45075,22 @@
       "page_count": 302
     },
     {
+      "title": "In the Kingdom of Ice",
+      "year": 2014,
+      "isbn_13": "9780912510026",
+      "isbn_10": "091251002X",
+      "pages": 480,
+      "genres": [
+        "Non-Fiction",
+        "History"
+      ],
+      "language": "en",
+      "authors": [
+        "Hampton Sides"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "In the Lake of the Woods",
       "year": 1994,
       "isbn_13": "9789545224850",
@@ -43623,6 +45255,22 @@
       "source": "seed"
     },
     {
+      "title": "In the Teeth of the Evidence",
+      "year": 1939,
+      "isbn_13": "9780182181643",
+      "isbn_10": "0182181649",
+      "pages": 285,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Dorothy L. Sayers"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "In the Wake",
       "year": 2000,
       "isbn_13": "9782504924297",
@@ -43730,6 +45378,21 @@
       "source": "seed",
       "year_published": 2023,
       "page_count": 304
+    },
+    {
+      "title": "Incarnate",
+      "year": 1983,
+      "isbn_13": "9782201213540",
+      "isbn_10": "2201213549",
+      "pages": 462,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
+      ],
+      "source": "seed"
     },
     {
       "title": "Incident at Vichy",
@@ -43923,6 +45586,23 @@
       "description": "",
       "authors": [
         "V.S. Naipaul"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "India: From Midnight to the Millennium",
+      "year": 1997,
+      "isbn_13": "9782966573521",
+      "isbn_10": "2966573521",
+      "pages": 392,
+      "genres": [
+        "Literary Fiction",
+        "Non-Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Shashi Tharoor"
       ],
       "source": "seed"
     },
@@ -45526,6 +47206,22 @@
       "page_count": 384
     },
     {
+      "title": "Jaws",
+      "year": 1974,
+      "isbn_13": "9781009077828",
+      "isbn_10": "100907782X",
+      "pages": 311,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Peter Benchley"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Jaya",
       "authors": [
         "Devdutt Pattanaik"
@@ -46029,6 +47725,22 @@
       "language": "en",
       "authors": [
         "Penelope Lively"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Juggernaut",
+      "year": 1985,
+      "isbn_13": "9785633192629",
+      "isbn_10": "563319262X",
+      "pages": 320,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Desmond Bagley"
       ],
       "source": "seed"
     },
@@ -46562,6 +48274,22 @@
       "language": "en",
       "authors": [
         "Catherine Cookson"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Katherine",
+      "year": 1995,
+      "isbn_13": "9783182452119",
+      "isbn_10": "3182452113",
+      "pages": 240,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Anchee Min"
       ],
       "source": "seed"
     },
@@ -47955,6 +49683,22 @@
       "source": "seed"
     },
     {
+      "title": "Lady Tan's Circle of Women",
+      "year": 2023,
+      "isbn_13": "9782218603204",
+      "isbn_10": "2218603202",
+      "pages": 368,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Lisa See"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Lady Windermere's Fan",
       "year": 1892,
       "isbn_13": "9783301544121",
@@ -47984,6 +49728,22 @@
       "source": "seed",
       "year_published": 2014,
       "page_count": 306
+    },
+    {
+      "title": "Lair",
+      "year": 1979,
+      "isbn_13": "9782111423039",
+      "isbn_10": "2111423038",
+      "pages": 288,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
+      ],
+      "source": "seed"
     },
     {
       "title": "Lake of the Long Sun",
@@ -48079,6 +49839,22 @@
       "language": "en",
       "authors": [
         "Louis L'Amour"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Landslide",
+      "year": 1967,
+      "isbn_13": "9788083597921",
+      "isbn_10": "8083597922",
+      "pages": 256,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Desmond Bagley"
       ],
       "source": "seed"
     },
@@ -49090,6 +50866,22 @@
       "source": "seed",
       "year_published": 65,
       "page_count": 254
+    },
+    {
+      "title": "Letters from an Astrophysicist",
+      "year": 2019,
+      "isbn_13": "9787546845159",
+      "isbn_10": "7546845154",
+      "pages": 272,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Neil deGrasse Tyson"
+      ],
+      "source": "seed"
     },
     {
       "title": "Letters to a Young Poet",
@@ -50169,6 +51961,22 @@
       "source": "seed"
     },
     {
+      "title": "Lock Every Door",
+      "year": 2019,
+      "isbn_13": "9781435321083",
+      "isbn_10": "143532108X",
+      "pages": 368,
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Riley Sager"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Lock In",
       "authors": [
         "John Scalzi"
@@ -50672,6 +52480,22 @@
       "source": "seed",
       "year_published": 2018,
       "page_count": 400
+    },
+    {
+      "title": "Look to the Lady",
+      "year": 1931,
+      "isbn_13": "9781825192545",
+      "isbn_10": "1825192546",
+      "pages": 256,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Margery Allingham"
+      ],
+      "source": "seed"
     },
     {
       "title": "Look to Windward",
@@ -51242,6 +53066,23 @@
       "language": "en",
       "authors": [
         "Sandra Brown"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Luciano's Luck",
+      "year": 1981,
+      "isbn_13": "9780354049580",
+      "isbn_10": "0354049586",
+      "pages": 272,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
       ],
       "source": "seed"
     },
@@ -53530,6 +55371,22 @@
       "page_count": 400
     },
     {
+      "title": "Merlin's Tour of the Universe",
+      "year": 1989,
+      "isbn_13": "9784931721944",
+      "isbn_10": "4931721941",
+      "pages": 288,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Neil deGrasse Tyson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Merrick",
       "authors": [
         "Anne Rice"
@@ -53753,6 +55610,22 @@
       "page_count": 286
     },
     {
+      "title": "Middle of the Night",
+      "year": 2024,
+      "isbn_13": "9781138347649",
+      "isbn_10": "1138347644",
+      "pages": 368,
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Riley Sager"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Middlemarch",
       "authors": [
         "George Eliot"
@@ -53890,6 +55763,38 @@
       "language": "en",
       "authors": [
         "Eloisa James"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Midnight Runner",
+      "year": 2002,
+      "isbn_13": "9784149154756",
+      "isbn_10": "4149154752",
+      "pages": 304,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Midnight Sun",
+      "year": 1990,
+      "isbn_13": "9785921442627",
+      "isbn_10": "5921442628",
+      "pages": 317,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
       ],
       "source": "seed"
     },
@@ -54500,6 +56405,22 @@
       "page_count": 224
     },
     {
+      "title": "Miss Pym Disposes",
+      "year": 1946,
+      "isbn_13": "9787319082538",
+      "isbn_10": "7319082536",
+      "pages": 256,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Josephine Tey"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Missing You",
       "year": 2014,
       "isbn_13": "9782172233158",
@@ -54870,6 +56791,22 @@
       "source": "seed"
     },
     {
+      "title": "Monkeyluv",
+      "year": 2005,
+      "isbn_13": "9781121328419",
+      "isbn_10": "1121328416",
+      "pages": 209,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Robert Sapolsky"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Monsignor Quixote",
       "year": 1982,
       "isbn_13": "9784154956727",
@@ -54995,6 +56932,22 @@
       "source": "seed",
       "year_published": 1996,
       "page_count": 467
+    },
+    {
+      "title": "Moon",
+      "year": 1985,
+      "isbn_13": "9786520767630",
+      "isbn_10": "6520767633",
+      "pages": 384,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
+      ],
+      "source": "seed"
     },
     {
       "title": "Moon Palace",
@@ -55216,6 +57169,22 @@
       "description": "",
       "authors": [
         "Saul Bellow"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "More Work for the Undertaker",
+      "year": 1948,
+      "isbn_13": "9781762345448",
+      "isbn_10": "1762345444",
+      "pages": 256,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Margery Allingham"
       ],
       "source": "seed"
     },
@@ -55969,6 +57938,22 @@
       "source": "seed"
     },
     {
+      "title": "Murder Must Advertise",
+      "year": 1933,
+      "isbn_13": "9783310461143",
+      "isbn_10": "3310461142",
+      "pages": 302,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Dorothy L. Sayers"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Murder on the Orient Express",
       "authors": [
         "Agatha Christie"
@@ -56115,6 +58100,22 @@
       "language": "en",
       "authors": [
         "Eloisa James"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "My Beloved Life",
+      "year": 2023,
+      "isbn_13": "9783556275498",
+      "isbn_10": "3556275491",
+      "pages": 336,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Amitava Kumar"
       ],
       "source": "seed"
     },
@@ -56351,6 +58352,21 @@
       "source": "seed"
     },
     {
+      "title": "My Kind of Place",
+      "year": 2004,
+      "isbn_13": "9785837475047",
+      "isbn_10": "5837475047",
+      "pages": 304,
+      "genres": [
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Susan Orlean"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "My Last Sigh",
       "authors": [
         "Luis Bunuel"
@@ -56478,6 +58494,21 @@
       "source": "seed"
     },
     {
+      "title": "My Own Country",
+      "year": 1994,
+      "isbn_13": "9780941143332",
+      "isbn_10": "0941143338",
+      "pages": 432,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Abraham Verghese"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "My Philosophical Development",
       "year": 1959,
       "isbn_13": "9789236371337",
@@ -56588,6 +58619,21 @@
       "page_count": 224
     },
     {
+      "title": "My Year Abroad",
+      "year": 2021,
+      "isbn_13": "9781055336153",
+      "isbn_10": "1055336151",
+      "pages": 480,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Chang-rae Lee"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "My Year of Rest and Relaxation",
       "year": 2018,
       "isbn_13": "9783940542397",
@@ -56647,6 +58693,22 @@
       "description": "",
       "authors": [
         "Peter Straub"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Mystery Mile",
+      "year": 1930,
+      "isbn_13": "9782084900827",
+      "isbn_10": "2084900827",
+      "pages": 256,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Margery Allingham"
       ],
       "source": "seed"
     },
@@ -56877,6 +58939,21 @@
       ],
       "language": "en",
       "page_count": 504,
+      "source": "seed"
+    },
+    {
+      "title": "Native Speaker",
+      "year": 1995,
+      "isbn_13": "9781227651275",
+      "isbn_10": "1227651272",
+      "pages": 324,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Chang-rae Lee"
+      ],
       "source": "seed"
     },
     {
@@ -57657,6 +59734,39 @@
       "source": "seed"
     },
     {
+      "title": "Night of Error",
+      "year": 1984,
+      "isbn_13": "9780431072913",
+      "isbn_10": "0431072917",
+      "pages": 288,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Desmond Bagley"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Night of the Fox",
+      "year": 1986,
+      "isbn_13": "9783435302888",
+      "isbn_10": "3435302884",
+      "pages": 336,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Night Over Water",
       "year": 1991,
       "isbn_13": "9780309438353",
@@ -57800,6 +59910,22 @@
       ],
       "language": "en",
       "page_count": 480,
+      "source": "seed"
+    },
+    {
+      "title": "Night Without End",
+      "year": 1959,
+      "isbn_13": "9783355026826",
+      "isbn_10": "3355026827",
+      "pages": 256,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
+      ],
       "source": "seed"
     },
     {
@@ -58566,6 +60692,22 @@
       "source": "seed"
     },
     {
+      "title": "Nobody True",
+      "year": 2003,
+      "isbn_13": "9780578456546",
+      "isbn_10": "0578456540",
+      "pages": 416,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Nobody's Baby But Mine",
       "year": 1997,
       "isbn_13": "9784895356244",
@@ -58631,6 +60773,22 @@
       "source": "seed",
       "year_published": 2021,
       "page_count": 464
+    },
+    {
+      "title": "Nona the Ninth",
+      "year": 2022,
+      "isbn_13": "9783274412687",
+      "isbn_10": "3274412685",
+      "pages": 480,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Tamsyn Muir"
+      ],
+      "source": "seed"
     },
     {
       "title": "None to Accompany Me",
@@ -59492,6 +61650,21 @@
       "source": "seed"
     },
     {
+      "title": "Obsession",
+      "year": 1985,
+      "isbn_13": "9788002753421",
+      "isbn_10": "8002753422",
+      "pages": 346,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Occasion for Loving",
       "year": 1963,
       "isbn_13": "9788127464493",
@@ -59978,6 +62151,21 @@
       "page_count": 325
     },
     {
+      "title": "On Animals",
+      "year": 2021,
+      "isbn_13": "9782795340288",
+      "isbn_10": "2795340288",
+      "pages": 288,
+      "genres": [
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Susan Orlean"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "On Basilisk Station",
       "year": 1993,
       "isbn_13": "9780620334280",
@@ -60053,6 +62241,39 @@
       ],
       "language": "en",
       "page_count": 166,
+      "source": "seed"
+    },
+    {
+      "title": "On Dangerous Ground",
+      "year": 1994,
+      "isbn_13": "9782158344045",
+      "isbn_10": "2158344040",
+      "pages": 302,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "On Desperate Ground",
+      "year": 2018,
+      "isbn_13": "9785120245500",
+      "isbn_10": "512024550X",
+      "pages": 416,
+      "genres": [
+        "Non-Fiction",
+        "History"
+      ],
+      "language": "en",
+      "authors": [
+        "Hampton Sides"
+      ],
       "source": "seed"
     },
     {
@@ -60134,6 +62355,22 @@
       "source": "seed",
       "year_published": 1984,
       "page_count": 884
+    },
+    {
+      "title": "On Gold Mountain",
+      "year": 1995,
+      "isbn_13": "9784520145052",
+      "isbn_10": "4520145053",
+      "pages": 394,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Lisa See"
+      ],
+      "source": "seed"
     },
     {
       "title": "On Her Majesty's Secret Service",
@@ -60231,6 +62468,21 @@
       "description": "",
       "authors": [
         "Hannah Arendt"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "On Such a Full Sea",
+      "year": 2014,
+      "isbn_13": "9781341541315",
+      "isbn_10": "1341541319",
+      "pages": 352,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Chang-rae Lee"
       ],
       "source": "seed"
     },
@@ -60586,6 +62838,22 @@
       "language": "en",
       "authors": [
         "Alan Duff"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Once...",
+      "year": 2001,
+      "isbn_13": "9783206029303",
+      "isbn_10": "3206029302",
+      "pages": 448,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
       ],
       "source": "seed"
     },
@@ -61441,6 +63709,22 @@
       "source": "seed"
     },
     {
+      "title": "Origins",
+      "year": 2004,
+      "isbn_13": "9785993551043",
+      "isbn_10": "5993551045",
+      "pages": 352,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Neil deGrasse Tyson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Orion Shall Rise",
       "year": 1983,
       "isbn_13": "9784445478952",
@@ -61710,6 +63994,22 @@
       "language": "en",
       "authors": [
         "Tad Williams"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Others",
+      "year": 1999,
+      "isbn_13": "9781036142360",
+      "isbn_10": "103614236X",
+      "pages": 448,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
       ],
       "source": "seed"
     },
@@ -62338,6 +64638,22 @@
       "source": "seed"
     },
     {
+      "title": "Paingod and Other Delusions",
+      "year": 1965,
+      "isbn_13": "9785143147065",
+      "isbn_10": "5143147062",
+      "pages": 224,
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Harlan Ellison"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Palace of Desire",
       "authors": [
         "Naguib Mahfouz"
@@ -62928,6 +65244,21 @@
       "source": "seed"
     },
     {
+      "title": "Party of Two",
+      "year": 2020,
+      "isbn_13": "9787685015864",
+      "isbn_10": "7685015869",
+      "pages": 336,
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "authors": [
+        "Jasmine Guillory"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Passage",
       "year": 2001,
       "isbn_13": "9785151103619",
@@ -63224,6 +65555,23 @@
       "source": "seed"
     },
     {
+      "title": "Pax Indica",
+      "year": 2012,
+      "isbn_13": "9786315464140",
+      "isbn_10": "6315464142",
+      "pages": 476,
+      "genres": [
+        "Literary Fiction",
+        "Non-Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Shashi Tharoor"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Payment in Kind",
       "year": 1991,
       "isbn_13": "9784462885412",
@@ -63267,6 +65615,22 @@
       "language": "en",
       "authors": [
         "Thich Nhat Hanh"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Pearl of China",
+      "year": 2010,
+      "isbn_13": "9785341031043",
+      "isbn_10": "5341031040",
+      "pages": 288,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Anchee Min"
       ],
       "source": "seed"
     },
@@ -63414,6 +65778,22 @@
       "language": "en",
       "authors": [
         "Lois McMaster Bujold"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Peony in Love",
+      "year": 2007,
+      "isbn_13": "9788519075337",
+      "isbn_10": "8519075332",
+      "pages": 284,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Lisa See"
       ],
       "source": "seed"
     },
@@ -64790,6 +67170,22 @@
       "page_count": 594
     },
     {
+      "title": "Police at the Funeral",
+      "year": 1931,
+      "isbn_13": "9786446069016",
+      "isbn_10": "6446069017",
+      "pages": 288,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Margery Allingham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Political Liberalism",
       "authors": [
         "John Rawls"
@@ -64921,6 +67317,22 @@
       "source": "seed",
       "year_published": 2010,
       "page_count": 336
+    },
+    {
+      "title": "Portent",
+      "year": 1992,
+      "isbn_13": "9780308652026",
+      "isbn_10": "0308652022",
+      "pages": 384,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
+      ],
+      "source": "seed"
     },
     {
       "title": "Portnoy's Complaint",
@@ -65948,6 +68360,22 @@
       "source": "seed"
     },
     {
+      "title": "Puppet on a Chain",
+      "year": 1969,
+      "isbn_13": "9782092594902",
+      "isbn_10": "2092594904",
+      "pages": 256,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Purity",
       "authors": [
         "Jonathan Franzen"
@@ -66141,6 +68569,22 @@
       "source": "seed",
       "year_published": 2005,
       "page_count": 318
+    },
+    {
+      "title": "Q Clearance",
+      "year": 1986,
+      "isbn_13": "9788126026326",
+      "isbn_10": "8126026327",
+      "pages": 320,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Peter Benchley"
+      ],
+      "source": "seed"
     },
     {
       "title": "Q Is for Quarry",
@@ -67361,6 +69805,22 @@
       "source": "seed"
     },
     {
+      "title": "Red Azalea",
+      "year": 1994,
+      "isbn_13": "9783584865401",
+      "isbn_10": "3584865402",
+      "pages": 306,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Anchee Min"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Red Bird",
       "year": 2008,
       "isbn_13": "9783233450040",
@@ -68457,6 +70917,21 @@
       "source": "seed"
     },
     {
+      "title": "Rin Tin Tin",
+      "year": 2011,
+      "isbn_13": "9782214370223",
+      "isbn_10": "2214370225",
+      "pages": 336,
+      "genres": [
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Susan Orlean"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Ring",
       "authors": [
         "Koji Suzuki"
@@ -68503,6 +70978,21 @@
       "source": "seed",
       "year_published": 1953,
       "page_count": 216
+    },
+    {
+      "title": "Ring Shout",
+      "year": 2020,
+      "isbn_13": "9785909652147",
+      "isbn_10": "590965214X",
+      "pages": 192,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "P. Djèlí Clark"
+      ],
+      "source": "seed"
     },
     {
       "title": "Ringworld",
@@ -68706,6 +71196,22 @@
       "source": "seed",
       "year_published": 2011,
       "page_count": 528
+    },
+    {
+      "title": "River of the Gods",
+      "year": 2022,
+      "isbn_13": "9784295492146",
+      "isbn_10": "4295492140",
+      "pages": 352,
+      "genres": [
+        "Non-Fiction",
+        "History"
+      ],
+      "language": "en",
+      "authors": [
+        "Candice Millard"
+      ],
+      "source": "seed"
     },
     {
       "title": "River Out of Eden",
@@ -69281,6 +71787,21 @@
       "source": "seed"
     },
     {
+      "title": "Royal Holiday",
+      "year": 2019,
+      "isbn_13": "9780553607598",
+      "isbn_10": "0553607595",
+      "pages": 304,
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "authors": [
+        "Jasmine Guillory"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Rubicon",
       "authors": [
         "Tom Holland"
@@ -69378,6 +71899,22 @@
       "source": "seed"
     },
     {
+      "title": "Rummies",
+      "year": 1989,
+      "isbn_13": "9788097253219",
+      "isbn_10": "8097253215",
+      "pages": 320,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Peter Benchley"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Run",
       "year": 2007,
       "isbn_13": "9789134637474",
@@ -69389,6 +71926,22 @@
       "language": "en",
       "authors": [
         "Ann Patchett"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Run and Hide",
+      "year": 2022,
+      "isbn_13": "9787229293420",
+      "isbn_10": "722929342X",
+      "pages": 272,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Pankaj Mishra"
       ],
       "source": "seed"
     },
@@ -69452,6 +72005,22 @@
       "language": "en",
       "authors": [
         "Beverly Cleary"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Running Blind",
+      "year": 1970,
+      "isbn_13": "9785152752151",
+      "isbn_10": "5152752153",
+      "pages": 256,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Desmond Bagley"
       ],
       "source": "seed"
     },
@@ -70504,6 +73073,21 @@
       "page_count": 289
     },
     {
+      "title": "Saturday Night",
+      "year": 1990,
+      "isbn_13": "9785204133044",
+      "isbn_10": "5204133045",
+      "pages": 272,
+      "genres": [
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Susan Orlean"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Saturn",
       "year": 2003,
       "isbn_13": "9789995108748",
@@ -71221,6 +73805,22 @@
       "source": "seed"
     },
     {
+      "title": "Seawitch",
+      "year": 1977,
+      "isbn_13": "9780363103877",
+      "isbn_10": "0363103879",
+      "pages": 256,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Second First Impressions",
       "authors": [
         "Sally Thorne"
@@ -71409,6 +74009,21 @@
       "language": "en",
       "authors": [
         "Enid Blyton"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Secret Story",
+      "year": 2006,
+      "isbn_13": "9784168416330",
+      "isbn_10": "4168416331",
+      "pages": 308,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
       ],
       "source": "seed"
     },
@@ -71789,6 +74404,22 @@
       "language": "en",
       "authors": [
         "Rosamunde Pilcher"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Sepulchre",
+      "year": 1987,
+      "isbn_13": "9786891062211",
+      "isbn_10": "6891062214",
+      "pages": 384,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
       ],
       "source": "seed"
     },
@@ -72434,6 +75065,22 @@
       "page_count": 286
     },
     {
+      "title": "Shanghai Girls",
+      "year": 2009,
+      "isbn_13": "9787286015232",
+      "isbn_10": "7286015230",
+      "pages": 314,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Lisa See"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Shantaram",
       "authors": [
         "Gregory David Roberts"
@@ -72930,6 +75577,22 @@
       "source": "seed"
     },
     {
+      "title": "Shatterday",
+      "year": 1980,
+      "isbn_13": "9789510015162",
+      "isbn_10": "9510015167",
+      "pages": 338,
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Harlan Ellison"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "She Said",
       "authors": [
         "Jodi Kantor"
@@ -72944,6 +75607,22 @@
       "source": "seed",
       "year_published": 2019,
       "page_count": 320
+    },
+    {
+      "title": "She Who Became the Sun",
+      "year": 2021,
+      "isbn_13": "9785208100509",
+      "isbn_10": "5208100502",
+      "pages": 416,
+      "genres": [
+        "Fantasy",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Shelley Parker-Chan"
+      ],
+      "source": "seed"
     },
     {
       "title": "Shell Game",
@@ -73202,6 +75881,22 @@
       "source": "seed"
     },
     {
+      "title": "Shrine",
+      "year": 1983,
+      "isbn_13": "9783531802251",
+      "isbn_10": "3531802252",
+      "pages": 448,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Shrines of Gaiety",
       "year": 2022,
       "isbn_13": "9785126567095",
@@ -73441,6 +76136,21 @@
       "language": "is",
       "authors": [
         "Arnaldur Indriðason"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Silent Children",
+      "year": 2000,
+      "isbn_13": "9781431423521",
+      "isbn_10": "143142352X",
+      "pages": 350,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
       ],
       "source": "seed"
     },
@@ -74379,6 +77089,22 @@
       "source": "seed"
     },
     {
+      "title": "Slippage",
+      "year": 1997,
+      "isbn_13": "9781500104382",
+      "isbn_10": "1500104383",
+      "pages": 416,
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Harlan Ellison"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Slouching Towards Bethlehem",
       "authors": [
         "Joan Didion"
@@ -74861,6 +77587,22 @@
       "source": "seed"
     },
     {
+      "title": "Snow Flower and the Secret Fan",
+      "year": 2005,
+      "isbn_13": "9784593112807",
+      "isbn_10": "4593112801",
+      "pages": 258,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Lisa See"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Snow in April",
       "year": 1972,
       "isbn_13": "9783473512119",
@@ -75114,6 +77856,23 @@
       "source": "seed",
       "year_published": 1997,
       "page_count": 368
+    },
+    {
+      "title": "Solo",
+      "year": 1980,
+      "isbn_13": "9781011244904",
+      "isbn_10": "1011244901",
+      "pages": 288,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
     },
     {
       "title": "Solstice",
@@ -75653,6 +78412,22 @@
       "page_count": 260
     },
     {
+      "title": "South by Java Head",
+      "year": 1958,
+      "isbn_13": "9780945585121",
+      "isbn_10": "0945585123",
+      "pages": 320,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "South of the Border, West of the Sun",
       "authors": [
         "Haruki Murakami"
@@ -75711,6 +78486,22 @@
       "language": "en",
       "authors": [
         "Robert A. Heinlein"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Space Chronicles",
+      "year": 2012,
+      "isbn_13": "9785046148268",
+      "isbn_10": "5046148262",
+      "pages": 364,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Neil deGrasse Tyson"
       ],
       "source": "seed"
     },
@@ -76264,6 +79055,22 @@
       "language": "en",
       "authors": [
         "Robert Crais"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Stalking the Nightmare",
+      "year": 1982,
+      "isbn_13": "9782313500095",
+      "isbn_10": "2313500093",
+      "pages": 313,
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Harlan Ellison"
       ],
       "source": "seed"
     },
@@ -77318,6 +80125,23 @@
       "source": "seed"
     },
     {
+      "title": "Storm Warning",
+      "year": 1976,
+      "isbn_13": "9781842297018",
+      "isbn_10": "1842297016",
+      "pages": 304,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Storm Watch",
       "year": 2023,
       "isbn_13": "9781153471442",
@@ -77490,6 +80314,22 @@
       "source": "seed",
       "year_published": 2001,
       "page_count": 176
+    },
+    {
+      "title": "Strange Wine",
+      "year": 1978,
+      "isbn_13": "9788405124132",
+      "isbn_10": "8405124135",
+      "pages": 288,
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Harlan Ellison"
+      ],
+      "source": "seed"
     },
     {
       "title": "Stranger in a Strange Land",
@@ -77679,6 +80519,22 @@
       "source": "seed",
       "year_published": 1992,
       "page_count": 508
+    },
+    {
+      "title": "Strong Poison",
+      "year": 1930,
+      "isbn_13": "9783571451136",
+      "isbn_10": "3571451132",
+      "pages": 252,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Dorothy L. Sayers"
+      ],
+      "source": "seed"
     },
     {
       "title": "Structure and Interpretation of Computer Programs",
@@ -78344,6 +81200,22 @@
       "source": "seed"
     },
     {
+      "title": "Survive the Night",
+      "year": 2021,
+      "isbn_13": "9784178894098",
+      "isbn_10": "4178894092",
+      "pages": 352,
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Riley Sager"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Survivor",
       "year": 1978,
       "isbn_13": "9781007941817",
@@ -78516,6 +81388,22 @@
       "language": "en",
       "authors": [
         "Tennessee Williams"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Sweet Danger",
+      "year": 1933,
+      "isbn_13": "9784003702291",
+      "isbn_10": "4003702293",
+      "pages": 256,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Margery Allingham"
       ],
       "source": "seed"
     },
@@ -79564,6 +82452,22 @@
       "language": "en",
       "authors": [
         "Tamora Pierce"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Temptations of the West",
+      "year": 2006,
+      "isbn_13": "9782888410225",
+      "isbn_10": "2888410229",
+      "pages": 323,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Pankaj Mishra"
       ],
       "source": "seed"
     },
@@ -82371,6 +85275,22 @@
       "source": "seed"
     },
     {
+      "title": "The Beast That Shouted Love at the Heart of the World",
+      "year": 1969,
+      "isbn_13": "9783278362872",
+      "isbn_10": "3278362871",
+      "pages": 288,
+      "genres": [
+        "Science Fiction",
+        "Short Stories"
+      ],
+      "language": "en",
+      "authors": [
+        "Harlan Ellison"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Beautiful and Damned",
       "authors": [
         "F. Scott Fitzgerald"
@@ -82415,6 +85335,22 @@
       "language": "en",
       "authors": [
         "Ta-Nehisi Coates"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Beckoning Lady",
+      "year": 1955,
+      "isbn_13": "9786446531261",
+      "isbn_10": "6446531266",
+      "pages": 256,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Margery Allingham"
       ],
       "source": "seed"
     },
@@ -82804,6 +85740,22 @@
       ],
       "language": "en",
       "page_count": 231,
+      "source": "seed"
+    },
+    {
+      "title": "The Biggest Ideas in the Universe",
+      "year": 2022,
+      "isbn_13": "9785026920358",
+      "isbn_10": "5026920354",
+      "pages": 305,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Sean Carroll"
+      ],
       "source": "seed"
     },
     {
@@ -84581,6 +87533,21 @@
       "page_count": 416
     },
     {
+      "title": "The Bullfighter Checks Her Makeup",
+      "year": 2001,
+      "isbn_13": "9780445099487",
+      "isbn_10": "0445099483",
+      "pages": 288,
+      "genres": [
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Susan Orlean"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Bully Pulpit",
       "authors": [
         "Doris Kearns Goodwin"
@@ -85395,6 +88362,22 @@
       "source": "seed"
     },
     {
+      "title": "The Case of the Late Pig",
+      "year": 1937,
+      "isbn_13": "9781529624182",
+      "isbn_10": "1529624186",
+      "pages": 160,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Margery Allingham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Case of the Lucky Legs",
       "year": 1934,
       "isbn_13": "9784525487553",
@@ -86170,6 +89153,22 @@
       "source": "seed"
     },
     {
+      "title": "The China Governess",
+      "year": 1963,
+      "isbn_13": "9781341101366",
+      "isbn_10": "1341101368",
+      "pages": 256,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Margery Allingham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The China Study",
       "authors": [
         "T. Colin Campbell"
@@ -86497,6 +89496,23 @@
       "language": "en",
       "authors": [
         "Anne Tyler"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Clockmaker's Daughter",
+      "year": 2018,
+      "isbn_13": "9781783530656",
+      "isbn_10": "1783530650",
+      "pages": 485,
+      "genres": [
+        "Literary Fiction",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kate Morton"
       ],
       "source": "seed"
     },
@@ -87510,6 +90526,22 @@
       "page_count": 339
     },
     {
+      "title": "The Cooked Seed",
+      "year": 2013,
+      "isbn_13": "9787671524882",
+      "isbn_10": "7671524888",
+      "pages": 352,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Anchee Min"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Copper Beech",
       "year": 1992,
       "isbn_13": "9780410649587",
@@ -87587,6 +90619,21 @@
       "source": "seed",
       "year_published": 2002,
       "page_count": 384
+    },
+    {
+      "title": "The Count of Eleven",
+      "year": 1991,
+      "isbn_13": "9783231514065",
+      "isbn_10": "323151406X",
+      "pages": 371,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Count of Monte Cristo",
@@ -87683,6 +90730,21 @@
       "source": "seed"
     },
     {
+      "title": "The Covenant of Water",
+      "year": 2023,
+      "isbn_13": "9783825501105",
+      "isbn_10": "3825501103",
+      "pages": 717,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Abraham Verghese"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Cradle Will Fall",
       "authors": [
         "Mary Higgins Clark"
@@ -87741,6 +90803,22 @@
       "language": "en",
       "authors": [
         "Arthur Miller"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Crime at Black Dudley",
+      "year": 1929,
+      "isbn_13": "9780531953266",
+      "isbn_10": "0531953269",
+      "pages": 256,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Margery Allingham"
       ],
       "source": "seed"
     },
@@ -88291,6 +91369,38 @@
       "source": "seed"
     },
     {
+      "title": "The Dark",
+      "year": 1980,
+      "isbn_13": "9789152034057",
+      "isbn_10": "9152034057",
+      "pages": 384,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Dark Crusader",
+      "year": 1961,
+      "isbn_13": "9780353722507",
+      "isbn_10": "0353722509",
+      "pages": 256,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Dark Flood Rises",
       "year": 2016,
       "isbn_13": "9782370404725",
@@ -88468,6 +91578,21 @@
       "page_count": 353
     },
     {
+      "title": "The Darkest Part of the Woods",
+      "year": 2003,
+      "isbn_13": "9782886033143",
+      "isbn_10": "2886033145",
+      "pages": 329,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Darkling Child",
       "authors": [
         "Terry Brooks"
@@ -88525,6 +91650,22 @@
       "language": "en",
       "authors": [
         "Silvia Moreno-Garcia"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Daughter of Time",
+      "year": 1951,
+      "isbn_13": "9786377906152",
+      "isbn_10": "6377906158",
+      "pages": 206,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Josephine Tey"
       ],
       "source": "seed"
     },
@@ -88621,6 +91762,21 @@
       "description": "",
       "authors": [
         "Elena Ferrante"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Dead Cat Tail Assassins",
+      "year": 2024,
+      "isbn_13": "9786296733372",
+      "isbn_10": "6296733379",
+      "pages": 144,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "P. Djèlí Clark"
       ],
       "source": "seed"
     },
@@ -88891,6 +92047,22 @@
       "language": "en",
       "authors": [
         "Nick Cutter"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Deep",
+      "year": 1976,
+      "isbn_13": "9785124500407",
+      "isbn_10": "5124500402",
+      "pages": 264,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Peter Benchley"
       ],
       "source": "seed"
     },
@@ -89513,6 +92685,23 @@
       "source": "seed"
     },
     {
+      "title": "The Distant Hours",
+      "year": 2010,
+      "isbn_13": "9780439235228",
+      "isbn_10": "0439235224",
+      "pages": 562,
+      "genres": [
+        "Literary Fiction",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kate Morton"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Divan of Hafiz",
       "year": 1390,
       "isbn_13": "9788351331301",
@@ -89668,6 +92857,21 @@
       "language": "pl",
       "authors": [
         "Bolesław Prus"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Doll Who Ate His Mother",
+      "year": 1976,
+      "isbn_13": "9782784273122",
+      "isbn_10": "278427312X",
+      "pages": 191,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
       ],
       "source": "seed"
     },
@@ -90298,6 +93502,40 @@
       "source": "seed"
     },
     {
+      "title": "The Eagle Has Flown",
+      "year": 1991,
+      "isbn_13": "9786184440047",
+      "isbn_10": "6184440044",
+      "pages": 336,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Eagle Has Landed",
+      "year": 1975,
+      "isbn_13": "9783124945280",
+      "isbn_10": "3124945281",
+      "pages": 352,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Eagle's Throne",
       "year": 2002,
       "isbn_13": "9780534075385",
@@ -90854,6 +94092,22 @@
       "source": "seed"
     },
     {
+      "title": "The End of Everything",
+      "year": 2020,
+      "isbn_13": "9789100702243",
+      "isbn_10": "9100702249",
+      "pages": 240,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Katie Mack"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The End of History and the Last Man",
       "authors": [
         "Francis Fukuyama"
@@ -90914,6 +94168,22 @@
       "language": "en",
       "authors": [
         "LaVyrle Spencer"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Enemy",
+      "year": 1977,
+      "isbn_13": "9782098768031",
+      "isbn_10": "2098768035",
+      "pages": 288,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Desmond Bagley"
       ],
       "source": "seed"
     },
@@ -91335,6 +94605,21 @@
       "source": "seed"
     },
     {
+      "title": "The Face That Must Die",
+      "year": 1979,
+      "isbn_13": "9781325058716",
+      "isbn_10": "1325058713",
+      "pages": 192,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Faded Sun: Kesrith",
       "year": 1978,
       "isbn_13": "9784405314436",
@@ -91635,6 +94920,22 @@
       "source": "seed"
     },
     {
+      "title": "The Fashion in Shrouds",
+      "year": 1938,
+      "isbn_13": "9783552825604",
+      "isbn_10": "3552825605",
+      "pages": 288,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Margery Allingham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Fatal Eggs",
       "year": 1925,
       "isbn_13": "9785429325446",
@@ -91798,6 +95099,22 @@
       "language": "en",
       "authors": [
         "Catherine Cookson"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Fifth Book of Peace",
+      "year": 2003,
+      "isbn_13": "9783010000321",
+      "isbn_10": "3010000327",
+      "pages": 402,
+      "genres": [
+        "Literary Fiction",
+        "Memoir"
+      ],
+      "language": "en",
+      "authors": [
+        "Maxine Hong Kingston"
       ],
       "source": "seed"
     },
@@ -92378,6 +95695,22 @@
       "source": "seed"
     },
     {
+      "title": "The Five Red Herrings",
+      "year": 1931,
+      "isbn_13": "9782625723298",
+      "isbn_10": "2625723294",
+      "pages": 308,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Dorothy L. Sayers"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Fix",
       "authors": [
         "David Baldacci"
@@ -92545,6 +95878,22 @@
       "language": "en",
       "authors": [
         "Larry Niven"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Fog",
+      "year": 1975,
+      "isbn_13": "9781102051626",
+      "isbn_10": "1102051627",
+      "pages": 224,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
       ],
       "source": "seed"
     },
@@ -92753,6 +96102,23 @@
       "language": "en",
       "authors": [
         "Patricia McKillip"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Forgotten Garden",
+      "year": 2008,
+      "isbn_13": "9780138209858",
+      "isbn_10": "0138209856",
+      "pages": 548,
+      "genres": [
+        "Literary Fiction",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kate Morton"
       ],
       "source": "seed"
     },
@@ -92979,6 +96345,22 @@
       "source": "seed"
     },
     {
+      "title": "The Franchise Affair",
+      "year": 1948,
+      "isbn_13": "9780514850803",
+      "isbn_10": "0514850802",
+      "pages": 260,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Josephine Tey"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Fraud",
       "year": 2023,
       "isbn_13": "9784565532312",
@@ -93009,6 +96391,22 @@
       "language": "en",
       "authors": [
         "Ben Okri"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Freedom Trap",
+      "year": 1971,
+      "isbn_13": "9782076225877",
+      "isbn_10": "2076225870",
+      "pages": 256,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Desmond Bagley"
       ],
       "source": "seed"
     },
@@ -93121,6 +96519,22 @@
       "source": "seed",
       "year_published": 2023,
       "page_count": 416
+    },
+    {
+      "title": "The Future of Humanity",
+      "year": 2018,
+      "isbn_13": "9780217704380",
+      "isbn_10": "0217704384",
+      "pages": 368,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Michio Kaku"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Future of Life",
@@ -93737,6 +97151,22 @@
       "page_count": 180
     },
     {
+      "title": "The Ghosts of Sleath",
+      "year": 1994,
+      "isbn_13": "9784163850542",
+      "isbn_10": "4163850545",
+      "pages": 448,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Ghostway",
       "year": 1984,
       "isbn_13": "9788822015341",
@@ -93924,6 +97354,22 @@
       "language": "en",
       "authors": [
         "Donna Leon"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Girl of the Sea of Cortez",
+      "year": 1982,
+      "isbn_13": "9787178116573",
+      "isbn_10": "7178116572",
+      "pages": 204,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Peter Benchley"
       ],
       "source": "seed"
     },
@@ -94594,6 +98040,22 @@
       "page_count": 307
     },
     {
+      "title": "The Golden Gate",
+      "year": 1976,
+      "isbn_13": "9780273203124",
+      "isbn_10": "0273203125",
+      "pages": 256,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Golden House",
       "authors": [
         "Salman Rushdie"
@@ -94607,6 +98069,22 @@
       "source": "seed",
       "year_published": 2017,
       "page_count": 380
+    },
+    {
+      "title": "The Golden Keel",
+      "year": 1963,
+      "isbn_13": "9784040295046",
+      "isbn_10": "4040295043",
+      "pages": 254,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Desmond Bagley"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Golden Road",
@@ -95267,6 +98745,21 @@
       "source": "seed"
     },
     {
+      "title": "The Grin of the Dark",
+      "year": 2007,
+      "isbn_13": "9783341438046",
+      "isbn_10": "334143804X",
+      "pages": 307,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Gripping Hand",
       "year": 1993,
       "isbn_13": "9780401274002",
@@ -95457,6 +98950,22 @@
       "language": "en",
       "authors": [
         "Roger Zelazny"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Guns of Navarone",
+      "year": 1957,
+      "isbn_13": "9789336215296",
+      "isbn_10": "9336215292",
+      "pages": 320,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
       ],
       "source": "seed"
     },
@@ -96719,6 +100228,39 @@
       "source": "seed"
     },
     {
+      "title": "The House Across the Lake",
+      "year": 2022,
+      "isbn_13": "9782633319551",
+      "isbn_10": "2633319555",
+      "pages": 320,
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Riley Sager"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The House at Riverton",
+      "year": 2006,
+      "isbn_13": "9781621102021",
+      "isbn_10": "1621102026",
+      "pages": 560,
+      "genres": [
+        "Literary Fiction",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kate Morton"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The House at the End of the World",
       "authors": [
         "Dean Koontz"
@@ -96946,6 +100488,21 @@
       "page_count": 260
     },
     {
+      "title": "The House on Nazareth Hill",
+      "year": 1996,
+      "isbn_13": "9782002245511",
+      "isbn_10": "2002245514",
+      "pages": 352,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Housekeeper and the Professor",
       "authors": [
         "Yoko Ogawa"
@@ -97163,6 +100720,21 @@
       ],
       "language": "en",
       "page_count": 374,
+      "source": "seed"
+    },
+    {
+      "title": "The Hungry Moon",
+      "year": 1986,
+      "isbn_13": "9786955341559",
+      "isbn_10": "6955341558",
+      "pages": 367,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
+      ],
       "source": "seed"
     },
     {
@@ -97618,6 +101190,21 @@
       "source": "seed"
     },
     {
+      "title": "The Influence",
+      "year": 1988,
+      "isbn_13": "9785034030520",
+      "isbn_10": "5034030524",
+      "pages": 287,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Information",
       "authors": [
         "James Gleick"
@@ -97859,6 +101446,22 @@
       "source": "seed"
     },
     {
+      "title": "The Interior",
+      "year": 1999,
+      "isbn_13": "9788535053319",
+      "isbn_10": "8535053311",
+      "pages": 384,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Lisa See"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Interpretation of Dreams",
       "authors": [
         "Sigmund Freud"
@@ -98069,6 +101672,22 @@
       "page_count": 354
     },
     {
+      "title": "The Island",
+      "year": 1979,
+      "isbn_13": "9780803476271",
+      "isbn_10": "0803476279",
+      "pages": 305,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Peter Benchley"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Island Beneath the Sea",
       "year": 2009,
       "isbn_13": "9780064558310",
@@ -98131,6 +101750,22 @@
       "language": "en",
       "authors": [
         "Elif Shafak"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Island of Sea Women",
+      "year": 2019,
+      "isbn_13": "9785111958648",
+      "isbn_10": "5111958642",
+      "pages": 374,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Lisa See"
       ],
       "source": "seed"
     },
@@ -98328,6 +101963,22 @@
       "source": "seed",
       "year_published": 1967,
       "page_count": 317
+    },
+    {
+      "title": "The Jonah",
+      "year": 1981,
+      "isbn_13": "9782412023075",
+      "isbn_10": "2412023074",
+      "pages": 320,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Journey to the East",
@@ -98699,6 +102350,23 @@
       "source": "seed"
     },
     {
+      "title": "The Killing Ground",
+      "year": 2007,
+      "isbn_13": "9787494637714",
+      "isbn_10": "7494637710",
+      "pages": 304,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Killing Habit",
       "year": 2018,
       "isbn_13": "9780178041920",
@@ -98760,6 +102428,21 @@
       "source": "seed",
       "year_published": 2012,
       "page_count": 418
+    },
+    {
+      "title": "The Kind Folk",
+      "year": 2012,
+      "isbn_13": "9789400543133",
+      "isbn_10": "940054313X",
+      "pages": 288,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
+      ],
+      "source": "seed"
     },
     {
       "title": "The King Beyond the Gate",
@@ -99125,6 +102808,23 @@
       "description": "",
       "authors": [
         "Banana Yoshimoto"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Lake House",
+      "year": 2015,
+      "isbn_13": "9785964143413",
+      "isbn_10": "5964143416",
+      "pages": 512,
+      "genres": [
+        "Literary Fiction",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kate Morton"
       ],
       "source": "seed"
     },
@@ -99513,6 +103213,38 @@
       "source": "seed"
     },
     {
+      "title": "The Last Empress",
+      "year": 2007,
+      "isbn_13": "9789330324567",
+      "isbn_10": "9330324563",
+      "pages": 308,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Anchee Min"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Last Frontier",
+      "year": 1959,
+      "isbn_13": "9784831700704",
+      "isbn_10": "4831700708",
+      "pages": 288,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Last Gift of the Master Artists",
       "year": 2021,
       "isbn_13": "9784734723329",
@@ -99786,6 +103518,22 @@
       "page_count": 427
     },
     {
+      "title": "The Last Queen",
+      "year": 2021,
+      "isbn_13": "9782323001254",
+      "isbn_10": "2323001255",
+      "pages": 400,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Chitra Banerjee Divakaruni"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Last Report on the Miracles at Little No Horse",
       "year": 2001,
       "isbn_13": "9782255224318",
@@ -99882,6 +103630,22 @@
       "source": "seed"
     },
     {
+      "title": "The Last Time I Lied",
+      "year": 2018,
+      "isbn_13": "9780175331420",
+      "isbn_10": "017533142X",
+      "pages": 368,
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Riley Sager"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Last Trial",
       "authors": [
         "Scott Turow"
@@ -99927,6 +103691,21 @@
       ],
       "language": "en",
       "page_count": 294,
+      "source": "seed"
+    },
+    {
+      "title": "The Last Voice They Hear",
+      "year": 1998,
+      "isbn_13": "9784584221716",
+      "isbn_10": "4584221716",
+      "pages": 368,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
+      ],
       "source": "seed"
     },
     {
@@ -100323,6 +104102,21 @@
       "source": "seed",
       "year_published": 1995,
       "page_count": 320
+    },
+    {
+      "title": "The Library Book",
+      "year": 2018,
+      "isbn_13": "9785064503537",
+      "isbn_10": "5064503532",
+      "pages": 317,
+      "genres": [
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Susan Orlean"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Lie Maker",
@@ -101086,6 +104880,21 @@
       "source": "seed"
     },
     {
+      "title": "The Long Lost",
+      "year": 1993,
+      "isbn_13": "9781157812241",
+      "isbn_10": "1157812247",
+      "pages": 422,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Long Road Home",
       "authors": [
         "Danielle Steel"
@@ -101502,6 +105311,21 @@
       "page_count": 32
     },
     {
+      "title": "The Love That Split the World",
+      "year": 2016,
+      "isbn_13": "9785157058333",
+      "isbn_10": "5157058330",
+      "pages": 393,
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "authors": [
+        "Emily Henry"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Loved One",
       "year": 1948,
       "isbn_13": "9788810112151",
@@ -101703,6 +105527,22 @@
       "language": "en",
       "authors": [
         "Louise Penny"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Magic Cottage",
+      "year": 1986,
+      "isbn_13": "9783097510928",
+      "isbn_10": "3097510928",
+      "pages": 352,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
       ],
       "source": "seed"
     },
@@ -102089,6 +105929,22 @@
       "language": "fr",
       "authors": [
         "Alexandre Dumas"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Man in the Queue",
+      "year": 1929,
+      "isbn_13": "9783819041563",
+      "isbn_10": "3819041564",
+      "pages": 288,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Josephine Tey"
       ],
       "source": "seed"
     },
@@ -102492,6 +106348,21 @@
       ],
       "language": "en",
       "page_count": 222,
+      "source": "seed"
+    },
+    {
+      "title": "The Mask Falling",
+      "year": 2021,
+      "isbn_13": "9783440521540",
+      "isbn_10": "3440521540",
+      "pages": 560,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Samantha Shannon"
+      ],
       "source": "seed"
     },
     {
@@ -103273,6 +107144,22 @@
       "description": "",
       "authors": [
         "V.S. Naipaul"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Mind Readers",
+      "year": 1965,
+      "isbn_13": "9782358430036",
+      "isbn_10": "2358430031",
+      "pages": 224,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Margery Allingham"
       ],
       "source": "seed"
     },
@@ -104295,6 +108182,21 @@
       "source": "seed"
     },
     {
+      "title": "The Nameless",
+      "year": 1981,
+      "isbn_13": "9781305005402",
+      "isbn_10": "1305005405",
+      "pages": 275,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Names",
       "authors": [
         "Don DeLillo"
@@ -104905,6 +108807,22 @@
       "source": "seed"
     },
     {
+      "title": "The Nine Tailors",
+      "year": 1934,
+      "isbn_13": "9789012488013",
+      "isbn_10": "9012488011",
+      "pages": 331,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Dorothy L. Sayers"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The No-Show",
       "authors": [
         "Beth O'Leary"
@@ -105468,6 +109386,21 @@
       "source": "seed"
     },
     {
+      "title": "The One Safe Place",
+      "year": 1995,
+      "isbn_13": "9783720060585",
+      "isbn_10": "3720060585",
+      "pages": 461,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Ones Who Walk Away from Omelas",
       "year": 1973,
       "isbn_13": "9788354098751",
@@ -105500,6 +109433,22 @@
       "source": "seed",
       "year_published": 2020,
       "page_count": 300
+    },
+    {
+      "title": "The Only One Left",
+      "year": 2023,
+      "isbn_13": "9785554890208",
+      "isbn_10": "5554890209",
+      "pages": 384,
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Riley Sager"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Only Problem",
@@ -105577,6 +109526,21 @@
       "source": "seed",
       "year_published": 1965,
       "page_count": 246
+    },
+    {
+      "title": "The Orchid Thief",
+      "year": 1998,
+      "isbn_13": "9780133022162",
+      "isbn_10": "013302216X",
+      "pages": 284,
+      "genres": [
+        "Non-Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Susan Orlean"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Ordeal of Gilbert Pinfold",
@@ -105920,6 +109884,21 @@
       "source": "seed"
     },
     {
+      "title": "The Overnight",
+      "year": 2004,
+      "isbn_13": "9781464468117",
+      "isbn_10": "1464468114",
+      "pages": 370,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Overstory",
       "authors": [
         "Richard Powers"
@@ -106140,6 +110119,21 @@
       "language": "it",
       "authors": [
         "Andrea Camilleri"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Parasite",
+      "year": 1980,
+      "isbn_13": "9783243392002",
+      "isbn_10": "3243392007",
+      "pages": 250,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
       ],
       "source": "seed"
     },
@@ -107492,6 +111486,23 @@
       "page_count": 259
     },
     {
+      "title": "The President's Daughter",
+      "year": 1997,
+      "isbn_13": "9784112204051",
+      "isbn_10": "411220405X",
+      "pages": 352,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Price",
       "year": 1968,
       "isbn_13": "9783151710837",
@@ -107876,6 +111887,21 @@
       "source": "seed",
       "year_published": 1978,
       "page_count": 328
+    },
+    {
+      "title": "The Proposal",
+      "year": 2018,
+      "isbn_13": "9781704153612",
+      "isbn_10": "170415361X",
+      "pages": 325,
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "authors": [
+        "Jasmine Guillory"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Protestant Ethic and the Spirit of Capitalism",
@@ -108320,6 +112346,22 @@
       "source": "seed",
       "year_published": 2010,
       "page_count": 448
+    },
+    {
+      "title": "The Rats",
+      "year": 1974,
+      "isbn_13": "9785502302562",
+      "isbn_10": "5502302568",
+      "pages": 176,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Raven and Other Poems",
@@ -109790,6 +113832,22 @@
       "page_count": 434
     },
     {
+      "title": "The Romantics",
+      "year": 1999,
+      "isbn_13": "9783241836034",
+      "isbn_10": "3241836034",
+      "pages": 260,
+      "genres": [
+        "Literary Fiction",
+        "Indian Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Pankaj Mishra"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Rooster Bar",
       "authors": [
         "John Grisham"
@@ -110226,6 +114284,22 @@
       "language": "en",
       "authors": [
         "David Eddings"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Satan Bug",
+      "year": 1962,
+      "isbn_13": "9784142804061",
+      "isbn_10": "4142804066",
+      "pages": 288,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
       ],
       "source": "seed"
     },
@@ -110823,6 +114897,23 @@
       "source": "seed"
     },
     {
+      "title": "The Secret Keeper",
+      "year": 2012,
+      "isbn_13": "9781950929207",
+      "isbn_10": "1950929206",
+      "pages": 464,
+      "genres": [
+        "Literary Fiction",
+        "Mystery",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Kate Morton"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Secret Life of Trees",
       "authors": [
         "Colin Tudge"
@@ -110852,6 +114943,22 @@
       "source": "seed",
       "year_published": 1925,
       "page_count": 290
+    },
+    {
+      "title": "The Secret of Crickley Hall",
+      "year": 2006,
+      "isbn_13": "9782746930483",
+      "isbn_10": "2746930481",
+      "pages": 576,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Secret of the Nagas",
@@ -111187,6 +115294,21 @@
       "language": "sv",
       "authors": [
         "Vilhelm Moberg"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Seven Days of Cain",
+      "year": 2010,
+      "isbn_13": "9785198407794",
+      "isbn_10": "5198407793",
+      "pages": 257,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
       ],
       "source": "seed"
     },
@@ -112203,6 +116325,22 @@
       "page_count": 192
     },
     {
+      "title": "The Singing Sands",
+      "year": 1952,
+      "isbn_13": "9788724029538",
+      "isbn_10": "8724029531",
+      "pages": 223,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Josephine Tey"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Singularities",
       "year": 2022,
       "isbn_13": "9781574230000",
@@ -112426,6 +116564,22 @@
       "source": "seed"
     },
     {
+      "title": "The Sky Is Not the Limit",
+      "year": 2000,
+      "isbn_13": "9780015374310",
+      "isbn_10": "0015374312",
+      "pages": 218,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Neil deGrasse Tyson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Sleeping Doll",
       "year": 2007,
       "isbn_13": "9783282201235",
@@ -112553,6 +116707,22 @@
       "page_count": 224
     },
     {
+      "title": "The Snakehead",
+      "year": 2009,
+      "isbn_13": "9783487214085",
+      "isbn_10": "3487214088",
+      "pages": 432,
+      "genres": [
+        "Non-Fiction",
+        "History"
+      ],
+      "language": "en",
+      "authors": [
+        "Patrick Radden Keefe"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Snow Leopard",
       "authors": [
         "Peter Matthiessen"
@@ -112569,6 +116739,22 @@
       "source": "seed",
       "year_published": 1978,
       "page_count": 338
+    },
+    {
+      "title": "The Snow Tiger",
+      "year": 1975,
+      "isbn_13": "9783934246553",
+      "isbn_10": "3934246552",
+      "pages": 320,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Desmond Bagley"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Snowman",
@@ -112733,6 +116919,21 @@
       "source": "seed",
       "year_published": 2022,
       "page_count": 496
+    },
+    {
+      "title": "The Song Rising",
+      "year": 2017,
+      "isbn_13": "9788504510430",
+      "isbn_10": "8504510438",
+      "pages": 416,
+      "genres": [
+        "Fantasy"
+      ],
+      "language": "en",
+      "authors": [
+        "Samantha Shannon"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Songlines",
@@ -113048,6 +117249,22 @@
       "source": "seed"
     },
     {
+      "title": "The Spear",
+      "year": 1978,
+      "isbn_13": "9788606220220",
+      "isbn_10": "860622022X",
+      "pages": 320,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Spider's House",
       "year": 1955,
       "isbn_13": "9781993184373",
@@ -113138,6 +117355,22 @@
       "language": "en",
       "authors": [
         "Erik Larson"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Spoilers",
+      "year": 1969,
+      "isbn_13": "9784238935075",
+      "isbn_10": "423893507X",
+      "pages": 288,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Desmond Bagley"
       ],
       "source": "seed"
     },
@@ -114250,6 +118483,37 @@
       "page_count": 382
     },
     {
+      "title": "The Surrendered",
+      "year": 2010,
+      "isbn_13": "9781200054246",
+      "isbn_10": "1200054246",
+      "pages": 469,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Chang-rae Lee"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Survivor",
+      "year": 1976,
+      "isbn_13": "9780314333131",
+      "isbn_10": "0314333137",
+      "pages": 208,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "en",
+      "authors": [
+        "James Herbert"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Survivors Club",
       "authors": [
         "Lisa Gardner"
@@ -114666,6 +118930,22 @@
       "source": "seed"
     },
     {
+      "title": "The Tea Girl of Hummingbird Lane",
+      "year": 2017,
+      "isbn_13": "9785103158056",
+      "isbn_10": "510315805X",
+      "pages": 384,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Lisa See"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Teeth of the Tiger",
       "year": 2003,
       "isbn_13": "9787455041031",
@@ -114839,6 +119119,21 @@
       "source": "seed",
       "year_published": 1848,
       "page_count": 510
+    },
+    {
+      "title": "The Tennis Partner",
+      "year": 1998,
+      "isbn_13": "9780758845252",
+      "isbn_10": "075884525X",
+      "pages": 400,
+      "genres": [
+        "Literary Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Abraham Verghese"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Tent",
@@ -115488,6 +119783,22 @@
       "source": "seed"
     },
     {
+      "title": "The Tiger in the Smoke",
+      "year": 1952,
+      "isbn_13": "9789405000105",
+      "isbn_10": "940500010X",
+      "pages": 224,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Margery Allingham"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Tiger in the Well",
       "year": 1990,
       "isbn_13": "9782042641489",
@@ -115516,6 +119827,22 @@
       "language": "en",
       "authors": [
         "Wilbur Smith"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Tightrope Men",
+      "year": 1973,
+      "isbn_13": "9784397020124",
+      "isbn_10": "4397020127",
+      "pages": 288,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Desmond Bagley"
       ],
       "source": "seed"
     },
@@ -115597,6 +119924,22 @@
       "language": "en",
       "authors": [
         "Victoria Holt"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Time Traveler's Wife",
+      "year": 2003,
+      "isbn_13": "9781243222251",
+      "isbn_10": "1243222256",
+      "pages": 518,
+      "genres": [
+        "Literary Fiction",
+        "Romance"
+      ],
+      "language": "en",
+      "authors": [
+        "Audrey Niffenegger"
       ],
       "source": "seed"
     },
@@ -116520,6 +120863,22 @@
       "page_count": 179
     },
     {
+      "title": "The Unpleasantness at the Bellona Club",
+      "year": 1928,
+      "isbn_13": "9781308282503",
+      "isbn_10": "1308282503",
+      "pages": 279,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Dorothy L. Sayers"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Untamed",
       "year": 1919,
       "isbn_13": "9787013904723",
@@ -117092,6 +121451,22 @@
       "source": "seed",
       "year_published": 2015,
       "page_count": 368
+    },
+    {
+      "title": "The Vivero Letter",
+      "year": 1968,
+      "isbn_13": "9783446393226",
+      "isbn_10": "3446393225",
+      "pages": 320,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Desmond Bagley"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Vor Game",
@@ -117712,6 +122087,21 @@
       "source": "seed"
     },
     {
+      "title": "The Wedding Date",
+      "year": 2018,
+      "isbn_13": "9784499000277",
+      "isbn_10": "4499000270",
+      "pages": 320,
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "authors": [
+        "Jasmine Guillory"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Wedding of Zein",
       "authors": [
         "Tayeb Salih"
@@ -117725,6 +122115,21 @@
       "source": "seed",
       "year_published": 1962,
       "page_count": 110
+    },
+    {
+      "title": "The Wedding Party",
+      "year": 2019,
+      "isbn_13": "9781398858558",
+      "isbn_10": "1398858559",
+      "pages": 320,
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "authors": [
+        "Jasmine Guillory"
+      ],
+      "source": "seed"
     },
     {
       "title": "The Wee Free Men",
@@ -117964,6 +122369,22 @@
       "source": "seed"
     },
     {
+      "title": "The White Darkness",
+      "year": 2018,
+      "isbn_13": "9783000031502",
+      "isbn_10": "3000031509",
+      "pages": 144,
+      "genres": [
+        "Non-Fiction",
+        "History"
+      ],
+      "language": "en",
+      "authors": [
+        "David Grann"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The White Guard",
       "year": 1925,
       "isbn_13": "9785908435192",
@@ -117979,6 +122400,23 @@
       "description": "",
       "authors": [
         "Mikhail Bulgakov"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The White House Connection",
+      "year": 1999,
+      "isbn_13": "9782357472037",
+      "isbn_10": "2357472030",
+      "pages": 304,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
       ],
       "source": "seed"
     },
@@ -118122,6 +122560,22 @@
       "language": "en",
       "authors": [
         "Holly Black"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "The Wide Wide Sea",
+      "year": 2024,
+      "isbn_13": "9788944792816",
+      "isbn_10": "8944792811",
+      "pages": 432,
+      "genres": [
+        "Non-Fiction",
+        "History"
+      ],
+      "language": "en",
+      "authors": [
+        "Hampton Sides"
       ],
       "source": "seed"
     },
@@ -118940,6 +123394,22 @@
       "source": "seed"
     },
     {
+      "title": "The Woman Warrior",
+      "year": 1976,
+      "isbn_13": "9783033573109",
+      "isbn_10": "3033573101",
+      "pages": 209,
+      "genres": [
+        "Literary Fiction",
+        "Memoir"
+      ],
+      "language": "en",
+      "authors": [
+        "Maxine Hong Kingston"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "The Woman Who Rides Like a Man",
       "year": 1986,
       "isbn_13": "9787325442050",
@@ -119710,6 +124180,22 @@
       "source": "seed"
     },
     {
+      "title": "There Are Places in the World Where Rules Are Less Important Than Kindness",
+      "year": 2020,
+      "isbn_13": "9789000342037",
+      "isbn_10": "900034203X",
+      "pages": 256,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Carlo Rovelli"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "There There",
       "year": 2018,
       "isbn_13": "9789017591138",
@@ -119819,6 +124305,21 @@
       "page_count": 324
     },
     {
+      "title": "Thieving Fear",
+      "year": 2008,
+      "isbn_13": "9781853083433",
+      "isbn_10": "1853083434",
+      "pages": 360,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Thin Air",
       "year": 1995,
       "isbn_13": "9782843151415",
@@ -119896,6 +124397,21 @@
       "language": "en",
       "authors": [
         "Lisa Scottoline"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Think Yourself Lucky",
+      "year": 2014,
+      "isbn_13": "9782980222481",
+      "isbn_10": "2980222483",
+      "pages": 320,
+      "genres": [
+        "Horror"
+      ],
+      "language": "en",
+      "authors": [
+        "Ramsey Campbell"
       ],
       "source": "seed"
     },
@@ -120662,6 +125178,23 @@
       "page_count": 358
     },
     {
+      "title": "Thunder Point",
+      "year": 1993,
+      "isbn_13": "9787219238936",
+      "isbn_10": "7219238939",
+      "pages": 288,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Thunderball",
       "authors": [
         "Ian Fleming"
@@ -121193,6 +125726,22 @@
       "source": "seed"
     },
     {
+      "title": "To Infinity and Beyond",
+      "year": 2023,
+      "isbn_13": "9781461648420",
+      "isbn_10": "1461648427",
+      "pages": 304,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Neil deGrasse Tyson"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "To Kill a Mockingbird",
       "authors": [
         "Harper Lee"
@@ -121221,6 +125770,22 @@
       "language": "zh",
       "authors": [
         "Yu Hua"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "To Love and Be Wise",
+      "year": 1950,
+      "isbn_13": "9789524110013",
+      "isbn_10": "9524110015",
+      "pages": 265,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Josephine Tey"
       ],
       "source": "seed"
     },
@@ -121799,6 +126364,23 @@
       "page_count": 384
     },
     {
+      "title": "Touch the Devil",
+      "year": 1982,
+      "isbn_13": "9783223117892",
+      "isbn_10": "3223117891",
+      "pages": 320,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Touching the Void",
       "authors": [
         "Joe Simpson"
@@ -122069,6 +126651,22 @@
       "source": "seed",
       "year_published": 1956,
       "page_count": 181
+    },
+    {
+      "title": "Traitor's Purse",
+      "year": 1941,
+      "isbn_13": "9782280821117",
+      "isbn_10": "2280821114",
+      "pages": 192,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Margery Allingham"
+      ],
+      "source": "seed"
     },
     {
       "title": "Transcendent Kingdom",
@@ -122577,6 +127175,22 @@
       "source": "seed",
       "year_published": 1979,
       "page_count": 379
+    },
+    {
+      "title": "Tripmaster Monkey",
+      "year": 1989,
+      "isbn_13": "9781234410605",
+      "isbn_10": "1234410606",
+      "pages": 340,
+      "genres": [
+        "Literary Fiction",
+        "Memoir"
+      ],
+      "language": "en",
+      "authors": [
+        "Maxine Hong Kingston"
+      ],
+      "source": "seed"
     },
     {
       "title": "Tripwire",
@@ -124238,6 +128852,22 @@
     },
     {
       "title": "Unnatural Death",
+      "year": 1927,
+      "isbn_13": "9785142152787",
+      "isbn_10": "5142152785",
+      "pages": 262,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Dorothy L. Sayers"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Unnatural Death",
       "authors": [
         "Patricia Cornwell"
       ],
@@ -125389,6 +130019,22 @@
       "language": "en",
       "authors": [
         "William Gibson"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Visions",
+      "year": 1997,
+      "isbn_13": "9785102462789",
+      "isbn_10": "5102462787",
+      "pages": 403,
+      "genres": [
+        "Non-Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "authors": [
+        "Michio Kaku"
       ],
       "source": "seed"
     },
@@ -127223,6 +131869,22 @@
       "source": "seed"
     },
     {
+      "title": "When Eight Bells Toll",
+      "year": 1966,
+      "isbn_13": "9786412963577",
+      "isbn_10": "6412963571",
+      "pages": 288,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "When He Was Wicked",
       "authors": [
         "Julia Quinn"
@@ -127555,6 +132217,22 @@
       "source": "seed"
     },
     {
+      "title": "Where Eagles Dare",
+      "year": 1967,
+      "isbn_13": "9785416409142",
+      "isbn_10": "5416409149",
+      "pages": 288,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Alistair MacLean"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Where Europe Begins",
       "year": 2002,
       "isbn_13": "9782001330881",
@@ -127792,6 +132470,21 @@
       "page_count": 318
     },
     {
+      "title": "While We Were Dating",
+      "year": 2021,
+      "isbn_13": "9781105580161",
+      "isbn_10": "1105580167",
+      "pages": 352,
+      "genres": [
+        "Romance"
+      ],
+      "language": "en",
+      "authors": [
+        "Jasmine Guillory"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Whirlwind",
       "year": 1986,
       "isbn_13": "9786701811121",
@@ -127982,6 +132675,22 @@
       "source": "seed"
     },
     {
+      "title": "White Shark",
+      "year": 1994,
+      "isbn_13": "9780808750437",
+      "isbn_10": "0808750434",
+      "pages": 288,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Peter Benchley"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "White Teeth",
       "authors": [
         "Zadie Smith"
@@ -128107,6 +132816,22 @@
       "source": "seed",
       "year_published": 1962,
       "page_count": 242
+    },
+    {
+      "title": "Whose Body?",
+      "year": 1923,
+      "isbn_13": "9780072014631",
+      "isbn_10": "0072014635",
+      "pages": 222,
+      "genres": [
+        "Mystery",
+        "Classic"
+      ],
+      "language": "en",
+      "authors": [
+        "Dorothy L. Sayers"
+      ],
+      "source": "seed"
     },
     {
       "title": "Why Call Them Back from Heaven?",
@@ -128351,6 +133076,22 @@
       "source": "seed"
     },
     {
+      "title": "Wild Ginger",
+      "year": 2002,
+      "isbn_13": "9785147690031",
+      "isbn_10": "5147690037",
+      "pages": 228,
+      "genres": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Anchee Min"
+      ],
+      "source": "seed"
+    },
+    {
       "title": "Wild Justice",
       "year": 1979,
       "isbn_13": "9783645039628",
@@ -128570,6 +133311,22 @@
       "language": "en",
       "authors": [
         "Antoine de Saint-Exupéry"
+      ],
+      "source": "seed"
+    },
+    {
+      "title": "Windfall",
+      "year": 1982,
+      "isbn_13": "9782380254815",
+      "isbn_10": "2380254813",
+      "pages": 352,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Desmond Bagley"
       ],
       "source": "seed"
     },
@@ -129059,6 +133816,23 @@
       "source": "seed",
       "year_published": 2002,
       "page_count": 416
+    },
+    {
+      "title": "Without Mercy",
+      "year": 2005,
+      "isbn_13": "9783234301136",
+      "isbn_10": "323430113X",
+      "pages": 288,
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Spy Fiction"
+      ],
+      "language": "en",
+      "authors": [
+        "Jack Higgins"
+      ],
+      "source": "seed"
     },
     {
       "title": "Without Merit",
@@ -129698,6 +134472,22 @@
       "source": "seed",
       "year_published": 1847,
       "page_count": 416
+    },
+    {
+      "title": "Wyatt's Hurricane",
+      "year": 1966,
+      "isbn_13": "9780223208520",
+      "isbn_10": "0223208528",
+      "pages": 288,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "language": "en",
+      "authors": [
+        "Desmond Bagley"
+      ],
+      "source": "seed"
     },
     {
       "title": "Wyrd Sisters",

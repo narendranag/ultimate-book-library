@@ -1,0 +1,1288 @@
+[
+  {
+    "title": "Windfall",
+    "author": "Desmond Bagley",
+    "year": 1982,
+    "isbn_13": "9782380254815",
+    "isbn_10": "2380254813",
+    "pages": 352,
+    "genres": [
+      "Thriller",
+      "Adventure"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Night of Error",
+    "author": "Desmond Bagley",
+    "year": 1984,
+    "isbn_13": "9780431072913",
+    "isbn_10": "0431072917",
+    "pages": 288,
+    "genres": [
+      "Thriller",
+      "Adventure"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Juggernaut",
+    "author": "Desmond Bagley",
+    "year": 1985,
+    "isbn_13": "9785633192629",
+    "isbn_10": "563319262X",
+    "pages": 320,
+    "genres": [
+      "Thriller",
+      "Adventure"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Rats",
+    "author": "James Herbert",
+    "year": 1974,
+    "isbn_13": "9785502302562",
+    "isbn_10": "5502302568",
+    "pages": 176,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Fog",
+    "author": "James Herbert",
+    "year": 1975,
+    "isbn_13": "9781102051626",
+    "isbn_10": "1102051627",
+    "pages": 224,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Survivor",
+    "author": "James Herbert",
+    "year": 1976,
+    "isbn_13": "9780314333131",
+    "isbn_10": "0314333137",
+    "pages": 208,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Fluke",
+    "author": "James Herbert",
+    "year": 1977,
+    "isbn_13": "9784336373557",
+    "isbn_10": "4336373553",
+    "pages": 224,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Spear",
+    "author": "James Herbert",
+    "year": 1978,
+    "isbn_13": "9788606220220",
+    "isbn_10": "860622022X",
+    "pages": 320,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Lair",
+    "author": "James Herbert",
+    "year": 1979,
+    "isbn_13": "9782111423039",
+    "isbn_10": "2111423038",
+    "pages": 288,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Dark",
+    "author": "James Herbert",
+    "year": 1980,
+    "isbn_13": "9789152034057",
+    "isbn_10": "9152034057",
+    "pages": 384,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Jonah",
+    "author": "James Herbert",
+    "year": 1981,
+    "isbn_13": "9782412023075",
+    "isbn_10": "2412023074",
+    "pages": 320,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Shrine",
+    "author": "James Herbert",
+    "year": 1983,
+    "isbn_13": "9783531802251",
+    "isbn_10": "3531802252",
+    "pages": 448,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Domain",
+    "author": "James Herbert",
+    "year": 1984,
+    "isbn_13": "9783241731131",
+    "isbn_10": "3241731133",
+    "pages": 384,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Moon",
+    "author": "James Herbert",
+    "year": 1985,
+    "isbn_13": "9786520767630",
+    "isbn_10": "6520767633",
+    "pages": 384,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Magic Cottage",
+    "author": "James Herbert",
+    "year": 1986,
+    "isbn_13": "9783097510928",
+    "isbn_10": "3097510928",
+    "pages": 352,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Sepulchre",
+    "author": "James Herbert",
+    "year": 1987,
+    "isbn_13": "9786891062211",
+    "isbn_10": "6891062214",
+    "pages": 384,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Haunted",
+    "author": "James Herbert",
+    "year": 1988,
+    "isbn_13": "9781521156551",
+    "isbn_10": "1521156554",
+    "pages": 352,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Creed",
+    "author": "James Herbert",
+    "year": 1990,
+    "isbn_13": "9781484143551",
+    "isbn_10": "1484143553",
+    "pages": 384,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Portent",
+    "author": "James Herbert",
+    "year": 1992,
+    "isbn_13": "9780308652026",
+    "isbn_10": "0308652022",
+    "pages": 384,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Ghosts of Sleath",
+    "author": "James Herbert",
+    "year": 1994,
+    "isbn_13": "9784163850542",
+    "isbn_10": "4163850545",
+    "pages": 448,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "'48",
+    "author": "James Herbert",
+    "year": 1996,
+    "isbn_13": "9785214823553",
+    "isbn_10": "5214823551",
+    "pages": 384,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Others",
+    "author": "James Herbert",
+    "year": 1999,
+    "isbn_13": "9781036142360",
+    "isbn_10": "103614236X",
+    "pages": 448,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Once...",
+    "author": "James Herbert",
+    "year": 2001,
+    "isbn_13": "9783206029303",
+    "isbn_10": "3206029302",
+    "pages": 448,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Nobody True",
+    "author": "James Herbert",
+    "year": 2003,
+    "isbn_13": "9780578456546",
+    "isbn_10": "0578456540",
+    "pages": 416,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Secret of Crickley Hall",
+    "author": "James Herbert",
+    "year": 2006,
+    "isbn_13": "9782746930483",
+    "isbn_10": "2746930481",
+    "pages": 576,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ash",
+    "author": "James Herbert",
+    "year": 2012,
+    "isbn_13": "9781103803279",
+    "isbn_10": "110380327X",
+    "pages": 672,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The House at Riverton",
+    "author": "Kate Morton",
+    "year": 2006,
+    "isbn_13": "9781621102021",
+    "isbn_10": "1621102026",
+    "pages": 560,
+    "genres": [
+      "Literary Fiction",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Forgotten Garden",
+    "author": "Kate Morton",
+    "year": 2008,
+    "isbn_13": "9780138209858",
+    "isbn_10": "0138209856",
+    "pages": 548,
+    "genres": [
+      "Literary Fiction",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Distant Hours",
+    "author": "Kate Morton",
+    "year": 2010,
+    "isbn_13": "9780439235228",
+    "isbn_10": "0439235224",
+    "pages": 562,
+    "genres": [
+      "Literary Fiction",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Secret Keeper",
+    "author": "Kate Morton",
+    "year": 2012,
+    "isbn_13": "9781950929207",
+    "isbn_10": "1950929206",
+    "pages": 464,
+    "genres": [
+      "Literary Fiction",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Lake House",
+    "author": "Kate Morton",
+    "year": 2015,
+    "isbn_13": "9785964143413",
+    "isbn_10": "5964143416",
+    "pages": 512,
+    "genres": [
+      "Literary Fiction",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Clockmaker's Daughter",
+    "author": "Kate Morton",
+    "year": 2018,
+    "isbn_13": "9781783530656",
+    "isbn_10": "1783530650",
+    "pages": 485,
+    "genres": [
+      "Literary Fiction",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Homecoming",
+    "author": "Kate Morton",
+    "year": 2023,
+    "isbn_13": "9781315377650",
+    "isbn_10": "1315377652",
+    "pages": 560,
+    "genres": [
+      "Literary Fiction",
+      "Mystery",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "On Gold Mountain",
+    "author": "Lisa See",
+    "year": 1995,
+    "isbn_13": "9784520145052",
+    "isbn_10": "4520145053",
+    "pages": 394,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Flower Net",
+    "author": "Lisa See",
+    "year": 1997,
+    "isbn_13": "9783030707279",
+    "isbn_10": "3030707271",
+    "pages": 384,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Interior",
+    "author": "Lisa See",
+    "year": 1999,
+    "isbn_13": "9788535053319",
+    "isbn_10": "8535053311",
+    "pages": 384,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dragon Bones",
+    "author": "Lisa See",
+    "year": 2003,
+    "isbn_13": "9788115362817",
+    "isbn_10": "8115362815",
+    "pages": 358,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Snow Flower and the Secret Fan",
+    "author": "Lisa See",
+    "year": 2005,
+    "isbn_13": "9784593112807",
+    "isbn_10": "4593112801",
+    "pages": 258,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Peony in Love",
+    "author": "Lisa See",
+    "year": 2007,
+    "isbn_13": "9788519075337",
+    "isbn_10": "8519075332",
+    "pages": 284,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Shanghai Girls",
+    "author": "Lisa See",
+    "year": 2009,
+    "isbn_13": "9787286015232",
+    "isbn_10": "7286015230",
+    "pages": 314,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Dreams of Joy",
+    "author": "Lisa See",
+    "year": 2011,
+    "isbn_13": "9780464281801",
+    "isbn_10": "0464281805",
+    "pages": 354,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "China Dolls",
+    "author": "Lisa See",
+    "year": 2014,
+    "isbn_13": "9784311501944",
+    "isbn_10": "4311501948",
+    "pages": 384,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Tea Girl of Hummingbird Lane",
+    "author": "Lisa See",
+    "year": 2017,
+    "isbn_13": "9785103158056",
+    "isbn_10": "510315805X",
+    "pages": 384,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Island of Sea Women",
+    "author": "Lisa See",
+    "year": 2019,
+    "isbn_13": "9785111958648",
+    "isbn_10": "5111958642",
+    "pages": 374,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Lady Tan's Circle of Women",
+    "author": "Lisa See",
+    "year": 2023,
+    "isbn_13": "9782218603204",
+    "isbn_10": "2218603202",
+    "pages": 368,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Native Speaker",
+    "author": "Chang-rae Lee",
+    "year": 1995,
+    "isbn_13": "9781227651275",
+    "isbn_10": "1227651272",
+    "pages": 324,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Gesture Life",
+    "author": "Chang-rae Lee",
+    "year": 1999,
+    "isbn_13": "9783203941813",
+    "isbn_10": "3203941818",
+    "pages": 356,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Aloft",
+    "author": "Chang-rae Lee",
+    "year": 2004,
+    "isbn_13": "9781135505165",
+    "isbn_10": "1135505160",
+    "pages": 343,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Surrendered",
+    "author": "Chang-rae Lee",
+    "year": 2010,
+    "isbn_13": "9781200054246",
+    "isbn_10": "1200054246",
+    "pages": 469,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "On Such a Full Sea",
+    "author": "Chang-rae Lee",
+    "year": 2014,
+    "isbn_13": "9781341541315",
+    "isbn_10": "1341541319",
+    "pages": 352,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "My Year Abroad",
+    "author": "Chang-rae Lee",
+    "year": 2021,
+    "isbn_13": "9781055336153",
+    "isbn_10": "1055336151",
+    "pages": 480,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "My Own Country",
+    "author": "Abraham Verghese",
+    "year": 1994,
+    "isbn_13": "9780941143332",
+    "isbn_10": "0941143338",
+    "pages": 432,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Tennis Partner",
+    "author": "Abraham Verghese",
+    "year": 1998,
+    "isbn_13": "9780758845252",
+    "isbn_10": "075884525X",
+    "pages": 400,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Cutting for Stone",
+    "author": "Abraham Verghese",
+    "year": 2009,
+    "isbn_13": "9783551570970",
+    "isbn_10": "3551570978",
+    "pages": 658,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Covenant of Water",
+    "author": "Abraham Verghese",
+    "year": 2023,
+    "isbn_13": "9783825501105",
+    "isbn_10": "3825501103",
+    "pages": 717,
+    "genres": [
+      "Literary Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Final Girls",
+    "author": "Riley Sager",
+    "year": 2017,
+    "isbn_13": "9780308931107",
+    "isbn_10": "0308931105",
+    "pages": 352,
+    "genres": [
+      "Thriller",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Last Time I Lied",
+    "author": "Riley Sager",
+    "year": 2018,
+    "isbn_13": "9780175331420",
+    "isbn_10": "017533142X",
+    "pages": 368,
+    "genres": [
+      "Thriller",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Lock Every Door",
+    "author": "Riley Sager",
+    "year": 2019,
+    "isbn_13": "9781435321083",
+    "isbn_10": "143532108X",
+    "pages": 368,
+    "genres": [
+      "Thriller",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Home Before Dark",
+    "author": "Riley Sager",
+    "year": 2020,
+    "isbn_13": "9783891712047",
+    "isbn_10": "3891712042",
+    "pages": 384,
+    "genres": [
+      "Thriller",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Survive the Night",
+    "author": "Riley Sager",
+    "year": 2021,
+    "isbn_13": "9784178894098",
+    "isbn_10": "4178894092",
+    "pages": 352,
+    "genres": [
+      "Thriller",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The House Across the Lake",
+    "author": "Riley Sager",
+    "year": 2022,
+    "isbn_13": "9782633319551",
+    "isbn_10": "2633319555",
+    "pages": 320,
+    "genres": [
+      "Thriller",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Only One Left",
+    "author": "Riley Sager",
+    "year": 2023,
+    "isbn_13": "9785554890208",
+    "isbn_10": "5554890209",
+    "pages": 384,
+    "genres": [
+      "Thriller",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Middle of the Night",
+    "author": "Riley Sager",
+    "year": 2024,
+    "isbn_13": "9781138347649",
+    "isbn_10": "1138347644",
+    "pages": 368,
+    "genres": [
+      "Thriller",
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Time Traveler's Wife",
+    "author": "Audrey Niffenegger",
+    "year": 2003,
+    "isbn_13": "9781243222251",
+    "isbn_10": "1243222256",
+    "pages": 518,
+    "genres": [
+      "Literary Fiction",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Her Fearful Symmetry",
+    "author": "Audrey Niffenegger",
+    "year": 2009,
+    "isbn_13": "9780537664418",
+    "isbn_10": "0537664415",
+    "pages": 406,
+    "genres": [
+      "Literary Fiction",
+      "Romance"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Red Azalea",
+    "author": "Anchee Min",
+    "year": 1994,
+    "isbn_13": "9783584865401",
+    "isbn_10": "3584865402",
+    "pages": 306,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Katherine",
+    "author": "Anchee Min",
+    "year": 1995,
+    "isbn_13": "9783182452119",
+    "isbn_10": "3182452113",
+    "pages": 240,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Becoming Madame Mao",
+    "author": "Anchee Min",
+    "year": 2000,
+    "isbn_13": "9781946118059",
+    "isbn_10": "1946118059",
+    "pages": 337,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Wild Ginger",
+    "author": "Anchee Min",
+    "year": 2002,
+    "isbn_13": "9785147690031",
+    "isbn_10": "5147690037",
+    "pages": 228,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Empress Orchid",
+    "author": "Anchee Min",
+    "year": 2004,
+    "isbn_13": "9787354949544",
+    "isbn_10": "7354949541",
+    "pages": 336,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Last Empress",
+    "author": "Anchee Min",
+    "year": 2007,
+    "isbn_13": "9789330324567",
+    "isbn_10": "9330324563",
+    "pages": 308,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Pearl of China",
+    "author": "Anchee Min",
+    "year": 2010,
+    "isbn_13": "9785341031043",
+    "isbn_10": "5341031040",
+    "pages": 288,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Cooked Seed",
+    "author": "Anchee Min",
+    "year": 2013,
+    "isbn_13": "9787671524882",
+    "isbn_10": "7671524888",
+    "pages": 352,
+    "genres": [
+      "Literary Fiction",
+      "Historical Fiction"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Woman Warrior",
+    "author": "Maxine Hong Kingston",
+    "year": 1976,
+    "isbn_13": "9783033573109",
+    "isbn_10": "3033573101",
+    "pages": 209,
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "China Men",
+    "author": "Maxine Hong Kingston",
+    "year": 1980,
+    "isbn_13": "9781907318504",
+    "isbn_10": "1907318501",
+    "pages": 308,
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Tripmaster Monkey",
+    "author": "Maxine Hong Kingston",
+    "year": 1989,
+    "isbn_13": "9781234410605",
+    "isbn_10": "1234410606",
+    "pages": 340,
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Fifth Book of Peace",
+    "author": "Maxine Hong Kingston",
+    "year": 2003,
+    "isbn_13": "9783010000321",
+    "isbn_10": "3010000327",
+    "pages": 402,
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "I Love a Broad Margin to My Life",
+    "author": "Maxine Hong Kingston",
+    "year": 2011,
+    "isbn_13": "9782463520455",
+    "isbn_10": "2463520450",
+    "pages": 240,
+    "genres": [
+      "Literary Fiction",
+      "Memoir"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "A Touch of Infinity",
+    "author": "Harlan Ellison",
+    "year": 1960,
+    "isbn_13": "9787212835194",
+    "isbn_10": "7212835195",
+    "pages": 224,
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ellison Wonderland",
+    "author": "Harlan Ellison",
+    "year": 1962,
+    "isbn_13": "9786958345936",
+    "isbn_10": "6958345939",
+    "pages": 256,
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Paingod and Other Delusions",
+    "author": "Harlan Ellison",
+    "year": 1965,
+    "isbn_13": "9785143147065",
+    "isbn_10": "5143147062",
+    "pages": 224,
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "I Have No Mouth, and I Must Scream",
+    "author": "Harlan Ellison",
+    "year": 1967,
+    "isbn_13": "9784120005152",
+    "isbn_10": "412000515X",
+    "pages": 224,
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Beast That Shouted Love at the Heart of the World",
+    "author": "Harlan Ellison",
+    "year": 1969,
+    "isbn_13": "9783278362872",
+    "isbn_10": "3278362871",
+    "pages": 288,
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Deathbird Stories",
+    "author": "Harlan Ellison",
+    "year": 1975,
+    "isbn_13": "9781212846938",
+    "isbn_10": "121284693X",
+    "pages": 334,
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Strange Wine",
+    "author": "Harlan Ellison",
+    "year": 1978,
+    "isbn_13": "9788405124132",
+    "isbn_10": "8405124135",
+    "pages": 288,
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Shatterday",
+    "author": "Harlan Ellison",
+    "year": 1980,
+    "isbn_13": "9789510015162",
+    "isbn_10": "9510015167",
+    "pages": 338,
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Stalking the Nightmare",
+    "author": "Harlan Ellison",
+    "year": 1982,
+    "isbn_13": "9782313500095",
+    "isbn_10": "2313500093",
+    "pages": 313,
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Angry Candy",
+    "author": "Harlan Ellison",
+    "year": 1988,
+    "isbn_13": "9784225411049",
+    "isbn_10": "4225411047",
+    "pages": 352,
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Slippage",
+    "author": "Harlan Ellison",
+    "year": 1997,
+    "isbn_13": "9781500104382",
+    "isbn_10": "1500104383",
+    "pages": 416,
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Doll Who Ate His Mother",
+    "author": "Ramsey Campbell",
+    "year": 1976,
+    "isbn_13": "9782784273122",
+    "isbn_10": "278427312X",
+    "pages": 191,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Face That Must Die",
+    "author": "Ramsey Campbell",
+    "year": 1979,
+    "isbn_13": "9781325058716",
+    "isbn_10": "1325058713",
+    "pages": 192,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Parasite",
+    "author": "Ramsey Campbell",
+    "year": 1980,
+    "isbn_13": "9783243392002",
+    "isbn_10": "3243392007",
+    "pages": 250,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Nameless",
+    "author": "Ramsey Campbell",
+    "year": 1981,
+    "isbn_13": "9781305005402",
+    "isbn_10": "1305005405",
+    "pages": 275,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Incarnate",
+    "author": "Ramsey Campbell",
+    "year": 1983,
+    "isbn_13": "9782201213540",
+    "isbn_10": "2201213549",
+    "pages": 462,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Obsession",
+    "author": "Ramsey Campbell",
+    "year": 1985,
+    "isbn_13": "9788002753421",
+    "isbn_10": "8002753422",
+    "pages": 346,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Hungry Moon",
+    "author": "Ramsey Campbell",
+    "year": 1986,
+    "isbn_13": "9786955341559",
+    "isbn_10": "6955341558",
+    "pages": 367,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Influence",
+    "author": "Ramsey Campbell",
+    "year": 1988,
+    "isbn_13": "9785034030520",
+    "isbn_10": "5034030524",
+    "pages": 287,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Ancient Images",
+    "author": "Ramsey Campbell",
+    "year": 1989,
+    "isbn_13": "9786113026571",
+    "isbn_10": "6113026577",
+    "pages": 303,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "Midnight Sun",
+    "author": "Ramsey Campbell",
+    "year": 1990,
+    "isbn_13": "9785921442627",
+    "isbn_10": "5921442628",
+    "pages": 317,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Count of Eleven",
+    "author": "Ramsey Campbell",
+    "year": 1991,
+    "isbn_13": "9783231514065",
+    "isbn_10": "323151406X",
+    "pages": 371,
+    "genres": [
+      "Horror"
+    ],
+    "language": "en"
+  }
+]
